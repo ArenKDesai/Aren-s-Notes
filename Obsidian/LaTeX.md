@@ -12,6 +12,9 @@ $\mathbb{E}$
 $\partial$
 $\forall$
 $\exists$
+$\le$
+$\tilde{A}$
+$\perp$
 
 Sub / Super script
 $p_k$
