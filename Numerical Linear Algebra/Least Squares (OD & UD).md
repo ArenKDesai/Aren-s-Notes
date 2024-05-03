@@ -25,3 +25,8 @@ Finally, $Ax^*=Q_1Q_1'b$.
 Multiple solutions. Assume $A'x=b$. Best solution = $x^*$.
 If $y \in R^n$ such that $A'y=b$ and $y \perp ker(A')$, then $y=x^*$.
 
+## Algorithm
+1. $A'x=b$
+2. $A=QR$
+3. $R't=b$
+4. $x^*=Qt$
