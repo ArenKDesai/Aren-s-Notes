@@ -59,3 +59,6 @@ Each step through the process, $A$ becomes closer to upper triangular. $A_1$ is 
 3. $w=(x-y)/||x-y||_2$
 4. $H_j=I-2ww'$
 5. $A_j=H_jA_{j-1}$
+
+## Complexity
+$\frac{2m^3}{3}$
