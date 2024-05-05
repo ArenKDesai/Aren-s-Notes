@@ -1,4 +1,4 @@
-#LinearAlgebra #CS513 #UWMadison #Householder
+#LinearAlgebra #CS513 #UWMadison #Householder #Factorizing 
 
 ## Outline
 - Input

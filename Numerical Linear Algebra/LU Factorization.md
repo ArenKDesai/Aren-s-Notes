@@ -1,4 +1,4 @@
-#CS513 #UWMadison #LinearAlgebra 
+#CS513 #UWMadison #LinearAlgebra #Factorizing 
 
 - Input: $A_{mxm}$
 - Output: $LU$
@@ -36,3 +36,8 @@ If A is invertible, then $A=LU$ is unique.
 
 ### Stability
 LU factoring is unstable. However, partial and full pivoting moves the rows and columns to avoid using pivots small relative to other entries. 
+
+### LDU Factorization
+D is diagonal, and taken from the diagonal of U and dividing each entry of the old U by the diagonal entry for the new U. 
+
+If A is invertible and symmetric, then L=U'. 
