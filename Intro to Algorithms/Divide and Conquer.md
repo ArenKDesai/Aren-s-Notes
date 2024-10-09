@@ -1,6 +1,6 @@
 #Algorithms #CS577 #UWMadison #CountSort
 
-Use recursion to split a problem into smaller sub-problems. Typically used 
+Use recursion to split a problem into smaller sub-problems. Typically used to improve the efficiency of already efficient algorithms, like 
 ## Examples
 
 ### CountSort
