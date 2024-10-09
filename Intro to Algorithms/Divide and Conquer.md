@@ -7,7 +7,7 @@ These usually abide by program correctness: show that the program is sound and c
 ### Discussion Example
 
 You are given $2^s$ many arrays of sorted int, each with size $n$. We want to combine them into large sorted array in $O(s2^sn)$
-Algorithm: 2nd half of mergeSort. Take the lowest level of the mergeSort tree and merge upwards. This is $s2^sn$, as there are $s$ levels and at most $2^s
+Algorithm: 2nd half of mergeSort. Take the lowest level of the mergeSort tree and merge upwards. This is $s2^sn$, as there are $s$ levels and at most $2^s$ nodes. 
 
 ### CountSort
 
