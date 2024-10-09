@@ -11,7 +11,8 @@ You are given $2^s$ many arrays of sorted int, each with size $n$. We want to co
 What is the algo?
 Algorithm: 2nd half of mergeSort. Take the lowest level of the mergeSort tree and merge upwards. This is $s2^sn$, as there are $s$ levels and at most $2^s$ nodes with length $n$. 
 
-What is the recurrance relation
+What is the recurrance relation for runtime in terms $n,s$?
+
 
 ### CountSort
 
