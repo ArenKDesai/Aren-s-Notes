@@ -1,5 +1,6 @@
 #Algorithms #CS577 #UWMadison #CountSort
 
+Use recursion ot
 ## Examples
 
 ### CountSort
