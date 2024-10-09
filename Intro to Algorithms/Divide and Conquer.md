@@ -16,6 +16,10 @@ Start w/ $2^s$ n-arrays, move to $2^{s-1}$ many 2n-arrays.
 $T(n,s) = T(2n,s-1)+2^sn$
 $T(n,0)=1$
 
+### Discussion Example 2
+
+Given $n\cdot n$ grid
+
 ### CountSort
 
 Recursion:
