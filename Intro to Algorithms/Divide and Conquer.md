@@ -2,6 +2,8 @@
 
 Use recursion to split a problem into smaller sub-problems. Typically used to improve the efficiency of already efficient algorithms, like sorting going from $O(n^2)$ to $O(n\log n)$. 
 These usually abide by program correctness: show that the program is sound and complete. 
+
+Tip: look for the subproblem first. 
 ## Examples
 
 ### Discussion Example
@@ -19,6 +21,7 @@ $T(n,0)=1$
 ### Discussion Example 2
 
 Given $n\cdot n$ grid, there is a number in each box (assume all numbers are distinct). Call a box local minimum if it is smaller than all its neighbors (up, down, left, right). Find a local min in $O(n)$ time. 
+
 
 ### CountSort
 
