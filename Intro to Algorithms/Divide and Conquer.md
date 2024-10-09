@@ -4,6 +4,10 @@ Use recursion to split a problem into smaller sub-problems. Typically used to im
 These usually abide by program correctness: show that the program is sound and complete. 
 ## Examples
 
+### Discussion Example
+
+You are given $2^5$ many arrays of sorted int, each with size $n$. We want to combine them into lar
+
 ### CountSort
 
 Recursion:
