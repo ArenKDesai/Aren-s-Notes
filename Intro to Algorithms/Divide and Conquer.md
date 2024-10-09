@@ -13,7 +13,7 @@ Algorithm: 2nd half of mergeSort. Take the lowest level of the mergeSort tree an
 
 What is the recurrance relation for runtime in terms $n,s$?
 Start w/ $2^s$ n-arrays, $2^{s-1}$ many 2n-arrays. 
-T(n,s) = T(2n,s-1)
+$T(n,s) = T(2n,s-1)+2^n$
 
 ### CountSort
 
