@@ -1,6 +1,6 @@
 #Algorithms #CS577 #UWMadison #CountSort
 
-Use recursion ot
+Use recursion to split a problem into smaller sub-problems. 
 ## Examples
 
 ### CountSort
