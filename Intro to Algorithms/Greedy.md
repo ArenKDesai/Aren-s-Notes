@@ -5,7 +5,7 @@ Greedy algorithms are often not optimal, but are easy to produce.
 
 There are two main ways to prove a greedy algorithm. 
 *Always Stays Ahead*: Establish $S=\langle i_1,...,i_k\rangle$ such that $f_{i_u}<f_{i_v}$ for $u<v$ and $S^*=\langle j_1,...,j_m\rangle$ such that $f_{j_u}<f_{j_v}$ for $u<v$. Prove for all $i_r,j_r$ with $r\leq k$, we have $f_{i_r}\leq f_{j_r}$. 
-*Exchange Argument*: Let $S^*$ be an optimal solution. Is it sufficient to show that $|S|=|S^*|$? No. Can there be multiple $S^*$? Yes. We need to show either $S=S^*$, or $S \equiv S^*$ for max lateness. We start with an optimal solution $S^*$ and transform it over a series of steps to something equivalent to $S$ while maintaining optimality. $S^*\equiv S_1\equiv S_2\equiv ...\equiv S$.
+*Exchange Argument*: Let $S^*$ be an optimal solution. Is it sufficient to show that $|S|=|S^*|$? No. Can there be multiple $S^*$? Yes. We need to show either $S=S^*$, or $S \equiv S^*$ for any given heuristic. We start with an optimal solution $S^*$ and transform it over a series of steps to something equivalent to $S$ while maintaining optimality. $S^*\equiv S_1\equiv S_2\equiv ...\equiv S$.
 
 ## Examples
 
