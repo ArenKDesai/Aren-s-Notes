@@ -12,3 +12,6 @@ Contains MapReduce, BigTable -> GFS -> multiple worker machines w/ hard drive di
 GFS is the file system
 BigTable is the database
 MapReduce is for analytics
+
+## Hadoop File System
+Multiple DataNode Computers 
