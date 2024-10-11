@@ -14,4 +14,4 @@ BigTable is the database
 MapReduce is for analytics
 
 ## Hadoop File System
-Multiple DataNode Computers 
+Multiple DataNode Computers partitioned into blocks. Fil
