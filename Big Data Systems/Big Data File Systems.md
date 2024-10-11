@@ -1,3 +1,5 @@
 #CS544 #UWMadison #FileSystems
 
-Storage systems are t
+Problem: making a database with a small dataset in mind, then your userbase grows massively
+
+Idea: partition your database into multiple servers (scaling out)
