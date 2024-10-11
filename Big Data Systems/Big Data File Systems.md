@@ -14,5 +14,5 @@ BigTable is the database
 MapReduce is for analytics
 
 ## Hadoop File System
-Multiple DataNode Computers partitioned into blocks. Files are split into these blocks. 
-Files often get replicated in case a server dies. 
+Multiple DataNode Computers (one DataNode computer can be multiple hard drives) partitioned into blocks. Files are split into these blocks. 
+Files get replicated with a replication number in case a server dies. 
