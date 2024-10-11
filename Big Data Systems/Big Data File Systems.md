@@ -8,4 +8,4 @@ Another problem: one server dies, no fault tolerance is esablished
 
 ## Google File System
 Idea: Base everything on lots of cheap, commodity hardware
-Contains MapReduce, BigTable -> GFS -> multiple worker machines w/ hard drive 
+Contains MapReduce, BigTable -> GFS -> multiple worker machines w/ hard drive disks (or other storage). 
