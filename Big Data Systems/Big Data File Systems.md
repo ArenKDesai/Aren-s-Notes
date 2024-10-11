@@ -1,4 +1,4 @@
-#CS544 #UWMadison #FileSystems #GoogleFileSystem 
+#CS544 #UWMadison #FileSystems #GoogleFileSystem #GFS
 
 Problem: making a database with a small dataset in mind, then your userbase grows massively
 
