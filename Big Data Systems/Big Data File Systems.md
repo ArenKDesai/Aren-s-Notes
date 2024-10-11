@@ -15,4 +15,4 @@ MapReduce is for analytics
 
 ## Hadoop File System
 Multiple DataNode Computers partitioned into blocks. Files are split into these blocks. 
-Files can get 
+Files often get replicated in case a server dies. 
