@@ -12,8 +12,8 @@ Basic DP Outline:
 	- Understand the work done per cell
 Guidelines
 - Only polynomial num of subproblems
-- natural ordering of subproblems for enumeration
-- 
+- Natural ordering of subproblems for enumeration
+- Have to be able to calculate larger problems from smaller problems
 
 ## Weighted Scheduling
 
@@ -29,3 +29,6 @@ for $j=1$ to $n$ do:
 	Find index $i$
 	$m[j]=\max(m[j-1],m[i]+v_i)$
 end
+
+## Longest Increasing Subsequence
+Given: int array $A$
