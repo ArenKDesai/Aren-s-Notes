@@ -16,4 +16,5 @@ $\sigma$ is the set of schedules.
 Sort $\sigma$ by finish time.
 $m[0]:=0$
 for $j=1$ to $n$ do:
-	Find index 
+	Find index $i$
+	$m[j]$
