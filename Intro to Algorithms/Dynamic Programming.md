@@ -1,4 +1,4 @@
-#CS577 #DynamicProgramming #Algorithms #IntervalScheduling 
+#CS577 #DynamicProgramming #Algorithms #IntervalScheduling #GameTheory
 
 "Linear" programming that calculates solutions from "small" to "large". 
 On a problem, generate a solution that utilizes "memoization" through:
@@ -66,6 +66,7 @@ Populate $j$ from $n$ to 1; $i$ from 0 to $j-1$ or $j-1$ to 0.
 
 # Dynamic Programming for Games
 
+We typically assume players are rational. 
 ## Coins in a line
 
 Two players. There are $n$ (even) coins in a line, each with a value. Starting with player A, each player picks a coin from the start or end. Then Player 2 picks a coin from the start or end. Player with the max value wins. 
