@@ -79,4 +79,4 @@ Greedy Heuristics:
 Natural dichotomy: Head or tail (start or end, not face of coin)
 For Player A's $k$th turn:
 	Coin array: $C[i...j]$
-	$\max\{c[i]+BOpt(c[i+1...j]),c[j]+BOpt(c[i.\}
+	$\max\{c[i]+BOpt(c[i+1...j]),c[j]+BOpt(c[i...j-1])\}
