@@ -78,4 +78,5 @@ Greedy Heuristics:
 
 Natural dichotomy: Head or tail (start or end, not face of coin)
 For Player A's $k$th turn:
-	Coin array: $C[i...j[]]
+	Coin array: $C[i...j]$
+	$\max\{c\}
