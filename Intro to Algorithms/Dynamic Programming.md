@@ -32,4 +32,4 @@ end
 
 ## Longest Increasing Subsequence
 Given: int array $A$
-Goal: Find longest increasing subsequence. Make sure for $i$, a sequence of indexes, $A[i_k]<A[$
+Goal: Find longest increasing subsequence. Make sure for $i$, a sequence of indexes, $A[i_k]<A[i_{k+1}]$ for all 
