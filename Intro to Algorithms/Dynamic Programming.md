@@ -17,4 +17,4 @@ Sort $\sigma$ by finish time.
 $m[0]:=0$
 for $j=1$ to $n$ do:
 	Find index $i$
-	$m[j]$
+	$m[j]=\max(m[j-1],m[i])
