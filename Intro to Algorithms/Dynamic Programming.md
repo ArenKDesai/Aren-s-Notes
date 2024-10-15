@@ -45,4 +45,5 @@ else if $A[1] \leq k$ then
 else
 	$skip:=LIS(k,A[2...n])$
 	$take:=LIS(A[1],A[2...n])+1$
-	return $\max\$
+	return $\max\{skip,take\}$
+end
