@@ -59,4 +59,4 @@ $L[i,j]$=
 - $\max\{L[i,j+1],L[j,j+1]+1\}$ otherwise
 	- ^ skip,       ^ take
 Solution in $L[0][1]$; add $A[0]=-\infty$
-Popil
+Populate $j$ from $n$ to 1
