@@ -32,4 +32,4 @@ end
 
 ## Longest Increasing Subsequence
 Given: int array $A$
-Goal: Find longest increasing subsequence 
+Goal: Find longest increasing subsequence. Make sure for $i$, a se
