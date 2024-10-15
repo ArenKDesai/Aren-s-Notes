@@ -33,3 +33,5 @@ end
 ## Longest Increasing Subsequence
 Given: int array $A$
 Goal: Find longest increasing subsequence. Make sure for $i$, a sequence of indexes, $A[i_k]<A[i_{k+1}]$ for all $k$. 
+**Subsequence**
+For a sequence $A$, a subsequence $S$ is a subset of $A$ that maintains same relative order. 
