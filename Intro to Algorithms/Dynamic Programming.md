@@ -6,6 +6,6 @@ Linear programming that calculates solutions from "small" to "large".
 
 Problem: scheduling with compatible schedules, but the schedules are weighted. The [[Greedy]] approach doesn't work since the weights could be higher for one schedule instead of two. 
 
-Dynamic (R) Solution:
+Dynamic (Recursive) Solution:
 $\sigma$ is the set of schedules. Assume $\sigma$ is ordered by finish time. Find the optimal value in sorted $\sigma$ of first $j$ items:
-	Find largest 
+	Find largest $i 
