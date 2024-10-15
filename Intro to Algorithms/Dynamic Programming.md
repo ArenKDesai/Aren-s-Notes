@@ -35,3 +35,7 @@ Given: int array $A$
 Goal: Find longest increasing subsequence. Make sure for $i$, a sequence of indexes, $A[i_k]<A[i_{k+1}]$ for all $k$. 
 **Subsequence:**
 For a sequence $A$, a subsequence $S$ is a subset of $A$ that maintains same relative order. 
+
+Algorithm: LIS
+Input: Integer $k$, and array of integers $A$
+Output: Return length of LIS where every value > $k$. 
