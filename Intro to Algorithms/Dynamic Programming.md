@@ -56,4 +56,4 @@ Dynamic solution matrix:
 $L[i,j]$=
 - 0 if $j>n$
 - $L[i,j+1]$ if $A[i]\geq A[j]$
-- $\max\{\}
+- $\max\{L[i,j+1\}
