@@ -1,8 +1,9 @@
 #CS577 #DynamicProgramming #Algorithms 
 
 Linear programming that calculates solutions from "small" to "large". 
-On a problem, generate a recursive solution that utilizes "memoization" through two steps:
-1. Calculate once; store the value in an array for future
+On a problem, generate a solution that utilizes "memoization" through two steps:
+1. Calculate once; store the value in an array for future calls
+2. Can be iter
 
 ## Weighted Scheduling
 
