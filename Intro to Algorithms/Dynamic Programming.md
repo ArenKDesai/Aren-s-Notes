@@ -59,7 +59,7 @@ $L[i,j]$=
 - 0 if $j>n$
 - $L[i,j+1]$ if $A[i]\geq A[j]$
 - $\max\{L[i,j+1],L[j,j+1]+1\}$ otherwise
-	- ^ skip,       ^ take
+	- ^ *skip*,       ^ *take*
 
 Solution in $L[0][1]$; add $A[0]=-\infty$
 Populate $j$ from $n$ to 1; $i$ from 0 to $j-1$ or $j-1$ to 0. 
@@ -80,4 +80,4 @@ Natural dichotomy: Head or tail (start or end, not face of coin)
 For Player A's $k$th turn:
 	Coin array: $C[i...j]$
 	$\max\{c[i]+BOpt(c[i+1...j]),c[j]+BOpt(c[i...j-1])\}$
-	               ^
+	               ^ head                             ^ tail
