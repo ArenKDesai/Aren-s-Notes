@@ -13,4 +13,5 @@ Dynamic (Recursive) Solution:
 $\sigma$ is the set of schedules. 
 
 **WeightIntDP**
-Sort $
+Sort $\sigma$ by finish time.
+$m[0]
