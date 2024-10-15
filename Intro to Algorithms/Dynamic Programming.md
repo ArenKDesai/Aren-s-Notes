@@ -48,4 +48,4 @@ else
 	return $\max\{skip,take\}$
 end
 
-Start with $LIS(-\infty,A)$, ends with $O(2^n)$
+Start with $LIS(-\infty,A)$, ends with $O(2^n)$ runtime and $O(n^2)$ distinct calls. 
