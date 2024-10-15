@@ -14,7 +14,7 @@ Guidelines
 - Only polynomial num of subproblems
 - Natural ordering of subproblems for enumeration
 - Have to be able to calculate larger problems from smaller problems
-Use a solution matrix for solved subproblems, the dimension of which usually matches the number of distinct parameters
+Use a solution matrix for solved subproblems, the dimension of which usually matches the number of distinct parameters. DP solutions refactor algorithms, not create them. 
 
 ## Weighted Scheduling
 
@@ -53,3 +53,6 @@ Start with $LIS(-\infty,A)$, ends with $O(2^n)$ runtime and $O(n^2)$ distinct ca
 
 Dynamic solution matrix:
 2D array $L$, where $L[i,j]$ is the maximum LIS of $A[j...n]$ with every item $>A[i],i<j$.
+$L[i,j]$=
+- 0 if $j>n$
+- L[i,j+1]
