@@ -39,3 +39,6 @@ For a sequence $A$, a subsequence $S$ is a subset of $A$ that maintains same rel
 Algorithm: LIS
 Input: Integer $k$, and array of integers $A$
 Output: Return length of LIS where every value > $k$. 
+if $n=0$ then return 0
+else if $A[1] \leq k$ then
+	r
