@@ -57,3 +57,5 @@ $L[i,j]$=
 - 0 if $j>n$
 - $L[i,j+1]$ if $A[i]\geq A[j]$
 - $\max\{L[i,j+1],L[j,j+1]+1\}$ otherwise
+	- ^ skip,       ^ take
+Solution in $L[0][1]$; add $A[0]=-\infty$
