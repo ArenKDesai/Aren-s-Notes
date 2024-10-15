@@ -68,4 +68,4 @@ Populate $j$ from $n$ to 1; $i$ from 0 to $j-1$ or $j-1$ to 0.
 
 ## Coins in a line
 
-Two players. There are $n$ (even) coins in a line, each with a value. 
+Two players. There are $n$ (even) coins in a line, each with a value. Starting with player A, each player picks a coin from the start or end. Then Player 2 picks a coin from the start or end. Player with the max value wins. 
