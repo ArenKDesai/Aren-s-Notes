@@ -15,4 +15,5 @@ $\sigma$ is the set of schedules.
 **WeightIntDP**
 Sort $\sigma$ by finish time.
 $m[0]:=0$
-for $j=1
+for $j=1$ to $n$ do:
+	Find index 
