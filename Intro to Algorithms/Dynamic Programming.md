@@ -55,4 +55,5 @@ Dynamic solution matrix:
 2D array $L$, where $L[i,j]$ is the maximum LIS of $A[j...n]$ with every item $>A[i],i<j$.
 $L[i,j]$=
 - 0 if $j>n$
-- $L[i,j+1]$ if $A[i]\geq A
+- $L[i,j+1]$ if $A[i]\geq A[j]$
+- $\max\{\}
