@@ -9,3 +9,4 @@ Problem: scheduling with compatible schedules, but the schedules are weighted. T
 Dynamic (Recursive) Solution:
 $\sigma$ is the set of schedules. Assume $\sigma$ is ordered by finish time. Find the optimal value in sorted $\sigma$ of first $j$ items:
 	Find largest $i < j$ s.t. $f_i \leq s_j$. 
+	
