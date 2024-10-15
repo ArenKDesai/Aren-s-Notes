@@ -66,3 +66,6 @@ Populate $j$ from $n$ to 1; $i$ from 0 to $j-1$ or $j-1$ to 0.
 
 # Dynamic Programming for Games
 
+## Coins in a line
+
+Two players.
