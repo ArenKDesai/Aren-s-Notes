@@ -44,6 +44,6 @@ else if $A[1] \leq k$ then
 	return $LIS(k,A[2...n])$
 else
 	$skip:=LIS(k,A[2...n])$ //$A[1]$ is not in subsequence
-	$take:=LIS(A[1],A[2...n])+1$ //$A[1]
+	$take:=LIS(A[1],A[2...n])+1$ //*$A[1]$ is in subsequence*
 	return $\max\{skip,take\}$
 end
