@@ -36,7 +36,7 @@ Goal: Find longest increasing subsequence. Make sure for $i$, a sequence of inde
 **Subsequence:**
 For a sequence $A$, a subsequence $S$ is a subset of $A$ that maintains same relative order. 
 
-Algorithm: LIS
+Recursive Algorithm: LIS
 Input: Integer $k$, and array of integers $A$
 Output: Return length of LIS where every value > $k$. 
 if $n=0$ then return 0
@@ -48,4 +48,4 @@ else
 	return $\max\{skip,take\}$
 end
 
-Start with $LIS(-\infty,A)$
+Start with $LIS(-\infty,A)$, ends with $O(2^n)$
