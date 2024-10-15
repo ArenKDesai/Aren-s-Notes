@@ -11,7 +11,8 @@ Basic DP Outline:
 	- Iterate over cells in correct order
 	- Understand the work done per cell
 Guidelines
-- Only polynomial num of subpro
+- Only polynomial num of subproblems
+- natural ordering of sbup
 
 ## Weighted Scheduling
 
