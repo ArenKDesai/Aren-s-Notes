@@ -1,6 +1,6 @@
 #CS577 #DynamicProgramming #Algorithms 
 
-Linear programming that calculates solutions from "small" to "large". 
+"Linear" programming that calculates solutions from "small" to "large". 
 On a problem, generate a solution that utilizes "memoization" through:
 1. Calculate once; store the value in an array for future calls
 2. Can be iterative or recursive
@@ -18,4 +18,4 @@ $m[0]:=0$
 for $j=1$ to $n$ do:
 	Find index $i$
 	$m[j]=\max(m[j-1],m[i]+v_i)$
-	
+end
