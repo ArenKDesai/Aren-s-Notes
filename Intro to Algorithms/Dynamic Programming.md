@@ -1,7 +1,7 @@
 #CS577 #DynamicProgramming #Algorithms 
 
 Linear programming that calculates solutions from "small" to "large". 
-On a problem, generate a solution that utilizes "memoization" through two steps:
+On a problem, generate a solution that utilizes "memoization" through:
 1. Calculate once; store the value in an array for future calls
 2. Can be iter
 
