@@ -5,6 +5,12 @@ On a problem, generate a solution that utilizes "memoization" through:
 1. Calculate once; store the value in an array for future calls
 2. Can be iterative or recursive
 
+Basic DP Outline:
+- Preprocess data
+- Populate matrix:
+	- Iterate over cells in correct order
+	- Understand the work done per cell
+
 ## Weighted Scheduling
 
 Problem: scheduling with compatible schedules, but the schedules are weighted. The [[Greedy]] approach doesn't work since the weights could be higher for one schedule instead of two. 
