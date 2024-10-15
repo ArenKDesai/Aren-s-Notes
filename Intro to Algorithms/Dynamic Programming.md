@@ -2,7 +2,7 @@
 
 Linear programming that calculates solutions from "small" to "large". 
 On a problem, generate a recursive solution that utilizes "memoization" through two steps:
-1. Calcul
+1. Calculate once; store the value in an array for future
 
 ## Weighted Scheduling
 
