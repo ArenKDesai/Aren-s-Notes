@@ -75,4 +75,5 @@ Two players. There are $n$ (even) coins in a line, each with a value. Starting w
 Greedy Heuristics:
 - Largest coin is not optimal.
 - Even or Odd Largest Coin wins, but is not optimal. 
-- 
+
+Natural dichotomy: Head or tail (start or end, not face of coin)
