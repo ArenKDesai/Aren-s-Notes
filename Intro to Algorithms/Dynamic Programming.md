@@ -47,3 +47,5 @@ else
 	$take:=LIS(A[1],A[2...n])+1$ //*$A[1]$ is in subsequence*
 	return $\max\{skip,take\}$
 end
+
+Start with $LIS(-\infty,A)$
