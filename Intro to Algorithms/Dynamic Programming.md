@@ -71,3 +71,7 @@ We typically assume players are rational.
 ## Coins in a line
 
 Two players. There are $n$ (even) coins in a line, each with a value. Starting with player A, each player picks a coin from the start or end. Then Player 2 picks a coin from the start or end. Player with the max value wins. 
+
+Greedy Heuristics:
+- Largest coin is not optimal.
+- 
