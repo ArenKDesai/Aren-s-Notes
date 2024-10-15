@@ -1,4 +1,4 @@
-#CS577 #DynamicProgramming #Algorithms 
+#CS577 #DynamicProgramming #Algorithms #IntervalScheduling 
 
 "Linear" programming that calculates solutions from "small" to "large". 
 On a problem, generate a solution that utilizes "memoization" through:
