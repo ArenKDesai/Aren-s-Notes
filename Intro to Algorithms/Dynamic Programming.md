@@ -10,6 +10,8 @@ Basic DP Outline:
 - Populate matrix:
 	- Iterate over cells in correct order
 	- Understand the work done per cell
+Guidelines
+- Only polynomial num of subpro
 
 ## Weighted Scheduling
 
