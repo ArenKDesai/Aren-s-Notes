@@ -82,4 +82,4 @@ For Player A's $k$th turn:
 	$\max\{c[i]+BOpt(c[i+1...j]),c[j]+BOpt(c[i...j-1])\}$
 	               ^ *head*                             ^ *tail*
 $BOpt(c[i...j]):=$
-	$\min\{AOpt(c[i+1...j]),AOpt(c\}
+	$\min\{AOpt(c[i+1...j]),AOpt(c[i...j])\}$
