@@ -53,10 +53,13 @@ Start with $LIS(-\infty,A)$, ends with $O(2^n)$ runtime and $O(n^2)$ distinct ca
 
 Dynamic solution matrix:
 2D array $L$, where $L[i,j]$ is the maximum LIS of $A[j...n]$ with every item $>A[i],i<j$.
+
+Bellman Equation:
 $L[i,j]$=
 - 0 if $j>n$
 - $L[i,j+1]$ if $A[i]\geq A[j]$
 - $\max\{L[i,j+1],L[j,j+1]+1\}$ otherwise
 	- ^ skip,       ^ take
+
 Solution in $L[0][1]$; add $A[0]=-\infty$
 Populate $j$ from $n$ to 1; $i$ from 0 to $j-1$ or $j-1$ to 0. 
