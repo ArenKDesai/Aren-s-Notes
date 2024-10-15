@@ -12,4 +12,5 @@ Problem: scheduling with compatible schedules, but the schedules are weighted. T
 Dynamic (Recursive) Solution:
 $\sigma$ is the set of schedules. 
 
-*WeightIntDP*
+**WeightIntDP**
+Sort $
