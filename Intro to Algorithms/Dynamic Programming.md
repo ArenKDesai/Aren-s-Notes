@@ -41,4 +41,6 @@ Input: Integer $k$, and array of integers $A$
 Output: Return length of LIS where every value > $k$. 
 if $n=0$ then return 0
 else if $A[1] \leq k$ then
-	return $LIS(k,A[2...n])
+	return $LIS(k,A[2...n])$
+else
+	skil
