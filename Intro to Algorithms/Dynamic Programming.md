@@ -77,3 +77,5 @@ Greedy Heuristics:
 - Even or Odd Largest Coin wins, but is not optimal. 
 
 Natural dichotomy: Head or tail (start or end, not face of coin)
+For Player A's $k$th turn:
+	Coin array: $C[i...j[]]
