@@ -25,6 +25,6 @@ import pyarrow.fs # file systems
 
 hdfs = pa.fs.HadoopFileSystem("main",9000)
 with hdfs.open_input_file("/data/v2.txt") as f:
-	f.readline()
+	reader = io
 
 ```
