@@ -23,5 +23,6 @@ Use PyArrow to read Hadoop files.
 import pyarrow as pa
 import pyarrow.fs # file systems
 
-pa.fs.HadoopFileSystem("main",9000)
+hdfs = pa.fs.HadoopFileSystem("main",9000)
+
 ```
