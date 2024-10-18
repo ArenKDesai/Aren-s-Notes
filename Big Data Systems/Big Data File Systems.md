@@ -11,8 +11,9 @@ Idea: Base everything on lots of cheap, commodity hardware
 Contains MapReduce, BigTable -> GFS -> multiple worker machines w/ hard drive disks (or other storage). 
 GFS is the file system
 BigTable is the database
-MapReduce is for analytics
+[[Map Reduce]] is for analytics
 
 ## Hadoop File System
 Multiple DataNode Computers (one DataNode computer can be multiple hard drives) partitioned into blocks. Files are split into these blocks. 
 Files get replicated with a replication number in case a server dies. 
+When a file gets replicated, each data node will take the burden to send it to the next datanode. 
