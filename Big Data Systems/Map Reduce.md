@@ -40,4 +40,4 @@ Reduce Phase
 ## Data Locality
 Goal: Avoid network transfers
 
-HDFS 
+HDFS DataNodes and MapReduce executor run on the same machines, on the same cluster. 
