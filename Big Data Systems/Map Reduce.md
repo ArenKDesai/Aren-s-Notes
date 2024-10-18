@@ -26,5 +26,5 @@ def reduce(key, values):
 	count = 0
 	for row in values:
 		count += 1
-	emit()
+	emit(key, count)
 ```
