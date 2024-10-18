@@ -16,3 +16,5 @@ def map(key, value):
 	if value.shape = square:
 		emit(key, value.color)
 ```
+
+These "Mappers" will run on multiple machines at once. The input data is sent to a cluster of machines with the mappers. 
