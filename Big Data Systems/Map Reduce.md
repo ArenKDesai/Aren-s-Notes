@@ -28,3 +28,11 @@ def reduce(key, values):
 		count += 1
 	emit(key, count)
 ```
+
+## Overview
+Map Phase
+- SELECT, WHERE, GROUP BY, JOIN
+Shuffle Phase
+- ORDER BY, GROUP BY, JOIN
+Reduce Phase
+- SELECT, AGGREGATE, HAVING, JOIN
