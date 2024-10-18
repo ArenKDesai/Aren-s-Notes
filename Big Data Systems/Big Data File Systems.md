@@ -27,5 +27,6 @@ import io
 hdfs = pa.fs.HadoopFileSystem("main",9000)
 with hdfs.open_input_file("/data/v2.txt") as f:
 	reader = io.TextIOWrapper(io.BufferedReader(f))
-	for line in reader
+	for line in reader:
+		print(line,)
 ```
