@@ -22,9 +22,10 @@ Use PyArrow to read Hadoop files.
 ```
 import pyarrow as pa
 import pyarrow.fs # file systems
+import io
 
 hdfs = pa.fs.HadoopFileSystem("main",9000)
 with hdfs.open_input_file("/data/v2.txt") as f:
-	reader = io
-
+	reader = io.BufferedReader(f)
+	
 ```
