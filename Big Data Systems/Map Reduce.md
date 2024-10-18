@@ -36,3 +36,8 @@ Shuffle Phase
 - ORDER BY, GROUP BY, JOIN
 Reduce Phase
 - SELECT, AGGREGATE, HAVING, JOIN
+
+## Data Locality
+Goal: Avoid network transfers
+
+HDFS 
