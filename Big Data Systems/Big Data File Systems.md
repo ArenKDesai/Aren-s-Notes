@@ -17,3 +17,11 @@ BigTable is the database
 Multiple DataNode Computers (one DataNode computer can be multiple hard drives) partitioned into blocks. Files are split into these blocks. 
 Files get replicated with a replication number in case a server dies. 
 When a file gets replicated, each data node will take the burden to send it to the next datanode. 
+
+Use PyArrow to read Hadoop files.
+```
+import pyarrow as pa
+import pyarrow.fs # file systems
+
+pa.fs.HadoopFileSystem("main",9000)
+```
