@@ -10,8 +10,9 @@ Ex:
 ```{SQL}
 SELECT color FROM table WHERE shape="square"
 ```
-This is equal to
+This is equal to this MapReduce pseudocode (typically written in java):
 ```
 def map(key, value):
-	...
+	if value.shape = square:
+		emit(key, value.color)
 ```
