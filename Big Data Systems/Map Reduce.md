@@ -24,5 +24,7 @@ Example:
 ```
 def reduce(key, values):
 	count = 0
-	f
+	for row in values:
+		count += 1
+	emit()
 ```
