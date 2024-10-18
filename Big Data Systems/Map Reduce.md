@@ -11,3 +11,7 @@ Ex:
 SELECT color FROM table WHERE shape="square"
 ```
 This is equal to
+```
+def map(key, value):
+	...
+```
