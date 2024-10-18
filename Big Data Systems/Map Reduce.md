@@ -43,4 +43,4 @@ Goal: Avoid network transfers
 HDFS DataNodes and MapReduce executor run on the same machines, on the same cluster. This uses the disk and not the network, which would be a large bottleneck. 
 
 ## Pipelines: Sequence of Map reduce Jobs
-HDFS files get sent to Mapping jobs into reduce jobs into HDFS files, and the cycle continues. Intermediate transfers can screw over optimization algorithms, so Spark is needed to fix this. 
+HDFS files get sent to Mapping jobs into reduce jobs into HDFS files, and the cycle continues. Intermediate transfers can screw over optimization algorithms, so [[Spark]] is needed to fix this. 
