@@ -1,3 +1,3 @@
 #CS544 #UWMadison #FileSystems #Spark
 
-Spark combines the [[Map Reduce]] pipeline into one larg
+Spark combines the [[Map Reduce]] pipeline into one large operation. 
