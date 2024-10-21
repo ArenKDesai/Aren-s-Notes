@@ -19,4 +19,4 @@ Spark code is converted to jobs, which consist of stages, which consist of tasks
 
 If there are too many partitions running, repartitioning can be used to run everything faster. This comes at a cost, as repartitioning is slow. This sends data over the network. 
 
-Another 
+Another event send
