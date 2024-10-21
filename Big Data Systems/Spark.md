@@ -36,3 +36,7 @@ Some RDDs might get used repeatedly, so they're cached. We can also do this manu
 ## DataFrame API
 - For people who like dataframes in, for example, pandas. 
 - Dataframes are mutable, while RDDs are immutable
+
+# Spark Deployment
+
+## Standalone
