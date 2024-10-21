@@ -7,3 +7,6 @@ Spark combines the [[Map Reduce]] pipeline into one large operation.
 - lazy evaluation: computation only done when results needed
 - immutabilty
 
+Data lineage comes in the form of two types of functions:
+1. Transformation (parallelize, map, filter, etc)
+2. Action ()
