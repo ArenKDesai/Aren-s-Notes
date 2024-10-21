@@ -27,3 +27,11 @@ Another event sending data over the network is transformations.
 
 ### [[Caches]]
 Some RDDs might get used repeatedly, so they're cached. We can also do this manually with sc.cache(), and uncaching with sc.unpersist(). 
+
+
+## Spark SQL
+- builds on RDDs
+- Just for people who know SQL but not Python, Java, etc. 
+
+## DataFrame API
+- For people who like dataframes in
