@@ -23,4 +23,4 @@ Another event sending data over the network is transformations.
 
 ### Transformations
 - Narrow: filtering
-- W
+- Wide: sorting
