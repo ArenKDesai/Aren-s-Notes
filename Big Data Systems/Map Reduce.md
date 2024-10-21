@@ -19,7 +19,7 @@ def map(key, value):
 
 These "Mappers" will run on multiple machines at once. The input data is sent to a cluster of machines with the mappers. 
 
-In between teh
+In between the Map phase and the Reduce phase, there's a Shuffle phase, which 
 
 Users can also write "Reducers", which can either output exactly their input or have further computation. 
 Example:
