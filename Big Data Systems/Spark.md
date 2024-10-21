@@ -43,4 +43,9 @@ Some RDDs might get used repeatedly, so they're cached. We can also do this manu
 - Can run on any node in cluster
 - each node in cluster will launch its own YARN
 - Can be allocated arbitrarily to any host in the cluster YARN's resource
-- 
+
+## Local
+- Runs on a single JVM, like a laptop or single node
+- Often used for testing / development
+- Run on the same JVM as driver
+- Runs on the same host
