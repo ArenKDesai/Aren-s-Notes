@@ -40,3 +40,7 @@ Some RDDs might get used repeatedly, so they're cached. We can also do this manu
 # Spark Deployment
 
 ## Standalone
+- Can run on any node in cluster
+- each node in cluster will launch its own YARN
+- Can be allocated arbitrarily to any host in the cluster YARN's resource
+- 
