@@ -26,4 +26,4 @@ Another event sending data over the network is transformations.
 - Wide: sorting, often use network resources, unless all input partitions are on the same machine. 
 
 ### Caching
-Some RDDs might get used repeatedly, so they're cached. We can also do this manually with sc.
+Some RDDs might get used repeatedly, so they're cached. We can also do this manually with sc.cache(), and uncaching with sc.
