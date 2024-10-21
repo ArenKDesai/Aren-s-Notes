@@ -22,5 +22,5 @@ If there are too many partitions running, repartitioning can be used to run ever
 Another event sending data over the network is transformations. 
 
 ### Transformations
-- Narrow vs wide
-- 
+- Narrow: filtering
+- W
