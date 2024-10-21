@@ -10,3 +10,5 @@ Spark combines the [[Map Reduce]] pipeline into one large operation.
 Data lineage comes in the form of two types of functions:
 1. Transformation (parallelize, map, filter, etc)
 2. Action (collect, etc)
+
+When  y
