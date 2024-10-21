@@ -34,4 +34,4 @@ Some RDDs might get used repeatedly, so they're cached. We can also do this manu
 - Just for people who know SQL but not Python, Java, etc. 
 
 ## DataFrame API
-- For people who like dataframes in
+- For people who like dataframes in, for example, pandas. 
