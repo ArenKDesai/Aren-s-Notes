@@ -12,3 +12,5 @@ Data lineage comes in the form of two types of functions:
 2. Action (collect, etc)
 
 When you write an RDD that does a transformation, no actual work is done immediately. An action has to be called first, such as collect. ex:
+
+![[Screenshot from 2024-10-21 11-05-50.png]]
