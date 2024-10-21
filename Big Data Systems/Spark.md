@@ -15,4 +15,4 @@ When you write an RDD that does a transformation, no actual work is done immedia
 
 ![[Screenshot from 2024-10-21 11-05-50.png]]
 
-Spark code is converted to jobs, which consist of stages, which consist of tasks. Tasks run on a single CPU core
+Spark code is converted to jobs, which consist of stages, which consist of tasks. Tasks run on a single CPU core and operate on a single partition. 
