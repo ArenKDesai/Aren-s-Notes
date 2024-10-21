@@ -11,4 +11,4 @@ Data lineage comes in the form of two types of functions:
 1. Transformation (parallelize, map, filter, etc)
 2. Action (collect, etc)
 
-When  y
+When you write an RDD that does a transformation, no actual work is done im
