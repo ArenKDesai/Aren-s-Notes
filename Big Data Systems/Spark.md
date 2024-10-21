@@ -28,15 +28,6 @@ Another event sending data over the network is transformations.
 ### [[Caches]]
 Some RDDs might get used repeatedly, so they're cached. We can also do this manually with sc.cache(), and uncaching with sc.unpersist(). 
 
-
-## Spark SQL
-- builds on RDDs
-- Just for people who know SQL but not Python, Java, etc. 
-
-## DataFrame API
-- For people who like dataframes in, for example, pandas. 
-- Dataframes are mutable, while RDDs are immutable
-
 # Spark Deployment
 
 ## Standalone
@@ -49,3 +40,29 @@ Some RDDs might get used repeatedly, so they're cached. We can also do this manu
 - Often used for testing / development
 - Run on the same JVM as driver
 - Runs on the same host
+
+# Spark SQL
+- builds on RDDs
+- Just for people who know SQL but not Python, Java, etc. 
+ex
+```
+from pyspark.sql.functions import col, expr
+
+col("x")
+col("x") + 1
+exor*x+1").alias("plusone")
+df2=df.withColumn("station", expr("substring(value,0,11)"))
+```
+# DataFrame API
+- For people who like dataframes in, for example, pandas. 
+- Dataframes are mutable, while RDDs are immutable
+ex
+```
+!hdfs dgs -du -h hdfs://nn:9000/sh.csv
+df = (
+	spark.read_format("csv")
+	.option("header", True)
+	.option("inferSchema", True)
+	.load("hdfs://nn:9000/sf.csv")
+)
+```
