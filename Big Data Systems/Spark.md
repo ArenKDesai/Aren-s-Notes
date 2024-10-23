@@ -1,4 +1,4 @@
-#CS544 #UWMadison #FileSystems #Spark
+#CS544 #UWMadison #FileSystems #Spark #SparkSQL
 
 Spark combines the [[Map Reduce]] pipeline into one large operation. 
 
@@ -53,7 +53,7 @@ col("x") + 1
 exor*x+1").alias("plusone")
 df2=df.withColumn("station", expr("substring(value,0,11)"))
 ```
-# DataFrame API
+## DataFrame API
 - For people who like dataframes in, for example, pandas. 
 - Dataframes are mutable, while RDDs are immutable
 ex
@@ -66,3 +66,4 @@ df = (
 	.load("hdfs://nn:9000/sf.csv")
 )
 ```
+
