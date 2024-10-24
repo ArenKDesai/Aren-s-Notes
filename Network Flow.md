@@ -10,3 +10,6 @@ Defining flow:
 - Flow starts at $s$ and exits at $t$.
 - Flow function: $f$ : $E \to R^+;f(e)$ is the flow across edge $e$
 - Conditions
+	- Capacity
+	- Conservation
+- So the flow 
