@@ -20,4 +20,4 @@ Defining flow:
 /w flow network $G$, what is maximum flow (max $v(f)$)?
 Or, what is the minimum cut?
 - A Cut: partition of $V$ into sets $(A,B)$ with $s \in A$ and $t \in B$. Flow form $s$ to $t$ must cross the set $A$ to $B$. 
-- Cut capacity: $c(A,B)=\sum_{}$
+- Cut capacity: $c(A,B)=\sum_{e}$
