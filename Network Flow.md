@@ -1,4 +1,5 @@
 #CS577 #UWMadison #Algorithms 
 
 Basic Flow Network:
-- Directed 
+- Directed Graph G
+- Each edge $e$
