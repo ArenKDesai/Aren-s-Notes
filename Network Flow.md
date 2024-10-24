@@ -12,4 +12,5 @@ Defining flow:
 - Conditions
 	- Capacity
 	- Conservation
-- So the flow incoming must be the exact same as flow outgoing; no 
+- So the flow incoming must be the exact same as flow outgoing; no change in flow. 
+- Flow value $v(f)=f
