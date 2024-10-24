@@ -85,4 +85,4 @@ $BOpt(c[i...j]):=$
 	$\min\{AOpt(c[i+1...j]),AOpt(c[i...j])\}$
 
 ## Shortest Path
-Given a directed graph with no negative cycles, 
+Given a directed weighted graph with no negative cycles, what is the shortest path from $s$ to every other node?
