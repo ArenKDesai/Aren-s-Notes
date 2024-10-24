@@ -2,4 +2,5 @@
 
 Basic Flow Network:
 - Directed Graph $G$
-- Each edge $e$ has $c_e\g
+- Each edge $e$ has $c_e\geq0$
+- Source $s \in 
