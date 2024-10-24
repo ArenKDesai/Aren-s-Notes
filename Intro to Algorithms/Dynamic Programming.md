@@ -93,4 +93,4 @@ We also can't just normalize a graph from the smallest edge as paths with more e
 We start with a 2D matrix $M$ of # of edges in path $\times$ vertices. 
 We try to fill out $M$ with $M[i][v]$ being the shortest path from $v$ to $t$ using $\leq i$ edges. However, we need to flip the direction of all the edges, then run this algorithm. 
 
-$M[i][v]=\min()$
+$M[i][v]=\min(M[i-1][v])$
