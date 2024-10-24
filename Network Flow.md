@@ -12,4 +12,4 @@ Defining flow:
 - Conditions
 	- Capacity
 	- Conservation
-- So the flow 
+- So the flow incoming must be the exact same as flow outgoing; no 
