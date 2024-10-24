@@ -87,4 +87,4 @@ $BOpt(c[i...j]):=$
 ## Shortest Path
 Given a directed weighted graph with no negative cycles, what is the shortest path from $s$ to every other node?
 Note: Dijkstra's doesn't give the optimal path. 
-We also can't just normalize a graph from the smallest edge as some paths may use an 
+We also can't just normalize a graph from the smallest edge as some paths may use an edge more than once. 
