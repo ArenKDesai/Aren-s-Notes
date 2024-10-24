@@ -4,4 +4,5 @@ Basic Flow Network:
 - Directed Graph $G$
 - Each edge $e$ has $c_e\geq0$
 - Source $s \in V$ and sink $t \in V$
-- Internal node 
+- Internal node $V \\ (s,t)$
+- 
