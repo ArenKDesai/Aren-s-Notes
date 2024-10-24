@@ -14,3 +14,7 @@ Defining flow:
 	- Conservation
 - So the flow incoming must be the exact same as flow outgoing; no change in flow. 
 - Flow value $v(f)=f^{out}(s)=f^{in}(t)$
+
+## Maximum-Flow Problem
+
+/w flow network $G$, what is maximum flow (max $v(f)$)?
