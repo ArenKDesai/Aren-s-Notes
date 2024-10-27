@@ -1,6 +1,6 @@
 #CS544 #UWMadison #FileSystems #Spark #SparkSQL
 
-Spark combines the [[Map Reduce]] pipeline into one large operation. 
+Spark combines the [[Map Reduce]] pipeline (map and reduce) into one large operation. 
 
 ### Resilient Distributed Datasets
 - data lineage: record series of operations on other data necessary to obtain results
