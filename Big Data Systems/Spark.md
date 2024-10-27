@@ -8,8 +8,8 @@ Spark combines the [[Map Reduce]] pipeline (map and reduce) into one large opera
 - immutabilty
 
 Data lineage comes in the form of two types of functions:
-1. Transformation (parallelize, map, filter, etc)
-2. Action (collect, etc)
+1. Transformation: create a new RDD (parallelize, map, filter, etc)
+2. Action: perform all operations in the graph to get an actual result (collect, etc)
 
 When you write an RDD that does a transformation, no actual work is done immediately. An action has to be called first, such as collect. ex:
 
