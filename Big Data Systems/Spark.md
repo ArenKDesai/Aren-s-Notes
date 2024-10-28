@@ -139,4 +139,5 @@ y = model(X)
 # spark mlib
 unfit_model = ??? # spark mlib models are immutable
 fit_model = unfit_model.fit(df)
+df2 = fit_model.transform(df)
 ```
