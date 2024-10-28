@@ -1,4 +1,4 @@
-#CS544 #UWMadison #FileSystems #Spark #SparkSQL
+#CS544 #UWMadison #FileSystems #Spark #SparkSQL #ML 
 
 Spark combines the [[Map Reduce]] pipeline (map and reduce) into one large operation. 
 
@@ -121,3 +121,5 @@ Tables are transferred over the network, and data is grouped individually on par
 
 ### Broadcast Hash Join
 Keep the table in memory and compute the join in a loop. 
+
+# Spark Machine Learning
