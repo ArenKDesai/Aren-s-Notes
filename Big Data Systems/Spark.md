@@ -111,5 +111,5 @@ GROUP BY Call_Type
 .write
 .mode("overwrite")
 .bucketBy(10, "Call_Type")
-.saveAsTable("calls_by_type")
+.saveAsTable("calls_by_type"))
 ```
