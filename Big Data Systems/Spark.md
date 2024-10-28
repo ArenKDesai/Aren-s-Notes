@@ -94,4 +94,4 @@ is schema non-inferencing, which is 2 tasks and < 1 second, along with reading l
 
 ## Physical Execution
 When shuffling partitions, we call ```spark.sql.shuffle.partitions```, which defaults to 200 partitions. There are three optimizations that can be done:
-1. partial aggregates,
+1. partial aggregates, or computing partial results before the ex
