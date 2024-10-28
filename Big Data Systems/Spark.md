@@ -76,4 +76,4 @@ df = (spark.read.format("csv")
 	.option("inferSchema", True)
 	.load("hdfs://nn:9000/sf.csv))
 ```
-is schema inferencing which includes 17 tasks 
+is schema inferencing which includes 17 tasks and 33 seconds, and has to read the whole file. 
