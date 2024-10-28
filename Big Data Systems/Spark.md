@@ -87,5 +87,7 @@ df = (spark.read.format("csv")
 	.schema("???")
 	.load("hdfs://nn:9000/sf.parquet"))
 	
-df = 
+df = (spark.read.format("parquet")
+	.load("hdfs://nn:9000/sf.parquet"))
 ```
+is schema non-inferencing, which is 2 tasks and < 1 second, along with reading less than the whole file. 
