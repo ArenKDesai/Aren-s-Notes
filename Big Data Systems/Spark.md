@@ -99,10 +99,10 @@ When shuffling partitions, we call ```spark.sql.shuffle.partitions```, which def
 3. ```bucketBy```, which means formatting the data during the set creation. 
 
 ## Hash Partitioning demo
-```
+```{Python}
 spark.sql("""
 SELECT Call_Type, COUNT(*)
 FROM calls
 GROUP BY Call_Type
-""").limit(5).toPandas()
+""").explain('formatted')
 ```
