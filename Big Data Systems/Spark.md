@@ -85,5 +85,5 @@ df = (spark.read.format("csv")
 
 df = (spark.read.format("csv")
 	.schema("???")
-	.load())
+	.load("hdfs://nn:9000/sf.parquet))
 ```
