@@ -123,3 +123,9 @@ Tables are transferred over the network, and data is grouped individually on par
 Keep the table in memory and compute the join in a loop. 
 
 # Spark Machine Learning
+```
+# sci-kit learn
+model = ???
+model.fit(X,y)
+
+```
