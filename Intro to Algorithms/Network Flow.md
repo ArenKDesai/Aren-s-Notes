@@ -27,4 +27,4 @@ Max flow = min cut,  so finding the minimum cut finds the maximum possible flow.
 ## Maximum Matches
 
 With a set of nodes and edges (not neccessarily connected), find the maximum pairs. 
-We can redefine this as a network flow problem by positioning the nodes as two arrays of nodes, and creating "flows" through the existing edges. 
+We can redefine this as a network flow problem by positioning the nodes as two arrays of nodes, and creating "flows" through the existing edges. We're only gonna do this with bipartite graphs. 
