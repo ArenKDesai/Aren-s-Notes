@@ -106,5 +106,5 @@ FROM calls
 GROUP BY Call_Type
 """).explain('formatted')
 
-spark.table("calls").write.bucketBy(10, "Call_Type").saveAsTable
+spark.table("calls").write.bucketBy(10, "Call_Type").saveAsTable("calls_by_type")
 ```
