@@ -135,6 +135,6 @@ for epoch in range(???):
 		...
 
 # spark mlib
-unfit_model = ??? # spark mli
+unfit_model = ??? # spark mlib models are immutable
 fit_model = unfit_model.fit(df)
 ```
