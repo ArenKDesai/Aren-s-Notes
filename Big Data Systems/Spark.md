@@ -113,3 +113,8 @@ GROUP BY Call_Type
 .bucketBy(10, "Call_Type")
 .saveAsTable("calls_by_type"))
 ```
+
+## Joins
+
+### Shuffle Sort Merge Join
+Tables are transferred over the network, and data is 
