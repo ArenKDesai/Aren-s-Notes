@@ -127,12 +127,14 @@ Keep the table in memory and compute the join in a loop.
 # sci-kit learn
 model = ???
 model.fit(X,y)
+y = model.predict(X)
 
 # pytorch
 model = ???
 for epoch in range(???):
 	for X,y in ???:
 		...
+y = model(X)
 
 # spark mlib
 unfit_model = ??? # spark mlib models are immutable
