@@ -72,5 +72,8 @@ Explicit scheming is much faster, but more difficult to code. For example,
 
 ```
 df = (spark.read.format("csv")
-	.option("head))
+	.option("header", True)
+	.option("inferSchema", True)
+	.load("hdfs://nn:9000/sf.csv))
 ```
+is schem
