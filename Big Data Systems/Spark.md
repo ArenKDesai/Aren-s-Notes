@@ -105,4 +105,6 @@ SELECT Call_Type, COUNT(*)
 FROM calls
 GROUP BY Call_Type
 """).explain('formatted')
+
+spark.table("calls").write.bucketBy("Call_Type")
 ```
