@@ -108,5 +108,7 @@ GROUP BY Call_Type
 
 (spark.table("calls")
 .sample(True, 0.1)
-.write.bucketBy(10, "Call_Type").saveAsTable("calls_by_type")
+.write
+.bucketBy(10, "Call_Type")
+.saveAsTable("calls_by_type")
 ```
