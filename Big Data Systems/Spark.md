@@ -130,5 +130,7 @@ model.fit(X,y)
 
 # pytorch
 model = ???
-for epoch in range(???)
+for epoch in range(???):
+	for X,y in ???:
+		...
 ```
