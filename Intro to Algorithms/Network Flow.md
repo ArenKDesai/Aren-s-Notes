@@ -28,3 +28,6 @@ Max flow = min cut,  so finding the minimum cut finds the maximum possible flow.
 
 With a set of nodes and edges (not neccessarily connected), find the maximum pairs. 
 We can redefine this as a network flow problem by positioning the nodes as two arrays of nodes, and creating "flows" through the existing edges. We're only gonna do this with bipartite graphs. 
+
+## Maximize Skills, Minimize Course Cost
+Classes cost $c_i$, give you $v_i$ value, and lead into eachother in order to gain $v_i$. We cannot define this as $\max(u-c)$ since we can't
