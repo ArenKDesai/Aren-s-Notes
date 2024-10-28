@@ -98,7 +98,7 @@ When shuffling partitions, we call ```spark.sql.shuffle.partitions```, which def
 2. ```spark.sql.adaptive.coalescePartitions.enabled```, which combines smaller partitions into larger ones
 3. ```bucketBy```, which means formatting the data during the set creation. 
 
-## Hash Partitioning demo
+## Demo
 ```{Python}
 spark.sql("""
 SELECT Call_Type, COUNT(*)
