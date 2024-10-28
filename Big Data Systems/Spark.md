@@ -67,3 +67,10 @@ df = (
 )
 ```
 
+### Schema inferencing
+Explicit scheming is much faster, but more difficult to code. For example,
+
+```
+df = (spark.read.format("csv")
+	.option("))
+```
