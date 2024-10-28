@@ -93,4 +93,5 @@ df = (spark.read.format("parquet")
 is schema non-inferencing, which is 2 tasks and < 1 second, along with reading less than the whole file. 
 
 ## Physical Execution
-When shuffling partitions, we call 
+When shuffling partitions, we call ```spark.sql.shuffle.
+```
