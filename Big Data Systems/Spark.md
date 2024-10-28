@@ -119,4 +119,4 @@ GROUP BY Call_Type
 ### Shuffle Sort Merge Join
 Tables are transferred over the network, and data is grouped individually on partitions. Each table goes over the network once. 
 
-### 
+### Broadcast Hash Join
