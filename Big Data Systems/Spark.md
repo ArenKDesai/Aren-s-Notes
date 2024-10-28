@@ -136,5 +136,5 @@ for epoch in range(???):
 
 # spark mlib
 unfit_model = ???
-fit_model = un
+fit_model = unfit_model.fit()
 ```
