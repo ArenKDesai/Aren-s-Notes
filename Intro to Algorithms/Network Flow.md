@@ -31,4 +31,3 @@ We can redefine this as a network flow problem by positioning the nodes as two a
 
 ## Maximize Skills, Minimize Course Cost
 Classes cost $c_i$, give you $v_i$ value, and lead into eachother in order to gain $v_i$. We cannot define this as $\max(u-c)$ since we can't have negative flow, so we try to minimize $t+c$, where $t=$ skills not gained
-'. 
