@@ -83,5 +83,7 @@ df = (spark.read.format("csv")
 	.option("header", True)
 	.load("header", True))
 
-df = (spark.read.format("csv"))
+df = (spark.read.format("csv")
+	.schema("???")
+	.load())
 ```
