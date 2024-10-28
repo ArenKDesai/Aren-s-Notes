@@ -77,3 +77,9 @@ df = (spark.read.format("csv")
 	.load("hdfs://nn:9000/sf.csv))
 ```
 is schema inferencing which includes 17 tasks and 33 seconds, and has to read the whole file. 
+
+```
+df = (spark.read.format("csv")
+	.option("header", True)
+	.load("header", True))
+```
