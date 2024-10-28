@@ -128,4 +128,7 @@ Keep the table in memory and compute the join in a loop.
 model = ???
 model.fit(X,y)
 
+# pytorch
+model = ???
+for epoch in range(???)
 ```
