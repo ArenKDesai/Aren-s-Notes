@@ -100,5 +100,9 @@ When shuffling partitions, we call ```spark.sql.shuffle.partitions```, which def
 
 ## Hash Partitioning demo
 ```
-
+spark.sql("""
+SELECT Call_Type, COUNT(*)
+FROM calls
+GROUP BY Call_Type
+""").limit(5).toPandas()
 ```
