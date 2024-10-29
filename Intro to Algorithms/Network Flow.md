@@ -24,10 +24,13 @@ Or, what is the minimum cut?
 
 Max flow = min cut,  so finding the minimum cut finds the maximum possible flow. 
 
-## Maximum Matches
+### Greedy approach for solving
+- Initialize $f(e)=0$ for all edges
+- While there is a path from $s$ to $t$ with available capacity, push flow equal to the minimum available capacity along path. 
 
-With a set of nodes and edges (not neccessarily connected), find the maximum pairs. 
-We can redefine this as a network flow problem by positioning the nodes as two arrays of nodes, and creating "flows" through the existing edges. We're only gonna do this with bipartite graphs. 
+We create a *Residual Graph*, or a graph with all the same nodes as the original graph, but for each edge in the original, you create two edges with $c_e-f(e)$ and $f(e)$. The path that goes from $s$ to $t$ is called the *Augmenting Path*. 
 
-## Maximize Skills, Minimize Course Cost
-Classes cost $c_i$, give you $v_i$ value, and lead into eachother in order to gain $v_i$. We cannot define this as $\max(u-c)$ since we can't have negative flow, so we try to minimize $t+c$, where $t=$ skills not gained
+### Ford-Fulkerson Method
+Initialize $f(e)=0$ for all edges. Repeat creating residual graphs until there are no augmenting paths left. 
+
+How do we choose an augmenting path? We want to choose paths with large bottlenecks, so we perform the *Scaled Ford-Fulkerson Method*.
