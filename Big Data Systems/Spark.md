@@ -201,4 +201,4 @@ r2score.evaluate(model.transform(test))
 ```
 
 ## Decision Trees
-Similar to [[Classification Trees]]. With $n$ feature clumns 
+Similar to [[Classification Trees]]. With $n$ feature columns and $m$ 
