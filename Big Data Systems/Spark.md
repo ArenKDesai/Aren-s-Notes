@@ -137,6 +137,7 @@ for epoch in range(???):
 y = model(X)
 
 # spark mlib
+import pyspark.ml
 unfit_model = ??? # spark mlib models are immutable
 fit_model = unfit_model.fit(df)
 df2 = fit_model.transform(df)
@@ -150,3 +151,7 @@ df2 = fit_model.transform(df)
 - Estimator
 	- object has a .fit method that returns a new object
 	- an unfitted model is an estimator; calling .fit returns a fitted model (transformer)
+
+```
+
+```
