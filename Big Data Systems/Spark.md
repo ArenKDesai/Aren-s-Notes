@@ -205,4 +205,4 @@ Similar to [[Classification Trees]]. To choose splits:
 1. Sort data by each column
 2. calculate impurity for each split (one pass)
 
-If rows are too large to fit in RAM on one worker, you could attempt to partition the process across multiple 
+If rows are too large to fit in RAM on one worker, you could attempt 
