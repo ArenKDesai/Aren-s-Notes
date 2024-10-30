@@ -185,4 +185,5 @@ model.transform(va.transform(test))
 from pyspark.ml.pipeline import Pipeline # unfit
 from pyspark.ml.pipeline import PipelineModel # fit
 
+pipe = Pipeline(stages=)
 ```
