@@ -206,4 +206,6 @@ Similar to [[Classification Trees]]. To choose splits:
 2. calculate impurity for each split (one pass)
 
 If rows are too large to fit in RAM on one worker, you use the PLANET algorithm. 
+
+### PLANET algorithm
 Parallel Learner for Assembling Numerous Ensemble Trees. Originally for MapReduce. Spark's pyspark.ml use this. 
