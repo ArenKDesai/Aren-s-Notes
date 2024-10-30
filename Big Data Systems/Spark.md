@@ -157,5 +157,5 @@ import pandas as pd
 import numpy as np
 
 df = pd.DataFrame("x1":..., "x2":...)
-df["y"]=
+df["y"]=df["x1"] + df["x2"]
 ```
