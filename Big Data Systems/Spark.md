@@ -158,5 +158,7 @@ import numpy as np
 
 df = pd.DataFrame("x1":..., "x2":...)
 df["y"]=df["x1"] + df["x2"]
-df = spark.create
+df = spark.createDataFrame(df)
+
+
 ```
