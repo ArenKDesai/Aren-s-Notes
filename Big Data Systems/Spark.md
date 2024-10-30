@@ -203,4 +203,4 @@ r2score.evaluate(model.transform(test))
 ## Decision Trees
 Similar to [[Classification Trees]]. To choose splits:
 1. Sort data by each column
-2. calculate imp
+2. calculate impurity for each split (one pass)
