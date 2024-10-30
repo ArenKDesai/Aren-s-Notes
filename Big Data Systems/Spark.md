@@ -211,3 +211,5 @@ If rows are too large to fit in RAM on one worker, you use the PLANET algorithm.
 Parallel Learner for Assembling Numerous Ensemble Trees. Originally for MapReduce. Spark's pyspark.ml use this. 
 Steps:
 1. Create a histogram for each feature where each bin has approx. the same number of samples. 
+2. Create split points for each row
+3. Use parallel sp
