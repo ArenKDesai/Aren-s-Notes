@@ -148,4 +148,5 @@ df2 = fit_model.transform(df)
 	- object has .transform method
 	- takes a DataFrame, returns original + 1 or more column
 - Estimator
-	- object has a .fit method that returns a new obke
+	- object has a .fit method that returns a new object
+	- an unfitted model is an estimator
