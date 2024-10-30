@@ -192,4 +192,6 @@ model = pipe.fit(train)
 # save model and load on another machine
 model.write().overwrite().save("hdfs://nn:9000/model")
 model2 = PipelineModel.load("hdfs://nn:9000/model")
+
+
 ```
