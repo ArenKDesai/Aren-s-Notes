@@ -189,5 +189,7 @@ pipe = Pipeline(stages=([va,dt]))
 model = pipe.fit(train)
 # model.stages().toDebugString will print the actual tree
 
-model.write()
+# save model and load on another machine
+model.write().overwrite().save("hdfs://nn:9000/model")
+model2 = PipelineModel.load("hdfs://nn:9000/model")
 ```
