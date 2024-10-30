@@ -170,5 +170,5 @@ from pyspark.ml.regression import DecisionTreeRegressor # Unfit
 from pyspark.ml.regression import DecisionTreeRegressionModel # Fit
 
 dt = DecisionTreeRegressor(featuresCol="x1", labelsCol="y")
-dt.fir
+dt.fit(train)
 ```
