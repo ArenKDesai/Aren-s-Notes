@@ -199,3 +199,5 @@ from pyspark.ml.evaluation import RegressionEvaluator
 r2score = RegressionEvaluator(metricName="r2score", labelCol="y", predictionCol="prediction")
 r2score.evaluate(model.transform(test))
 ```
+
+## Decision Trees
