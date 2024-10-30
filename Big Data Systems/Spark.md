@@ -156,5 +156,6 @@ df2 = fit_model.transform(df)
 import pandas as pd
 import numpy as np
 
-df = pd.DataFrame("x1":..., "x2")
+df = pd.DataFrame("x1":..., "x2":...)
+df["y"]=
 ```
