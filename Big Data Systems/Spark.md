@@ -196,6 +196,6 @@ model2 = PipelineModel.load("hdfs://nn:9000/model")
 Now, let's test how good the model is.
 ```
 from pyspark.ml.evaluation import RegressionEvaluator
-RegressionEvaluator(metricName="r2score", labelCol="y", predictionCol="prediction")
-
+r2score = RegressionEvaluator(metricName="r2score", labelCol="y", predictionCol="prediction")
+r2score.evaluate(model.transfo)
 ```
