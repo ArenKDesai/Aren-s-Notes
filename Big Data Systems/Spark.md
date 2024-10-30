@@ -153,5 +153,8 @@ df2 = fit_model.transform(df)
 	- an unfitted model is an estimator; calling .fit returns a fitted model (transformer)
 
 ```
+import pandas as pd
+import numpy as np
 
+df = pd.DataFrame()
 ```
