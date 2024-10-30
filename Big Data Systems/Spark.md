@@ -189,5 +189,5 @@ pipe = Pipeline(stages=([va,dt]))
 model = pipe.fit(train)
 # model.stages().toDebugString will print the actual tree
 
-model.wr
+model.write()
 ```
