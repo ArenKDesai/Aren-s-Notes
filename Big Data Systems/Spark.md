@@ -178,6 +178,8 @@ from pyspark.ml.feature import VectorAssembler
 va = VectorAssembler(inputCols=("x1", "x2"), outputCol="features")
 va.transform(train).show()
 ```
+
 ```
-model = dt.fit(va.transfo)
+model = dt.fit(va.transform(train))
 ```
+
