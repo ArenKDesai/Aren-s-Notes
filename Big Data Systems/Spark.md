@@ -174,5 +174,6 @@ dt.fit(train)
 ```
 The above will break, and will need this:
 ```
+from pyspark.ml.feature import VectorAssembler
 
 ```
