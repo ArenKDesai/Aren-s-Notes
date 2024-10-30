@@ -188,5 +188,5 @@ from pyspark.ml.pipeline import PipelineModel # fit
 pipe = Pipeline(stages=([va,dt]))
 model = pipe.fit(train)
 
-# model.stages().toDebugString wi
+# model.stages().toDebugString will print the actual tree
 ```
