@@ -147,4 +147,5 @@ df2 = fit_model.transform(df)
 - Transformer
 	- object has .transform method
 	- takes a DataFrame, returns original + 1 or more column
-
+- Estimator
+	- 
