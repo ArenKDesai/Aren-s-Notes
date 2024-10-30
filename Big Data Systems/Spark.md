@@ -160,5 +160,6 @@ df = pd.DataFrame("x1":..., "x2":...)
 df["y"]=df["x1"] + df["x2"]
 df = spark.createDataFrame(df)
 
-
+train, test = df.randomSplit([0.75, 0.25], seed=42)
+train.write.format()
 ```
