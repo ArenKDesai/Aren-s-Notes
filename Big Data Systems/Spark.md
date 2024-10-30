@@ -169,5 +169,6 @@ train = spark.read.format("parquet").load("hdfs://nn:9000/train.parquet")
 from pyspark.ml.regression import DecisionTreeRegressor # Unfit
 from pyspark.ml.regression import DecisionTreeRegressionModel # Fit
 
-dt = DecisionTreeRegressor(featuresCol="x1", labelsC)
+dt = DecisionTreeRegressor(featuresCol="x1", labelsCol="y")
+dt.fir
 ```
