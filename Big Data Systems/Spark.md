@@ -212,4 +212,4 @@ Parallel Learner for Assembling Numerous Ensemble Trees. Originally for MapReduc
 Steps:
 1. Create a histogram for each feature where each bin has approx. the same number of samples. 
 2. Create split points for each row
-3. Use parallel sp
+3. Use parallel splitting
