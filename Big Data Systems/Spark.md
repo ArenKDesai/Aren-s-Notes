@@ -182,5 +182,5 @@ va.transform(train).show()
 model = dt.fit(va.transform(train))
 model.transform(va.transform(test))
 
-from pyspark.ml.pi
+from pyspark.ml.pipeline import Pipeline # u
 ```
