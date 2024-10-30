@@ -162,6 +162,7 @@ df = spark.createDataFrame(df)
 
 train, test = df.randomSplit([0.75, 0.25], seed=42)
 train.write.format("parquet").mode("ignore").save("hdfs://nn:9000/train.parquet")
+test.write.format("parquet").mode("ignore").save("hdfs://nn:9000/train.parquet")
 
 train = spark.read.format("parquet").load("hdfs://nn:9000/train.parquet")
 
@@ -178,5 +179,5 @@ from pyspark.ml.feature import VectorAssembler
 va = VectorAssembler(inputCols=("x1", "x2"), outputCol="features")
 va.transform(train).show()
 model = dt.fit(va.transform(train))
-model.trans
+model.transform
 ```
