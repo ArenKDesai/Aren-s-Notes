@@ -204,3 +204,5 @@ r2score.evaluate(model.transform(test))
 Similar to [[Classification Trees]]. To choose splits:
 1. Sort data by each column
 2. calculate impurity for each split (one pass)
+
+If rows are too large t
