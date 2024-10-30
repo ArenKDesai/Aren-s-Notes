@@ -164,4 +164,10 @@ train, test = df.randomSplit([0.75, 0.25], seed=42)
 train.write.format("parquet").mode("ignore").save("hdfs://nn:9000/train.parquet")
 
 train = spark.read.format("parquet").load("hdfs://nn:9000/train.parquet")
+
+# ML part
+from pyspark.ml.regression import DecisionTreeRegressor # Unfit
+from pyspark.ml.regression import DecisionTreeRegressionModel # Fit
+
+dt = DecisionTreeRegressor(featuresCol="x1")
 ```
