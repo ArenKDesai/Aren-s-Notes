@@ -163,4 +163,5 @@ df = spark.createDataFrame(df)
 train, test = df.randomSplit([0.75, 0.25], seed=42)
 train.write.format("parquet").mode("ignore").save("hdfs://nn:9000/train.parquet")
 
+train = spark.read.format("parquet")
 ```
