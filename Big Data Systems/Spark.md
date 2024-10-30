@@ -165,7 +165,7 @@ train.write.format("parquet").mode("ignore").save("hdfs://nn:9000/train.parquet"
 test.write.format("parquet").mode("ignore").save("hdfs://nn:9000/test.parquet")
 
 train = spark.read.format("parquet").load("hdfs://nn:9000/train.parquet")
-train = spark.read.format("parquet").load("hdfs://nn:9000/train.parquet")
+test = spark.read.format("parquet").load("hdfs://nn:9000/train.parquet")
 
 # ML part
 from pyspark.ml.regression import DecisionTreeRegressor # Unfit
@@ -180,5 +180,5 @@ from pyspark.ml.feature import VectorAssembler
 va = VectorAssembler(inputCols=("x1", "x2"), outputCol="features")
 va.transform(train).show()
 model = dt.fit(va.transform(train))
-model.transform
+model.transform(va)
 ```
