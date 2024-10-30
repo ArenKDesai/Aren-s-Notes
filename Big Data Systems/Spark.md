@@ -141,3 +141,10 @@ unfit_model = ??? # spark mlib models are immutable
 fit_model = unfit_model.fit(df)
 df2 = fit_model.transform(df)
 ```
+
+### Terminology
+
+- Transformer
+	- object has .transform method
+	- takes a DataFrame, returns original + 1 or more column
+
