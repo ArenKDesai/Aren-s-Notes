@@ -202,4 +202,5 @@ r2score.evaluate(model.transform(test))
 
 ## Decision Trees
 Similar to [[Classification Trees]]. To choose splits:
-1. Sort 
+1. Sort data by each column
+2. calculate imp
