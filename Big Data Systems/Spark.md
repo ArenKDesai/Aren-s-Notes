@@ -201,4 +201,5 @@ r2score.evaluate(model.transform(test))
 ```
 
 ## Decision Trees
-Similar to [[Classification Trees]]. 
+Similar to [[Classification Trees]]. To choose splits:
+1. Sort 
