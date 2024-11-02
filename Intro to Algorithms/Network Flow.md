@@ -38,3 +38,4 @@ How do we choose an augmenting path? We want to choose paths with large bottlene
 Steps:
 1. Find a path
 2. compute the bottleneck
+3. augment path
