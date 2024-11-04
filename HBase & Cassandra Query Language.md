@@ -19,3 +19,4 @@ cass.execute("""
 alter table loans add (username FullName);
 """)
 ```
+
