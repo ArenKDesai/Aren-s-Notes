@@ -23,5 +23,5 @@ alter table loans add (username FullName);
 ## HDFS & Spark vs Cassandra
 HDFS will struggle with a lot of small files. Spark is fine since it's built to work with small rows. 
 
-*Incremental Scalability*: can we efficienty add more machines into a cluster?
+*Incremental Scalability*: can we efficiently add more machines into a cluster?
 HDFS is better at this. 
