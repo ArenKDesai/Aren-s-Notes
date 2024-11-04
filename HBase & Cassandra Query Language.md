@@ -26,4 +26,4 @@ HDFS will struggle with a lot of small files. Spark is fine since it's built to 
 *Incremental Scalability*: can we efficiently add more machines into a cluster?
 HDFS is better at this.  
 
-For hashing, HDFS uses mapping with locations and 
+For locations, HDFS uses mapping and Spark uses 
