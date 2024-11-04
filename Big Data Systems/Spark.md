@@ -1,4 +1,4 @@
-#CS544 #UWMadison #FileSystems #Spark #SparkSQL #ML #SparkML
+#CS544 #UWMadison #FileSystems #Spark #SparkSQL #ML #SparkML #Hive
 
 Spark combines the [[Map Reduce]] pipeline (map and reduce) into one large operation. 
 
