@@ -21,4 +21,4 @@ alter table loans add (username FullName);
 ```
 
 ## HDFS & Spark vs Cassandra
-Scalability: 
+HDFS will struggle with a lot of small files. Spark is fine since it's built to work with small rows, nad 
