@@ -20,4 +20,5 @@ alter table loans add (username FullName);
 """)
 ```
 
-HDFS & Spark vs Cassandra
+## HDFS & Spark vs Cassandra
+Scalability: 
