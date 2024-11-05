@@ -50,3 +50,4 @@ Undirected version: each edge gets converted into two directed edges. Apply dire
 **Observation**: if there are $k$ edge-disjoint paths in $G$ from $s\to t$, then max flow is $k$ in $G'$. 
 FF will be $O(mC)=O(mn)$. 
 
+We can recover $k$ edge-disjoint paths through DFS from $s$ to $f$. 
