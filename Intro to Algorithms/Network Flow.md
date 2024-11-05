@@ -48,4 +48,4 @@ Directed version: add capacity of 1 to every edge.
 Undirected version: each edge gets converted into two directed edges. Apply directed graph transformation. 
 
 **Observation**: if there are $k$ edge-disjoint paths in $G$ from $s\to t$, then max flow is $k$ in $G'$. 
-FF wil 
+FF will be $O(mC)=O(mn)$. 
