@@ -56,4 +56,4 @@ We can recover $k$ edge-disjoint paths through DFS from $s$ to $f$. We set flow 
 
 Input $P$ is a set of pixels (image). Separate them into two sets $A,B$, for foreground and background pixels. $a_i>=0$ is the likelihood (not probability) of $i$ being in the foreground. $b_i$ is the same for background. For each adjacent pixel $j$, $p_{ij}=p_{ji}$ is a separation penalty when $i$ and $j$ are not both in $A$ or $B$. 
 
-Goal: Maximize $q(A,B)=\sum_{i\in A}a_i+\sum_{j\in B}-\sum_{i,j\in P:|A \union (i,j)}$
+Goal: Maximize $q(A,B)=\sum_{i\in A}a_i+\sum_{j\in B}-\sum_{i,j\in P:|A \union (i,j)|=1}p_{ij}$
