@@ -51,3 +51,7 @@ Undirected version: each edge gets converted into two directed edges. Apply dire
 FF will be $O(mC)=O(mn)$. 
 
 We can recover $k$ edge-disjoint paths through DFS from $s$ to $f$. We set flow to 0 along $P$, the previous path we found, so we don't continuously follow the same path. 
+
+## Image Segmentation
+
+Input $P$ is a set of pixels (image). Separate 
