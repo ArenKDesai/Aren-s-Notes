@@ -42,4 +42,4 @@ Steps:
 
 ## Edge-Disjoint Paths
 
-We want 
+Problem: We have a graph $G$ with $s,t$, and we want the number of edge disjoint paths between the t
