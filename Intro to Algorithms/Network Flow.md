@@ -69,4 +69,4 @@ $S$ and $T$ are the sets of sinks and sources.
 Capacity: for each $e\in E, 0 \leq f(e) \leq c_e$. 
 Conservation: for each vertex, flow in - flow out is demand. 
 
-**Observation**: If there is a feasible flow, then $\sum_{v \in V}d_v=0$. Also, $D=\sum_{}
+**Observation**: If there is a feasible flow, then $\sum_{v \in V}d_v=0$. Also, $D=\sum_{v:d_v>0\}
