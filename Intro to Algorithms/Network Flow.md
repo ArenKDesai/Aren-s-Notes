@@ -68,3 +68,4 @@ Now, each node has a demand $d_v$. If the demand is negative, the flow in - flow
 $S$ and $T$ are the sets of sinks and sources. 
 Capacity: for each $e\in E, 0 \leq f(e) \leq c_e$. 
 Conservation: for each vertex, flow in - flow out is demand. 
+
