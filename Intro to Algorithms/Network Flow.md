@@ -60,3 +60,8 @@ Goal: Maximize $q(A,B)=\sum_{i\in A}a_i+\sum_{j\in B}-\sum_{i,j\in P:|A \bigcap 
 
 We can implement a min-cut approach to solve this. Every pixel becomes a node, and the penalty becomes the edges. We'll add a source $s$ and connect it to all nodes $i$ with capacity (likelihood) $a_i$. Same with $t$ and all nodes $i$ with capacity $b_i$. 
 
+Run the min-cut on these edges, then use DFS or BFS on the residual graph. 
+
+# Extensions
+
+Now, each node has a demand $d_v$. 
