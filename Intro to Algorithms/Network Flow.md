@@ -46,3 +46,5 @@ Problem: We have a graph $G$ with $s,t$, and we want the number of edge disjoint
 
 Directed version: add capacity of 1 to every edge. 
 Undirected version: each edge gets converted into two directed edges. Apply directed graph transformation. 
+
+**Observation**: if there are $k$ edge-disjoint paths in 
