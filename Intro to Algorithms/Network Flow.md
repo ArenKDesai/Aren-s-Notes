@@ -65,4 +65,5 @@ Run the min-cut on these edges, then use DFS or BFS on the residual graph.
 # Extensions
 
 Now, each node has a demand $d_v$. If the demand is negative, the flow in - flow out is the demand. If demand is 0, then flow in - flow out = 0. Finally, if demand is positive, then flow in - flow out = demand. 
-$S$ and $T$ 
+$S$ and $T$ are the sets of sinks and sources. 
+Capacity: for each 
