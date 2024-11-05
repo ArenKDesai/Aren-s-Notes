@@ -58,4 +58,4 @@ Input $P$ is a set of pixels (image). Separate them into two sets $A,B$, for for
 
 Goal: Maximize $q(A,B)=\sum_{i\in A}a_i+\sum_{j\in B}-\sum_{i,j\in P:|A \bigcap (i,j)|=1}p_{ij}$
 
-We can implement a min-cut approach to solve this. Every pixel becomes a node, and the penalty becomes 
+We can implement a min-cut approach to solve this. Every pixel becomes a node, and the penalty becomes the edges. 
