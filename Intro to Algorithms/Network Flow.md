@@ -42,4 +42,5 @@ Steps:
 
 ## Edge-Disjoint Paths
 
-Problem: We have a graph $G$ with $s,t$, and we want the number of edge disjoint paths from $s\to t$. 
+Problem: We have a graph $G$ with $s,t$, and we want the number of edge disjoint paths from $s\to t$. There can be overlapping paths, but no shared edges. 
+
