@@ -54,4 +54,4 @@ We can recover $k$ edge-disjoint paths through DFS from $s$ to $f$. We set flow 
 
 ## Image Segmentation
 
-Input $P$ is a set of pixels (image). Separate them into two sets $A,B$, for 
+Input $P$ is a set of pixels (image). Separate them into two sets $A,B$, for foreground and background pixels. 
