@@ -39,3 +39,7 @@ Steps:
 1. Find a path
 2. compute the bottleneck
 3. augment path
+
+## Edge-Disjoint Paths
+
+We want 
