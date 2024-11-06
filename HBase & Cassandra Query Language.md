@@ -27,3 +27,5 @@ HDFS will struggle with a lot of small files. Spark is fine since it's built to 
 HDFS is better at this.  
 
 For locations, HDFS uses mapping from the namenode and Spark uses hasing partitions. Dynamo and Cassandrax
+
+
