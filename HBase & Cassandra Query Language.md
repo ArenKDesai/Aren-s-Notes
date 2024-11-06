@@ -74,4 +74,5 @@ Problem 6: primary key is (A,B), which is one partition column followed by one c
 Ans: -3
 
 Problem 8: assuming 2x replication, what are the positions of the vnodes for a row with token -1?
-ans: n2+n3, a
+ans: n2+n3, and 0+2
+Problem: positions of vnodes responsible 
