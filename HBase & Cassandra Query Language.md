@@ -69,4 +69,4 @@ with replication={'class': 'SimpleStrategy',
 ### Policy
 Replication polices are pluggable, with built-in strategies
 
-SimpleStrategy: 
+SimpleStrategy: all nodes equal, skip vnodes on same machine, ignore placement
