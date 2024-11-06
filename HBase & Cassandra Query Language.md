@@ -53,7 +53,7 @@ Ans: -3
 # Replication
 We replicate to improve durability - same as [[Map Reduce]]. 
 
-map: 1={12}, 2={3,4}
+map: 1={1,2}, 2={3,4}, 3={5,6}, 4={}
 workers: 1,2,1,4,3,4,2,3
 
 ```
