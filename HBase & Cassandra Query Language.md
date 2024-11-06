@@ -36,4 +36,4 @@ V-Nodes also solve the collision issue.
 ## Worksheet
 Token Map:
 token(n1)=(-2,4), token(n2)=(-6,0), token(n3)=(-4,2,5)
-
+Problem 1: how many nodes / vnodes are there?
