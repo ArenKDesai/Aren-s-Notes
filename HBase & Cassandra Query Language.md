@@ -28,4 +28,5 @@ HDFS is better at this.
 
 For locations, HDFS uses mapping from the namenode and Spark uses hasing partitions. Dynamo and Cassandrax
 
-In a cluster, you find tokens, which lead to nodes. 
+In a cluster, you find tokens, which lead to nodes. Tokens are added one at a time so there are no collisions. 
+
