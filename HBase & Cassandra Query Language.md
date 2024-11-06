@@ -42,4 +42,4 @@ Problem 2: which node likely has the best resources?
 Ans: 3
 Problem 3: one of the vnode positions of n2 is drawn in the ring below. Draw the rest:
 
-$\begin{matrix}0&&0&&n2&&0&&n3&&0&&n1&&0&&n2&&\\-8&&-7&&-6&&-5&&-4&&-3&&-2&&-1&&0&71&&2&&3&&4&&5&&6&&\end{matrix}$
+$\begin{matrix}0&&0&&n2&&0&&n3&&0&&n1&&0&&n2&&0&&n3&&0&&n1&&n3&&0&&0\\-8&&-7&&-6&&-5&&-4&&-3&&-2&&-1&&0&71&&2&&3&&4&&5&&6&&\end{matrix}$
