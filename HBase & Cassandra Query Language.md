@@ -40,4 +40,4 @@ Problem 1: how many nodes / vnodes are there?
 Ans: 3, 7
 Problem 2: which node likely has the best resources?
 Ans: 3
-Problem 3: 
+Problem 3: one of the vnode positions of n2 is drawn in the 
