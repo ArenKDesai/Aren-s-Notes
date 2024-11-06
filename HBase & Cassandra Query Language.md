@@ -53,7 +53,8 @@ Ans: -3
 # Replication
 We replicate to improve durability - same as [[Map Reduce]]. 
 
-workers: 
+map: 
+workers: 1,2,1,4,3,4,2,3
 
 ```
 create keyspace X
