@@ -30,4 +30,4 @@ For locations, HDFS uses mapping from the namenode and Spark uses hasing partiti
 
 In a cluster, you find tokens, which lead to nodes. Tokens are added one at a time so there are no collisions. 
 
-V-Nodes also solve the collision issue. Each 
+V-Nodes also solve the collision issue. 
