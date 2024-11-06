@@ -66,4 +66,3 @@ with replication={'class': 'SimpleStrategy',
 	'replication_factor': 3};}
 ```
 
-Keeping multiple copies of vnodes on
