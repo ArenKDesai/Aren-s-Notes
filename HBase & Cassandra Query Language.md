@@ -38,4 +38,4 @@ Token Map:
 token(n1)=(-2,4), token(n2)=(-6,0), token(n3)=(-4,2,5)
 Problem 1: how many nodes / vnodes are there?
 Ans: 3, 7
-Problem 2: how many 
+Problem 2: which node 
