@@ -55,6 +55,8 @@ Replication polices are pluggable, with built-in strategies
 SimpleStrategy: all nodes equal, skip vnodes on same machine, ignore placement
 NetworkTopologyStrategy: consider data centers/racks. When walking the ring, some vnodes may be skipped to protect against correlated failure. 
 
+## Quorum
+
 
 ## Worksheet
 Token Map:
