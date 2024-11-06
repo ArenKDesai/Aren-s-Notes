@@ -76,4 +76,4 @@ Ans: -3
 Problem 8: assuming 2x replication, what are the positions of the vnodes for a row with token -1?
 ans: n2+n3, and 0+2
 Problem: 3x, positions of vnodes responsible for a row with token 1?
-ans: 
+ans: 2+4+-6
