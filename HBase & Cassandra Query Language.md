@@ -51,3 +51,9 @@ Problem 6: primary key is (A,B), which is one partition column followed by one c
 Ans: -3
 
 # Replication
+We replicate to improve durability - same as [[Map Reduce]]. 
+
+```
+create keyspace X
+with replication={}
+```
