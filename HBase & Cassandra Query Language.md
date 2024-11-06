@@ -70,4 +70,4 @@ with replication={'class': 'SimpleStrategy',
 Replication polices are pluggable, with built-in strategies
 
 SimpleStrategy: all nodes equal, skip vnodes on same machine, ignore placement
-NetworkTopologyStrategy
+NetworkTopologyStrategy: consider data centers/racks. When walk
