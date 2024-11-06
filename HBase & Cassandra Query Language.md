@@ -47,4 +47,5 @@ Problem 4: what ring positions are in the wrapping range?
 Ans: 6+7
 Problem 5: what node is responsible for each token? 4,1,6
 Ans: n1,n3,n2
-Problem 6: primary key is (A,B), which is one partition column followed by one cluster column. Which node owns this row? Token(A)=-3, Token(B)=-6, Token((A,b))
+Problem 6: primary key is (A,B), which is one partition column followed by one cluster column. Which node owns this row? Token(A)=-3, Token(B)=-6, Token((A,B))=3
+Ans: -3
