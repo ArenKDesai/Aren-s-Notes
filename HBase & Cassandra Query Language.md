@@ -53,6 +53,8 @@ Ans: -3
 # Replication
 We replicate to improve durability - same as [[Map Reduce]]. 
 
+workers: 
+
 ```
 create keyspace X
 with replication={'class': 'SimpleStrategy',
@@ -60,5 +62,5 @@ with replication={'class': 'SimpleStrategy',
 
 create keyspace Y
 with replication={'class': 'SimpleStrategy',
-	'replication_factor': 2};}
+	'replication_factor': 3};}
 ```
