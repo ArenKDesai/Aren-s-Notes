@@ -55,5 +55,5 @@ We replicate to improve durability - same as [[Map Reduce]].
 
 ```
 create keyspace X
-with replication={}
+with replication={'class': 'SimpleStrategy}
 ```
