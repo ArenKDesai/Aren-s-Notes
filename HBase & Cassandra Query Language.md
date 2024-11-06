@@ -57,7 +57,8 @@ We replicate to improve durability - same as [[Map Reduce]].
 create keyspace X
 with replication={'class': 'SimpleStrategy',
 	'replication_factor': 2};}
-	create keyspace X
+
+create keyspace Y
 with replication={'class': 'SimpleStrategy',
 	'replication_factor': 2};}
 ```
