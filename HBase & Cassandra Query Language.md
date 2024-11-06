@@ -67,4 +67,6 @@ with replication={'class': 'SimpleStrategy',
 ```
 
 ### Policy
-Replication polices are pluggable, with built-in 
+Replication polices are pluggable, with built-in strategies
+
+SimpleStrategy: 
