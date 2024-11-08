@@ -5,7 +5,7 @@ No boss node, many workers. Clusters are *rings* due to adjacency. Ring organiza
 Inserts are *upserts* since they also update. 
 Keyspaces are databases which store data across many workers. Different keyspaces can have their own replication settings, and each keyspace may contain many tables. 
 
-Rows are emphasized, even if it means one row has millions of columns. 
+Rows are emphasized, even if it means one row has millions of columns. They're never split across regions, as HBase only supports single-row transactions. 
 ### Custom types
 ```
 cass.execute("""
