@@ -25,4 +25,7 @@ This leads them to create their own version of Jones's statement:
 
 ## Forms of Opacity
 
+The authors decompose algorithm opacity into four forms:
+1. 
+
 ### Quotes
