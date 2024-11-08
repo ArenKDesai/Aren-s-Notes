@@ -39,7 +39,7 @@ grounds that the data constitutes proprietary information, the result is a kind 
 
 ## Opacity and Trustworthiness
 
-This opacity in the the algorithms can lead to public distrust in the policing system, and due to said opacity, it is almost impossible to analyze these systems to conclude either no wrong-doing or malpracti
+This opacity in the the algorithms can lead to public distrust in the policing system, and due to said opacity, it is almost impossible to analyze these systems to conclude either no wrong-doing or malpractice at play. 
 
 ### Quotes
 
