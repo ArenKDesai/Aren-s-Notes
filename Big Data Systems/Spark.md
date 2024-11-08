@@ -120,7 +120,7 @@ GROUP BY Call_Type
 Tables are transferred over the network, and data is grouped individually on partitions. Each table goes over the network once. 
 
 ### Broadcast Hash Join
-One of the tables is smaller than the other. 
+One of the tables is smaller than the other. This table can fit in memory, so it is bro
 
 # Spark Machine Learning
 ```{Python}
