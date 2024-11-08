@@ -48,3 +48,6 @@ In addition, the authors point out that there is little evidence to prove that t
 - If discrimination or unfairness can be addressed without overcoming opacity, then we have overstated the threat to trustworthiness that opacity poses. But addressing discrimination without overcoming opacity assumes that we can identify sources of unfairness simply by evaluating the outcomes an algorithmic system produces (16). 
 - Discrimination, at least in part, depends upon treatment. That is, in addition to whether outcomes are unequal or suggestive of discrimination, it also matters whether individuals’ interests were not equally considered, discounted, or other relevant constraints were violated in the process leading to a determination. And, crucially, this is something that cannot be understood merely by looking at outcomes: we need to understand how the outcomes were produced, which requires access to the inner workings of the algorithm (16). 
 - Indeed, the algorithmic systems are largely intended to override whatever expertise the individual official has (17). 
+
+## Trust, Trustworthiness, and Legitimacy
+
