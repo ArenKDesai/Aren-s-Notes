@@ -28,7 +28,7 @@ This leads them to create their own version of Jones's statement:
 The authors decompose algorithm opacity into four forms:
 1. Proprietary: algorithm code may not be made publicly available
 2. Technical: understanding the code is a specialized skill that the general public does not possess
-3. Fundamental opacity: the decision procedures of machine learning algorithms resist interpretation
-4. algorithmic systems 
+3. Fundamental: the decision procedures of machine learning algorithms resist interpretation
+4. Implementation
 
 ### Quotes
