@@ -32,3 +32,9 @@ The authors decompose algorithm opacity into four forms:
 4. Implementation: secrecy is kept as a competitive advantage. 
 
 ### Quotes
+
+- When algorithms used by the police or courts are protected from scrutiny on the
+grounds that the data constitutes proprietary information, the result is a kind of opacity that not
+only frustrates the accused’s ability to verify that their treatment was fair and appropriate, but also
+weakens the general public’s ability to have faith in the deployment of such methods in society more
+broadly
