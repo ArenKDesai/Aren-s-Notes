@@ -16,3 +16,4 @@ In this paper we raise a novel moral concern with algorithmic opacity, one that 
 - The authors examine an argument by Karen Jones on the "three-place" account of trustworthiness and whether it applies to the trust between an institution and a user, rather than two people (and a domain of interaction). 
 
 ### Quotes
+- If being trustworthy requires taking the fact of another’s dependence to be a reason to act as counted on, then being trustworthy seems to require the possession of a capacity to respond to facts as reasons.
