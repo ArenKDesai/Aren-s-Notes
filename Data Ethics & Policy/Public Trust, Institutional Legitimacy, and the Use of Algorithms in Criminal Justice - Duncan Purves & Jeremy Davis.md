@@ -51,6 +51,8 @@ In addition, the authors point out that there is little evidence to prove that t
 
 ## Trust, Trustworthiness, and Legitimacy
 
+The authors use the terms *descriptive* and *normative*, just like those used to 
+
 ### Quotes
 
 - According to the conception of legitimacy commonly deployed among social scientists, the legitimacy of criminal justice institutions is nothing over and above the attitudes or judgments of those subject to it (Tyler 2006; Tyler and Huo 2002; Tyler and Jackson 2014). We call accounts of legitimacy that adopt this conception of legitimacy *descriptive*, because they are not concerned with providing a moral justification of the authority of criminal justice institutions (19). 
