@@ -1,5 +1,5 @@
 
-Column-oriented and non-relational in sparse tables. Data is indexed with a unique row key. Data is kept in memory until large, then written to disk in one large write. 
+Column-oriented and non-relational in sparse tables. Data is indexed with a unique row key. Data is kept in memory until large, then written to disk in one large write. HBase is layered on HDFS. 
 
 No boss node, many workers. Clusters are *rings* due to adjacency. Ring organization doesn't have to adhere to network topology. 
 Inserts are *upserts* since they also update. 
