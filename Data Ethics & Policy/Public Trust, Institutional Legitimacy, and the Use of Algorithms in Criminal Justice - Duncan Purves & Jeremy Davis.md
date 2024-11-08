@@ -1,6 +1,7 @@
 #LIS461 #Ethics #Philosophy
 
 ## Thesis
+
 In this paper we raise a novel moral concern with algorithmic opacity, one that arises from the relationship between algorithmic opacity and the trustworthiness of criminal justice institutions. In particular, we argue that algorithmic opacity can undermine the trustworthiness of criminal justice institutions, which threatens their legitimacy. This problem can persist even when predictive algorithms satisfy reasonable standards of fairness and when they are more accurate than humans in the same domain (3). 
 
 ## Intro
