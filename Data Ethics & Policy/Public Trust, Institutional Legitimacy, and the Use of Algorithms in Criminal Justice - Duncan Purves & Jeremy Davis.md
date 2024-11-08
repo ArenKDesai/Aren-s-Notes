@@ -64,6 +64,4 @@ The authors use the terms *descriptive* and *normative*, just like those used to
 
 ### Quotes
 
-- One possibility is to require, by law, that all algorithmic systems be open for audits by third-parties, while also retaining broad intellectual property rights. Another possibility is to require by law that public institutions, like courts and police departments,
-only purchase and use algorithmic systems that are able to be audited. This would create clear
-market incentives for companies making these systems to comply with such audits.
+- One possibility is to require, by law, that all algorithmic systems be open for audits by third-parties, while also retaining broad intellectual property rights. Another possibility is to require by law that public institutions, like courts and police departments, only purchase and use algorithmic systems that are able to be audited. This would create clear market incentives for companies making these systems to comply with such audits (25). 
