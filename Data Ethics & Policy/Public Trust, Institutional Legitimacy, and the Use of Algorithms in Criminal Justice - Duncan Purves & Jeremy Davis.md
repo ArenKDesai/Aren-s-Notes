@@ -45,3 +45,6 @@ This opacity in the the algorithms can lead to public distrust in the policing s
 
 - It is not merely the absence of publicly available training or output data that makes investigation impossible. It is that conducting such an investigation requires knowledge of advanced statistical techniques that few possess. Thus, opacity enables discrimination masking (15). 
 - If discrimination or unfairness can be addressed without overcoming opacity, then we have overstated the threat to trustworthiness that opacity poses. But addressing discrimination without overcoming opacity assumes that we can identify sources of unfairness simply by evaluating the outcomes an algorithmic system produces (16). 
+- Discrimination, at least in part, depends upon treatment. That is, in addition to whether outcomes are unequal or suggestive of discrimination, it also matters whether individuals’ interests were not equally considered, discounted, or other relevant constraints were violated in the process leading to a determination. And, crucially, this is something that cannot be understood
+merely by looking at outcomes: we need to understand how the outcomes were produced, which
+requires access to the inner workings of the algorithm.
