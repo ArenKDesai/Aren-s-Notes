@@ -17,6 +17,6 @@ The authors examine an argument by Karen Jones on the "three-place" account of t
 Jones's argument seems to hold on most counts, but fails when taking account whether institutions have the capacity to hold trust on the account of not having a direct motivational relationship to the person in question. 
 This leads them to create their own version of Jones's statement:
 	Institutional three-place trustworthiness: An institution I is trustworthy with respect to a
-subject S in domain of interaction D, if and only if I is competent with respect to D, and I is
+	subject S in domain of interaction D, if and only if I is competent with respect to D, and I is
 ### Quotes
 - If being trustworthy requires taking the fact of another’s dependence to be a reason to act as counted on, then being trustworthy seems to require the possession of a capacity to respond to facts as reasons.
