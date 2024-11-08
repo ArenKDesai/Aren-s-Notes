@@ -30,6 +30,7 @@ The authors decompose algorithm opacity into four forms:
 2. Technical: understanding the code is a specialized skill that the general public does not possess
 3. Fundamental: the decision procedures of machine learning algorithms resist interpretation
 4. Implementation: secrecy is kept as a competitive advantage. 
+It is concluded that 
 
 ### Quotes
 
@@ -38,7 +39,7 @@ grounds that the data constitutes proprietary information, the result is a kind 
 
 ## Opacity and Trustworthiness
 
-This opacity in the predicive a
+This opacity in the the algorithsm 
 
 ### Quotes
 
