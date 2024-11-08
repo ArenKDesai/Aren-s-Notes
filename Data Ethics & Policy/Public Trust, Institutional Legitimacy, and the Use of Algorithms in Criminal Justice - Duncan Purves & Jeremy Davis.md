@@ -19,4 +19,5 @@ This leads them to create their own version of Jones's statement:
 	**Institutional three-place trustworthiness**: An institution I is trustworthy with respect to a subject S in domain of interaction D, if and only if I is competent with respect to D, and I is non-accidentally responsive to the fact that S is counting on I, were S to do so in this domain, such that I functions as counted on.
 
 ### Quotes
-- If being trustworthy requires taking the fact of another’s dependence to be a reason to act as counted on, then being trustworthy seems to require the possession of a capacity to respond to facts as reasons.
+- If being trustworthy requires taking the fact of another’s dependence to be a reason to act as counted on, then being trustworthy seems to require the possession of a capacity to respond to facts as reasons (6).
+- An institution’s trustworthiness is not merely a function of the aggregate trustworthiness of its individual members; the structures in place within the institution, which may exist independently of our assessments of any one individual’s trustworthiness, are also a significant factor in the trustworthiness of the institution
