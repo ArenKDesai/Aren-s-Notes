@@ -26,6 +26,7 @@ This leads them to create their own version of Jones's statement:
 ## Forms of Opacity
 
 The authors decompose algorithm opacity into four forms:
-1. Proprietary: algorithm code may
+1. Proprietary: algorithm code may not be made publicly available
+2. Technical: understa
 
 ### Quotes
