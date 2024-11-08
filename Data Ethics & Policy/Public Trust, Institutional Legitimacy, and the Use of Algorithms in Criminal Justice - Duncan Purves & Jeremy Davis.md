@@ -38,6 +38,8 @@ grounds that the data constitutes proprietary information, the result is a kind 
 
 ## Opacity and Trustworthiness
 
+This opacity in the predicive a
+
 ### Quotes
 
 - It is not merely the absence of publicly available training or output data that makes investigation impossible. It is that conducting such an investigation requires knowledge of advanced statistical techniques that few possess. Thus, opacity enables discrimination masking (15). 
