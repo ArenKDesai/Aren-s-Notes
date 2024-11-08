@@ -59,3 +59,11 @@ The authors use the terms *descriptive* and *normative*, just like those used to
 - ...when trust is absent, this can erode trustworthiness by eroding the competence of law enforcement. In other words, while the attitudes of those subject to an institution’s authority are not constitutive of the institution’s trustworthiness, they are instrumentally important because they affect behaviors that can, in many cases, hinder the institution’s competence, and thus, a decline in its trustworthiness (20). 
 - A recent poll found that 48% of African-Americans report having very little or no confidence at all in local police to treat Blacks and whites equally; only 12% of whites felt the same way (Santhanam 2020). Furthermore, despite the promise of diminished bias in policing, the use of algorithms by law enforcement has also resulted in many troubling instances, ranging from mistaken facial recognition to harassment and abuse by police officers (Angwin et al. 2016; McGrory and Bedi 2020) (20). 
 - An institution’s normative legitimacy concerns the justification of its distinctive authority (21). 
+
+## Conclusion
+
+### Quotes
+
+- One possibility is to require, by law, that all algorithmic systems be open for audits by third-parties, while also retaining broad intellectual property rights. Another possibility is to require by law that public institutions, like courts and police departments,
+only purchase and use algorithmic systems that are able to be audited. This would create clear
+market incentives for companies making these systems to comply with such audits.
