@@ -44,5 +44,4 @@ This opacity in the the algorithms
 ### Quotes
 
 - It is not merely the absence of publicly available training or output data that makes investigation impossible. It is that conducting such an investigation requires knowledge of advanced statistical techniques that few possess. Thus, opacity enables discrimination masking (15). 
-- If discrimination or unfairness can be addressed without overcoming opacity, then we have overstated the threat to trustworthiness that opacity poses. But addressing discrimination without overcoming opacity assumes that we can identify sources of unfairness simply by evaluating the
-outcomes an algorithmic system produces.
+- If discrimination or unfairness can be addressed without overcoming opacity, then we have overstated the threat to trustworthiness that opacity poses. But addressing discrimination without overcoming opacity assumes that we can identify sources of unfairness simply by evaluating the outcomes an algorithmic system produces (16). 
