@@ -51,7 +51,7 @@ In addition, the authors point out that there is little evidence to prove that t
 
 ## Trust, Trustworthiness, and Legitimacy
 
-The authors use the terms *descriptive* and *normative*, just like those used to describe the science disciplines, to describe legitimacy. 
+The authors use the terms *descriptive* and *normative*, just like those used to describe the science disciplines, to describe types of legitimacy. Descriptive legi
 
 ### Quotes
 
