@@ -40,6 +40,7 @@ grounds that the data constitutes proprietary information, the result is a kind 
 ## Opacity and Trustworthiness
 
 This opacity in the the algorithms can lead to public distrust in the policing system, and due to said opacity, it is almost impossible to analyze these systems to conclude either no wrong-doing or malpractice at play. The authors also mention *compounding injustice*, the case that algorithms may mark a marginalized group due to uncontrollable circumstances. 
+In addition, the authors point out that there is little evidence to prove that the algorithms have 
 
 ### Quotes
 
