@@ -24,3 +24,5 @@ This leads them to create their own version of Jones's statement:
 - An institution’s trustworthiness is not merely a function of the aggregate trustworthiness of its individual members; the structures in place within the institution, which may exist independently of our assessments of any one individual’s trustworthiness, are also a significant factor in the trustworthiness of the institution (8). 
 
 ## Forms of Opacity
+
+### Quotes
