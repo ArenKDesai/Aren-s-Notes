@@ -2,6 +2,7 @@
 
 ### Basic Commands
 ```{Python}
-from sqlalchemy import 
+from sqlalchemy import create_engine, text
+engine = create
 ```
 show tables -> shows all tables in mysql databse
