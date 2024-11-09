@@ -38,7 +38,10 @@ Shuffle Phase
 - ORDER BY, GROUP BY, JOIN
 Reduce Phase
 - SELECT, AGGREGATE, HAVING, JOIN
+## Reducers
+Reducers combine the output of multiple mappers to a single file. MapReduce shuffles the data, brings together intermediate outputs from mappers with the same key. All data with the same key is passed to a single reduce call. 
 
+Each reduce task produces one output file. A reduce task might take multiple keys. A single reduce call takes a single key and all corresponding values. All intermediate rows with the same key go to the same reducer. 
 ## Data Locality
 Goal: Avoid network transfers
 
@@ -47,7 +50,3 @@ HDFS DataNodes and MapReduce executor run on the same machines, on the same clus
 ## Pipelines: Sequence of Map reduce Jobs
 HDFS files get sent to Mapping jobs into reduce jobs into HDFS files, and the cycle continues. Intermediate transfers can screw over optimization algorithms, so [[Spark]] is needed to fix this. 
 
-## Reducers
-Reducers combine the output of multiple mappers to a single file. MapReduce shuffles the data, brings together intermediate outputs from mappers with the same key. All data with the same key is passed to a single reduce call. 
-
-Each reduce task produces one output file. A reduce task might take multiple keys. A single reduce call takes a single key and all corresponding values. All intermediate rows with the same key go to the same reducer. 
