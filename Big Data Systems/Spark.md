@@ -11,6 +11,8 @@ Data lineage comes in the form of two types of functions:
 1. Transformation: create a new RDD (parallelize, map, filter, etc)
 2. Action: perform all operations in the graph to get an actual result (collect, etc)
 
+RDDs run on the grandularity of *tasks*, which run on a single CPU core and opera
+
 When you write an RDD that does a transformation, no actual work is done immediately. An action has to be called first, such as collect. ex:
 
 ![[Screenshot from 2024-10-21 11-05-50.png]]
