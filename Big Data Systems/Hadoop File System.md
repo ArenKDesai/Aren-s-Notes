@@ -33,4 +33,6 @@ with hdfs.open_input_file("/data/v2.txt") as f:
 	for line in reader:
 		print(line, end="")
 ```
-## Main Hadoop Operation
+## Hadoop Operations
+
+You can run shell commna
