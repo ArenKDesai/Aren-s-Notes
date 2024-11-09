@@ -1,4 +1,4 @@
 #CS544 #UWMadison #MySQL #SQL 
 
 ### Basic Commands
-show tables -> s
+show tables -> shows all tables in mysql databse
