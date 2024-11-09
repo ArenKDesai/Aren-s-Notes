@@ -46,3 +46,5 @@ HDFS DataNodes and MapReduce executor run on the same machines, on the same clus
 
 ## Pipelines: Sequence of Map reduce Jobs
 HDFS files get sent to Mapping jobs into reduce jobs into HDFS files, and the cycle continues. Intermediate transfers can screw over optimization algorithms, so [[Spark]] is needed to fix this. 
+
+## Reducers
