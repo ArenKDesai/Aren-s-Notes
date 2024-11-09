@@ -32,4 +32,4 @@ with hdfs.open_input_file("/data/v2.txt") as f:
 	reader = io.TextIOWrapper(io.BufferedReader(f))
 	for line in reader:
 		print(line, end="")
-	``
+```
