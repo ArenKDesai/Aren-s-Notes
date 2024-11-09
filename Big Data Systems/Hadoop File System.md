@@ -15,6 +15,7 @@ BigTable is the database
 
 ## Hadoop File System
 Multiple DataNode Computers (one DataNode computer can be multiple hard drives) partitioned into blocks. Files are split into these blocks. 
+
 Files get replicated with a replication number in case a server dies. 
 When a file gets replicated, each data node will take the burden to send it to the next datanode. 
 
@@ -29,5 +30,4 @@ with hdfs.open_input_file("/data/v2.txt") as f:
 	reader = io.TextIOWrapper(io.BufferedReader(f))
 	for line in reader:
 		print(line, end="")
-```
-
+``
