@@ -9,6 +9,6 @@ conn.connect()
 conn.execute(text("update accounts set amount=amount-1 where name='a'"))
 
 conn.commit()
-# or conn
+# or conn.rollback()
 ```
 show tables; -> shows all tables in mysql databse
