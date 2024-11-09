@@ -2,7 +2,7 @@
 
 Spark combines the [[Map Reduce]] pipeline (map and reduce) into one large operation. 
 
-### Resilient Distributed Datasets
+### Resilient Distributed Datasets (RDDs)
 - data lineage: record series of operations on other data necessary to obtain results
 - lazy evaluation: computation only done when results needed
 - immutabilty
