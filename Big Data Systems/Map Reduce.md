@@ -49,3 +49,5 @@ HDFS files get sent to Mapping jobs into reduce jobs into HDFS files, and the cy
 
 ## Reducers
 Reducers combine the output of multiple mappers to a single file. MapReduce shuffles the data, brings together intermediate outputs from mappers with the same key. All data with the same key is passed to a single reduce call. 
+
+Each redu
