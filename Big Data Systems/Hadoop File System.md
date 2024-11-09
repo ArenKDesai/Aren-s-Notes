@@ -19,6 +19,8 @@ Multiple DataNode Computers (one DataNode computer can be multiple hard drives) 
 Files get replicated with a replication number in case a server dies. 
 When a file gets replicated, each data node will take the burden to send it to the next datanode. 
 
+The name nodes ar e
+
 Use PyArrow to read Hadoop files.
 ```
 import pyarrow as pa
