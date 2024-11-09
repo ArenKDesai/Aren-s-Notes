@@ -3,6 +3,6 @@
 ### Basic Commands
 ```{Python}
 from sqlalchemy import create_engine, text
-engine = create
+engine = create_engine("mysql+mysqlconnector://root:abc127.0..0.1:3306)
 ```
 show tables -> shows all tables in mysql databse
