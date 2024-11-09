@@ -35,4 +35,4 @@ with hdfs.open_input_file("/data/v2.txt") as f:
 ```
 ## Hadoop Operations
 
-You can run shell commna
+You can run shell commands with hdfs dfs -{command} to iter
