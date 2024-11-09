@@ -48,4 +48,4 @@ HDFS DataNodes and MapReduce executor run on the same machines, on the same clus
 HDFS files get sent to Mapping jobs into reduce jobs into HDFS files, and the cycle continues. Intermediate transfers can screw over optimization algorithms, so [[Spark]] is needed to fix this. 
 
 ## Reducers
-Reducers combine the output of multiple mappers to a single file. MapReduce shuffles the data, brings together intermediate outputs from mappers with th
+Reducers combine the output of multiple mappers to a single file. MapReduce shuffles the data, brings together intermediate outputs from mappers with the same key. All data with the same key 
