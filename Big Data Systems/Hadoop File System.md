@@ -37,5 +37,5 @@ with hdfs.open_input_file("/data/v2.txt") as f:
 
 You can run shell commands with hdfs dfs -{command} to interact with the datanodes. Ex:
 ```
-hdfs dfs -cp /hadoop-3.3.
+hdfs dfs -cp /hadoop-3.3.6/LISCENSE.txt
 ```
