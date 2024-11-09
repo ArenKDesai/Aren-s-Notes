@@ -30,7 +30,10 @@ def reduce(key, values):
 		count += 1
 	emit(key, count)
 ```
+## Reducers
+Reducers combine the output of multiple mappers to a single file. MapReduce shuffles the data, brings together intermediate outputs from mappers with the same key. All data with the same key is passed to a single reduce call. 
 
+Each reduce task produces one output file. A reduce task might take multiple keys. A single reduce call takes a single key and all corresponding values. All intermediate rows with the same key go to the same reducer. 
 ## Overview
 Map Phase
 - SELECT, WHERE, GROUP BY, JOIN
@@ -38,10 +41,7 @@ Shuffle Phase
 - ORDER BY, GROUP BY, JOIN
 Reduce Phase
 - SELECT, AGGREGATE, HAVING, JOIN
-## Reducers
-Reducers combine the output of multiple mappers to a single file. MapReduce shuffles the data, brings together intermediate outputs from mappers with the same key. All data with the same key is passed to a single reduce call. 
 
-Each reduce task produces one output file. A reduce task might take multiple keys. A single reduce call takes a single key and all corresponding values. All intermediate rows with the same key go to the same reducer. 
 ## Data Locality
 Goal: Avoid network transfers
 
