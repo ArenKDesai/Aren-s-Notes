@@ -10,7 +10,7 @@ Given a bipartite graph $G$,
 If we know we can solve the optimization problem, we can solve the decision problem. This is reversible (if you run the decision problem many times on a linear or binary search). 
 Thus, we can go between optimization problems and decision problems without worrying if one implies the other. 
 
-### Polynomial Time Reductions
+## Polynomial Time Reductions
 Formal notation: $Y\leq_p X$.
 
 Run an instance in Y through a reduction, it outputs a sub-instance in X. The idea is to have a *black box solver* for X that gives us a solution for the sub-instance in X, and that implies a solution for the instance in Y. 
@@ -20,3 +20,5 @@ There can be multiple instances in X to solve for the instance in Y, but we will
 The reduction solution must cover every possible instance of Y, but does not need to cover every instance of X. 
 
 X is at least as hard as Y. This contrapositive can prove that Y can or can't be solved in polynomial time. 
+
+### i
