@@ -8,3 +8,4 @@ Given a bipartite graph $G$,
 *Optimization*: Find the largest matching. 
 *Decision*: Is there a matching of size $\geq k$?
 If we know we can solve the optimization problem, we can solve the decision problem. This is reversible (if you run the decision problem many times on a linear or binary search). 
+Thus, we can go between optimization problems and decision problems without worrying if one implies the oth
