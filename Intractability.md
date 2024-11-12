@@ -31,4 +31,4 @@ Proof: If $S$ is an independent set, then for any edge, at most one of the two e
 
 From the above theorem, if we find the max independent set, the complement would be the minimum vertex cover. 
 
-Finding an independent set is a packing problem
+Finding an independent set is a packing problem, while finding a vertex cover is an
