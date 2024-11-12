@@ -32,4 +32,4 @@ Proof: If $S$ is an independent set, then for any edge, at most one of the two e
 From the above theorem, if we find the max independent set, the complement would be the minimum vertex cover. 
 
 ### Set Cover (SC)
-You have a universe $U$ of elements. There are $m$ subsets $S_m$ in $U$, and we want to find a collection of at most $k$ of the subsets 
+You have a universe $U$ of elements. There are $m$ subsets $S_m$ in $U$, and we want to find a collection of at most $k$ of the subsets whose unions equal $U$. 
