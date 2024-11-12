@@ -11,4 +11,4 @@ If we know we can solve the optimization problem, we can solve the decision prob
 Thus, we can go between optimization problems and decision problems without worrying if one implies the other. 
 
 ## Reductions
-Formal notation
+Formal notation: $Y\leq_p X$.
