@@ -40,4 +40,4 @@ Proof: we assume a black box solver for SC. $VC=G=(V,E)$. For each vertex, creat
 This is a generalization of vertex cover. 
 
 ### Set Packing (SP)
-Same universe as above. Does there exist a collection of at least $k$ subsets that don't intersect. 
+Same universe as above. Does there exist a collection of at least $k$ subsets that don't intersect?
