@@ -81,3 +81,6 @@ Connect all positive projects to a source, and all negative projects to a sink. 
 
 Proof:
 We know the min cut will create a set of jobs that is feasible due to the capacity on the edges. This means $c(A', B')=C-\sum_{i\in A}p_i$, which minimizes the cut which maximizes the profit. 
+
+## Min Cost
+We have a graph with units per edge, but costs per unit 
