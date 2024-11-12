@@ -72,3 +72,4 @@ Conservation: for each vertex, flow in - flow out is demand.
 **Observation**: If there is a feasible flow, then $\sum_{v \in V}d_v=0$. Also, $D=\sum_{v:d_v>0\in V}d_v=\sum_{v:d_v>0\in V}-d_v$. This is not an iff though. 
 
 Any problem that can be solved with circulation extension can also be solved with regular network flow with more difficulty. 
+
