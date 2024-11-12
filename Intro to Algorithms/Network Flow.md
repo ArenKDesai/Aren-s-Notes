@@ -77,4 +77,4 @@ Any problem that can be solved with circulation extension can also be solved wit
 
 Set of projects $P$ with benefits $p_i$ (could be negative). Some projects rely on other projects being completed. 
 We use min cut. In general, if you're trying to identify a subset of a graph, use min cut. 
-Connect all beginning projects to a source, and all ending projects to a sink. Cut the edges between the source and the beginning projects. 
+Connect all positive projects to a source, and all negative projects to a sink. Cut the edges between the source and the beginning projects. 
