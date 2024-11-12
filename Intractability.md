@@ -21,7 +21,7 @@ The reduction solution must cover every possible instance of Y, but does not nee
 
 X is at least as hard as Y. This contrapositive can prove that Y can or can't be solved in polynomial time. 
 
-### Independent Set <=> Vertex Cover
+### Min Vertex Cover (from Max Independent Set)
 if no two nodes in $S$ contain an edge, S is independent. 
 If every edge is incident to at least one node in $S$, $S$ has a vertex cover. 
 Given a graph $G$ and a number $k$, does $G$ contain an independent set of size $\geq k$? 
