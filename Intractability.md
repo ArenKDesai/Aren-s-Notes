@@ -27,3 +27,4 @@ If every edge is incident to at least one node in $S$, $S$ has a vertex cover.
 Given a graph $G$ and a number $k$, does $G$ contain an independent set of size $\geq k$? 
 
 The nodes that aren't selected for an independent set form the vertex cover. 
+Proof: 
