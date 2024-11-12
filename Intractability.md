@@ -7,4 +7,4 @@ Most of the previous algos problems have been optimization problems. We will now
 Given a bipartite graph $G$, 
 *Optimization*: Find the largest matching. 
 *Decision*: Is there a matching of size $\geq k$?
-If we know we can solve the optimization problem, we can solve the decision problem. This is reversible (if you run the decision problem many times on a linea)
+If we know we can solve the optimization problem, we can solve the decision problem. This is reversible (if you run the decision problem many times on a linear or binary search). 
