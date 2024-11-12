@@ -37,4 +37,4 @@ You have a universe $U$ of elements. There are $m$ subsets $S_m$ in $U$, and we 
 Theorem: $VC \leq_p SC$. 
 Proof: we assume a black box solver for SC. $VC=G=(V,E)$. For each vertex, create a set consisting of each edge incident to $v$. This creates a direct correspondence between VC and SC.
 
-### Set
+### Set Packing (SP)
