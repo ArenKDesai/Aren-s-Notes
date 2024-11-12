@@ -6,4 +6,4 @@ NP problems are categorized in NP-hard and NP-complete.
 Most of the previous algos problems have been optimization problems. We will now analyze decision problems, where there is a binary yes/no answer. For example:
 Given a bipartite graph $G$, 
 *Optimization*: Find the largest matching. 
-*Decision*: Is there a matching of size $\geq
+*Decision*: Is there a matching of size $\geq k$?
