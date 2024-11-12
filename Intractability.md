@@ -17,3 +17,4 @@ Run an instance in Y through a reduction, it outputs a sub-instance in X. The id
 In other words, $I\in Y => I' \in X$, and $solution(I') => solution(I)$. 
 There can be multiple instances in X to solve for the instance in Y, but we will focus on 1-1 solutions. 
 
+The reduction solution must cover every 
