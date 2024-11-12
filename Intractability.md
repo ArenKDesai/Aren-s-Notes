@@ -18,3 +18,5 @@ In other words, $I\in Y => I' \in X$, and $solution(I') => solution(I)$.
 There can be multiple instances in X to solve for the instance in Y, but we will focus on 1-1 solutions. 
 
 The reduction solution must cover every possible instance of Y, but does not need to cover every instance of X. 
+
+X is at least as 
