@@ -28,3 +28,5 @@ Given a graph $G$ and a number $k$, does $G$ contain an independent set of size 
 
 The nodes that aren't selected for an independent set form the vertex cover. 
 Proof: If $S$ is an independent set, then for any edge, at most one of the two endpoints belong to $S$ (def of independent set), so everything else left over have to contain at least one of the two endpoints. 
+
+From the above theorem, if we find the max independent set, the complement would be the minimum vertex cover. 
