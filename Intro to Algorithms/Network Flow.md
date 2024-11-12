@@ -73,3 +73,6 @@ Conservation: for each vertex, flow in - flow out is demand.
 
 Any problem that can be solved with circulation extension can also be solved with regular network flow with more difficulty. 
 
+## Project Selection
+
+Set of projects $P$ with 
