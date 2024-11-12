@@ -13,5 +13,6 @@ Thus, we can go between optimization problems and decision problems without worr
 ### Reductions
 Formal notation: $Y\leq_p X$.
 
-Run an instance in Y through a reduction, it outputs a sub-instance in X. The idea is to have a black box solver for X that gives us a solution for the sub-instance in X, and that implies a solution for the instance in Y. 
+Run an instance in Y through a reduction, it outputs a sub-instance in X. The idea is to have a *black box solver* for X that gives us a solution for the sub-instance in X, and that implies a solution for the instance in Y. 
 In other words, $I\in Y => I' \in X$, and $solution(I') => solution(I)$. 
+
