@@ -13,3 +13,4 @@ Thus, we can go between optimization problems and decision problems without worr
 ### Reductions
 Formal notation: $Y\leq_p X$.
 
+Run an instance
