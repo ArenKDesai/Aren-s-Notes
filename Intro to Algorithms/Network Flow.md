@@ -80,4 +80,4 @@ We use min cut. In general, if you're trying to identify a subset of a graph, us
 Connect all positive projects to a source, and all negative projects to a sink. Cut the edges between the source and the beginning projects. 
 
 Proof:
-We know the min cut will create a set of jobs that is feasible due to the capacity on the edges. This means $c(A', B')=C-\sum_{i\in A}p_i$, whi
+We know the min cut will create a set of jobs that is feasible due to the capacity on the edges. This means $c(A', B')=C-\sum_{i\in A}p_i$, which minimizes the min cut which maximizes 
