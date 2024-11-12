@@ -86,4 +86,4 @@ We know the min cut will create a set of jobs that is feasible due to the capaci
 We have a graph with units per edge, but costs per unit of flow on an edge. We are going to find maximum flow graphs, but now we want to select the minimum cost from those maximum flows. 
 
 ### Greedy Approach
-Initialize $f(e)=0$ for all edges, find augmenting edges, and update flow with the bottleneck along $P$ (augmenting path). We use Bellman Ford (although it's slower than Dijkstra's). This is because 
+Initialize $f(e)=0$ for all edges, find augmenting edges, and update flow with the bottleneck along $P$ (augmenting path). We use Bellman Ford (although it's slower than Dijkstra's). This is because we know there won't be negative cycles. 
