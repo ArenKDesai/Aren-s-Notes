@@ -21,4 +21,4 @@ The reduction solution must cover every possible instance of Y, but does not nee
 
 X is at least as hard as Y. This contrapositive can prove that Y can or can't be solved in polynomial time. 
 
-### i
+### Independent Set <=> Vertex Cover
