@@ -19,4 +19,4 @@ There can be multiple instances in X to solve for the instance in Y, but we will
 
 The reduction solution must cover every possible instance of Y, but does not need to cover every instance of X. 
 
-X is at least as hard as Y. This contraposi
+X is at least as hard as Y. This contrapositive can prove that 
