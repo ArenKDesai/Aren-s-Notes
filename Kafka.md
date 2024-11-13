@@ -1,3 +1,3 @@
 #UWMadison #CS544 
 
-Most forms of communication are 
+Most forms of programmatical communication are synchronous
