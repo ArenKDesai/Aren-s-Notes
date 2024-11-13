@@ -22,6 +22,8 @@ Messages are partially ordered, which means they can sometimes be compared like 
 ### Poll
 The consumer's poll function returns batches when there's either enough data or there's a timeout. The batches contain some subset of partitions, and there's some number of messages in a partition, starting at the offset. Offsets are saved as the value from a dict of origins (like clicks). 
 
+The consumer 
+
 ex:
 ```Python
 batch = consumer.poll(1000)
