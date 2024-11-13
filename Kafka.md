@@ -12,4 +12,5 @@ Consumer message receiving typically run a ```poll()``` loop permanently. This l
 ### Messages
 Parts:
 - key (optional): some bytes
-- value (required): some boyte
+- value (required): some bytes
+
