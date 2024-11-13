@@ -15,3 +15,5 @@ Parts:
 - value (required): some bytes
 
 The value is typically a data structure with many values, like a dict. Protocol buffers from [[gRPC]] could be used to process these messages as well. 
+
+When the producers produce a message, the 
