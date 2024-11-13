@@ -10,3 +10,5 @@ Kafka topics are managed by brokers (servers) that receive messages from produce
 Consumer message receiving typically run a ```poll()``` loop permanently. This loop processes the new data. 
 
 ### Messages
+Parts:
+- key (optional)
