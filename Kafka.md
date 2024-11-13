@@ -26,5 +26,6 @@ ex:
 batch = consumer.poll(1000)
 for topic, messages in batch.items():
 	print("partition", topic.partition)
-		
+	for msg in messages:
+		print(msg.value)
 ```
