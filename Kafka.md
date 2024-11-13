@@ -35,4 +35,4 @@ for topic, messages in batch.items():
 ### Partitions
 In each partition (group), we need to know which consumers are in charge of which offsets. This can be a manual assignment with code, or Kafka could be asked to do this automatically. In this case, Kafka assigns consumers partitions when they start polling. 
 
-When a consumer exits or a consumer is grabbing batches, the 
+When a consumer exits or a consumer is grabbing batches, the offset alignments change. 
