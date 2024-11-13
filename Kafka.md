@@ -37,4 +37,4 @@ In each partition (group), we need to know which consumers are in charge of whic
 
 When a consumer exits or a consumer is grabbing batches, the offset alignments change. 
 
-When a segment gets old, it can be deleted. This is done from the "left" (in queue terms), and never from the "right" or middle. 
+When a segment gets old, it can be deleted. This is done from the "left" (in queue terms), and never from the "right" or middle. Rollover and retention policies are configurable, but they can be set to size, time, etc. 
