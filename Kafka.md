@@ -22,7 +22,7 @@ When messages are written, it might contain only a value, in which case the prod
 The consumer's poll function returns batches when there's either enough data or there's a timeout. The batches contain some subset of partitions, and there's some number of messages in a partition, starting at the offset. 
 
 ex:
-```
+```Python
 batch = consumer.poll(1000)
 for topic, messages in batch.items():
 	print("partition", topic.partition)
