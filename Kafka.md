@@ -37,4 +37,4 @@ In each partition (group), we need to know which consumers are in charge of whic
 
 When a consumer exits or a consumer is grabbing batches, the offset alignments change. 
 
-When a segment gets old, it can be deleted
+When a segment gets old, it can be deleted. This is done from the "left" (in queue terms), and never from the "ri"
