@@ -24,5 +24,7 @@ The consumer's poll function returns batches when there's either enough data or 
 ex:
 ```
 batch = consumer.poll(1000)
-for topic, messages in batch.items()
+for topic, messages in batch.items():
+	print("partition", topic.partition)
+		
 ```
