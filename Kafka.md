@@ -5,4 +5,4 @@ Most forms of program communication are synchronous, where both parties have to 
 Kafka is a system to manage a complex system of I/O subsystems, considered a logging system. 
 
 ### Topics
-Kafka topics are managed by brokers
+Kafka topics are managed by brokers (servers) that 
