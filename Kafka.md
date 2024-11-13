@@ -1,3 +1,3 @@
 #UWMadison #CS544 
 
-Most forms of programmatical communication are synchronous
+Most forms of program communication are synchronous, where both parties have to be ready
