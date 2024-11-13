@@ -19,4 +19,4 @@ The value is typically a data structure with many values, like a dict. Protocol 
 When messages are written, it might contain only a value, in which case the producer rotates between partitions. This is called a **round-robin policy**. If the message has a key, the key can be hashed, and the same keys will go to the same partition. 
 
 ### Poll
-The consumer's poll function returns batches when there's either enough data or there's a timeout. The batches contain
+The consumer's poll function returns batches when there's either enough data or there's a timeout. The batches contain some subset of partitions, and there's some numbre of message
