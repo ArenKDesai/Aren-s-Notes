@@ -14,4 +14,4 @@ Parts:
 - key (optional): some bytes
 - value (required): some bytes
 
-The value is typically a data 
+The value is typically a data structure with many values, like a dict. 
