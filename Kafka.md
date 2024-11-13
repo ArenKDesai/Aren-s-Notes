@@ -16,4 +16,4 @@ Parts:
 
 The value is typically a data structure with many values, like a dict. Protocol buffers from [[gRPC]] could be used to process these messages as well. 
 
-When messages are written, it might contain only a value, in which case the producer rotates between partitions. This is called a round-robin policy. 
+When messages are written, it might contain only a value, in which case the producer rotates between partitions. This is called a **round-robin policy**. If the message ha
