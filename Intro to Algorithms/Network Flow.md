@@ -41,7 +41,7 @@ Steps:
 3. augment path
 
 ## Bipartite Matching
-Separate the problem into two layers. Set up one source node to one layer, and a 
+Separate the problem into two layers. Set up one source node to one layer, and a sink node to the other. Then, configure the capacities of t
 
 ## Edge-Disjoint Paths
 
