@@ -40,7 +40,7 @@ Steps:
 2. compute the bottleneck
 3. augment path
 
-## Bipartite Maching
+## Bipartite Matching
 
 
 ## Edge-Disjoint Paths
