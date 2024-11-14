@@ -41,7 +41,7 @@ Steps:
 3. augment path
 
 ## Bipartite Matching
-
+Separate the problem into two layers. Set up one sink node t
 
 ## Edge-Disjoint Paths
 
