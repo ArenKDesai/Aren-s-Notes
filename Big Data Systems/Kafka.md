@@ -43,5 +43,5 @@ When a segment gets old, it can be deleted. This is done from the "left" (in que
 You have to format clusters before you start them. 
 
 ```Python
-from kafka import KafkaAdmin
+from kafka import KafkaAdminClient, KafkaProducer, KafkaConsumer
 ```
