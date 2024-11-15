@@ -53,7 +53,7 @@ from kafka.admin import NewTopic
 admin.create_topics([NewTopic("even_nums", replication_factor=1, num_partitions=1)])
 admin.create_topics([NewTopic("odd_nums", replication_factor=1, num_partitions=2)])
 # Producers
-
+producer = KafkaProducer(bootstrap_servers=[broker])
 # Consumers
 
 ```
