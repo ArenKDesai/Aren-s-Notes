@@ -50,7 +50,8 @@ broker = 'localhost:9092'
 admin = KafkaAdminClient(bootstrap_servers=[broker])
 # admin.list_topics()
 fr0k kafka.admin import NewTopic
-admin.create_topics([NewTopic("even_nums", replication_factor=1, num_partiti)])
+admin.create_topics([NewTopic("even_nums", replication_factor=1, num_partitions=1)])
+admin.create_topics([NewTopic("even_nums", replication_factor=1, num_partitions=1)])
 # Producers
 
 # Consumers
