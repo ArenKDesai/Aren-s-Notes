@@ -49,5 +49,6 @@ from kafka import KafkaAdminClient, KafkaProducer, KafkaConsumer
 
 # Producers
 
+# Consumers
 
 ```
