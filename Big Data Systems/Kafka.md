@@ -58,6 +58,5 @@ result = producer.send("even_nums", bytes(str(0), 'utf-8'))
 result.get()
 # Set up a function to publish to topics repeatly. watch threading...
 # Consumers
-
-
+consumer = KafkaConsumer(b)
 ```
