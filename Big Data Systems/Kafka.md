@@ -39,3 +39,4 @@ When a consumer exits or a consumer is grabbing batches, the offset alignments c
 
 When a segment gets old, it can be deleted. This is done from the "left" (in queue terms), and never from the "right" or middle. Rollover and retention policies are configurable, but they can be set to size, time, etc. 
 
+## Demo
