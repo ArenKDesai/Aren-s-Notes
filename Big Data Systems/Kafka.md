@@ -44,4 +44,10 @@ You have to format clusters before you start them.
 
 ```Python
 from kafka import KafkaAdminClient, KafkaProducer, KafkaConsumer
+
+# Brokers
+
+# Producers
+
+
 ```
