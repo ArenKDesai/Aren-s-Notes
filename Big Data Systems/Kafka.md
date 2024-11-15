@@ -59,5 +59,6 @@ result.get()
 # Set up a function to publish to topics repeatly. watch threading...
 # Consumers
 consumer = KafkaConsumer(bootstrap_server=[broker])
+from kafka import TopicPartition
 consumer.assign
 ```
