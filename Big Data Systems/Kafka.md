@@ -49,7 +49,8 @@ from kafka import KafkaAdminClient, KafkaProducer, KafkaConsumer
 broker = 'localhost:9092'
 admin = KafkaAdminClient(bootstrap_servers=[broker])
 # admin.list_topics()
-admincreate
+# admin.create_topics([])
+ad
 # Producers
 
 # Consumers
