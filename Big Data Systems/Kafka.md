@@ -63,4 +63,5 @@ from kafka import TopicPartition
 consumer.assign([TopicPartition("even_nums", 0)])
 consumer.assignment()
 batch = consumer.poll(1000)
+for topic_partition, messages in b
 ```
