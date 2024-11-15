@@ -46,6 +46,7 @@ You have to format clusters before you start them.
 from kafka import KafkaAdminClient, KafkaProducer, KafkaConsumer
 
 # Brokers
+broker = 'l'
 admin = KafkaAdminClient(bootstrap_servers=[])
 # Producers
 
