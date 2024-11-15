@@ -62,5 +62,5 @@ consumer = KafkaConsumer(bootstrap_server=[broker])
 from kafka import TopicPartition
 consumer.assign([TopicPartition("even_nums", 0)])
 consumer.assignment()
-consumer.
+batch = consumer.poll(1000)
 ```
