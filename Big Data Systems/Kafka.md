@@ -47,7 +47,8 @@ from kafka import KafkaAdminClient, KafkaProducer, KafkaConsumer
 
 # Brokers
 broker = 'localhost:9092'
-admin = KafkaAdminClient(bootstrap_servers=[])
+admin = KafkaAdminClient(bootstrap_servers=[broker])
+admin.list_topics()
 # Producers
 
 # Consumers
