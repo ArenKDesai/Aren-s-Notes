@@ -54,7 +54,8 @@ admin.create_topics([NewTopic("even_nums", replication_factor=1, num_partitions=
 admin.create_topics([NewTopic("odd_nums", replication_factor=1, num_partitions=2)])
 # Producers
 producer = KafkaProducer(bootstrap_servers=[broker])
-producer.send("even_nums", bytes(str(0), 'utf-8'))
+result = producer.send("even_nums", bytes(str(0), 'utf-8'))
+result.get()
 # Consumers
 
 ```
