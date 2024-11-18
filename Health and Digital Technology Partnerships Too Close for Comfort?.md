@@ -9,3 +9,5 @@ Corporations (such as big tech companies) also have shareholders to answer to, w
 
 ## Health and digital technology partnerships
 Big tech companies have recently made a lot of those partnerships. Google partnered with the University of Chicago Medical Center (and got sued) and aquired FitBit, Amazon aquired an online pharmaceutical distributor, and UCLA partnered with Microsoft Azure. 
+
+However, it is said that since health care data consitutes "Big Data", it can be used to train large machine learning models to improve patient health ca
