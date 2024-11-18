@@ -75,4 +75,4 @@ Certifier $B(s,t)$ for a problem $P$:
 - $s$ in an input instance of $P$.
 - $t$ is a certificate, a proof that $s$ is a yes-instance. 
 - Efficient:
-	- if the input is a yes-instance, for it to be a valid certifier, there must be a certificate that will make the algorithm return a 
+	- if the input is a yes-instance, for it to be a valid certifier, there must be a certificate that will make the algorithm return a yes-instance. 
