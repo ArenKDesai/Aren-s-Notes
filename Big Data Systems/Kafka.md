@@ -67,4 +67,4 @@ for topic_partition, messages in batch.itmes()
 ```
 
 ## Replication
-Replication 3 means that there will be 3 copies of a message. Each par
+Replication 3 means that there will be 3 copies of a message. Each partition has one leader and RF-1 follower replicas. 
