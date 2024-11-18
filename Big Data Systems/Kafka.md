@@ -74,4 +74,4 @@ If the leader fails, the controller broker (chosen w/ help of Zookeeper or KRaft
 If the number of concurrent broker failures < min.insync.replicas, then the committed data is safe. 
 The leader also never lets consumers consumer un-commited messages, in the case that the consumer consumes it, then the leader goes down before sending it to the followers. This means that consumer fetches and follower fetches are two different types of fetch requests. 
 
-Messages are idempotent if serializing the message multiple times just overwrites the data with the same messa
+Messages are idempotent if serializing the message multiple times just overwrites the data with the same message. Non-idemp
