@@ -86,3 +86,6 @@ Certifier $B(s,t)$ for a problem $P$:
 We define an efficient Certifier $B(s,t)$ which is a set of nodes $i$ ($|V|$ length), where if a node / element is set to 1, it means that node is a part of the set. Two steps:
 1. Verify that $|I| \geq k$
 2. Verify that $\forall u, v \in I, \forall (u,v) \in E$
+
+### Million Dollar Question
+Is P a proper subset of NP
