@@ -47,3 +47,4 @@ Same universe as above. Does there exist a collection of at least $k$ subsets th
 
 ### Satisfiability Problem (SAT)
 We have a set of boolean terms & literals $X:x_1,...,x_n$. $x_i$ is the variable, $\overline{x_i}$ is the negation. 
+A clause $C_j$ is the disjunction
