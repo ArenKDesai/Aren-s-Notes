@@ -5,4 +5,4 @@ Healthcare companies have been partnering with big tech companies like Google, A
 
 Improving propietary tools, such as improving algorithmic output with sensitive health data, can conflict with the goal of health-care, which is to focus on increasing the health of individuals and the public. 
 
-Corporations (such as big tech companies) also have shareholders to answer to, which is not the case for
+Corporations (such as big tech companies) also have shareholders to answer to, which is not the case for many healthcare companies. 
