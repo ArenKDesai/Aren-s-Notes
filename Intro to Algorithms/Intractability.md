@@ -46,7 +46,7 @@ This is a generalization of vertex cover.
 Same universe as above. Does there exist a collection of at least $k$ subsets that don't intersect?
 
 ### Satisfiability Problem (SAT)
-We have a set of boolean terms & literals $X:x_1,...,x_n$. $x_i$ is the variable, $\overline{x_i}$ is the negation. 
+We have a set of boolean terms & literals $X:x_1,...,x_n$. $x_i$ is the variable, $\bar{x_i}$ is the negation. 
 A clause $C_j$ is the disjunction of terms. A collection / conjunction $C$ is a group of clauses $C_1,...,C_n$. 
 The truth assignment function $v:X \to \{0,1\}$ assigns values to terms and returns the conjunction. 
 $v$ is a *satisfying assignment* if $C$ is 1, or all $C_i$ evaluate to 1. 
@@ -57,4 +57,4 @@ Every clause will have 3 distinct literals.
 
 We can **reduce 3SAT to Independent Set (IS)**. Proof:
 Assume we have black-box solver for IS. We can transfer any 3SAT to IS through the clause gadget, a $k_3$ graph invented for any clause. If we have $k$ clauses, we'll have $k$ $k_3$ graphs. Out of a $k_3$ graph, we can take one node for an independent set. Thus, the max independent set is $k$. In other words, if we can find an independent set of size $k$, if we use the independent set for solving the literals (where making an edge = True), it necessarily solves the 3SAT. 
-However, sometimes we have $\bar{x}$ and $x$ in two clauses. In order to 
+However, sometimes we have $\bar{x}$ and $x$ in two clauses. In order to avoid choosing both nodes in the g
