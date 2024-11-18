@@ -13,6 +13,7 @@ Thus, we can go between optimization problems and decision problems without worr
 ## Polynomial Time Reductions
 Formal notation: $Y\leq_p X$.
 
+Goal: we want 
 Run an instance in Y through a reduction, it outputs a sub-instance in X. The idea is to have a **black box solver for X** that gives us a solution for the sub-instance in X, and that implies a solution for the instance in Y. 
 In other words, $I\in Y => I' \in X$, and $solution(I') => solution(I)$. 
 There can be multiple instances in X to solve for the instance in Y, but we will focus on 1-1 solutions. 
