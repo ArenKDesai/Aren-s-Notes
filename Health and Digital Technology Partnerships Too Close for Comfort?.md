@@ -7,4 +7,4 @@ Improving propietary tools, such as improving algorithmic output with sensitive 
 
 Corporations (such as big tech companies) also have shareholders to answer to, which is not the case for many healthcare companies. 
 
-## H
+## Health and digital tech
