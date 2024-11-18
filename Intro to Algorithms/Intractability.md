@@ -69,3 +69,4 @@ Reductions are transitive. This means that if $Z \leq_p Y$ and $Y \leq_p X$, the
 # NP
 ### Efficient Certification
 For a problem instance, let $s$ be a binary string that encodes the input. $|s|$ is the length of $s$, such as the number of bits in $s$. 
+Algorithm $A$ has a P runtime 
