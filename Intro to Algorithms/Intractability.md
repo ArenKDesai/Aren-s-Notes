@@ -92,4 +92,4 @@ Is P a proper subset of NP, or is P == NP?
 
 ## NP-Hard
 Problem $X$ is NP-Hard if:
-- For all $Y \in$ NP, $Y \leq_p X$.  
+- For all $Y \in$ NP, $Y \leq_p X$. If we have $X$  
