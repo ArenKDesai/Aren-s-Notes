@@ -87,5 +87,5 @@ We define an efficient Certifier $B(s,t)$ which is a set of nodes $i$ ($|V|$ len
 1. Verify that $|I| \geq k$
 2. Verify that $\forall u, v \in I, \forall (u,v) \in E$
 
-### Million Dollar Question
+#### Million Dollar Question
 Is P a proper subset of NP, or is P == NP?
