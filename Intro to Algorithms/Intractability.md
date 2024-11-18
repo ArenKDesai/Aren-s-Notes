@@ -68,7 +68,7 @@ Reductions are transitive. This means that if $Z \leq_p Y$ and $Y \leq_p X$, the
 
 # NP
 Non-deterministic Polynomial.
-A deterministic algorithm is an algorithm where the execution path is completely determined by the input. Non-determinism allows for exploring multiple execution paths s
+A deterministic algorithm is an algorithm where the execution path is completely determined by the input. Non-determinism allows for exploring multiple execution paths simultaniously, similar to randomness, 
 ### Efficient Certification
 This is an algorithm that checks if a solution exists in polynomial time. 
 
