@@ -71,3 +71,4 @@ RF 3 means that there will be 3 copies of a message. Each partition has one lead
 There's also a setting called min.insync.replicas where if there are less than the minimum insync followers running, the leader refuses to store messages until the followers are back up. 
 Larger min.sync = stronger durability, smaller min.sync = better availability. 
 If the leader fails, the controller broker (chosen w/ help of Zookeeper or KRaft) elects an in-sync replica as new leader. 
+If the number of concurrent broker failures < min.insync.replicas, then the committed data is safe. 
