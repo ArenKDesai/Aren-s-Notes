@@ -68,4 +68,4 @@ for topic_partition, messages in batch.itmes()
 
 ## Replication
 RF 3 means that there will be 3 copies of a message. Each partition has one leader and RF-1 follower replicas. This means that one message will only be sent to one leader, the followers are constantly fetching messages from the leaders. How in-sync the followers are is tunable. 
-There's also a setting called min.insync.replicas where if there are less than the minimum insync fol
+There's also a setting called min.insync.replicas where if there are less than the minimum insync followers running, the leader refuses to store messages 
