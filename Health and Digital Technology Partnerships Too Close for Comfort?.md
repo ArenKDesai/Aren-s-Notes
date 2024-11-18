@@ -12,4 +12,4 @@ Big tech companies have recently made a lot of those partnerships. Google partne
 
 However, it is said that since health care data consitutes "Big Data", it can be used to train large machine learning models to improve patient health care outcomes. 
 
-Personalization of health care can sometimes lead to better outcomes, but also can sometimes just lead to better prediction abilities for insurance companies 
+Personalization of health care can sometimes lead to better outcomes, but also can sometimes just lead to better prediction abilities for insurance companies to know how to bill their clients. 
