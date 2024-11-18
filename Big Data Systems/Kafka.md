@@ -67,4 +67,4 @@ for topic_partition, messages in batch.itmes()
 ```
 
 ## Replication
-RF 3 means that there will be 3 copies of a message. Each partition has one leader and RF-1 follower replicas. This means that one message will only be sent to one leader, 
+RF 3 means that there will be 3 copies of a message. Each partition has one leader and RF-1 follower replicas. This means that one message will only be sent to one leader, the followers are constantly fetching messages from the leaders. 
