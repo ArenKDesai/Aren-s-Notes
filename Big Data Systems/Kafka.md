@@ -65,3 +65,4 @@ consumer.assignment()
 batch = consumer.poll(1000)
 for topic_partition, messages in batch.itmes() 
 ```
+
