@@ -83,4 +83,4 @@ Certifier $B(s,t)$ for a problem $P$:
 	- if the input is a yes-instance, for it to be a valid certifier, there must be a certificate that will make the algorithm return a yes-instance. 
 
 ### Proving IS $\in$ NP
-We define an efficient Certifier $B(s,t)$ which is a set of nodes $i$ ($|V|$ length), where if a node / element is set 
+We define an efficient Certifier $B(s,t)$ which is a set of nodes $i$ ($|V|$ length), where if a node / element is set to 1, it means that node is a part of the set. 
