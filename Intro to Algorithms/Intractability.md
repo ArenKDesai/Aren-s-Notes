@@ -1,4 +1,4 @@
-#CS577 #UWMadison #Interactibility #Algorithms #PvsP
+#CS577 #UWMadison #Interactibility #Algorithms #PvsNP
 
 Intractability is defining problems that can be solved in polynomial (P) vs non-polynomial (NP) time. In other words, easy vs hard. 
 NP problems are categorized in NP-hard and NP-complete. 
