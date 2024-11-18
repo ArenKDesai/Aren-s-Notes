@@ -8,4 +8,4 @@ Improving propietary tools, such as improving algorithmic output with sensitive 
 Corporations (such as big tech companies) also have shareholders to answer to, which is not the case for many healthcare companies. 
 
 ## Health and digital technology partnerships
-Big tech companies have recently made a lot of those partnerships. Google partnered with the University of Chicago Medical Center (and got sued) and aquired
+Big tech companies have recently made a lot of those partnerships. Google partnered with the University of Chicago Medical Center (and got sued) and aquired FitBit, Amazon aquire
