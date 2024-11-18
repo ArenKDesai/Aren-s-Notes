@@ -57,4 +57,4 @@ Every clause will have 3 distinct literals.
 
 We can **reduce 3SAT to Independent Set (IS)**. Proof:
 Assume we have black-box solver for IS. We can transfer any 3SAT to IS through the clause gadget, a $k_3$ graph invented for any clause. If we have $k$ clauses, we'll have $k$ $k_3$ graphs. Out of a $k_3$ graph, we can take one node for an independent set. Thus, the max independent set is $k$. In other words, if we can find an independent set of size $k$, if we use the independent set for solving the literals (where making an edge = True), it necessarily solves the 3SAT. 
-However, sometimes we have $\bar{x}$ and $x$ in two clauses. In order to avoid choosing both nodes in the $k_3$ graphs, we can set both
+However, sometimes we have $\bar{x}$ and $x$ in two clauses. In order to avoid choosing both nodes in the $k_3$ graphs, we can create an edge between the two. 
