@@ -1,6 +1,6 @@
 #CS577 #UWMadison #Interactibility #Algorithms #PvsNP
 
-Intractability is defining problems that can be solved in polynomial (P) vs non-polynomial (NP) time. In other words, easy vs hard. 
+Intractability is defining problems that can be solved in polynomial (P) vs non-deterministic polynomial (NP) time. In other words, easy vs hard. 
 NP problems are categorized in NP-hard and NP-complete. 
 
 Most of the previous algos problems have been optimization problems. We will now analyze decision problems, where there is a binary yes/no answer. For example:
@@ -67,6 +67,7 @@ Reductions are transitive. This means that if $Z \leq_p Y$ and $Y \leq_p X$, the
 3. VC $\leq_p$ IS $\leq_p$ SP
 
 # NP
+Non-deterministic Polynomial.
 ### Efficient Certification
 This is an algorithm that checks if a solution exists in polynomial time. 
 
