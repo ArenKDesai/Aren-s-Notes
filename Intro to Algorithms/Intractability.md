@@ -49,4 +49,4 @@ Same universe as above. Does there exist a collection of at least $k$ subsets th
 We have a set of boolean terms & literals $X:x_1,...,x_n$. $x_i$ is the variable, $\overline{x_i}$ is the negation. 
 A clause $C_j$ is the disjunction of terms. A collection / conjunction $C$ is a group of clauses $C_1,...,C_n$. 
 The truth assignment function $v:X \to \{0,1\}$ assigns values to terms and returns the conjunction. 
-$v$ is a satisfying assignment of 
+$v$ is a *satisfying assignment* if $C$ is 1, o
