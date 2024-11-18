@@ -67,3 +67,4 @@ for topic_partition, messages in batch.itmes()
 ```
 
 ## Replication
+Replication 3 means that each 
