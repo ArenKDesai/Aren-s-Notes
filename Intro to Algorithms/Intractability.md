@@ -51,4 +51,4 @@ A clause $C_j$ is the disjunction of terms. A collection / conjunction $C$ is a 
 The truth assignment function $v:X \to \{0,1\}$ assigns values to terms and returns the conjunction. 
 $v$ is a *satisfying assignment* if $C$ is 1, or all $C_i$ evaluate to 1. 
 
-#### Three
+#### Three Satisfiability Problem (3SAT)
