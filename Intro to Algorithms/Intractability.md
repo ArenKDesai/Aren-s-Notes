@@ -72,3 +72,5 @@ For a problem instance, let $s$ be a binary string that encodes the input. $|s|$
 Algorithm $A$ has a P runtime if there is a polynomial time algorithm to solve it. 
 
 Certifier $B(s,t)$ for a problem $P$:
+- $s$ in an input instance of $P$.
+- $t$ is a certification
