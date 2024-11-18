@@ -55,4 +55,4 @@ $v$ is a *satisfying assignment* if $C$ is 1, or all $C_i$ evaluate to 1.
 Every clause will have 3 distinct literals. 
 *Gadgets* are used to show $Y \leq_p X$.
 
-We can reduce 3SAT to Independent Set (IS). 
+We can **reduce 3SAT to Independent Set (IS)**. Proof:
