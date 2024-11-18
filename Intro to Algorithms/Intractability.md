@@ -63,3 +63,4 @@ However, sometimes we have $\bar{x}$ and $x$ in two clauses. In order to avoid c
 Reductions are transitive. This means that if $Z \leq_p Y$ and $Y \leq_p X$, then $Z\leq_p X$. This also means that:
 1. 3SAT $\leq_p$ IS $\leq_p$ VC $\leq_p$ SC
 2. 3SAT $\leq_p$ IS $\leq_p$ SP
+3. VC $\leq_p$ IS $\leq
