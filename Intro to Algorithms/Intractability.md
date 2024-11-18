@@ -74,3 +74,5 @@ Algorithm $A$ has a P runtime if there is a polynomial time algorithm to solve i
 Certifier $B(s,t)$ for a problem $P$:
 - $s$ in an input instance of $P$.
 - $t$ is a certificate, a proof that $s$ is a yes-instance. 
+- Efficient:
+	- if the input is a yes-instance, 
