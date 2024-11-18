@@ -1,4 +1,4 @@
-#CS577 #UWMadison #Interactibility #Algorithms 
+#CS577 #UWMadison #Interactibility #Algorithms #PvsP
 
 Intractability is defining problems that can be solved in polynomial (P) vs non-polynomial (NP) time. In other words, easy vs hard. 
 NP problems are categorized in NP-hard and NP-complete. 
@@ -10,6 +10,7 @@ Given a bipartite graph $G$,
 If we know we can solve the optimization problem, we can solve the decision problem. This is reversible (if you run the decision problem many times on a linear or binary search). 
 Thus, we can go between optimization problems and decision problems without worrying if one implies the other. 
 
+# P
 ## Polynomial Time Reductions
 Formal notation: $Y\leq_p X$.
 
@@ -64,3 +65,5 @@ Reductions are transitive. This means that if $Z \leq_p Y$ and $Y \leq_p X$, the
 1. 3SAT $\leq_p$ IS $\leq_p$ VC $\leq_p$ SC
 2. 3SAT $\leq_p$ IS $\leq_p$ SP
 3. VC $\leq_p$ IS $\leq_p$ SP
+
+# NP
