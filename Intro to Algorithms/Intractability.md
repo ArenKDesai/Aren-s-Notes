@@ -56,4 +56,4 @@ Every clause will have 3 distinct literals.
 *Gadgets* are used to show $Y \leq_p X$.
 
 We can **reduce 3SAT to Independent Set (IS)**. Proof:
-Assume we have black-box solver for IS. We can transfer 
+Assume we have black-box solver for IS. We can transfer any 3SAT to IS
