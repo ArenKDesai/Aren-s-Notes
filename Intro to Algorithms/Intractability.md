@@ -61,3 +61,4 @@ However, sometimes we have $\bar{x}$ and $x$ in two clauses. In order to avoid c
 
 ## Reduction Transitivity
 Reductions are transitive. This means that if $Z \in_p Y$ and $Y \in_p X$, then $Z\in_p X$. This also means that:
+3SAT $\
