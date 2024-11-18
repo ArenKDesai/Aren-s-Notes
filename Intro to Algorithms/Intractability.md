@@ -44,3 +44,5 @@ This is a generalization of vertex cover.
 
 ### Set Packing (SP)
 Same universe as above. Does there exist a collection of at least $k$ subsets that don't intersect?
+
+### Satisfiability Problem (SAT)
