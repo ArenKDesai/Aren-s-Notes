@@ -70,7 +70,7 @@ Reductions are transitive. This means that if $Z \leq_p Y$ and $Y \leq_p X$, the
 Non-deterministic Polynomial.
 A deterministic algorithm is an algorithm where the execution path is completely determined by the input. Non-determinism allows for exploring multiple execution paths simultaneously, similar to randomness. 
 
-### Efficient Certification
+## Efficient Certification
 This is an algorithm that checks if a solution exists in polynomial time. 
 
 For a problem instance, let $s$ be a binary string that encodes the input. $|s|$ is the length of $s$, such as the number of bits in $s$. 
@@ -81,3 +81,6 @@ Certifier $B(s,t)$ for a problem $P$:
 - $t$ is a certificate, a proof that $s$ is a yes-instance. 
 - Efficient:
 	- if the input is a yes-instance, for it to be a valid certifier, there must be a certificate that will make the algorithm return a yes-instance. 
+
+### Proving IS $\in$ NP
+We define an efficient Certifier
