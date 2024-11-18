@@ -52,4 +52,4 @@ The truth assignment function $v:X \to \{0,1\}$ assigns values to terms and retu
 $v$ is a *satisfying assignment* if $C$ is 1, or all $C_i$ evaluate to 1. 
 
 #### Three Satisfiability Problem (3SAT)
-Every clause will have 3 distincy literals. 
+Every clause will have 3 distinct literals. 
