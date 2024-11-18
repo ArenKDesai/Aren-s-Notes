@@ -46,4 +46,4 @@ This is a generalization of vertex cover.
 Same universe as above. Does there exist a collection of at least $k$ subsets that don't intersect?
 
 ### Satisfiability Problem (SAT)
-We have a set of boolean terms & literals $X:x_1,...,x_n$. $x_i$ is the variable, $x
+We have a set of boolean terms & literals $X:x_1,...,x_n$. $x_i$ is the variable, $\
