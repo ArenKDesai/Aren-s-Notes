@@ -22,6 +22,8 @@ The reduction solution must cover every possible instance of Y, but does not nee
 
 X is at least as hard as Y. This contrapositive can prove that Y can or can't be solved in polynomial time. 
 
+Reductions are transitive. $Z \in_p Y$ and $Z
+
 Vertex Cover $\in$ Set Cover
 Independent Set $\in$ Set Packing
 ### Min Vertex Cover (from Max Independent Set)
