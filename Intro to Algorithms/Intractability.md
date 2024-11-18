@@ -92,4 +92,4 @@ Is P a proper subset of NP, or is P == NP?
 
 ## NP-Hard
 Problem $X$ is NP-Hard if for all $Y \in$ NP, $Y \leq_p X$. If we have $X$ that every single NP problem can be reduced to, that is an NP-Hard problem. 
-Problem $X$ is NP-Complete if 
+Problem $X$ is NP-Complete if for all $Y \in$ NP, $Y\leq 
