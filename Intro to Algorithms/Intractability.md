@@ -60,4 +60,4 @@ Assume we have black-box solver for IS. We can transfer any 3SAT to IS through t
 However, sometimes we have $\bar{x}$ and $x$ in two clauses. In order to avoid choosing both nodes in the $k_3$ graphs, we can create an edge between the two. 
 
 ## Reduction Transitivity
-Since reductions are transitive 
+Reductions are transitive. This means that if $Z \in_p
