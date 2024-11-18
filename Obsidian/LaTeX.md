@@ -138,12 +138,12 @@ $\in$
 
 ### [](https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/#Brackets-etc "Brackets etc")Brackets etc
 
-|Symbol|Script|
-|---|---|
-|$(a)$|(a)|
-|$[a]$|[a]|
-|${a}$|{a}|
-|$\langle f \rangle$|\langle f \rangle|
-|$\lfloor f \rfloor$|\lfloor f \rfloor|
-|$\lceil f \rceil$|\lceil f \rceil|
-|$\ulcorner f \urcorner$|\ulcorner f \urcorner|
+| Symbol                  | Script                |
+| ----------------------- | --------------------- |
+| $(a)$                   | (a)                   |
+| $[a]$                   | [a]                   |
+| ${a}$                   | {a}                   |
+| $\langle f \rangle$     | \langle f \rangle     |
+| $\lfloor f \rfloor$     | \lfloor f \rfloor     |
+| $\lceil f \rceil$       | \lceil f \rceil       |
+| $\ulcorner f \urcorner$ | \ulcorner f \urcorner |
