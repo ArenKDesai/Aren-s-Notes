@@ -89,3 +89,7 @@ We define an efficient Certifier $B(s,t)$ which is a set of nodes $i$ ($|V|$ len
 
 #### Million Dollar Question
 Is P a proper subset of NP, or is P == NP?
+
+## NP-Hard
+Problem $X$ is NP-Hard if:
+- For all $Y \in$ NP, $Y \leq_p X$.  
