@@ -68,6 +68,7 @@ Reductions are transitive. This means that if $Z \leq_p Y$ and $Y \leq_p X$, the
 
 # NP
 Non-deterministic Polynomial.
+A deterministic algorithm is an algorithm
 ### Efficient Certification
 This is an algorithm that checks if a solution exists in polynomial time. 
 
