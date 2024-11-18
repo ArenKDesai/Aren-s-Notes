@@ -11,3 +11,5 @@ Corporations (such as big tech companies) also have shareholders to answer to, w
 Big tech companies have recently made a lot of those partnerships. Google partnered with the University of Chicago Medical Center (and got sued) and aquired FitBit, Amazon aquired an online pharmaceutical distributor, and UCLA partnered with Microsoft Azure. 
 
 However, it is said that since health care data consitutes "Big Data", it can be used to train large machine learning models to improve patient health care outcomes. 
+
+Personalization of health care can sometimes lead to better outcomes, but also can sometimes just lead to better prediction abilities for insurance companies 
