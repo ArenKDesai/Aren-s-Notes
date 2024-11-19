@@ -96,7 +96,7 @@ Problem $X$ is NP-Hard if for all $Y \in$ NP, $Y \leq_p X$. If we have $X$ that 
 Problem $X$ is NP-Complete if for all $Y \in$ NP, $Y\leq_p X$, and $X$ is in NP. 
 In other words, NP problems that can be reduced to polynomial time. 
 
-NP-Hard problems **do not** need to be BP
+NP-Hard problems **do not** need to be NP. 
 ## NP-Complete
 Show that:
 1. Problem is NP
