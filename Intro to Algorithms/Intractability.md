@@ -103,7 +103,7 @@ Show that:
 1. Problem is NP
 2. Problem is NP-Hard
 First part is easy --- show that a certifier can be found in polynomial time.
-Start with 
+Start with known NP-Complete problem, reduce it to current p
 
 ### CSAT (circuit satisfiability)
 3 types of gates - and, or, not. 
