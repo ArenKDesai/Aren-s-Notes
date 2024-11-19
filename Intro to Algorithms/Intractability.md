@@ -124,6 +124,7 @@ We'll show that 3SAT is NP-Complete.
 We can use a truth assignment of the literals as a certificate. A clause can be evaluated in constant time, so SAT formula can be evaluated in $O(k)$ time. 
 We also know that CSAT is NP-Complete. 
 
+**CSAT \leq_p 3SA
 Proof:
 1. For an arbitrary circuit $k$:
 	1. each node in the DAG, we create a boolean literal in the CSAT
