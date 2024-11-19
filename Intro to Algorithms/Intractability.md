@@ -106,3 +106,6 @@ First part is easy --- show that a certifier can be found in polynomial time.
 3 types of gates - and, or, not. 
 Circuit $k$ is a DAG. The source is nodes with no incoming edges. Every other node has a gate. Output: result of the node with no outgoing edges. 
 This CSAT problem is NP-Complete. 
+Proof:
+1. Show that CSAT $\in$ NP (show certificate)
+2. 
