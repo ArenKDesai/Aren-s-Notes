@@ -117,3 +117,6 @@ Proof:
 3. We can show that we can take any algorithm and reduce it to a CSAT problem (proof omitted). 
 
 We use Karp reduction: Provide an efficient reduction, and show via double imples that $s_y$ is equivalent to $s_x$. 
+
+## 3SAT
+We'll show that 3SAT is NP-Complete. 
