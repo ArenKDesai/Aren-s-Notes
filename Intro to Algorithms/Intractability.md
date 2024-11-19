@@ -128,4 +128,4 @@ We also know that CSAT is NP-Complete.
 Proof:
 1. For an arbitrary circuit $k$:
 	1. each node in the DAG, we create a boolean literal in the CSAT
-	2. for each gate, create a truth table
+	2. for each gate, create a truth table and when $x_v$ = $\overhead{x_u}$, 
