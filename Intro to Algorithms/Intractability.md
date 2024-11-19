@@ -97,4 +97,4 @@ Problem $X$ is NP-Complete if for all $Y \in$ NP, $Y\leq_p X$, and $X$ is in NP.
 In other words, NP problems that can be reduced to polynomial time. 
 
 ### CSAT (circuit satisfiability)
-3 types of 
+3 types of gates - and, or, not. 
