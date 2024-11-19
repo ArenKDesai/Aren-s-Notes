@@ -98,4 +98,4 @@ In other words, NP problems that can be reduced to polynomial time.
 
 ### CSAT (circuit satisfiability)
 3 types of gates - and, or, not. 
-Circuit $k$ is a DAG. The source is nodes with no incoming edges. Every 
+Circuit $k$ is a DAG. The source is nodes with no incoming edges. Every other node has a gate. Output: 
