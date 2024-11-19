@@ -109,4 +109,4 @@ This CSAT problem is NP-Complete.
 Proof:
 1. Show that CSAT $\in$ NP (show certificate)
 2. We can map from the certifier to CSAT by encoding the certifier as a DAG, where sources: $|s|+|t|=n+poly(n)$ bits. 
-3. 
+3. Wi
