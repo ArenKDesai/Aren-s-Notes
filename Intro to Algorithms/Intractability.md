@@ -108,4 +108,4 @@ Circuit $k$ is a DAG. The source is nodes with no incoming edges. Every other no
 This CSAT problem is NP-Complete. 
 Proof:
 1. Show that CSAT $\in$ NP (show certificate)
-2. 
+2. We ca
