@@ -104,7 +104,7 @@ Show that:
 2. Problem is NP-Hard
 First part is easy --- show that a certifier can be found in polynomial time.
 Second part:
-1. Prove $$ 
+1. Prove $X \in$ NP 
 2. Start with known NP-Complete problem, reduce it to current problem. 
 
 ### CSAT (circuit satisfiability)
