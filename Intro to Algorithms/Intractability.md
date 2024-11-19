@@ -101,7 +101,7 @@ NP-Hard problems **do not** need to be NP.
 Show that:
 1. Problem is NP
 2. Problem is NP-Hard
-First part is easy --- show that a certifier can be found in polynomial
+First part is easy --- show that a certifier can be found in polynomial time. 
 ### CSAT (circuit satisfiability)
 3 types of gates - and, or, not. 
 Circuit $k$ is a DAG. The source is nodes with no incoming edges. Every other node has a gate. Output: result of the node with no outgoing edges. 
