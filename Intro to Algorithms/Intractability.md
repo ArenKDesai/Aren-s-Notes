@@ -70,7 +70,7 @@ Reductions are transitive. This means that if $Z \leq_p Y$ and $Y \leq_p X$, the
 Non-deterministic Polynomial.
 A deterministic algorithm is an algorithm where the execution path is completely determined by the input. Non-determinism allows for exploring multiple execution paths simultaneously, similar to randomness. 
 
-Generally, for NP problems, you need to show there exists an efficient certifier for those problems. This can be done by just proving that an algorithm can be solved in polynomial time. 
+Generally, for NP problems, you need to show there exists an efficient certifier for those problems. This can be done by just proving that an algorithm can be verified in polynomial time. 
 ## Efficient Certification
 This is an algorithm that checks if a solution exists in polynomial time. 
 
