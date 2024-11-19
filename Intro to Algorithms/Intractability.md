@@ -131,5 +131,5 @@ Proof:
 	2. for each gate, you can encode the logic operator that only evaluates to true according to the DAG
 	3. For each constant source $s$: 
 
-## Travelling Salesman Problem (TSP)
- 
+## Travelling Salesperson Problem (TSP)
+A travelling salesperson mu
