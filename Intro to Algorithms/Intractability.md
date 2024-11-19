@@ -126,4 +126,4 @@ We also know that CSAT is NP-Complete.
 
 Proof:
 1. For an arbitrary circuit $k$:
-	1. 
+	1. each node in the DAG, we c
