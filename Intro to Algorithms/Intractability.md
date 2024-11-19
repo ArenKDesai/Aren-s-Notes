@@ -108,4 +108,4 @@ Circuit $k$ is a DAG. The source is nodes with no incoming edges. Every other no
 This CSAT problem is NP-Complete. 
 Proof:
 1. Show that CSAT $\in$ NP (show certificate)
-2. We can map from the certifier to CSAT by encoding the certifier as a DAG, where sources: $|s|+|t|=n
+2. We can map from the certifier to CSAT by encoding the certifier as a DAG, where sources: $|s|+|t|=n+poly(n)$ bits. 
