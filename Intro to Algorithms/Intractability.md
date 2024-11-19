@@ -97,11 +97,14 @@ Problem $X$ is NP-Complete if for all $Y \in$ NP, $Y\leq_p X$, and $X$ is in NP.
 In other words, NP problems that can be reduced to polynomial time. 
 
 NP-Hard problems **do not** need to be NP. 
+
 ## NP-Complete
 Show that:
 1. Problem is NP
 2. Problem is NP-Hard
-First part is easy --- show that a certifier can be found in polynomial time. 
+First part is easy --- show that a certifier can be found in polynomial time.
+
+
 ### CSAT (circuit satisfiability)
 3 types of gates - and, or, not. 
 Circuit $k$ is a DAG. The source is nodes with no incoming edges. Every other node has a gate. Output: result of the node with no outgoing edges. 
