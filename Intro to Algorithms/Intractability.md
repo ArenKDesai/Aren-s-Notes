@@ -120,3 +120,5 @@ We use Karp reduction: Provide an efficient reduction, and show via double imple
 
 ## 3SAT
 We'll show that 3SAT is NP-Complete. 
+
+We can use a truth assignment of the literals as a certificate. A clause ca
