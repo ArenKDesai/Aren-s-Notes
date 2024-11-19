@@ -125,4 +125,5 @@ We can use a truth assignment of the literals as a certificate. A clause can be 
 We also know that CSAT is NP-Complete. 
 
 Proof:
-1. For an arbit
+1. For an arbitrary circuit $k$:
+	1. 
