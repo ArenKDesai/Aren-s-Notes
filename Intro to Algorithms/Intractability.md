@@ -96,6 +96,9 @@ Problem $X$ is NP-Hard if for all $Y \in$ NP, $Y \leq_p X$. If we have $X$ that 
 Problem $X$ is NP-Complete if for all $Y \in$ NP, $Y\leq_p X$, and $X$ is in NP. 
 In other words, NP problems that can be reduced to polynomial time. 
 
+## NP-Complete
+
 ### CSAT (circuit satisfiability)
 3 types of gates - and, or, not. 
 Circuit $k$ is a DAG. The source is nodes with no incoming edges. Every other node has a gate. Output: result of the node with no outgoing edges. 
+This CSAT problem is NP-Complete. 
