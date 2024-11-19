@@ -132,4 +132,4 @@ Proof:
 	3. For each constant source $s$: 
 
 ## Travelling Salesperson Problem (TSP)
-A travelling salesperson mu
+A travelling salesperson must visit $n$ cities $v_1,...,v
