@@ -80,4 +80,4 @@ Messages are idempotent if serializing the message multiple times just overwrite
 Unlike [[HBase & Cassandra Query Language]], the order of message cannot change, so the leader has authority on what a message is. This means Kafka is less available and there might be more downtime, but it is more secure. The followers pull down messages, and there is some lag. 
 
 #### Spark
-For programming 
+For programming with Spark, see [[Spark]]. 
