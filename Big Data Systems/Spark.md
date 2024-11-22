@@ -217,4 +217,13 @@ Steps:
 3. Use parallel splitting on a *logical view of rows*, or a view where all the rows of the DT are not in the same place; the rows are allocated across spark partitions. 
 
 ## Kafka Programming
-For 
+Demo:
+
+```Python
+df = (
+	  spark
+	  .read
+	  .format("kafka")
+	  
+)
+```
