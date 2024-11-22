@@ -225,6 +225,7 @@ df = (
 	  .read
 	  .format("kafka")
 	  .option("kafka.bootstrap.servers", "localhost:9092")
-	  .option("subscri)
+	  .option("subscribe", "animals-json")
+	  .load()
 )
 ```
