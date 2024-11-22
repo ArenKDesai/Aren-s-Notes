@@ -222,10 +222,12 @@ Demo:
 ```Python
 df = (
 	  spark
-	  .read
+	  .read # to make it stream, change to readStream
 	  .format("kafka")
 	  .option("kafka.bootstrap.servers", "localhost:9092")
 	  .option("subscribe", "animals-json")
 	  .load()
 )
+
+schema = "beach string "
 ```
