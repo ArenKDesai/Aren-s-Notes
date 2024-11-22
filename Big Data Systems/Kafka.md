@@ -75,3 +75,5 @@ If the number of concurrent broker failures < min.insync.replicas, then the comm
 The leader also never lets consumers consumer un-commited messages, in the case that the consumer consumes it, then the leader goes down before sending it to the followers. This means that consumer fetches and follower fetches are two different types of fetch requests. 
 
 Messages are idempotent if serializing the message multiple times just overwrites the data with the same message. Non-idempotent messages may cause duplicates in rare circumstances, which can be suppressed by keeping track of which messages have already been saved and not sending duplicates. 
+
+Unlike [[HBase & Cassandra Query Language]], the order of message cannot change, s
