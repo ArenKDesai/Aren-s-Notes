@@ -229,5 +229,6 @@ df = (
 	  .load()
 )
 
-schema = "beach string "
+schema = "beach string, animal string"
+animals = df.select()
 ```
