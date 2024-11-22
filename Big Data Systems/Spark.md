@@ -230,5 +230,7 @@ df = (
 )
 
 schema = "beach string, animal string"
-animals = df.select()
+animals = df.select(
+
+)
 ```
