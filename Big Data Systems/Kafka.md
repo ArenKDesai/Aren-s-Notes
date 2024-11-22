@@ -78,3 +78,6 @@ The leader also never lets consumers consumer un-commited messages, in the case 
 Messages are idempotent if serializing the message multiple times just overwrites the data with the same message. Non-idempotent messages may cause duplicates in rare circumstances, which can be suppressed by keeping track of which messages have already been saved and not sending duplicates. 
 
 Unlike [[HBase & Cassandra Query Language]], the order of message cannot change, so the leader has authority on what a message is. This means Kafka is less available and there might be more downtime, but it is more secure. The followers pull down messages, and there is some lag. 
+
+#### Spark
+For programming 
