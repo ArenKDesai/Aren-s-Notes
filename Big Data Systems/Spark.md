@@ -224,6 +224,7 @@ df = (
 	  spark
 	  .read
 	  .format("kafka")
-	  .option("kafka.bootstrap.servers", "localhost:90)
+	  .option("kafka.bootstrap.servers", "localhost:9092")
+	  .option("subscri)
 )
 ```
