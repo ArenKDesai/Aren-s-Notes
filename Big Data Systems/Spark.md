@@ -232,6 +232,6 @@ df = (
 schema = "beach string, animal string"
 animals = df.select(
 	col("key").cast("string"),
-	from_json(col("value").cast("string))
+	from_json(col("value").cast("string"), schema).alias("valu)
 )
 ```
