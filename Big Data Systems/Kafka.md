@@ -4,7 +4,7 @@ Most forms of program communication are synchronous, where both parties have to 
 
 Kafka is a system to manage a complex system of I/O subsystems, considered a logging system. It is also closely integrated with [[Spark]] in Python. 
 
-Kaf
+While [[HBase & Cassandra Query Language]] work like 
 ### Topics
 Kafka topics are managed by brokers (servers) that receive messages from producers and categorize them to be managed / sent to consumers that subscribe to the topics. Very similar to [[ROS and ROS2]]. 
 
