@@ -147,3 +147,5 @@ A travelling salesperson must visit $n$ cities $v_1,...,v_n$. Starting at $v_1$,
 ### Subset Problem
 With a subset of natural numbers and a target $W$, is there a subset of numbers that add up to $W$?
 This problem is NP-Complete with 3D Matching. Subsets can be viewed as length $3n$ bit vectors with a 1 indicating that item is in the set.
+
+### Not Al
