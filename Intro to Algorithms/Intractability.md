@@ -136,4 +136,5 @@ A travelling salesperson must visit $n$ cities $v_1,...,v_n$. Starting at $v_1$,
 
 ## Cook Reduction
 1. Prove that $X \in$ NP
-2. Chose a problem $Y \in$
+2. Chose a problem $Y \in$ NP-Complete
+3. Prove $Y \leq_p
