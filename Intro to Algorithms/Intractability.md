@@ -151,4 +151,4 @@ This problem is NP-Complete with 3D Matching. Subsets can be viewed as length $3
 ### Not All Equal 4SAT
 is it possible given a 4SAT formula to find an assignment to the literals such that every clause contains at least one true term and at least on false term. 
 Certificate: assignment of values to the literals. 
-NP-Complete problem: 3SAT. Add a literal $v$ to every 3SAT clause of $\Phi$ to create a NEA-4SAT formula $\Phi`$
+NP-Complete problem: 3SAT. Add a literal $v$ to every 3SAT clause of $\Phi$ to create a NEA-4SAT formula $\Phi'$
