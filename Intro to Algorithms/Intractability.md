@@ -149,4 +149,4 @@ With a subset of natural numbers and a target $W$, is there a subset of numbers 
 This problem is NP-Complete with 3D Matching. Subsets can be viewed as length $3n$ bit vectors with a 1 indicating that item is in the set.
 
 ### Not All Equal 4SAT
-is it possible given a 4SAT formula to find an assignment to the literals such that every clause contains at least one true term an
+is it possible given a 4SAT formula to find an assignment to the literals such that every clause contains at least one true term and at least on false term. 
