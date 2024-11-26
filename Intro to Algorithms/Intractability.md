@@ -134,3 +134,4 @@ Proof:
 ## Travelling Salesperson Problem (TSP)
 A travelling salesperson must visit $n$ cities $v_1,...,v_n$. Starting at $v_1$, visit all cities and return to $v_1$. The distance function isn't guaranteed to be symmetric or metric. 
 
+## Cook Reduction
