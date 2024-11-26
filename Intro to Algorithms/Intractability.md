@@ -142,7 +142,7 @@ A travelling salesperson must visit $n$ cities $v_1,...,v_n$. Starting at $v_1$,
 ## Numerical Problems
 
 ### 3D Matching
-3 disjoint sets, and a set of $m \geq n$ trebles. Does there exist a set of $n$ trebles so we can collect the entire universe and each element only 
+3 disjoint sets, and a set of $m \geq n$ trebles. Does there exist a set of $n$ trebles so we can collect the entire universe and each element only appears once?
 
 ### Subset Problem
 With a subset of natural numbers and a target $W$, is there a subset of numbers that add up to $W$?
