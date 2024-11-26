@@ -142,4 +142,4 @@ A travelling salesperson must visit $n$ cities $v_1,...,v_n$. Starting at $v_1$,
 ## Numerical Problems
 
 ### Subset Problem
-With a subset of natural numbe
+With a subset of natural numbers and a target, is there a subset of numbers that add up to 
