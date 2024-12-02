@@ -241,3 +241,4 @@ Output modes:
 - Complete: usually a rolling aggregate, just output all results
 - Update: update a file system without changing everything. 
 
+RDDs have watermarks that are used as timestamps to discard data after a certain time to free up memory. 
