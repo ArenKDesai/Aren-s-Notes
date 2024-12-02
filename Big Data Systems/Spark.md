@@ -235,3 +235,4 @@ animals = df.select(
 	from_json(col("value").cast("string"), schema).alias("value")
 ).select("key", "value.*")
 ```
+### Streaming
