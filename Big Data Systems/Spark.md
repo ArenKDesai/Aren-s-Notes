@@ -239,4 +239,5 @@ animals = df.select(
 Output modes:
 - Append: append to results without thinking of previous results
 - Complete: usually a rolling aggregate, just output all results
-- Update: update a file system without changing everything
+- Update: update a file system without changing everything. 
+
