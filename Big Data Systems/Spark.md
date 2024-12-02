@@ -238,4 +238,4 @@ animals = df.select(
 ### Streaming
 Output modes:
 - Append: append to results without thinking of previous results
-- 
+- Complete: 
