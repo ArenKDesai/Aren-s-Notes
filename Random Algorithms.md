@@ -1,4 +1,4 @@
 #CS577 #Algorithms #UWMadison 
 
 ### Quick Sort
-Problem
+Problem: Find the $k^{th}$ 
