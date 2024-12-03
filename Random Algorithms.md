@@ -18,4 +18,4 @@ Random algorithms return a solution that has a $r$ approximation ratio in expect
 ### Probability Space
 Sample space $\Omega$ of all possible outcomes. Can be infinite. 
 Ex: 4-sided die $\Omega = \{1,2,3,4\}$.
-Probablitiy mass: each $i \in \Omega$ has a nonnegative probability mass. Total probability mass = 1. 
+Probability mass: each $i \in \Omega$ has a nonnegative probability mass. Total probability mass = 1. 
