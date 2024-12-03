@@ -3,4 +3,4 @@
 ### Quick Select and Sort
 Recap of [[Divide and Conquer]]
 Problem: Find the $k^{th}$ sorted item in an unsorted list. We would chose a pivot and move all items into partitions accordingly. 
-This can be converted into a sorting algorithm by recursively calling quickselect on every 
+This can be converted into a sorting algorithm by recursively calling quickselect on every partition. 
