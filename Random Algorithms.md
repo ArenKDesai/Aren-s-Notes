@@ -11,3 +11,6 @@ Average case analysis: input is drawn from a distribution $\pi$. There are param
 Non-Deterministic algorithms simultaneously consider multiple algorithms weighted by the probability distribution. 
 Monte Carlo algorithm returns a $p$ value through brute-force approximation guarantee (run a simulation a lot of times). 
 Las Vegas algorithms always return the correct solution or return failure. Expectation is polynomial time. 
+Atlantic City algorithms are a combination of the two. 
+
+Random algorithms return a solution 
