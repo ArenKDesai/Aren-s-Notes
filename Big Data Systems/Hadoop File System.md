@@ -22,7 +22,7 @@ When a file gets replicated, each data node will take the burden to send it to t
 The name nodes contain information about the datanodes (like a map for queries to datanodes). 
 
 Use PyArrow to read Hadoop files.
-```
+```Python
 import pyarrow as pa
 import pyarrow.fs # file systems
 import io
@@ -36,6 +36,6 @@ with hdfs.open_input_file("/data/v2.txt") as f:
 ## Hadoop Operations
 
 You can run shell commands with hdfs dfs -{command} to interact with the datanodes. Ex:
-```
+```Python
 hdfs dfs -cp /hadoop-3.3.6/LICENSE.txt hdfs://main:9000/data
 ```
