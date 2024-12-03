@@ -21,4 +21,4 @@ Ex: 4-sided die $\Omega = \{1,2,3,4\}$.
 Probability mass: each $i \in \Omega$ has a nonnegative probability mass. Total probability mass = 1. 
 
 ### Union Bound
-The probability of a series of events is upper bounded by the sum of probabilities instead of the product if events have an intersection. 
+The probability of a series of events is upper bounded by the sum of probabilities instead of the product if events have an intersection. If the series has no intersections, this is an equality,
