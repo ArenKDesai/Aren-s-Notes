@@ -16,4 +16,4 @@ Atlantic City algorithms are a combination of the two.
 Random algorithms return a solution that has a $r$ approximation ratio in expectation. This is to say that for any input, the expected value of the algorithm is bounded by $r$, and if run infinitely, the answer would be $r$. 
 
 ### Probability Space
-Sample space $\ome
+Sample space $\Omega$ of all possible outcomes. 
