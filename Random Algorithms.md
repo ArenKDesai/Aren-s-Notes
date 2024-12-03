@@ -19,3 +19,6 @@ Random algorithms return a solution that has a $r$ approximation ratio in expect
 Sample space $\Omega$ of all possible outcomes. Can be infinite. 
 Ex: 4-sided die $\Omega = \{1,2,3,4\}$.
 Probability mass: each $i \in \Omega$ has a nonnegative probability mass. Total probability mass = 1. 
+
+### Union bound
+The probability of a series of events is upper 
