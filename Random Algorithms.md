@@ -13,4 +13,4 @@ Monte Carlo algorithm returns a $p$ value through brute-force approximation guar
 Las Vegas algorithms always return the correct solution or return failure. Expectation is polynomial time. 
 Atlantic City algorithms are a combination of the two. 
 
-Random algorithms return a solution that has a $r$ approximation ratio in expectation. This is to say that for any input, the expected value of the algori
+Random algorithms return a solution that has a $r$ approximation ratio in expectation. This is to say that for any input, the expected value of the algorithm is bounded by an expected value. 
