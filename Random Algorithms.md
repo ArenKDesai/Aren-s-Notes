@@ -10,4 +10,4 @@ QuickSort is $O(n)$ . Worst case QuickSort is $T(n) \leq T(n-1)+T(0)+O(n)=O(n^2)
 Average case analysis: input is drawn from a distribution $\pi$. There are parameters from $\pi$. 
 Non-Deterministic algorithms simultaneously consider multiple algorithms weighted by the probability distribution. 
 Monte Carlo algorithm returns a $p$ value through brute-force approximation guarantee (run a simulation a lot of times). 
-Las Vegas algorithms always return the correct solution or return failtur
+Las Vegas algorithms always return the correct solution or return failure. Expectation is polynomial time. 
