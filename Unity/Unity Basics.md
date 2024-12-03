@@ -9,4 +9,4 @@ Objects in Unity can have many fields, but some, such as basic cylinders, contai
 
 You can drag objects into a hierarchy that combines them into one group object, where rotating or shifting the object will translate all of them. Order in the hierarchy doesn't matter. 
 
-If you want an object to rotate on an axis different from its center, you can create a **pivot object** to rotate around instead. This is just an empty game object that becomes a child of the previous object. 
+If you want an object to rotate on an axis different from its center, you can create a **pivot object** to rotate around instead. This is just an empty game object.
