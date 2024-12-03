@@ -23,5 +23,8 @@ Probability mass: each $i \in \Omega$ has a nonnegative probability mass. Total 
 ### Union Bound
 The probability of a series of events is upper bounded by the sum of probabilities instead of the product if events have an intersection. If the series has no intersections, this is an equality, not a bound. 
 
-## Random QuickSort
+### Random QuickSort
 Choose the pivot uniformly at random. This expected runtime is $O(n\log n)$. 
+
+### MAX 3-SAT
+3SAT problem, but assign each conditional a value of 0 or 1 at random. 
