@@ -2,4 +2,4 @@
 
 ### Quick Select
 Recap of [[Divide and Conquer]]
-Problem: Find the $k^{th}$ sorted item in an unsorted list. We would chose a pivot and move all items accordingly. After running the partitioning, 
+Problem: Find the $k^{th}$ sorted item in an unsorted list. We would chose a pivot and move all items into partitions accordingly. 
