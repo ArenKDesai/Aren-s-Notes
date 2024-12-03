@@ -6,3 +6,5 @@ Problem: Find the $k^{th}$ sorted item in an unsorted list. We would chose a piv
 This can be converted into a sorting algorithm by recursively calling quickselect on every partition. 
 QuickSort is $O(n)$ . Worst case QuickSort is $T(n) \leq T(n-1)+T(0)+O(n)=O(n^2)$. Best case is $T(n) \leq 2T(n/2)+O(n)=O(n\log n)$. 
 
+## Randomization
+Average case analysis: 
