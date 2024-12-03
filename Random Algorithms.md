@@ -12,7 +12,6 @@ Non-Deterministic algorithms simultaneously consider multiple algorithms weighte
 Monte Carlo algorithm returns a $p$ value through brute-force approximation guarantee (run a simulation a lot of times). 
 Las Vegas algorithms always return the correct solution or return failure. Expectation is polynomial time. 
 Atlantic City algorithms are a combination of the two. 
-Macau is a Bayes Theorem algorithm. 
 
 Random algorithms return a solution that has a $r$ approximation ratio in expectation. This is to say that for any input, the expected value of the algorithm is bounded by $r$, and if run infinitely, the answer would be $r$. 
 
