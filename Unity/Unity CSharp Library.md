@@ -7,3 +7,6 @@ public class Clock : UnityEngine.MonoBehaviour {
 	// init here
 }
 ```
+
+## Behaviors
+- [MonoBehavior](https://docs.unity3d.com/ScriptReference/MonoBehaviour.html): 
