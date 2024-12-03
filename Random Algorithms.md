@@ -7,4 +7,4 @@ This can be converted into a sorting algorithm by recursively calling quickselec
 QuickSort is $O(n)$ . Worst case QuickSort is $T(n) \leq T(n-1)+T(0)+O(n)=O(n^2)$. Best case is $T(n) \leq 2T(n/2)+O(n)=O(n\log n)$. 
 
 ## Randomization
-Average case analysis: 
+Average case analysis: input is drawn from a distribution $\pi$
