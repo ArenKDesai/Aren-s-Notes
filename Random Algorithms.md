@@ -8,4 +8,4 @@ QuickSort is $O(n)$ . Worst case QuickSort is $T(n) \leq T(n-1)+T(0)+O(n)=O(n^2)
 
 ## Randomization
 Average case analysis: input is drawn from a distribution $\pi$. There are parameters from $\pi$. 
-Non-Deterministic algorithms 
+Non-Deterministic algorithms simultaneously consider multiple algoriths
