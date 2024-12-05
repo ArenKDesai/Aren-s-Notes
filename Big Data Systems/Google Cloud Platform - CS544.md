@@ -1,4 +1,4 @@
-#CS544 #Cloud #GoogleCloud #UWMadison 
+#CS544 #Cloud #GoogleCloud #UWMadison #BigQuery
 
 ### VMs
 Multi-tenant hosts are VMs with multiple customers, sole-tenant are VMs what all share one customer
