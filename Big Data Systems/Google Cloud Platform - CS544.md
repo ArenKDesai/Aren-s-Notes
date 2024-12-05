@@ -5,6 +5,6 @@ Multi-tenant hosts are VMs with multiple customers, sole-tenant are VMs what all
 
 ## BigQuery
 - When doing a query, the ```FROM``` clause has to have an ```AS``` statement since you can't typically reference the dataset itself. For example, 
-```
-FROM 'bigquery-public-data.geo_us.boundaries.counties' AS
+```SQL
+FROM 'bigquery-public-data.geo_us.boundaries.counties' AS counties
 ```
