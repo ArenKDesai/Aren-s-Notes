@@ -3,4 +3,5 @@
 ### VMs
 Multi-tenant hosts are VMs with multiple customers, sole-tenant are VMs what all share one customer
 
-## BigQ
+## BigQuery
+- When doing a query, the 
