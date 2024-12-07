@@ -19,4 +19,4 @@ public class Clock : UnityEngine.MonoBehaviour {
 - SerializeField: Used to make an object public, such as a Transform object. 
 
 ## Shaders
-You can either use the shader creator to define a shader, or you can make your own shader with the
+You can either use the shader creator to define a shader, or you can make your own shader with the Unity Renderer Pipeline. 
