@@ -2,6 +2,7 @@
 
 ## Compute
 ### VMs
+Virtual machines that you can specify GPU 
 Multi-tenant hosts are VMs with multiple customers, sole-tenant are VMs what all share one customer. 
 
 ## BigQuery
