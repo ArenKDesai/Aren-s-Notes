@@ -8,3 +8,4 @@ Multi-tenant hosts are VMs with multiple customers, sole-tenant are VMs what all
 ```SQL
 FROM 'bigquery-public-data.geo_us.boundaries.counties' AS counties
 ```
+BigQuery uses Colossus Storage, so that is what's billed. 
