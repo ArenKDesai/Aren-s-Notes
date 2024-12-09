@@ -30,3 +30,4 @@ FROM 'bigquery-public-data.geo_us.boundaries.counties' AS counties
 BigQuery uses Colossus Storage, so that is what's billed. 
 
 ## Colossus
+Users can create buckets that contian objects (or files). 
