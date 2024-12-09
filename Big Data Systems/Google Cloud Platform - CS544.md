@@ -14,7 +14,7 @@ HDDs and SDDs, price depends on size and type
 
 ## Network
 Continents > regions > zones
-A region is a data center consisting 
+A region is a data center consisting of 1 or more buildings. Zones are reg
 
 ## BigQuery
 - When doing a query, the ```FROM``` clause has to have an ```AS``` statement since you can't typically reference the dataset itself. For example, 
