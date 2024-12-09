@@ -5,12 +5,13 @@
 Virtual machines that you can specify GPU type, number of GPUs, machine type, etc. 
 Multi-tenant hosts are VMs with multiple customers, sole-tenant are VMs what all share one customer. 
 
-## Memory
+### Memory
 
 IaaS - Memory oriented and optimized, more expensive but more freedom. 
 PaaS - full service. Less freedom, cheaper. Caches rows. 
 
-## Storage
+### Storage
+
 
 ## BigQuery
 - When doing a query, the ```FROM``` clause has to have an ```AS``` statement since you can't typically reference the dataset itself. For example, 
