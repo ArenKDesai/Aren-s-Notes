@@ -5,6 +5,10 @@
 Virtual machines that you can specify GPU type, number of GPUs, machine type, etc. 
 Multi-tenant hosts are VMs with multiple customers, sole-tenant are VMs what all share one customer. 
 
+## Memory
+
+IaaS - Memory oriented, 
+
 ## BigQuery
 - When doing a query, the ```FROM``` clause has to have an ```AS``` statement since you can't typically reference the dataset itself. For example, 
 ```SQL
