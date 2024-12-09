@@ -4,6 +4,8 @@
 ### VMs
 Virtual machines that you can specify GPU type, number of GPUs, machine type, etc. 
 Multi-tenant hosts are VMs with multiple customers, sole-tenant are VMs what all share one customer. 
+#### Billing Models
+VM deplo
 
 ## Memory
 IaaS - Memory oriented and optimized, more expensive but more freedom. 
@@ -17,7 +19,6 @@ Continents > regions > zones
 A region is a data center consisting of 1 or more buildings. Zones are regions, so certain subsets of one data center are certain zones. 
 Ingress (data coming in) is usually free, egress (data going out) you pay for. It also depends on internet, continent, region, zone, etc. 
 
-#### Billing Models
 
 
 ## BigQuery
