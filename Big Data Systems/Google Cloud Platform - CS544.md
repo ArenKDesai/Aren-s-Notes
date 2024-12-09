@@ -6,7 +6,6 @@ Virtual machines that you can specify GPU type, number of GPUs, machine type, et
 Multi-tenant hosts are VMs with multiple customers, sole-tenant are VMs what all share one customer. 
 
 ### Memory
-
 IaaS - Memory oriented and optimized, more expensive but more freedom. 
 PaaS - full service. Less freedom, cheaper. Caches rows. 
 
