@@ -6,7 +6,7 @@ Idea: partition your database into multiple servers (scaling out)
 Problem: Splitting data inevitably leads to problems. 
 Another problem: one server dies, no fault tolerance is esablished
 
-This system is also 
+This system is also Colossus in [[Google Cloud Platform - CS544]]
 ## Google File System
 Idea: Base everything on lots of cheap, commodity hardware
 Contains MapReduce, BigTable -> GFS -> multiple worker machines w/ hard drive disks (or other storage). 
