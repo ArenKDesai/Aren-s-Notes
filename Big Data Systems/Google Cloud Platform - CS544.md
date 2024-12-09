@@ -18,7 +18,7 @@ A region is a data center consisting of 1 or more buildings. Zones are regions, 
 Ingress (data coming in) is usually free, egress (data going out) you pay for. It also depends on internet, continent, region, zone, etc. 
 
 ## Billing Models
-Free tier - includes X free requests
+Free tier 
 
 ## BigQuery
 - When doing a query, the ```FROM``` clause has to have an ```AS``` statement since you can't typically reference the dataset itself. For example, 
