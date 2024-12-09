@@ -9,7 +9,7 @@ Multi-tenant hosts are VMs with multiple customers, sole-tenant are VMs what all
 IaaS - Memory oriented and optimized, more expensive but more freedom. 
 PaaS - full service. Less freedom, cheaper. Caches rows. 
 
-### Storage
+## Storage
 
 
 ## BigQuery
