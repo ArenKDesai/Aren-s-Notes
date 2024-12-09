@@ -10,6 +10,7 @@ IaaS - Memory oriented and optimized, more expensive but more freedom.
 PaaS - full service. Less freedom, cheaper. Caches rows. 
 
 ## Storage
+HDDs and SDDs, price depends on size and type
 
 
 ## BigQuery
