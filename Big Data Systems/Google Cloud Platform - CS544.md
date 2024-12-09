@@ -5,7 +5,7 @@
 Virtual machines that you can specify GPU type, number of GPUs, machine type, etc. 
 Multi-tenant hosts are VMs with multiple customers, sole-tenant are VMs what all share one customer. 
 #### Billing Models
-VM deplo
+VM deployment has on-demand instances (wher)
 
 ## Memory
 IaaS - Memory oriented and optimized, more expensive but more freedom. 
