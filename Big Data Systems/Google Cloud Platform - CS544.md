@@ -12,6 +12,8 @@ PaaS - full service. Less freedom, cheaper. Caches rows.
 ## Storage
 HDDs and SDDs, price depends on size and type
 
+## Network
+Continents > regions > zone
 
 ## BigQuery
 - When doing a query, the ```FROM``` clause has to have an ```AS``` statement since you can't typically reference the dataset itself. For example, 
