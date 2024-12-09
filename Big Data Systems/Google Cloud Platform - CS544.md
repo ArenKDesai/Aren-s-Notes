@@ -29,7 +29,7 @@ FROM 'bigquery-public-data.geo_us.boundaries.counties' AS counties
 ```
 BigQuery uses Colossus Storage, so that is what's billed. 
 BigQuery is based on Dremel and can run queries on other data sources. 
-It uses data warehouses and lakes
+It uses data warehouses and lakes. 
 
 ## Colossus
 Users can create buckets that contain objects (or files). Applications can switch HDFS and GCS. 
