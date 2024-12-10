@@ -127,7 +127,7 @@ Tables are transferred over the network, and data is grouped individually on par
 One of the tables is smaller than the other. This table can fit in memory, so it is broadcasted to all executors in the cluster, and a standard hash join is performed. This is the two main steps: *Broadcast* and *Hash Join*. 
 
 ### Partitioning
-Spark hashes data into a partition through the equation ```hash(X) % number_of_partitions```. For example, if there are partitions 0-4 (inclusive), and your piece of data maps to 10, then $ 10 % 5 = 0 $, so the data maps to 0. 
+Spark hashes data into a partition through the equation ```hash(X) % number_of_partitions```. For example, if there are partitions 0-4 (inclusive), and your piece of data maps to 10, then 10 % 5 = 0, so the data maps to 0. 
 
 # Spark Machine Learning
 ```{Python}
