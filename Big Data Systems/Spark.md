@@ -30,7 +30,7 @@ Another event sending data over the network is transformations.
 ### [[Caches]]
 Some RDDs might get used repeatedly, so they're cached. We can also do this manually with sc.cache(), and uncaching with sc.unpersist(). 
 
-Spark's caching also performs compression, so whn
+Spark's caching also performs compression, so when given the option to use MEMORY_ONLY or DISK_ONLY, the 
 
 # Spark Deployment
 
