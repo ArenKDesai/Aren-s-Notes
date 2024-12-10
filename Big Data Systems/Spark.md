@@ -126,6 +126,9 @@ Tables are transferred over the network, and data is grouped individually on par
 ### Broadcast Hash Join
 One of the tables is smaller than the other. This table can fit in memory, so it is broadcasted to all executors in the cluster, and a standard hash join is performed. This is the two main steps: *Broadcast* and *Hash Join*. 
 
+### Partitioning
+Spark hashes data into a partition through the equation {}
+
 # Spark Machine Learning
 ```{Python}
 # sci-kit learn
