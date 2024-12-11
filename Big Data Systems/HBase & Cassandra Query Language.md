@@ -7,7 +7,7 @@ Keyspaces are databases which store data across many workers. Different keyspace
 
 Rows are emphasized, even if it means one row has millions of columns. They're never split across regions, as HBase only supports single-row transactions. 
 
-Within 
+Within a static column, there is at most one partition key. 
 ### Custom types
 ```
 cass.execute("""
