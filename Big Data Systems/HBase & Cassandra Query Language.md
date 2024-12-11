@@ -32,7 +32,6 @@ In a cluster, you find tokens, which lead to nodes. Tokens are added one at a ti
 
 V-Nodes also solve the collision issue. 
 
-
 # Replication
 We replicate to improve durability - same as [[Map Reduce]]. 
 
