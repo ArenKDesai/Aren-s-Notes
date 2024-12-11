@@ -7,7 +7,7 @@ Keyspaces are databases which store data across many workers. Different keyspace
 
 Rows are emphasized, even if it means one row has millions of columns. They're never split across regions, as HBase only supports single-row transactions. 
 
-Within a static column, there is at most one partition key. The partition key keeps track of the "topics" of a column, the primary key 
+Within a static column, there is at most one partition key. The partition key keeps track of the "topics" of a column, the primary key is like the address in memory, and the cluster key helps locate the node the data is located in. 
 ### Custom types
 ```
 cass.execute("""
