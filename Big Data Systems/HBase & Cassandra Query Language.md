@@ -35,6 +35,7 @@ V-Nodes also solve the collision issue.
 
 # Replication
 We replicate to improve durability - same as [[Map Reduce]]. 
+If you 
 
 map: 1={1,2}, 2={3,4}, 3={5,6}, 4={7,8}
 workers: 1,2,1,4,3,4,2,3
