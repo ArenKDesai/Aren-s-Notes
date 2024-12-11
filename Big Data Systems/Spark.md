@@ -220,6 +220,7 @@ Steps:
 1. Create a histogram for each feature where each bin has approx. the same number of samples. 
 2. Create split points for each row
 3. Use parallel splitting on a *logical view of rows*, or a view where all the rows of the DT are not in the same place; the rows are allocated across spark partitions. 
+You can split on every datapoint, 
 
 ## Kafka Programming
 Demo:
