@@ -57,6 +57,7 @@ NetworkTopologyStrategy: consider data centers/racks. When walking the ring, som
 
 ### Committing Messages
 Committed messages are messages that have been successfully written to a minimum number of in-sync replicas, and are considered safe even if the leader goes down. Uncommitted messages have been written to the leader but not to the minimum number of in-sync replicas. 
+Followers can read uncommitted messages, but consumers cannot. 
 
 ### Quorum
 Sets how many nodes will respond when we define the write and read polices in Cassandra. 
