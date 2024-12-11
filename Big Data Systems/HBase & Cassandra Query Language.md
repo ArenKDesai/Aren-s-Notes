@@ -56,7 +56,7 @@ SimpleStrategy: all nodes equal, skip vnodes on same machine, ignore placement
 NetworkTopologyStrategy: consider data centers/racks. When walking the ring, some vnodes may be skipped to protect against correlated failure. 
 
 ### Committing Messages
-Committed messages are messages that have been successfully written to a minimum number of in-sync replicas, and are considered safe even if the leader 
+Committed messages are messages that have been successfully written to a minimum number of in-sync replicas, and are considered safe even if the leader goes down. Uncommitted 
 
 ### Quorum
 Sets how many nodes will respond when we define the write and read polices in Cassandra. 
