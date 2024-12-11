@@ -56,7 +56,7 @@ SimpleStrategy: all nodes equal, skip vnodes on same machine, ignore placement
 NetworkTopologyStrategy: consider data centers/racks. When walking the ring, some vnodes may be skipped to protect against correlated failure. 
 
 ### Quorum
-Defines 
+Defines how many nodes will respond when we 
 If you want reads to see the latest successful write, you should have $RF < W+R$. 
 
 ## Worksheet
