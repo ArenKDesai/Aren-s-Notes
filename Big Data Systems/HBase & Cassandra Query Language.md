@@ -35,7 +35,6 @@ V-Nodes also solve the collision issue.
 
 # Replication
 We replicate to improve durability - same as [[Map Reduce]]. 
-If you want reads to see the latest successful write, you should have $RF < W+R$. 
 
 map: 1={1,2}, 2={3,4}, 3={5,6}, 4={7,8}
 workers: 1,2,1,4,3,4,2,3
@@ -57,7 +56,8 @@ SimpleStrategy: all nodes equal, skip vnodes on same machine, ignore placement
 NetworkTopologyStrategy: consider data centers/racks. When walking the ring, some vnodes may be skipped to protect against correlated failure. 
 
 ### Quorum
-
+Defines 
+If you want reads to see the latest successful write, you should have $RF < W+R$. 
 
 ## Worksheet
 Token Map:
