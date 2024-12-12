@@ -36,6 +36,7 @@ Queries can be parameterized in order to reduce redundant calls. These are denot
 ### Machine Learning
 Bigquery has a DATA_SPLIT_METHOD config which does the following:
 - < 500 rows: 100% training data
+- < 50K rows: 80% training data
 - 
 
 ## Colossus
