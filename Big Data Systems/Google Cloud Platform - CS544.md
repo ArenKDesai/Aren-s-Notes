@@ -42,7 +42,7 @@ This splitting can be disabled with DATA_SPLIT_METHOD="NO_SPLIT", or by manually
 
 You can train like so:
 ```BigQuery
-
+CREATE OR REPLACE MODEL myproj.mydataset.mymodel
 ```
 
 ## Colossus
