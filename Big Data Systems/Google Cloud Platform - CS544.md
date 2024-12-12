@@ -33,7 +33,8 @@ Typically, optimization is on run-length encoding and dictionary encoding.
 ### Parameterization
 Queries can be parameterized in order to reduce redundant calls. These are denoted by the @ symbol. 
 
-### Mac
+### Machine Learning
+Bigquery has a DATA_SPLIT_METHOD config which does the follo
 
 ## Colossus
 Users can create buckets that contain objects (or files). Applications can switch HDFS and GCS. 
