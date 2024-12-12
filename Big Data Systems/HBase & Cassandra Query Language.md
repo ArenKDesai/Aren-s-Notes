@@ -68,7 +68,8 @@ If you want reads to see the latest successful write, you should have $RF < W+R$
 The bloom filter data structure is an efficient way to guessing whether an item is in a set. It works like so:
 1. Get a bit string
 2. Determine a number of hash functions
-3. Get the results of the hash func
+3. Get the results of the hash functions on X (the data)
+4. Check the results 
 
 ## Worksheet
 Token Map:
