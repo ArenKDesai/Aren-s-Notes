@@ -57,4 +57,4 @@ Docker uses both of these.
 
 ### Kubernetes (k8)
 Kubernetes is Google's version of Docker, which operates similar to Docker's docker compose. We deploy multiple applications in pods (like containers).
-Pods share the same VM, IP, and port visi
+Pods share the same VM, IP, and port visibility, but do not share CPU/memory resources or files. 
