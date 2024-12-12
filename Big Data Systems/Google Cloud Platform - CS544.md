@@ -41,7 +41,7 @@ Bigquery has a DATA_SPLIT_METHOD config which does the following:
 This splitting can be disabled with DATA_SPLIT_METHOD="NO_SPLIT", or by manually splitting with ```rand()<ratio```. 
 
 You can train like so:
-```bigquery
+```
 CREATE OR REPLACE MODEL myproj.mydataset.mymodel
 ```
 
