@@ -51,3 +51,4 @@ FROM weather
 ```
 
 ## Containerization
+cgroups can allocate groups of processes access to limited resources
