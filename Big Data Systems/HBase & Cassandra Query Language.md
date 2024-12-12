@@ -65,7 +65,7 @@ Sets how many nodes will respond when we define the write and read polices in Ca
 If you want reads to see the latest successful write, you should have $RF < W+R$. 
 
 ### Bloom Filter
-
+The bloom filter data structure is an efficient way to guessing whether an item is in 
 
 ## Worksheet
 Token Map:
