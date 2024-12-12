@@ -64,6 +64,9 @@ Followers can read uncommitted messages, but consumers cannot.
 Sets how many nodes will respond when we define the write and read polices in Cassandra. 
 If you want reads to see the latest successful write, you should have $RF < W+R$. 
 
+### Bloom Filter
+
+
 ## Worksheet
 Token Map:
 token(n1)=(-2,4), token(n2)=(-6,0), token(n3)=(-4,2,5)
