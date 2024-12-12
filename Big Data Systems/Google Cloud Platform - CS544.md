@@ -45,7 +45,8 @@ You can train like so:
 CREATE OR REPLACE MODEL myproj.mydataset.mymodel
 OPTIONS(MODEL_TYPE='LINEAR_REG)
 AS
-
+SELECT yesterday_temp, humidity, temp
+FROM weather
 ```
 
 ## Colossus
