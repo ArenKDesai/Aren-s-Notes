@@ -31,7 +31,7 @@ It uses data warehouses (BQ query engine with BQ storage) and lakes.
 Typically, optimization is on run-length encoding and dictionary encoding. 
 
 ### Parameterization
-Queries can be parameterized in order to reduce redundent call.s 
+Queries can be parameterized in order to reduce redundant calls. 
 
 ## Colossus
 Users can create buckets that contain objects (or files). Applications can switch HDFS and GCS. 
