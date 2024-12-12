@@ -56,4 +56,4 @@ Namespaces isolate processes to use certain resources and don't allow overlap.
 Docker uses both of these. 
 
 ### Kubernetes (k8)
-Kubernetes is Goo
+Kubernetes is Google's version of Docker, which operates similar to 
