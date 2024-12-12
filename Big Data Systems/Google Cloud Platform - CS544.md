@@ -52,4 +52,4 @@ FROM weather
 
 ## Containerization
 cgroups can allocate groups of processes access to limited resources, including cpu, memory, cpuacct, cpuset, and more. 
-Namespaces 
+Namespaces isolate processes to use certain resources and don't allow overlap. 
