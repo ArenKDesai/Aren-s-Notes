@@ -37,7 +37,7 @@ Queries can be parameterized in order to reduce redundant calls. These are denot
 Bigquery has a DATA_SPLIT_METHOD config which does the following:
 - < 500 rows: 100% training data
 - < 50K rows: 80% training data
-- 
+- > 50K rows: 10K rows for test, rest for training
 
 ## Colossus
 Users can create buckets that contain objects (or files). Applications can switch HDFS and GCS. 
