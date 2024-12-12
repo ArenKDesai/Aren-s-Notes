@@ -13,7 +13,8 @@ IaaS - Memory oriented and optimized, more expensive but more freedom.
 PaaS - full service. Less freedom, cheaper. Caches rows. 
 
 ## Storage
-HDDs and SDDs, price depends on size and type
+HDDs and SDDs, price depends on size and type.
+Users can create buckets that contain objects (or files). Applications can switch HDFS and GCS. 
 
 ## Network
 Continents > regions > zones
@@ -48,6 +49,5 @@ AS
 SELECT yesterday_temp, humidity, temp
 FROM weather
 ```
-
 
 ## Containerization
