@@ -54,3 +54,6 @@ FROM weather
 cgroups can allocate groups of processes access to limited resources, including cpu, memory, cpuacct, cpuset, and more. 
 Namespaces isolate processes to use certain resources and don't allow overlap. 
 Docker uses both of these. 
+
+### Kubernetes (k8)
+Kubernetes is Goo
