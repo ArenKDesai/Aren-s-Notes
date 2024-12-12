@@ -51,4 +51,4 @@ FROM weather
 ```
 
 ## Containerization
-cgroups can allocate groups of processes access to limited resources
+cgroups can allocate groups of processes access to limited resources, including cpu, memory, cpuacct, cpuset
