@@ -40,5 +40,10 @@ Bigquery has a DATA_SPLIT_METHOD config which does the following:
 - > 50K rows: 10K rows for test, rest for training
 This splitting can be disabled with DATA_SPLIT_METHOD="NO_SPLIT", or by manually splitting with ```rand()<ratio```. 
 
+You can train like so:
+```BigQuery
+
+```
+
 ## Colossus
 Users can create buckets that contain objects (or files). Applications can switch HDFS and GCS. 
