@@ -30,5 +30,8 @@ BigQuery is based on Dremel and can run queries on other data sources.
 It uses data warehouses (BQ query engine with BQ storage) and lakes. 
 Typically, optimization is on run-length encoding and dictionary encoding. 
 
+### Parameterization
+
+
 ## Colossus
 Users can create buckets that contain objects (or files). Applications can switch HDFS and GCS. 
