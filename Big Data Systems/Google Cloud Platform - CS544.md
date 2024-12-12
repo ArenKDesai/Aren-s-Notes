@@ -34,7 +34,9 @@ Typically, optimization is on run-length encoding and dictionary encoding.
 Queries can be parameterized in order to reduce redundant calls. These are denoted by the @ symbol. 
 
 ### Machine Learning
-Bigquery has a DATA_SPLIT_METHOD config which does the follo
+Bigquery has a DATA_SPLIT_METHOD config which does the following:
+- < 500 rows: 100% training data
+- 
 
 ## Colossus
 Users can create buckets that contain objects (or files). Applications can switch HDFS and GCS. 
