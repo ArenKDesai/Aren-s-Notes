@@ -49,5 +49,5 @@ SELECT yesterday_temp, humidity, temp
 FROM weather
 ```
 
-## Colossus
-Users can create buckets that contain objects (or files). Applications can switch HDFS and GCS. 
+
+## Containerization
