@@ -71,7 +71,7 @@ The bloom filter data structure is an efficient way to guessing whether an item 
 3. Get the results of the hash functions on X (the data)
 4. Check the resulting locations for 1s.
 If all hash locations return 0, the item is not in the set. However, if any (or even all) of the hash locations return 1, then the item *might be* in the set. 
-For examp
+It's also important to note that the bi 
 
 ## Worksheet
 Token Map:
