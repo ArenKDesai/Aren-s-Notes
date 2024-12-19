@@ -14,6 +14,7 @@
 - Rotate object - r
 	- x,y,z to rotate on axis
 - Add subdivision surface modifier - ctrl+1
+- Change between modes on a mesh - tab
 
 ## General
 - Entering edit mode on a mesh allows for vertex and edge selection
