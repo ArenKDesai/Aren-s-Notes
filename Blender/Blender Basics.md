@@ -18,4 +18,4 @@
 ### General
 
 #### Subdivision "Subsurf" Modifier
-Allows for the averaging of faces to 
+Allows for the averaging of faces to generate more smooth surfaces. 
