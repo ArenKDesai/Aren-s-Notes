@@ -13,7 +13,7 @@
 	- hit x,y,z to scale on axis
 - Rotate object - r
 	- x,y,z to rotate on axis
-- Add modifier - ctrl+1
+- Add subdivision surface modifier - ctrl+1
 
 ### Modifiers
 Allows 
