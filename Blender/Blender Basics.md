@@ -6,3 +6,4 @@
 	- Holding down middle mouse button allows to select a specific axis
 - Render image - F12
 - Look through camera - numpad 0
+- 
