@@ -9,3 +9,5 @@
 	- properties -> "Camera to View" to move camera with middle mouse hold
 - Properties view - n
 - Orbit camera - middle mouse hold + move mouse
+- Scale object - s
+	- hit x,y,z to scal
