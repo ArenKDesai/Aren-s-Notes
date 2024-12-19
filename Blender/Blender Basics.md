@@ -20,7 +20,7 @@
 
 ### Vertices and Edges
 Entering edit mode on a mesh allows for vertex and edge selection. 
-Proportional editing edits vertices and edges around the selected vertices as well as the
+Proportional editing edits vertices and edges around the selected vertices as well. 
 
 ## Modifiers
 
