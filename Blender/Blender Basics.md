@@ -18,4 +18,4 @@
 ### General
 
 #### Subdivision "Subsurf" Modifier
-Allows for the averaging of faces to generate more smooth surfaces. Increasing the Render value in 
+Allows for the averaging of faces to generate more smooth surfaces. Increasing the Render value in Catm
