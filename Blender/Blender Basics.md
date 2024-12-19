@@ -5,5 +5,5 @@
 - Move selected object - g. Left click to confirm, right click to cancel. 
 	- Holding down middle mouse button allows to select a specific axis
 - Render image - F12
-- Look through camera - numpad 0 (or loo)
+- Look through camera - numpad 0 (or clicking icon w/o numpad)
 - 
