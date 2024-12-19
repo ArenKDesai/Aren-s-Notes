@@ -25,7 +25,7 @@ Proportional editing edits vertices and edges around the selected vertices as we
 
 X-Ray allows selection of vertices through a mesh instead of vertices facing the camera. 
 
-Snapping allows meshes to align to something. Defaults to axis, usu
+Snapping allows meshes to align to something. Defaults to axis, usually changes to face. 
 
 ## Modifiers
 
