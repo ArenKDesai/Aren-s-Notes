@@ -29,3 +29,5 @@ X-Ray allows selection of vertices through a mesh instead of vertices facing the
 
 ### Subdivision "Subsurf" Modifier
 Allows for the averaging of faces to generate more smooth surfaces. Increasing the Render value in Catmull-Clark increases the number of faces generated after a render, but doesn't generate those renders during an edit. 
+
+### Solidifer
