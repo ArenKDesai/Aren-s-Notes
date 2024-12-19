@@ -13,3 +13,4 @@
 	- hit x,y,z to scale on axis
 - Rotate object - r
 	- x,y,z to rotate on axis
+- 
