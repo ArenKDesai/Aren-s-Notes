@@ -10,4 +10,4 @@
 - Properties view - n
 - Orbit camera - middle mouse hold + move mouse
 - Scale object - s
-	- hit x,y,z to scal
+	- hit x,y,z to scale on axis
