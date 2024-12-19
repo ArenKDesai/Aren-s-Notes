@@ -31,4 +31,4 @@ X-Ray allows selection of vertices through a mesh instead of vertices facing the
 Allows for the averaging of faces to generate more smooth surfaces. Increasing the Render value in Catmull-Clark increases the number of faces generated after a render, but doesn't generate those renders during an edit. 
 
 ### Solidifier
-Changes the volume, or thickness of a mesh. 
+Changes the volume, or thickness of a mesh. May need to toggle viewing edges in edit mode. 
