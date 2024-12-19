@@ -11,4 +11,5 @@
 - Orbit camera - middle mouse hold + move mouse
 - Scale object - s
 	- hit x,y,z to scale on axis
-- 
+- Rotate object - r
+	- x,y,z to rotate on axis
