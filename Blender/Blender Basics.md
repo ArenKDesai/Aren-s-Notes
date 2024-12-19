@@ -18,7 +18,7 @@
 
 ## Meshes
 
-### General
+### Vertices and Edges
 - Entering edit mode on a mesh allows for vertex and edge selection
 
 ## Modifiers
