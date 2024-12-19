@@ -15,5 +15,5 @@
 	- x,y,z to rotate on axis
 - Add subdivision surface modifier - ctrl+1
 
-### Modifiers
-Allows 
+## General
+- Modifiers allow 
