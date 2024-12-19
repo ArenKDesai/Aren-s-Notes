@@ -18,4 +18,4 @@
 ### General
 
 #### Subdivision "Subsurf" Modifier
-Allows for the averaging of faces to generate more smooth surfaces. Increasing the Render value in Catm
+Allows for the averaging of faces to generate more smooth surfaces. Increasing the Render value in Catmull-Clark increases the number of faces generated a
