@@ -14,3 +14,7 @@
 - Rotate object - r
 	- x,y,z to rotate on axis
 - Add subdivision surface modifier - ctrl+1
+
+### General
+
+#### Subdivision "Subs" Modifier
