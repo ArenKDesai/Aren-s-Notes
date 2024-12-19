@@ -1,5 +1,5 @@
 #Graphics #Blender
 
 ## Controls
-- Add an object - ctrl+a
-- 
+- Add an object - shift+a
+- Move selected object - 
