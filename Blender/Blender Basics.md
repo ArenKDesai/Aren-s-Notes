@@ -23,6 +23,8 @@
 Entering edit mode on a mesh allows for vertex and edge selection. 
 Proportional editing edits vertices and edges around the selected vertices as well. Scrolling up and down increases or decreases the circle of influence. 
 
+X-Ray allows selection of vertices through a mesh instead of vertices facing the camera. 
+
 ## Modifiers
 
 ### Subdivision "Subsurf" Modifier
