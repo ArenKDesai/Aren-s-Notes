@@ -17,4 +17,5 @@
 
 ### General
 
-#### Subdivision "Subs" Modifier
+#### Subdivision "Subsurf" Modifier
+Allows for the averaging of faces to 
