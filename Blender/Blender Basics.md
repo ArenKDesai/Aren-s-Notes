@@ -15,7 +15,7 @@
 	- x,y,z to rotate on axis
 - Add subdivision surface modifier - ctrl+1
 
-### General
+## Modifiers
 
-#### Subdivision "Subsurf" Modifier
+### Subdivision "Subsurf" Modifier
 Allows for the averaging of faces to generate more smooth surfaces. Increasing the Render value in Catmull-Clark increases the number of faces generated after a render, but doesn't generate those renders during an edit. 
