@@ -7,4 +7,4 @@
 - Render image - F12
 - Look through camera - numpad 0 (or clicking icon w/o numpad)
 - Properties view - n
-- Orbit camera -
+- Orbit camera - middle mouse hold + move mouse
