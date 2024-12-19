@@ -15,7 +15,7 @@
 	- x,y,z to rotate on axis
 - Add subdivision surface modifier - ctrl+1
 - Change between modes on a mesh - tab
-- Select a whole line (extended edge)
+- Select a whole line (extended edge) - alt+click
 
 ## Meshes
 
