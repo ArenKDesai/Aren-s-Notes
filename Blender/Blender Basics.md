@@ -16,7 +16,9 @@
 - Add subdivision surface modifier - ctrl+1
 - Change between modes on a mesh - tab
 
-## General
+## Meshes
+
+### General
 - Entering edit mode on a mesh allows for vertex and edge selection
 
 ## Modifiers
