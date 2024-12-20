@@ -16,7 +16,7 @@
 - Add subdivision surface modifier - ctrl+1
 - Change between modes on a mesh - tab
 - Select a whole line (extended edge) - alt+click
-- Select next vertex or line - ctrl=+
+- Select next vertex or line - ctrl+'+'
 
 ## Meshes
 
