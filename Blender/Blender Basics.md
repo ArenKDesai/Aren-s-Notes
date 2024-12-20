@@ -17,6 +17,8 @@
 - Change between modes on a mesh - tab
 - Select a whole line (extended edge) - alt+click
 - Select next vertex or line - ctrl+'+'
+- hide vertices - h
+	- unhide - alt+h
 
 ## Meshes
 
