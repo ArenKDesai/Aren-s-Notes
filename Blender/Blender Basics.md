@@ -51,3 +51,6 @@ Allows for minute control of edges and vertices on meshes.
 
 ### Object Mode
 Allows for the creation, deletion, and selection of full meshes. 
+
+### Sculpt Mode
+B
