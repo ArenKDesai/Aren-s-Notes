@@ -30,7 +30,7 @@
 - create bevel - ctrl+b
 - create a loop cut - ctrl+r
 - fly camera - shift+\`
-- Switch display mode - 
+- Switch display mode - hold z
 
 ## Meshes
 
