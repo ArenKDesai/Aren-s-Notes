@@ -42,4 +42,4 @@ Changes the volume, or thickness of a mesh. May need to toggle viewing edges in 
 Increasing the "Crease Inner" smoothes the crease between the mesh and the face. 
 
 ### Shrinkwrap
-Snaps all vertices
+Snaps all vertices 
