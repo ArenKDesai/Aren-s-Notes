@@ -49,4 +49,5 @@ Snaps all vertices from one mesh to another. Useful for layers.
 ### Edit Mode
 Allows for minute control of meshes. 
 
-#
+### Object Mode
+Allows for the creation, dele
