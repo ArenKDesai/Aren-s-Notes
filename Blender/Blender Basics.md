@@ -69,3 +69,4 @@ Brushes can modify meshes in various ways, such as enlarging details.
 Can be accessed with forward slash. Isolates one mesh. 
 
 ### Face Mode
+Allows for selection of faces. Useful for creating bevels. 
