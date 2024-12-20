@@ -20,7 +20,7 @@
 - hide vertices - h
 	- unhide - alt+h
 - Create breakaway face - e
-- Change influence on sculpting bur
+- Change influence on sculpting brush - shift+s
 
 ## Meshes
 
