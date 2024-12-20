@@ -23,6 +23,7 @@
 - Change influence on sculpting brush - shift+s
 - select more - shift
 - create parent/child - ctrl+p (select child first)
+- fullscreen - ctrl+space
 
 ## Meshes
 
