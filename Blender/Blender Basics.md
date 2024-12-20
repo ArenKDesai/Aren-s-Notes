@@ -58,3 +58,6 @@ Allows for the creation, deletion, and selection of full meshes.
 
 ### Sculpt Mode
 Brushes can modify meshes in various ways, such as enlarging details. 
+
+### Isolate Mode
+Can be accessed with forward slash. Isolates one mesh. 
