@@ -54,7 +54,7 @@ Increasing the "Crease Inner" smoothes the crease between the mesh and the face.
 Snaps all vertices from one mesh to another. Useful for layers. 
 
 ### Geometry Nodes
-Very useful for adding many types of details and interactions. 
+Very useful for adding many types of details and interactions. Similar to shader pipeline. 
 
 ## Modes
 
