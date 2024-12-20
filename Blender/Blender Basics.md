@@ -27,6 +27,7 @@
 - zoom to object - numpad '.'
 - zoom menu - '~'
 - apply scale - ctrl+a
+- create bevel - ctrl+b
 
 ## Meshes
 
@@ -66,3 +67,5 @@ Brushes can modify meshes in various ways, such as enlarging details.
 
 ### Isolate Mode
 Can be accessed with forward slash. Isolates one mesh. 
+
+### Face Mode
