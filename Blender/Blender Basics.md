@@ -32,6 +32,7 @@ Snapping allows meshes to align to something. Defaults to axis.
 
 ## Modifiers
 
+Note: order matters. 
 ### Subdivision "Subsurf" Modifier
 Allows for the averaging of faces to generate more smooth surfaces. Increasing the Render value in Catmull-Clark increases the number of faces generated after a render, but doesn't generate those renders during an edit. 
 
