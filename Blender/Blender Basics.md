@@ -25,7 +25,7 @@
 - create parent/child - ctrl+p (select child first)
 - fullscreen - ctrl+space
 - zoom to object - numpad '.'
-- zoom meny
+- zoom menu - '~'
 
 ## Meshes
 
