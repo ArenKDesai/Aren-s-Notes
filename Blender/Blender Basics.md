@@ -21,6 +21,8 @@
 	- unhide - alt+h
 - Create breakaway face - e
 - Change influence on sculpting brush - shift+s
+- select more - shift
+- create parent/child
 
 ## Meshes
 
