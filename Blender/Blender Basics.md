@@ -57,7 +57,7 @@ Snaps all vertices from one mesh to another. Useful for layers.
 Very useful for adding many types of details and interactions. Similar to shader pipeline. 
 
 ### Simple Deform
-Enables deforms like bend, twist, s
+Enables deforms like bend, twist, stretch, and taper. 
 
 ## Modes
 
