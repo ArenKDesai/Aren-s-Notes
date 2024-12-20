@@ -38,3 +38,4 @@ Allows for the averaging of faces to generate more smooth surfaces. Increasing t
 
 ### Solidifier
 Changes the volume, or thickness of a mesh. May need to toggle viewing edges in edit mode. 
+Increasing the "Crease Inner" smoothes the crease between the mesh and the fa
