@@ -29,6 +29,7 @@
 - apply scale - ctrl+a
 - create bevel - ctrl+b
 - create a loop cut - ctrl+r
+- fly camera - shift+
 
 ## Meshes
 
