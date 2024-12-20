@@ -26,6 +26,7 @@
 - fullscreen - ctrl+space
 - zoom to object - numpad '.'
 - zoom menu - '~'
+- apply scale - ctrl+a
 
 ## Meshes
 
