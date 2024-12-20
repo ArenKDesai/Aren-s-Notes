@@ -54,4 +54,4 @@ Allows for minute control of edges and vertices on meshes.
 Allows for the creation, deletion, and selection of full meshes. 
 
 ### Sculpt Mode
-Brushes can modify meshes in various ways, such as 
+Brushes can modify meshes in various ways, such as enlarging details. 
