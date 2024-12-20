@@ -22,7 +22,7 @@
 - Create breakaway face - e
 - Change influence on sculpting brush - shift+s
 - select more - shift
-- create parent/child - ctrl+p (select child f)
+- create parent/child - ctrl+p (select child first)
 
 ## Meshes
 
