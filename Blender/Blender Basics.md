@@ -19,6 +19,7 @@
 - Select next vertex or line - ctrl+'+'
 - hide vertices - h
 	- unhide - alt+h
+- Create breakaway face - e
 
 ## Meshes
 
