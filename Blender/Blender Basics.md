@@ -43,3 +43,10 @@ Increasing the "Crease Inner" smoothes the crease between the mesh and the face.
 
 ### Shrinkwrap
 Snaps all vertices from one mesh to another. Useful for layers. 
+
+## Modes
+
+### Edit Mode
+Allows for minute control of meshes. 
+
+#
