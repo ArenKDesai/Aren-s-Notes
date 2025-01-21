@@ -7,3 +7,4 @@ The OS provides a standard library of a few hundred system calls that are availa
 
 Multiple programs can be run at the same time with threads, which can be considered functions with that share a memory space with other functions. 
 
+The OS doesn't 
