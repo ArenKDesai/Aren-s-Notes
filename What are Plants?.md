@@ -27,3 +27,5 @@ The smallest plant is <2 mm long (wolffia arrhiza), while the largest is > 100 m
 
 ### Angiosperms
 Angiosperms are flowering plants. Think stems, leaves, roots, flowers, fruits, buds, etc. Flowering plants gradually produce something that falls or gets picked off. Buds are the growing points, where branches, fruits, flowers, etc. grow from. 
+
+Non-angiosperms are gymnosperms, whi
