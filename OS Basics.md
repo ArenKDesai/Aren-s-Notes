@@ -1,1 +1,1 @@
-Operating system abstracts and manages hardware resources for applications. Provides a set of utili
+Operating system abstracts and manages hardware resources for applications. Provides a set of utilities to simplify app development. 
