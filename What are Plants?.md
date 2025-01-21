@@ -22,4 +22,4 @@ Plants also conduct photosynthesis using chlorophyll (photoautotrophic, as oppos
 Think stems, leaves, roots, flowers, fruits, buds, etc. Flowering plants gradually produce something that falls or gets picked off. Buds are the growing points, where branches, fruits, flowers, etc. grow from. 
 
 However, epiphytes are plants not rooted in soil for all or part of their life. Typically, this is other plants or man-made structures. 
-Cacti are photosynthetic with a water-storing stem that has spines fo
+Cacti are photosynthetic with a water-storing stem that has spines for leaves. 
