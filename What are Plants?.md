@@ -18,4 +18,5 @@ Animals, on the other hand, don't have structure, and rely on bones.
 
 Plants also conduct photosynthesis using chlorophyll (photoautotrophic, as opposed to heterotrophic or regularly autotrophic). 
 
-### Flowe
+### Flowering plants
+Think stems, leaves, roots, 
