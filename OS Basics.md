@@ -1,0 +1,1 @@
+Operating system abstracts and manages hardware resources for applications. 
