@@ -19,4 +19,4 @@ Animals, on the other hand, don't have structure, and rely on bones.
 Plants also conduct photosynthesis using chlorophyll (photoautotrophic, as opposed to heterotrophic or regularly autotrophic). 
 
 ### Flowering plants
-Think stems, leaves, roots, flowers, fruits, buds, etc. 
+Think stems, leaves, roots, flowers, fruits, buds, etc. Flowering plants gradually produce something that falls or gets picked off. Buds are the growing points, where bran
