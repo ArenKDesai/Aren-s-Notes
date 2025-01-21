@@ -26,3 +26,5 @@ Cacti are photosynthetic with a water-storing stem that has spines for leaves.
 Carnivorous plants feed on insects or are otherwise heterotrophic, while non-photosynthetic plants get nutrients from parasites, mycoheterotrophs, etc. 
 
 The smallest plant is <2 mm long (wolffia arrhiza), while the largest is > 100 m tall (eucalyptus trees). 
+
+### Flowering vs not fl
