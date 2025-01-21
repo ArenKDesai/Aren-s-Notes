@@ -2,4 +2,5 @@ Botany studies plants, algae, and fungi. It includes plant ecology, anatomy, phy
 
 Photosynthesis can be summarized into the formula: $6CO_2+12H_2O->C_6H_{12}O_6+6O_2+6H_2O$
 Light reactions: Water split, produces oxygen. 
-Dark reactions: CO_2 is reduced, producing sugar. 
+Dark reactions: $CO_2$ is reduced, producing sugar. 
+
