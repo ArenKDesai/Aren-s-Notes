@@ -1,0 +1,1 @@
+Botany studies plants, algae, and fungi. 
