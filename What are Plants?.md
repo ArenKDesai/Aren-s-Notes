@@ -28,6 +28,6 @@ The smallest plant is <2 mm long (wolffia arrhiza), while the largest is > 100 m
 ### Flowering Plants
 Angiosperms are flowering plants. Think stems, leaves, roots, flowers, fruits, buds, etc. Flowering plants gradually produce something that falls or gets picked off. Buds are the growing points, where branches, fruits, flowers, etc. grow from. 
 Non-angiosperms are gymnosperms, which produce seeds but no flowers. 
-Pteridophytes don't have seeds or flowers. They have spores. 
+Pteridophytes (ferns) don't have seeds or flowers. They have spores. 
 Lycophytes (club mosses) have spores, but no flowers, seeds, and no leaves. 
-Finally, bryoph
+Finally, bryophytes (mosses) have no vascul
