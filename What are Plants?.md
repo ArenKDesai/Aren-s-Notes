@@ -23,4 +23,4 @@ Flowering plants: think stems, leaves, roots, flowers, fruits, buds, etc. Flower
 However, epiphytes are plants not rooted in soil for all or part of their life. Typically, this is other plants or man-made structures. 
 Cacti are photosynthetic with a water-storing stem that has spines for leaves. 
 
-Carnivorous plants 
+Carnivorous plants feed on insects 
