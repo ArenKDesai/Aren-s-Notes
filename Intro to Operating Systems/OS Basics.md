@@ -6,4 +6,4 @@ Operating systems take care of virtualization, concurrency, and persistence. The
 The OS provides a standard library of a few hundred system calls that are available to applications. 
 
 ## Concurrency
-Multiple programs can be run 
+Multiple programs can be run at the same time with threads, 
