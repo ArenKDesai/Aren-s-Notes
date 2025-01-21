@@ -4,3 +4,5 @@ These resources include CPU, volatile storage (disks), network comms, I/O device
 Operating systems take care of virtualization, concurrency, and persistence. They promote the usage of hardware resources through OS policies. 
 
 The OS provides a standard library of a few hundred system calls that are available to applications. 
+
+## C
