@@ -21,4 +21,4 @@ Plants also conduct photosynthesis using chlorophyll (photoautotrophic, as oppos
 ### Flowering plants
 Think stems, leaves, roots, flowers, fruits, buds, etc. Flowering plants gradually produce something that falls or gets picked off. Buds are the growing points, where branches, fruits, flowers, etc. grow from. 
 
-However,
+However, epiphytes are plants not rooted in soil for all or part of thei
