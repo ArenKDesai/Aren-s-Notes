@@ -1,1 +1,1 @@
-Botany studies plants, algae, and fungi. It includes plant ecology, ana
+Botany studies plants, algae, and fungi. It includes plant ecology, anatomy, physiology, economic botany, ethno
