@@ -13,3 +13,4 @@ The oxygen that plants produce interacts with UV (UV-A, UV-B, and UV-C) rays in 
 ## Onto Plants
 
 Plants are eukaryotic (advanced), multicellular, sessile (arose from unicellular ancestors) organisms. They have rigid cell walls of cellulose that animal cells don't have. 
+Trees are woody plants with a single dominant stem. Shrubs a
