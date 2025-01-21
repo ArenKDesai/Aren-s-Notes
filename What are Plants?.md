@@ -16,7 +16,7 @@ Plants are eukaryotic (advanced), multicellular, sessile (arose from unicellular
 Trees are woody plants with a single dominant stem. Shrubs have multiple stems, and herbs don't have wood. 
 Animals, on the other hand, don't have structure, and rely on bones. 
 
-Plants also conduct photosynthesis using chlorophyll (photoautotrophic, as opposed to heterotrophic or regularly autotrophic). 
+Plants also conduct photosynthesis using chlorophyll (photoautotrophic, as opposed to heterotrophic or regularly autotrophic). They have an "alternation of generations"
 
 Flowering plants: think stems, leaves, roots, flowers, fruits, buds, etc. Flowering plants gradually produce something that falls or gets picked off. Buds are the growing points, where branches, fruits, flowers, etc. grow from. 
 
