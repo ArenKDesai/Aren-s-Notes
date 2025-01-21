@@ -24,3 +24,5 @@ However, epiphytes are plants not rooted in soil for all or part of their life. 
 Cacti are photosynthetic with a water-storing stem that has spines for leaves. 
 
 Carnivorous plants feed on insects or are otherwise heterotrophic, while non-photosynthetic plants get nutrients from parasites, mycoheterotrophs, etc. 
+
+The smallest plant is <2 mm long
