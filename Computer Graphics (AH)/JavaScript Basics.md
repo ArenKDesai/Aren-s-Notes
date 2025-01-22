@@ -4,4 +4,5 @@
 - Undefined is false. Something existing is true. 
 - Checking for a key in a dict that doesn't exist provides undefined, not an exception. 
 - The keyword ```this``` is complicated, and can have multiple meanings. 
-- Checking for an indexed position beyond the length of an ar
+- Checking for an indexed position beyond the length of an array returns undefined, not an exception. 
+- 
