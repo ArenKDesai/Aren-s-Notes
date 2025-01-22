@@ -12,4 +12,4 @@ These APIs are generally available on any OS:
 5. Status: Information on a process for long it has run, what state it is in, etc. 
 
 ### Process Creation
-To create a program, an OS must first load its code and any static data into memory / the address space of the process. Processes are typically stored as bytes on an HD or SSD. 
+To create a program, an OS must first load its code and any static data into memory / the address space of the process. Processes are typically stored as bytes on a hard drive (HD) or solid-state drive (SSD). 
