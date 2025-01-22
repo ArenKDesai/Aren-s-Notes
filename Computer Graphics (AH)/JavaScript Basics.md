@@ -8,3 +8,4 @@
 - the ```for i in nums``` of javascript is ```for i of nums```. ```is``` is something else (deprecated, don't use). 
 - You can use functions as in-code variables. 
 - Referring to a variable in a different scope is called a closure. 
+- Functional programming is very helpful for event-driven programming. 
