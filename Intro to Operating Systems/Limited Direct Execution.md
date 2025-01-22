@@ -1,2 +1,2 @@
 Direct execution is when a process (see [[Processes]]) runs on the CPU. This entails creating a process entry in the process list, allocating memory for it, loading the program code from disk into memory, locating the entry point (usually ```main()```), jumping to that point in the address space, and running the user's code. This is very fast, but introduces problems with operating system (OS) support, such as when a process needs to issue I/O operations. 
-To avoid this, we introduce user mode. This is restricted code that can't issue I/O re
+To avoid this, we introduce user mode. This is restricted code that can't issue I/O requests. In contrast, there is kern
