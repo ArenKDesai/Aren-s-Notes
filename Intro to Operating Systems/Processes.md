@@ -8,4 +8,4 @@ These APIs are generally available on any OS:
 1. Create: create new processes. 
 2. Destroy: forcefully shut down a process. 
 3. Wait: pause execution until a certain process is done running. 
-4. 
+4. Misc. Control: other options, lik
