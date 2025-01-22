@@ -19,7 +19,7 @@ Some memory must also be allocated for the program's stack and heap.
 ```fork()``` is called to create a copy of the current process. It provides a new process ID (PID). The new process is an exact copy of the previous program (called the child to the original process as the parent), but when the fork process finishes, the parent program receives the PID of the child while the child receives 0. 
 
 #### exec()
-```exec()``` is used the begin the process of a different 
+```exec()``` is used the begin the process of a different program. 
 
 ### Process States
 Processes can be in one of three simplified states:
