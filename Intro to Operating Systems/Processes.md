@@ -28,6 +28,4 @@ A process list contains information about all processes in the system, and each 
 The register context holds the contents of registers for a stopped process. 
 
 #### wait()
-Useful for handling multi-threaded programs. Another option is ```
-```waitpid()```
-```. 
+Useful for handling multi-threaded programs. Another option is ```waitpid()```. 
