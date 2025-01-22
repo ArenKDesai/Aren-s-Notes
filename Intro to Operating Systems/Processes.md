@@ -15,7 +15,8 @@ These APIs are generally available on any OS:
 To create a program, an OS must first load its code and any static data into memory / the address space of the process. Processes are typically stored as bytes on a hard drive (HD) or solid-state drive (SSD). Modern OSes perform the process lazily bu loading pieces of code or data only as they are needed during program execution. 
 Some memory must also be allocated for the program's stack and heap. 
 
-
+#### fork()
+fork is called to create a new process. 
 
 ### Process States
 Processes can be in one of three simplified states:
