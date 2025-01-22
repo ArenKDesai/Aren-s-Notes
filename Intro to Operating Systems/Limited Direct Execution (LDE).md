@@ -7,4 +7,5 @@ In user mode, I/O operations and other blocked actions are done through system c
 At boot time, the kernel sets up a trap table in kernel mode that specifies what code to run during certain exceptional events (trap handlers). 
 A system-call number is typically assigned to each system call. The user code is responsible for placing the desired system-call number in a register or at a specified location on the stack. Since the code cannot jump to an address itself, the kernel code is safe from malware. 
 
-## LProtocol
+## Protocol
+LDE protocol has two 
