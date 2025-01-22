@@ -27,4 +27,4 @@ function drawLoop() {
 }
 drawLoop();
 ```
-This loop won't happen instantly,
+This loop won't happen instantly, but happens dynamically when needed. 
