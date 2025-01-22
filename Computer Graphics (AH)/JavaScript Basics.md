@@ -6,4 +6,4 @@
 - The keyword ```this``` is complicated, and can have multiple meanings. 
 - Checking for an indexed position beyond the length of an array returns undefined, not an exception. 
 - the ```for i in nums``` of javascript is ```for i of nums```. ```is``` is something else (deprecated, don't use). 
-- 
+- You can use functions as in-code variables. 
