@@ -1,3 +1,5 @@
+
+## JavaScrip 
 - variables declared with ```var``` are old with scoping issues. ```var``` should simply not be used. Instead, use ```let```, or ```const``` for constants. 
 - Arrays in javascript can hold multiple different types. 
 - A "real test" is ```===```, not ```==```. 
@@ -10,4 +12,4 @@
 - Referring to a variable in a different scope is called a closure. 
 - Functional programming is very helpful for event-driven programming. 
 
-## 
+## Web Basics
