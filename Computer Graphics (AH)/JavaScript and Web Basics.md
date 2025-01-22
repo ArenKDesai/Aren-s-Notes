@@ -23,6 +23,7 @@ Common loop structure:
 function drawLoop() {
 	// change things
 	// draw something
-	wind
+	
+	window.requestAnimationFrame(drawLoop);
 }
 ```
