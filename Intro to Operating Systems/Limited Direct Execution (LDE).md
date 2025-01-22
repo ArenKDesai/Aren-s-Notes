@@ -8,4 +8,5 @@ At boot time, the kernel sets up a trap table in kernel mode that specifies what
 A system-call number is typically assigned to each system call. The user code is responsible for placing the desired system-call number in a register or at a specified location on the stack. Since the code cannot jump to an address itself, the kernel code is safe from malware. 
 
 ## Protocol
-LDE protocol has two 
+LDE protocol has two phases:
+1. The kernel initializes trap t
