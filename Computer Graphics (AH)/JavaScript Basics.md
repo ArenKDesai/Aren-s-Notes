@@ -1,3 +1,5 @@
 - variables declared with ```var``` are old with scoping issues. ```var``` should simply not be used. Instead, use ```let```, or ```const``` for constants. 
 - Arrays in javascript can hold multiple different types. 
 - A "real test" is ```===```, not ```==```. 
+- Undefined is false. Something existing is true. 
+- 
