@@ -16,7 +16,7 @@ To create a program, an OS must first load its code and any static data into mem
 Some memory must also be allocated for the program's stack and heap. 
 
 #### fork()
-fork is called to create a new process. It provides a new process ID (PID). The new process is an exact copy of the previous program (called the child to the original process as the parent), but when the fork process finishe the parent program receives the PID of the child, the child receives the 
+fork is called to create a new process. It provides a new process ID (PID). The new process is an exact copy of the previous program (called the child to the original process as the parent), but when the fork process finishes, the parent program receives the PID of the child, the child receives the 
 
 ### Process States
 Processes can be in one of three simplified states:
