@@ -18,4 +18,4 @@ Some memory must also be allocated for the program's stack and heap.
 ### Process States
 Processes can be in one of three simplified states:
 1. Running: executing instructions
-2. Ready: 
+2. Ready: prepared to run but not yet executed:
