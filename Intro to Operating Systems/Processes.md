@@ -1,1 +1,1 @@
-A process is a running program. We typically want multiple processes running at once ()
+A process is a running program. We typically want multiple processes running at once (web browser, music streamer, game, etc.), so we 
