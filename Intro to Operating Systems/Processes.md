@@ -6,4 +6,4 @@ The program counter (PC), or instruction pointer (IP), keeps track of which inst
 ## Process API
 These APIs are generally available on any OS:
 1. Create: create new processes. 
-2. Destroy: forcefully s
+2. Destroy: forcefully shut down a process. 
