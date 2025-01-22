@@ -14,4 +14,4 @@
 
 ## Web Basics
 Webpages are made of elements, where scripts can be ran on objects indexed by IDs. 
-Javasc
+Javascript code can be written either in-page or in a separate 
