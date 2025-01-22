@@ -9,4 +9,4 @@ A system-call number is typically assigned to each system call. The user code is
 
 ## Protocol
 LDE protocol has two phases:
-1. The kernel initializes trap table and the C
+1. The kernel initializes trap table and the CPU uses a privileged instruction to remember the a
