@@ -1,0 +1,1 @@
+- variables declared with ```var``` are old with scoping issues
