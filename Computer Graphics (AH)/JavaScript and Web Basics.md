@@ -14,4 +14,4 @@
 
 ## Web Basics
 Webpages are made of elements, where scripts can be ran on objects indexed by IDs. 
-Javascript code can be written either in-page or in a separate file, with the ```defer``` tag to execute the 
+Javascript code can be written either in-page or in a separate file, with the ```defer``` tag to execute the script after the elements have been rendered. 
