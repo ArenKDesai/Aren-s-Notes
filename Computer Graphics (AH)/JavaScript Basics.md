@@ -1,1 +1,1 @@
-- variables declared with ```var``` are old with scoping issues
+- variables declared with ```var``` are old with scoping issues. ```var``` should simply not be used. In
