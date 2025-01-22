@@ -1,1 +1,1 @@
-A process is a running program. We typically want multiple processes running at once (web browser, music streamer, game, etc.), so we virtualize the the CPU
+A process is a running program. We typically want multiple processes running at once (web browser, music streamer, game, etc.), so we virtualize the CPU and allow time sharing of the virtualized CP
