@@ -11,3 +11,5 @@ A system-call number is typically assigned to each system call. The user code is
 LDE protocol has two phases:
 1. The kernel initializes trap table and the CPU uses a privileged instruction to remember the address. 
 2. The kernel sets up other necessary processes (allocating a node on the process list, allocating memory, etc.) before using a return-from-trap instruction to start the execution of the process. 
+
+In order to allow the OS to keep running despite another process using the CPU, a timer interrupt is programmed 
