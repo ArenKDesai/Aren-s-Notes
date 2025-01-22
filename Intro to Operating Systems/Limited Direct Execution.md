@@ -4,4 +4,4 @@ To avoid this, we introduce user mode. This is restricted code that can't issue 
 ## System Calls and Traps
 In user mode, I/O operations and other blocked actions are done through system calls, which initiate trap instructions. This temporarily raises the privilege level to kernel mode. An instruction called return-from-trap is called after. 
 
-At boot time, the kernel sets up a trap 
+At boot time, the kernel sets up a trap table
