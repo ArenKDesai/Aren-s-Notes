@@ -1,1 +1,1 @@
-A process is a running program
+A process is a running program. We typically want multiple processes running at once ()
