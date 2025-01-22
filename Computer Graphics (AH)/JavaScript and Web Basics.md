@@ -13,4 +13,5 @@
 - Functional programming is very helpful for event-driven programming. 
 
 ## Web Basics
-Webpages are made of elements, where scripts can be ran on objects indexed by in
+Webpages are made of elements, where scripts can be ran on objects indexed by IDs. 
+Javasc
