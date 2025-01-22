@@ -21,3 +21,5 @@ Processes can be in one of three simplified states:
 2. Ready: prepared to run but not yet executed
 3. Blocked: executed some operation and waiting for an external event before it can continue running
 Moving from ready to running means a process has been scheduled, while running to ready means descheduled. These decisions are made by an OS scheduler. 
+
+The register context holds the contents of registers for a stopped process. 
