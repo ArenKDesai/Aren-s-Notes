@@ -20,3 +20,4 @@ Processes can be in one of three simplified states:
 1. Running: executing instructions
 2. Ready: prepared to run but not yet executed
 3. Blocked: executed some operation and waiting for an external event before it can continue running
+Moving from 
