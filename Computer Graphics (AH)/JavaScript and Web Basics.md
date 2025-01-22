@@ -11,7 +11,7 @@
 - You can use functions as in-code variables. 
 - Referring to a variable in a different scope is called a closure. 
 - Functional programming is very helpful for event-driven programming. 
-- Its usually 
+- Its usually best to check if an element exists before running a script. 
 
 ## Web Basics
 Webpages are made of elements, where scripts can be ran on objects indexed by IDs. 
