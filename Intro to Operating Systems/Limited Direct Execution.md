@@ -5,4 +5,4 @@ To avoid this, we introduce user mode. This is restricted code that can't issue 
 In user mode, I/O operations and other blocked actions are done through system calls, which initiate trap instructions. This temporarily raises the privilege level to kernel mode. An instruction called return-from-trap is called after. 
 
 At boot time, the kernel sets up a trap table in kernel mode that specifies what code to run during certain exceptional events (trap handlers). 
-A system-call number is typically assigned to each system call. The user code is responsible for placing the desired system-call number in a register or at a specified location on the stack. Since the code cannot jump to an address itself, the kernel code is safe from malw
+A system-call number is typically assigned to each system call. The user code is responsible for placing the desired system-call number in a register or at a specified location on the stack. Since the code cannot jump to an address itself, the kernel code is safe from malware. 
