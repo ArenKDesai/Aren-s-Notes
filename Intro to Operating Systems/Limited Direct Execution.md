@@ -1,1 +1,1 @@
-Direct execution is when a process (see [[Processes]]) runs on the CPU. This entails 
+Direct execution is when a process (see [[Processes]]) runs on the CPU. This entails creating a process entry in the process list, allocating mem
