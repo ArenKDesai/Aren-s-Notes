@@ -1,1 +1,1 @@
-- variables declared with ```var``` are old with scoping issues. ```var``` should simply not be used. In
+- variables declared with ```var``` are old with scoping issues. ```var``` should simply not be used. Instead, use ```let```
