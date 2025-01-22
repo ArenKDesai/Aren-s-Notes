@@ -1,0 +1,1 @@
+Direct execution is when a process (see [[Processes]]) runs on the CPU. This entails 
