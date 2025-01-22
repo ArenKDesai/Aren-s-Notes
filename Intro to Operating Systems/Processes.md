@@ -28,3 +28,5 @@ Moving from ready to running means a process has been scheduled, while running t
 A process list contains information about all processes in the system, and each entry is found in a process control block (PCB). 
 
 The register context holds the contents of registers for a stopped process. 
+
+#### wait()
