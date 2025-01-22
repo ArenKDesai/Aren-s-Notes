@@ -12,4 +12,4 @@ These APIs are generally available on any OS:
 5. Status: Information on a process for long it has run, what state it is in, etc. 
 
 ### Process Creation
-TO 
+To create a program, an OS must first load its code and any statid 
