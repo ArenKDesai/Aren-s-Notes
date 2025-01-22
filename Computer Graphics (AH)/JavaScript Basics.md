@@ -2,4 +2,4 @@
 - Arrays in javascript can hold multiple different types. 
 - A "real test" is ```===```, not ```==```. 
 - Undefined is false. Something existing is true. 
-- 
+- Checking for a key in a dict that doesn't exist provides undefined, not an exception. 
