@@ -3,7 +3,7 @@ Virtualization of the CPU is supported by mechanisms, low-level methods or proto
 The memory that a process can access is its address space, supported by registers that can be read and uploaded to very frequently. 
 The program counter (PC), or instruction pointer (IP), keeps track of which instruction of the program will execute next. The stack pointer and frame pointer manage the stack for function parameters, local variables, and return addresses. 
 
-Processes also rely on signals to know when to s
+Processes also rely on signals to know when to stop or be killed, and are limited in usage by user 
 
 ## Process API
 These APIs are generally available on any OS:
