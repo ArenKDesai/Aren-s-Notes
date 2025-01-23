@@ -25,6 +25,8 @@ Carnivorous plants feed on insects or are otherwise heterotrophic, while non-pho
 
 The smallest plant is <2 mm long (wolffia arrhiza), while the largest is > 100 m tall (eucalyptus trees). 
 
+Most plants are photosyntheic, but some are not, such as mistletoe. 
+
 ### Flowering Plants
 Angiosperms are flowering plants. Think stems, leaves, roots, flowers, fruits, buds, etc. Flowering plants gradually produce something that falls or gets picked off. Buds are the growing points, where branches, fruits, flowers, etc. grow from. 
 Non-angiosperms are gymnosperms, which produce seeds but no flowers. 
