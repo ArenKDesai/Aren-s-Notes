@@ -10,6 +10,8 @@ Cellular respiration: $C_6H_{12}O_6+6O_2->6CO_2+6H_2O$. The $6O_2$ is used as en
 
 The oxygen that plants produce interacts with UV (UV-A, UV-B, and UV-C) rays in the atmosphere to create the ozone ($O_3$) layer, which shields us from radiation. 
 
+Protists are organisms that are not bacteria, archea, fungi
+
 ## Onto Plants
 
 Plants are eukaryotic (advanced), multicellular, sessile (arose from unicellular ancestors) organisms. They have rigid cell walls of cellulose that animal cells don't have. 
