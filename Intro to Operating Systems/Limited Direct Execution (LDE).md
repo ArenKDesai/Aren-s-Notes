@@ -2,7 +2,7 @@ Direct execution is when a process (see [[Processes]]) runs on the CPU. This ent
 To avoid this, we introduce user mode. This is restricted code that can't issue I/O requests. In contrast, there is kernel mode, which is the mode the OS or kernel runs in. There are no restrictions for kernel mode. Instead, user programs must use system calls. 
 
 #### Process Control Block (PCB)
-This is how we save context during process-to-OS changes. This stores PID, process state, execution state, scheduling priority, accounting information, credentials, pointers to other allocated resources, etc. This list can be 1000s
+This is how we save context during process-to-OS changes. This stores PID, process state, execution state, scheduling priority, accounting information, credentials, pointers to other allocated resources, etc. This list can be >1000s items long. 
 However, the hardware needs to save process PC and PSR on interrupts. 
 
 ## System Calls and Traps
