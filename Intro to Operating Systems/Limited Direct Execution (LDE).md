@@ -3,6 +3,7 @@ To avoid this, we introduce user mode. This is restricted code that can't issue 
 
 #### Process Control Block (PCB)
 This is how we save context during process-to-OS changes. This stores PID, process state, execution state, scheduling priority, accounting information, credentials, and pointers to other allocated resources. 
+However, the hardware
 
 ## System Calls and Traps
 In user mode, I/O operations and other blocked actions are done through system calls, which initiate trap instructions. This temporarily raises the privilege level to kernel mode. An instruction called return-from-trap is called after. 
