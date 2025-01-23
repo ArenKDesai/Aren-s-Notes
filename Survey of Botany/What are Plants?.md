@@ -29,6 +29,11 @@ The smallest plant is <2 mm long (wolffia arrhiza), while the largest is > 100 m
 
 Most plants are photosynthetic, but some are not, such as mistletoe. Plant cells are also typically composed of cellulose. 
 
+To be considered a plant, typically:
+1. composed of many cells
+2. cellulose-rich walls
+3. have chloro
+
 ### Flowering Plants
 Angiosperms are flowering plants. Think stems, leaves, roots, flowers, fruits, buds, etc. Flowering plants gradually produce something that falls or gets picked off. Buds are the growing points, where branches, fruits, flowers, etc. grow from. 
 Non-angiosperms are gymnosperms, which produce seeds but no flowers. 
