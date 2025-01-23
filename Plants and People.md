@@ -11,7 +11,8 @@ Obviously there's botanists, but there's also:
 - Econobotanists: money, economics of plantsA
 
 ## Agriculture
-Agriculture originated around 10,000 years ago. 
+Agriculture originated around 12,000-5,000 years ago. 
+Started with grains (grasses) and legumes (beans, peas). 
 Monoculture is the practice of farming a single type of crop, which is vulnerable to disease and parasites. 
 Chinampas cultivation was invented by the Tehuacan Valley inhabitants. These are raised, linear soil beds where a mixture of crops is grown. This is known as polyculture. 
 For all corn creation, 35% is for animal feed, only 2% for human consumption. 
