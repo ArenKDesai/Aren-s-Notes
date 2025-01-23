@@ -33,7 +33,7 @@ To be considered a plant, typically:
 1. composed of many cells
 2. cellulose-rich walls
 3. have chloroform
-4. are photosynthetic
+4. are photosynthetic (or from photosynthetic anscestors)
 
 ### Flowering Plants
 Angiosperms are flowering plants. Think stems, leaves, roots, flowers, fruits, buds, etc. Flowering plants gradually produce something that falls or gets picked off. Buds are the growing points, where branches, fruits, flowers, etc. grow from. 
