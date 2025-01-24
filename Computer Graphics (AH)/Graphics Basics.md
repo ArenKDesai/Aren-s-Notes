@@ -20,7 +20,8 @@ For example,
 	<p>Text with <button>button</button></p>
 </body>
 <script>
-
+let canvas = document.getElementById("myc");
+let con
 </script>
 </html>
 ```
