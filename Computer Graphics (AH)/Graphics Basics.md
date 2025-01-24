@@ -21,7 +21,8 @@ For example,
 </body>
 <script>
 let canvas = document.getElementById("myc");
-let con
+let context = canvas.getContext("2d");
+context.clearRec
 </script>
 </html>
 ```
