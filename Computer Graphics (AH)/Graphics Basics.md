@@ -15,7 +15,6 @@ In an immediate mode API, it's immediately converted into pixels on the screen. 
 
 In Canvas, there's stateful drawing, where the color you're drawing in is always the last used color. 
 
-
 For example,
 ```html
 <html>
