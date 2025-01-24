@@ -14,7 +14,8 @@ For example,
 ```html
 <html>
 <body>
-	<p
+	<p>Text</p>
+	<canvas >
 </body>
 </html>
 ```
