@@ -9,7 +9,7 @@ We draw elements either from fixed positions with light or variable positions wi
 Typically, you do not write the polygon-writing algorithms yourself. You use APIs to do it for you. 
 
 ## APIs
-There's plenty of APIs for graphics. Some are high-level, some low-level. For example, Canvas and SVG are high-level while WebGL is low-level. Some go on top of those, like three.js. 
+There's plenty of APIs for graphics. Some are high-level, some low-level. For example, Canvas and SVG are high-level while WebGL is low-level. Some go on top of those, like three.js. Canvas is 
 For example,
 ```html
 <html>
@@ -17,7 +17,7 @@ For example,
 	<p>Text</p>
 	<canvas id="myc" width="200px" height="200px" style="border:1px solid black">
 	</canvas>
-	<p>Text with <but
+	<p>Text with <button>button</button></p>
 </body>
 </html>
 ```
