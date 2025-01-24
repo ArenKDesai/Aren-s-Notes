@@ -36,3 +36,5 @@ context.fillRect(40, 60, 40, 60);
 ```
 This creates this webpage:
 ![[Screenshot_2025-01-24_16-08-59.png]]
+
+In Canvas, saving and restoring is a stack, so if you save multiple times and restore multiple times, it saves and restores
