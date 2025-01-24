@@ -19,6 +19,8 @@ For example,
 	</canvas>
 	<p>Text with <button>button</button></p>
 </body>
-<Sc>
+<script>
+
+</script>
 </html>
 ```
