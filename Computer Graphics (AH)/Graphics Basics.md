@@ -29,4 +29,5 @@ context.fillRect(40, 60, 40, 60);
 </script>
 </html>
 ```
-This creates a webpage
+This creates this webpage:
+!()[Screenshot_2025-01-24_16-08-59]
