@@ -39,8 +39,7 @@ This creates this webpage:
 
 In Canvas, saving and restoring is a stack, so if you save multiple times and restore multiple times, it saves and restores from the top of the stack. 
 Important Canvas methods:
-```html
-<canvas>
+```
 // Select the canvas element and set up the context
 const canvas = document.querySelector('canvas');
 const ctx = canvas.getContext('2d');
@@ -77,5 +76,4 @@ ctx.fill(); // Fill the circle
 ctx.strokeStyle = 'black';
 ctx.lineWidth = 1;
 ctx.stroke(); // Outline the circle
-</canvas>
 ```
