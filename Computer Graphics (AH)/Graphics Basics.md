@@ -22,7 +22,7 @@ For example,
 <script>
 let canvas = document.getElementById("myc");
 let context = canvas.getContext("2d");
-context.clearRec
+context.clearRect(0,0, canvas.width, canvas.height)
 </script>
 </html>
 ```
