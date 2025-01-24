@@ -1,3 +1,4 @@
 #CS559 #UWMadison #ComputerGraphics #Graphics 
 
-### Li
+### Light
+Light (generally) travels in straight lines, and is t
