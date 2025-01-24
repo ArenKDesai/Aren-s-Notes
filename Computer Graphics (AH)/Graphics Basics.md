@@ -30,4 +30,4 @@ context.fillRect(40, 60, 40, 60);
 </html>
 ```
 This creates this webpage:
-!()[Screenshot_2025-01-24_16-08-59]
+![[Obsidian/Screenshot_2025-01-24_16-08-59]]
