@@ -15,7 +15,8 @@ For example,
 <html>
 <body>
 	<p>Text</p>
-	<canvas id="myc" width="200px" height="200px" style="border:1px solid b>
+	<canvas id="myc" width="200px" height="200px" style="border:1px solid black">
+	</canvas>
 </body>
 </html>
 ```
