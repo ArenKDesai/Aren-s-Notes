@@ -41,4 +41,6 @@ In Canvas, saving and restoring is a stack, so if you save multiple times and re
 Important Canvas methods:
 ```html
 <canvas>
+
+</canvas>
 ```
