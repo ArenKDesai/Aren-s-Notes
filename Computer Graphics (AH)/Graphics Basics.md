@@ -22,7 +22,9 @@ For example,
 <script>
 let canvas = document.getElementById("myc");
 let context = canvas.getContext("2d");
-context.clearRect(0,0, canvas.width, canvas.height)
+context.clearRect(0,0, canvas.width, canvas.height);
+context.fillRect(20, 20, 40, 80);
+
 </script>
 </html>
 ```
