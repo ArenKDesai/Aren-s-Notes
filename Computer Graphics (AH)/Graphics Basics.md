@@ -5,4 +5,4 @@ Light (generally) travels in straight lines, and for computers, is generally dra
 
 Physically-based rendering is possible where we simulate photons (think ray-tracing). However, we typically use primitive-based rendering. This is why we call elements **primitives**.
 
-We draw elements from nodes with (x,y) fixed positions or variable positions. 
+We draw elements either from fixed positions with light or variable positions with primitives drawn from them. 
