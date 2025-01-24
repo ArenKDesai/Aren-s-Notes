@@ -1,3 +1,4 @@
+#UWMadison #ComputerGraphics #Graphics #JavaScript
 
 ## JavaScript Basics
 - variables declared with ```var``` are old with scoping issues. ```var``` should simply not be used. Instead, use ```let```, or ```const``` for constants. 
@@ -25,6 +26,6 @@ function drawLoop() {
 	// draw something
 	window.requestAnimationFrame(drawLoop);
 }
-drawLoop();
+window.requestAnimationFrame(drawLoop);
 ```
 This loop won't happen instantly, but happens dynamically when needed. 
