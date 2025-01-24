@@ -12,5 +12,7 @@ Typically, you do not write the polygon-writing algorithms yourself. You use API
 There's plenty of APIs for graphics. Some are high-level, some low-level. For example, Canvas and SVG are high-level while WebGL is low-level. Some go on top of those, like three.js. 
 For example,
 ```html
-<html
+<html>
+
+</html>
 ```
