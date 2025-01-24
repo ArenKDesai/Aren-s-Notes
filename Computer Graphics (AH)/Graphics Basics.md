@@ -13,7 +13,7 @@ There's plenty of APIs for graphics. Some are high-level, some low-level. For ex
 #### Immediate vs Retained
 In an immediate mode API, it's immediately converted into pixels on the screen. We cannot access the rectangle after the command. In retained, there are objects that you can access. 
 
-In Canvas, there's stateful drawing, where the color you're drawing in is always the last used color. Points are i
+In Canvas, there's stateful drawing, where the color you're drawing in is always the last used color. Points are interpreted in the current coordinate system. 
 
 For example,
 ```html
