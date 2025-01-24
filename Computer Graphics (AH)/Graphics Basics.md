@@ -21,7 +21,7 @@ For example,
 	<p>Text</p>
 	<canvas id="myc" width="200px" height="200px" style="border:1px solid black">
 	</canvas>
-	<p>Text with <button>button</button></p>
+	<p>Text with a <button>button</button></p>
 </body>
 <script>
 let canvas = document.getElementById("myc");
