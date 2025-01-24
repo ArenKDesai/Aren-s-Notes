@@ -9,7 +9,7 @@ We draw elements either from fixed positions with light or variable positions wi
 Typically, you do not write the polygon-writing algorithms yourself. You use APIs to do it for you. 
 
 ## APIs
-There's plenty of APIs for graphics. Some are high-level, some low-level. For example, Canvas and SVG are high-level while WebGL is low-level. Some go on top of those, like three.js. Canvas is **intermediate mode API**, while SVG is a **retained mode API***. 
+There's plenty of APIs for graphics. Some are high-level, some low-level. For example, Canvas and SVG are high-level while WebGL is low-level. Some go on top of those, like three.js. Canvas is **immediate mode API**, while SVG is a **retained mode API***. 
 ### Immediate vs Retained
 In an immediate mode API, it's immediately converted into pixels on the screen. We cannot access the rectangle after the command. In retained, there are objects that you can access. 
 
