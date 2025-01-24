@@ -25,7 +25,8 @@ let context = canvas.getContext("2d");
 context.clearRect(0,0, canvas.width, canvas.height);
 context.fillRect(20, 20, 40, 80);
 context.fillStyle = "red";
-context.fillRect()
+context.fillRect(40, 60, 40, 60);
 </script>
 </html>
 ```
+This creates a webpage
