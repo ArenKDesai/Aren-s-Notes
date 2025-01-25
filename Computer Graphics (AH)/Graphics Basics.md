@@ -5,7 +5,7 @@ Light (generally) travels in straight lines, and for computers, is generally dra
 
 Physically-based rendering is possible where we simulate photons (think ray-tracing). However, we typically use primitive-based rendering. This is why we call elements **primitives**.
 
-We draw elements either from fixed positions with light or variable positions with primitives drawn from them. This is sampled (raster) vs geometric (primitives). Most of what we work with is sampled due to the pixels of displays. 
+We draw elements either from fixed positions with light or variable positions with primitives drawn from them. This is sampled (raster) (see [[Rasterizing]]) vs geometric (primitives). Most of what we work with is sampled due to the pixels of displays. 
 Typically, you do not write the polygon-writing algorithms yourself. You use APIs to do it for you. 
 
 ## APIs
