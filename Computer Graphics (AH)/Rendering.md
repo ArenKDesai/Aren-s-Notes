@@ -7,4 +7,4 @@ Simple pieces of vector objects are called primitives. This is a very common met
 
 ## Pixels
 
-Typically, we consider pixels as a grid on our co
+Typically, we consider pixels as a grid on our computer screen (for this one, )
