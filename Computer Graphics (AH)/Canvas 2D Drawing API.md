@@ -1,4 +1,4 @@
-#UWMadison #Canvas #Graphics #C
+#UWMadison #Canvas #Graphics #ComputerGraphics 
 
 In Canvas, there's stateful drawing, where the color you're drawing in is always the last used color. Points are interpreted in the current coordinate system. 
 
