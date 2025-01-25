@@ -4,3 +4,7 @@ There are two methods for generating graphics: raster and vector methods (called
 It's difficult to view vector graphics directly because they are always converted into rasterized objects before **rendering** on the computer screen. 
 
 Simple pieces of vector objects are called primitives. This is a very common method for 3D graphics, where scenes are collections of 3D primitives. 
+
+## Pixels
+
+Typically, we consider pixels as a grid on our co
