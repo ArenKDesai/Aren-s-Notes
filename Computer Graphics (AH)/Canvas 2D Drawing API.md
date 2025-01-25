@@ -1,6 +1,7 @@
 #UWMadison #Canvas #Graphics #ComputerGraphics 
 
 Canvas is an immediate mode (see [[Graphics Basics]]) API. 
+[Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 
 Stateful drawing is where the color you're drawing in is always the last used color. Points are interpreted in the current coordinate system. 
 
