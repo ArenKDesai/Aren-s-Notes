@@ -1,3 +1,3 @@
 #UWMadison #Graphics #ComputerGraphics #CS559
 
-There are two methods for generating graphics: raster a
+There are two methods for generating graphics: raster and vector methods (called image-based and )
