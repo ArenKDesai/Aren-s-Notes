@@ -6,6 +6,5 @@ It's difficult to view vector graphics directly because they are always converte
 Simple pieces of vector objects are called primitives. This is a very common method for 3D graphics, where scenes are collections of 3D primitives. 
 
 ## Pixels
-
 Typically, we consider pixels as a grid on our computer screen (for this one, 1920x1080). The region inside the squares made by pixels don't typically exist, so the grid is thought of as a collection of point-samples. We thus usually make measurements (color, brightness, etc) as each point-sample location, which could be pixels, squares, etc. The point-samples are typically squares centered on pixels. 
 The takeaway is that a pixel is not a little square, it's a point sample, and an image is a regular grid of point samples. 
