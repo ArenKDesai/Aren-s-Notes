@@ -7,4 +7,4 @@ Simple pieces of vector objects are called primitives. This is a very common met
 
 ## Pixels
 
-Typically, we consider pixels as a grid on our computer screen (for this one, 1920x1080). The region inside the squares made by pixels don't typically exist, so the grid is thought of as a collection of point-samples. 
+Typically, we consider pixels as a grid on our computer screen (for this one, 1920x1080). The region inside the squares made by pixels don't typically exist, so the grid is thought of as a collection of point-samples. We thus usually make measurements (color, brightness, rt)
