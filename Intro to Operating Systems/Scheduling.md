@@ -8,4 +8,4 @@ Another algorithm is Shortest Job First (SJF). SJF is optimal. However, if jobs 
 Then, we need Shortest Time-to-Completion First (STCF), which is a **preemptive** scheduler that can context-switch to another process. 
 Once interactive terminals were created, response time became the next problem. At this point, we employ Round-Robin (RR) scheduling. RR is a **fair** algorithm that schedules all processes evenly. 
 
-Preemptive algorithms benefit from **overlap**, where a context switch can occur while a process is waiting I/O communication
+Preemptive algorithms benefit from **overlap**, where a context switch can occur while a process is waiting I/O communication. 
