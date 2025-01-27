@@ -1,1 +1,1 @@
-We need to figure out how to schedule jobs for the CPU. 
+We need to figure out how to schedule jobs for the CPU. This is extremely similar
