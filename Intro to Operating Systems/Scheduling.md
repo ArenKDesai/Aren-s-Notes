@@ -6,4 +6,4 @@ An example of average turnaround time is three jobs arriving at 0, each taking 1
 FIrst In, First Out (FIFO) organizes jobs sequentially. This was also covered in [[Caches]]. This can be problematic with the **convoy effect**, which occurs when one job at the beginning inflates the average turnaround time. 
 Another algorithm is Shortest Job First (SJF). SJF is optimal. However, if jobs can arrive at any time (not just time 0), then it fails. 
 Then, we need Shortest Time-to-Completion First (STCF), which is a **preemptive** scheduler that can context-switch to another process. 
-
+Once interactive terminals were created, response time became the next problem. 
