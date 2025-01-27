@@ -2,4 +2,4 @@ We need to figure out how to schedule jobs for the CPU. This is extremely simila
 
 We need to target a scheduling metric. One of those is turnaround time, or the time at which the job completes minus the time at which the job arrived in the system. Another is fairness from Jain's Fairness Index. 
 
-First is FIrst In, First Out (FIFO). This was also covered in [[Caches]] and 
+First is FIrst In, First Out (FIFO). This was also covered in [[Caches]]. 
