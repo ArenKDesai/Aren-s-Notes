@@ -15,4 +15,4 @@ In an immediate mode API, it's immediately converted into pixels on the screen. 
 
 ## Buffers
 Buffers are memory used to store image / pixel data. 
-There are many buffers, including the color and frame buffers. 
+There are many buffers, including the color / frame buffer. 
