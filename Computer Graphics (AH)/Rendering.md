@@ -10,4 +10,4 @@ Typically, we consider pixels as a grid on our computer screen (for this one, 19
 The takeaway is that a pixel is not a little square, it's a point sample, and an image is a regular grid of point samples. 
 
 ### Inside vs Outside
-There are many ways to check whether areas are "inside" or "outside" a polygon. These include winding (count loops), 
+There are many ways to check whether areas are "inside" or "outside" a polygon. These include winding (count loops), even/odd (odd means inside), etc. 
