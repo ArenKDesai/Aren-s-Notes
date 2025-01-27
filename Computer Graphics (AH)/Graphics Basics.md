@@ -17,4 +17,4 @@ In an immediate mode API, it's immediately converted into pixels on the screen. 
 Buffers are memory used to store image / pixel data. 
 There are many buffers, including the color / frame buffer. 
 Typically, most displays we work with are flickering displays, where the lights are flickering fast enough that our brains think that the lights are permanently on. 
-This flickering can make animation and videos difficult due to buffering, or drawing two or more images in a buffer w
+This flickering can make animation and videos difficult due to buffering, or drawing two or more images in a buffer when the two or more images are supposed to be in separate frames. 
