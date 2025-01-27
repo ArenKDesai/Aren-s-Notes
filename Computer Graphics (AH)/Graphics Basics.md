@@ -14,4 +14,5 @@ There's plenty of APIs for graphics. Some are high-level, some low-level. For ex
 In an immediate mode API, it's immediately converted into pixels on the screen. We cannot access the rectangle after the command. In retained, there are objects that you can access. 
 
 ## Buffers
-Buffers are memory used to st
+Buffers are memory used to store image / pixel data. 
+There a
