@@ -68,4 +68,4 @@ The Panspermia theory claims that bacteria may have come from outer space. Chemi
 
 The **Urey-Miller** experiments showed how the basic building blocks of life can be formed from inorganic materials. 
 
-The Earth and Mars are in the habitable zone, which is where water can exist in liquid for 
+The Earth and Mars are in the habitable zone, which is where water can exist in liquid form  without melting or freezing. 
