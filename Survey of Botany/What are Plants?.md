@@ -57,3 +57,4 @@ Finally, bryophytes (mosses) have no vascular tissue, flowers, seeds, etc.
 
 ## Origin of Plants
 541,000,000 years ago, the Phanerozoic era started. The land was barren of any plants or animals. Ocean was mostly single-celled organisms. There was no ozone. 
+The first three eons (Phanerozoic, Proterozoic, Archean) w
