@@ -29,5 +29,5 @@ One mechanic is **ticket currency**, where users can allocate their processes a 
 To avoid randomness, **stride scheduling** was invented. This technique considers each job to have a stride, which is inverse in proportion to the number of tickets it has. 
 
 ### Linux Completely Fair Scheduler
-The current Linux approach is the CFS, which aims to decrease scheduler decision-making overhead as much as possible. It does this by tracking the virtual runtime (vruntime) of every process. As a process runs, it accumulates vruntime, and CFS will pick a process with the lowest vruntime to run next. 
+The current Linux approach is the CFS, which aims to decrease scheduler decision-making overhead as much as possible. It does this by tracking the **virtual runtime (vruntime)** of every process. As a process runs, it accumulates vruntime, and CFS will pick a process with the lowest vruntime to run next. 
 CFS manages the decision on when to context switch through a control parameter **sched_latency**. 
