@@ -73,4 +73,4 @@ The Earth and Mars are in the habitable zone, which is where water can exist in 
 ### Plant cells
 All cells have a cell membrane, cytoplasm, ribosomes, and DNA. However, only prokaryotes are smaller and less complex, have no nucleus (DNA floats around), no organelles, and are always unicellular. Only Eukaryotes have are larger and more complex, have DNA in a nucleus, diverse organelles, and mostly are multicellular. 
 
-Endosynmiont theory states that organelles inside eukaryotes originated from bacteria. Cyanobacteria were engulfed but not digested, as they could undergo photosynthesi
+Endosynmiont theory states that organelles inside eukaryotes originated from bacteria. Cyanobacteria were engulfed but not digested, as they could undergo photosynthesis. 
