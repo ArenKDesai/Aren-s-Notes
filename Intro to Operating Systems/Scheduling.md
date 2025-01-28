@@ -22,3 +22,5 @@ MLFQ then varies a process's priority based on its observed behavior. This is do
 
 The first major problem is **starvation**, where too many interactive jobs will consume all CPU time. The second is that a user could game the system by issuing an I/O command just before allotment is up. This introduces rule 6:
 6. After some time period, move all jobs to the topmost queue
+
+### Proportional / Fair S
