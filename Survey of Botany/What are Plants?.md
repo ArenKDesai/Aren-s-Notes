@@ -61,4 +61,4 @@ The first three eons (Phanerozoic, Proterozoic, Archean) were ~88% of time on Ea
 At the beginning, most land was volcanoes and meteor strikes. Eventually, Earth's crust cooled, and water vapor condensed into oceans. The atmosphere had almost no oxygen, mainly greenhouse gases that kept water in the atmosphere. 
 The prokaryotic archaea (anoxygenic autotrophs) evolved. Later, the Ancestor of Cyanobacteria evolved oxygenic photosynthesis. This caused the Great Oxidation Event, and the Start of the Proterozoic Eon. 
 
-$O_2$ reached modern levels aroun
+$O_2$ reached modern levels around the Phanerozoic Era. 
