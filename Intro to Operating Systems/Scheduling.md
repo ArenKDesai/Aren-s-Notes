@@ -24,4 +24,4 @@ The first major problem is **starvation**, where too many interactive jobs will 
 6. After some time period, move all jobs to the topmost queue
 
 ### Proportional / Fair Share
-
+The prop
