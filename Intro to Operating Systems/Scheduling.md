@@ -31,3 +31,4 @@ To avoid randomness, **stride scheduling** was invented. This technique consider
 ### Linux Completely Fair Scheduler
 The current Linux approach is the CFS, which aims to decrease scheduler decision-making overhead as much as possible. It does this by tracking the **virtual runtime (vruntime)** of every process. As a process runs, it accumulates vruntime, and CFS will pick a process with the lowest vruntime to run next. 
 CFS manages the decision on when to context switch through a control parameter **sched_latency**, which tracks the amount of time a process can run maximum before a switch. This value can be lowered when there is more processes, but no less than another control parameter **min_granularity**. 
+CFS keeps all proc
