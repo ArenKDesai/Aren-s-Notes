@@ -29,4 +29,4 @@ One mechanic is **ticket currency**, where users can allocate their processes a 
 To avoid randomness, **stride scheduling** was invented. This technique considers each job to have a stride, which is inverse in proportion to the number of tickets it has. 
 
 ### Linux Completely Fair Scheduler
-The current Linux approach is the
+The current Linux approach is the CFS
