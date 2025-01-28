@@ -20,4 +20,4 @@ MLFQ then varies a process's priority based on its observed behavior. This is do
 2. If a job uses up its allotment while running, its priority is reduced. 
 3. If a job gives up the CPU (like I/O operations) before allotment is up, it stays at the same priority level. 
 
-The first major problem is **starvation**, where too many interactive 
+The first major problem is **starvation**, where too many interactive jobs will consume the
