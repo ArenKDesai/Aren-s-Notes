@@ -14,4 +14,5 @@ One of the ebst-known solutions for scheduling is **Multi-level Feedback Queue (
 2. Priority(A) = Priority(B), A and B run RR
 MLFQ then varies a process's priority based on its observed behavior. This is done with **allotment**, the amount of time a job can spend at a given priority before its priority is reduced. There are thus three more rules:
 1. When a job enters the system, it is placed at the highest priority. 
-2. If a job uses up its allotment while running, its p
+2. If a job uses up its allotment while running, its priority is reduced. 
+3. If a job gives up the CPU
