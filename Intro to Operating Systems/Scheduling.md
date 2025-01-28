@@ -20,4 +20,5 @@ MLFQ then varies a process's priority based on its observed behavior. This is do
 4. If a job uses up its allotment while running, its priority is reduced. 
 5. If a job gives up the CPU (like I/O operations) before allotment is up, it stays at the same priority level. 
 
-The first major problem is **starvation**, where too many interactive jobs will consume all CPU time. The second is that a user could game the system by issuing an I/O command just before allotment is up. This introduces rule 5:
+The first major problem is **starvation**, where too many interactive jobs will consume all CPU time. The second is that a user could game the system by issuing an I/O command just before allotment is up. This introduces rule 6:
+6. After some time period, move all jobs to the topmost queue
