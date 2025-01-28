@@ -9,4 +9,4 @@ Multiple programs can be run at the same time with threads, which can be conside
 
 The OS **doesn't** virtualize the disk. It virtualizes the other hardware for ease-of-use and memory management. 
 
-Programs are passive: it's code + data. A process is running a program.
+Programs are passive: it's code + data. A process is running a program. 
