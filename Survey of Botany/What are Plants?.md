@@ -67,3 +67,5 @@ $O_2$ reached modern levels around the Phanerozoic Era. This $O_2$ availability 
 The Panspermia theory claims that bacteria may have come from outer space. Chemical-Biological theory states that life originated on Earth from inorganic molecules (also known as chemical evolution) and abiogenesis. 
 
 The **Urey-Miller** experiments showed how the basic building blocks of life can be formed from inorganic materials. 
+
+The Earth and Mars are in the habitable zone, which is where water can exist in liquid for 
