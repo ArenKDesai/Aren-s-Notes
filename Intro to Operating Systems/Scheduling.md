@@ -25,3 +25,4 @@ The first major problem is **starvation**, where too many interactive jobs will 
 
 ### Proportional / Fair Share
 The proportional or fair share scheduler is known as a lottery scheduler. Tickets are used to represent the share of a resource that a process should receive. The randomness is a feature since it means the scheduler cannot be abused. 
+One mechanic is **ticket currency**, where users can allocate their processes a certain amount of currency. 
