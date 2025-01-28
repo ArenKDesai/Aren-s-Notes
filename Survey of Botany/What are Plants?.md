@@ -62,3 +62,4 @@ At the beginning, most land was volcanoes and meteor strikes. Eventually, Earth'
 The prokaryotic archaea (anoxygenic autotrophs) evolved. Later, the Ancestor of Cyanobacteria evolved oxygenic photosynthesis. This caused the Great Oxidation Event, and the Start of the Proterozoic Eon. 
 
 $O_2$ reached modern levels around the Phanerozoic Era. This $O_2$ availability allowed for large body size. 
+**autotrophs** make organic 
