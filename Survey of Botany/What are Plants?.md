@@ -58,4 +58,4 @@ Finally, bryophytes (mosses) have no vascular tissue, flowers, seeds, etc.
 ## Origin of Plants
 541,000,000 years ago, the Phanerozoic era started. The land was barren of any plants or animals. Ocean was mostly single-celled organisms. There was no ozone. 
 The first three eons (Phanerozoic, Proterozoic, Archean) were ~88% of time on Earth. 
-At the beginning, most land was volcanoes and meteor strikes. Eventually, Earth's crust cooled, and water vapor condensed into oceans. 
+At the beginning, most land was volcanoes and meteor strikes. Eventually, Earth's crust cooled, and water vapor condensed into oceans. The atmosphere had almost no oxygen, mainly g
