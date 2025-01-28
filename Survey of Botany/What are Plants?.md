@@ -63,3 +63,5 @@ The prokaryotic archaea (anoxygenic autotrophs) evolved. Later, the Ancestor of 
 
 $O_2$ reached modern levels around the Phanerozoic Era. This $O_2$ availability allowed for large body size. 
 **Autotrophs** make organic compounds from inorganic compounds, while **heterotrophs** eat organic compounds made from other organic compounds. 
+
+The Panspermia theory claims that bacteria may have come from oute
