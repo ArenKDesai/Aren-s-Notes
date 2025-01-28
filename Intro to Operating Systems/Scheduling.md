@@ -27,3 +27,5 @@ The first major problem is **starvation**, where too many interactive jobs will 
 The proportional or fair share scheduler is known as a lottery scheduler. Tickets are used to represent the share of a resource that a process should receive. The randomness is a feature since it means the scheduler cannot be abused. 
 One mechanic is **ticket currency**, where users can allocate their processes a certain amount of currency. Another is **ticket transfer**, where a process can temporarily hand off tickets to another process. Sometimes, a process is also allowed to cause **ticket inflation** and raise or lower the number of tickets it owns. 
 To avoid randomness, **stride scheduling** was invented. This technique considers each job to have a stride, which is inverse in proportion to the number of tickets it has. 
+
+##
