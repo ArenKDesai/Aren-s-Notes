@@ -65,3 +65,5 @@ $O_2$ reached modern levels around the Phanerozoic Era. This $O_2$ availability 
 **Autotrophs** make organic compounds from inorganic compounds, while **heterotrophs** eat organic compounds made from other organic compounds. 
 
 The Panspermia theory claims that bacteria may have come from outer space. Chemical-Biological theory states that life originated on Earth from inorganic molecules (also known as chemical evolution) and abiogenesis. 
+
+The **Urey-Miller** experiments showed how the basic building blocks of life can be formed from inorganic materials. 
