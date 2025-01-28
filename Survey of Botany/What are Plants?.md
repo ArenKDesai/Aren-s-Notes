@@ -71,4 +71,4 @@ The **Urey-Miller** experiments showed how the basic building blocks of life can
 The Earth and Mars are in the habitable zone, which is where water can exist in liquid form  without melting or freezing. 
 
 ### Plant cells
-All cells have a cell membrane, cytoplasm, ribosomes, and DNA. However, only prokaryotes are smaller and less complex,
+All cells have a cell membrane, cytoplasm, ribosomes, and DNA. However, only prokaryotes are smaller and less complex, have no nucleus (DNA floats around), no organelles, and are alwa
