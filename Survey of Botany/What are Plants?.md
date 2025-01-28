@@ -56,4 +56,4 @@ Lycophytes (club mosses) have spores, but no flowers, seeds, and no leaves.
 Finally, bryophytes (mosses) have no vascular tissue, flowers, seeds, etc. 
 
 ## Origin of Plants
-541,000,000 years ago, the Phanerozoic era started. The land was barren of any plants or animals. Ocean was full
+541,000,000 years ago, the Phanerozoic era started. The land was barren of any plants or animals. Ocean was mostly single-celled organisms. 
