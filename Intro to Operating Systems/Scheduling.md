@@ -9,7 +9,7 @@ Then, we need Shortest Time-to-Completion First (STCF), which is a **preemptive*
 Once interactive terminals were created, response time became the next problem. At this point, we employ Round-Robin (RR) scheduling. RR is a **fair** algorithm that schedules all processes evenly. 
 Preemptive algorithms benefit from **overlap**, where a context switch can occur while a process is waiting I/O communication. 
 
-One of the ebst-known solutions for scheduling is **Multi-level Feedback Queue (MLFQ)**. The MLFQ has multiple distinct queues with different priority levels. MLFQ uses these priority levels to decide which job should run. There are two rules:
+One of the best-known solutions for scheduling is **Multi-level Feedback Queue (MLFQ)**. The MLFQ has multiple distinct queues with different priority levels. MLFQ uses these priority levels to decide which job should run. There are two rules:
 1. If Priority(A) > Priority(B), A runs and B doesn't
 2. Priority(A) = Priority(B), A and B run RR
 MLFQ then varies a process's priority based on its observed behavior. This is done with **allotment**, the amount of time a job can spend at a given priority before its priority is reduced. There are thus three more rules:
