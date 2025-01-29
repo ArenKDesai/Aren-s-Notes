@@ -11,3 +11,4 @@ The takeaway is that a pixel is not a little square, it's a point sample, and an
 
 ### Inside vs Outside
 There are many ways to check whether areas are "inside" or "outside" a polygon. These include winding (count loops), even/odd (odd means inside), etc. 
+
