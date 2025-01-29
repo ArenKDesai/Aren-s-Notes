@@ -1,3 +1,3 @@
 A transformation is a movement of a primitive, like an addition onto the coordinate axes. You can also translate the coordinate system itself, which may require a context save and restore so context changes aren't permanent. 
 
-It's usually good practice to build objects at (0,0) since it standardizes functions and placement (even with pa)
+It's usually good practice to build objects at (0,0) since it standardizes functions and placement (even with parameters), so 
