@@ -1,1 +1,1 @@
-A transformation is a 
+A transformation is a movement of a primitive, like an addition
