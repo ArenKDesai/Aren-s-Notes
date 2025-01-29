@@ -2,4 +2,4 @@ A transformation is a movement of a primitive, like an addition onto the coordin
 
 It's usually good practice to build objects at (0,0) since it standardizes functions and placement (even with parameters), so most functions translate the coordinate system, not place something far away. This is especially important for scaling. 
 
-Translations and rotations both are **rigid transformations**, where distances and handedness are preserved. **handedness** 
+Translations and rotations both are **rigid transformations**, where distances and handedness are preserved. **Handedness** is the direction of
