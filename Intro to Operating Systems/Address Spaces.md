@@ -1,0 +1,1 @@
+**Multiprogramming** is when multiple programs are ready to run at the same time. The CPU can only actually run one process, so virtualiza
