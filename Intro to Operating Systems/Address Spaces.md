@@ -6,3 +6,5 @@ An address space typically consists of the following (top-down):
 3. Stack - memory space for the process's details. Grows up. 
 
 Virtual memory wants to be **transparent** --- invisible, not openly available --- as well as efficient and secure. 
+
+## Address Translation
