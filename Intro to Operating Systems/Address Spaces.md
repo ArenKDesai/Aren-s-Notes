@@ -3,4 +3,4 @@
 An address space typically consists of the following (top-down):
 1. Program Code
 2. Heap - for users to dynamically allocate memory. Grows down. 
-3. Stack - for t
+3. Stack - memory space for the process's details. Grows up. 
