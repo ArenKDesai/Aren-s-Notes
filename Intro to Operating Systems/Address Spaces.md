@@ -2,4 +2,4 @@
 
 An address space typically consists of the following (top-down):
 1. Program Code
-2. Hea 
+2. Heap
