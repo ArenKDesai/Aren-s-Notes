@@ -8,4 +8,4 @@ An address space typically consists of the following (top-down):
 Virtual memory wants to be **transparent** --- invisible, not openly available --- as well as efficient and secure. 
 
 ## Address Translation
-The hardware transforms virtual addresses to physical addresses. This is done with dynamic relocation, where any privlidged process can directly write to physical addresses, but unprivlidged process write to a logical address,
+The hardware transforms virtual addresses to physical addresses. This is done with dynamic relocation, where any privlidged process can directly write to physical addresses, but unprivlidged process write to a logical address, which is added with a base register to find a physical address. 
