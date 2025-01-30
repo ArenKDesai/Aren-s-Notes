@@ -34,4 +34,4 @@ CFS manages the decision on when to context switch through a control parameter *
 CFS keeps all processes in a red-black tree. 
 
 ## Multiprocessor Scheduler
-Accessing memory from another processor can be expensive, so there's often a global queue for all jobs. All CPUs pull from the global queue. This has low response time and allows for global priorities, but communication is expensive, and cache locality is lost when a job moev
+Accessing memory from another processor can be expensive, so there's often a global queue for all jobs. All CPUs pull from the global queue. This has low response time and allows for global priorities, but communication is expensive, and cache locality is lost when a job moves between CPUs. 
