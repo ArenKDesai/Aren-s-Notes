@@ -36,4 +36,4 @@ CFS keeps all processes in a red-black tree.
 ## Multiprocessor Scheduler
 Accessing memory from another processor can be expensive, so there's often a global queue for all jobs. All CPUs pull from the global queue. This has low response time and allows for global priorities to move high-priority jobs to CPUs running low-priority jobs, but communication is expensive, and cache locality is lost when a job moves between CPUs. 
 
-Another method to rebalance multiple CPUs is a periodic rebalancer, which moves jobs from cores with many jobs to those with few jobs. It runs every few seconds, so it'
+Another method to rebalance multiple CPUs is a periodic rebalancer, which moves jobs from cores with many jobs to those with few jobs. It runs every few seconds, so it's good for turnaround time but not great for response time. 
