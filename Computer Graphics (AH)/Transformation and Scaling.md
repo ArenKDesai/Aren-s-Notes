@@ -5,3 +5,5 @@ It's usually good practice to build objects at (0,0) since it standardizes funct
 Translations and rotations both are **rigid transformations**, where distances and handedness are preserved. **Handedness** is the direction of rotation, so having different handedness means that a reflection of mirror (or something else) ocurred, and the rotation from one thing onto another has changed. 
 
 Any sequence of transformations, scalings, or rotations can be aggregated into one change. This becomes difficult if the order matters. 
+
+The amount of 
