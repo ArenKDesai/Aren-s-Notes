@@ -7,3 +7,6 @@ Translations and rotations both are **rigid transformations**, where distances a
 Any sequence of transformations, scalings, or rotations can be aggregated into one change. This becomes difficult if the order matters. 
 
 The amount of X translation depends on the amount of Y. In other words, with $y=y$, $x=sy+x$. 
+
+### Linear Algebra for Graphics
+We're primarily concerned about a
