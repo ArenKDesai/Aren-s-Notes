@@ -10,4 +10,4 @@ The amount of X translation depends on the amount of Y. In other words, with $y=
 
 ### Linear Algebra for Graphics
 We're primarily concerned about affine transformations, which are in the form $f(x)=Fx+t$. However, affine transformations in $nD$ are linear in $n+1D$ in **homogeneous coordinates**. 
-While affine (and other) mat
+While affine (and other) matrices can be combined due to associativity, a tr
