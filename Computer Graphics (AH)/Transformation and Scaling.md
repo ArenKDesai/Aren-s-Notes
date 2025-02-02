@@ -9,4 +9,4 @@ Any sequence of transformations, scalings, or rotations can be aggregated into o
 The amount of X translation depends on the amount of Y. In other words, with $y=y$, $x=sy+x$. 
 
 ### Linear Algebra for Graphics
-We're primarily concerned about affine transformations, which are in the form $f(x)=Fx+t$. However, affine transformations in $
+We're primarily concerned about affine transformations, which are in the form $f(x)=Fx+t$. However, affine transformations in $nD$ are linear in $n+1D$ in homogenou
