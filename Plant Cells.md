@@ -13,4 +13,4 @@ Amino acids have an R group and a carboxyl group
 nucleic acids have a long hydrocarbon tail
 
 ### Eukaryotes
-Multicellular plants. They have membrane-bound organelles, and DNA enco
+Multicellular plants. They have membrane-bound organelles, and DNA enclosed in a nucleus. They have a 
