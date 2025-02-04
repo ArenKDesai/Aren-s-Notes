@@ -19,4 +19,4 @@ Multicellular plants. They have membrane-bound organelles, and DNA enclosed in a
 When there's too many solutes outside the cell, so water moves out of the cell and the cell membrane separates from the cell wall. 
 
 ## Cell Wall
-Prevents cytolysis alongside 
+Prevents cytolysis alongside physical prot
