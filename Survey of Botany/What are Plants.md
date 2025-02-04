@@ -75,4 +75,5 @@ All cells have a cell membrane, cytoplasm, ribosomes, and DNA. However, only pro
 
 Endosynmiont theory states that organelles inside eukaryotes originated from bacteria. Cyanobacteria were engulfed but not digested, as they could undergo photosynthesis. 
 
-### 
+### Nucleotides
+Nucleotides = 
