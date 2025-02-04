@@ -7,3 +7,5 @@ Having a base and bounds for protecting memory is useful to keep programs secure
 This leads us into segmented addressing, where the process specifies the segment and offset within the segment. The first two bits in a segment table is the offset, and the last 12 is the address. 
 
 For example, if the address is 0x0240 and the segment table has base 0x2000 on segment 0, you end with 0x2240. 
+
+Offsets for memory structures that grow down, like the 
