@@ -13,4 +13,5 @@ Offsets for memory structures that grow down, like the stack, need a special equ
 With segmentation, we avoid hoarding memory in data structures, but we also get external fragmentation - misordered bits of unallocated memory too small to be used for anything. 
 
 ### Paging
-A form of segmentation. We have fixed, same-size segments. In a 32-bit address, the top 20 bits is a page number, while the last 12 are the page offset. We translate page numbers into frame numbers, 
+A form of segmentation. We have fixed, same-size segments. In a 32-bit address, the top 20 bits is a page number, while the last 12 are the page offset. We translate page numbers into frame numbers. 
+The $log
