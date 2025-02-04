@@ -1,1 +1,1 @@
-We want to create an abstracted memory space that starts at address 0 and goes un
+We want to create an abstracted memory space that starts at address 0 and goes until a specific finite address. 
