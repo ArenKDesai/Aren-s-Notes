@@ -10,4 +10,4 @@ For example, if the address is 0x0240 and the segment table has base 0x2000 on s
 
 Offsets for memory structures that grow down, like the stack, need a special equation (negative offset) to find the physical addresses. 
 
-With segmentation, we avoid internal segmentation hoarding memory. However, with segmentation
+With segmentation, we avoid hoarding memory 
