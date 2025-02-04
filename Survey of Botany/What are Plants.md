@@ -81,4 +81,5 @@ Deoxyribosenucleic acid = DNA (the genetic code) contains 4 bases: Adenine, Guan
 
 RNA (Ribonucleic acid) replaces Thymine with Uracil. RNA is usually in a single chain. 
 Dehydration synthesis forms DNA. 
-Amino acids have an R group
+Amino acids have an R group and a carboxyl group
+nucleic acids have a long hydrocarbon tail
