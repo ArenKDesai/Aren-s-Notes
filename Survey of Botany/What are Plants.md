@@ -77,4 +77,4 @@ Endosynmiont theory states that organelles inside eukaryotes originated from bac
 
 ### Nucleotides
 Nucleotides = N-base + 5C sugar + phosphate
-Deoxyribosenucleic aci
+Deoxyribosenucleic acid = DNA (the genetic code)
