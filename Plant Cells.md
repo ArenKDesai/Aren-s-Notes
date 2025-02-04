@@ -12,3 +12,5 @@ Dehydration synthesis forms DNA.
 Amino acids have an R group and a carboxyl group
 nucleic acids have a long hydrocarbon tail
 
+### Eukaryotes
+Multicellular plants. They have membrane-bound organelles, and DNA enco
