@@ -19,4 +19,4 @@ Multicellular plants. They have membrane-bound organelles, and DNA enclosed in a
 When there's too many solutes outside the cell, so water moves out of the cell and the cell membrane separates from the cell wall. 
 
 ## Cell Wall
-Prevents cytolysis alongside physical protection. Provides structural support of plant, and positive pressure in plant tissues keeps water moving up the stem to the leaves. Plants store water in a 
+Prevents cytolysis alongside physical protection. Provides structural support of plant, and positive pressure in plant tissues keeps water moving up the stem to the leaves. Plants store water in a large central vacuole
