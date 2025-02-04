@@ -78,3 +78,5 @@ Endosynmiont theory states that organelles inside eukaryotes originated from bac
 ### Nucleotides
 Nucleotides = N-base + 5C sugar + phosphate
 Deoxyribosenucleic acid = DNA (the genetic code) contains 4 bases: Adenine, Guanine, Cytosines, and Thymines. 
+
+RNA (Ribonu)
