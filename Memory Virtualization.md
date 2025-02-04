@@ -13,4 +13,4 @@ Offsets for memory structures that grow down, like the stack, need a special equ
 With segmentation, we avoid hoarding memory in data structures, but we also get external fragmentation - misordered bits of unallocated memory too small to be used for anything. 
 
 ### Paging
-A form of segmentation. 
+A form of segmentation. We have fixed, same
