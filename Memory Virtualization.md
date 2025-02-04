@@ -1,3 +1,3 @@
 We want to create an abstracted memory space that starts at address 0 and goes until a specific finite address. 
 
-If a 
+If a process is in a lower physical space than another program, it can overwrite memory in the other program. 
