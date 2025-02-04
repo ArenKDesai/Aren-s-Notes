@@ -15,6 +15,8 @@ nucleic acids have a long hydrocarbon tail
 ### Eukaryotes
 Multicellular plants. They have membrane-bound organelles, and DNA enclosed in a nucleus. They have a cytoskeleton, and some have cell walls of cellulose or chitin. 
 
+
+
 #### Plasmolysis
 When there's too many solutes outside the cell, so water moves out of the cell and the cell membrane separates from the cell wall. 
 
