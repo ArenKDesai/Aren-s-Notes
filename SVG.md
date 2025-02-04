@@ -17,4 +17,4 @@ Ex:
 ```svg
 </svg>
 ```
-SVG always begins and ends with an SVG tag
+SVG always begins and ends with an SVG tag. A lot of the parameters for primitives are misleading and different, but there aren't that many 
