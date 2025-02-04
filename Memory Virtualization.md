@@ -2,4 +2,4 @@ We want to create an abstracted memory space that starts at address 0 and goes u
 
 If a process is in a lower physical space than another program, it can overwrite memory in the other program. 
 
-Having a base and bounds for protecting memory is useful to keep programs se
+Having a base and bounds for protecting memory is useful to keep programs secure, but easily leads to fragmentation. 
