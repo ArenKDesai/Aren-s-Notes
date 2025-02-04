@@ -14,4 +14,4 @@ With segmentation, we avoid hoarding memory in data structures, but we also get 
 
 ### Paging
 A form of segmentation. We have fixed, same-size segments. In a 32-bit address, the top 20 bits is a page number, while the last 12 are the page offset. We translate page numbers into frame numbers. 
-The $log
+The $log_2$ of the page size specifies the low bit
