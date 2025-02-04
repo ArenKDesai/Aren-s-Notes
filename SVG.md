@@ -1,4 +1,20 @@
 #ComputerGraphics #Graphics 
 
 SVG is a 2D vector file format that looks like HTML ([[JavaScript and Web Basics]]). 
+Ex:
+```svg
+<svg xmlns="http://www.w3.org/2000/svg" height="100px" width="100px">
+```
+
+```svg
+    <rect x="10" y="10" height="40" width="40" fill="blue"></rect>
+```
+
+```svg
+    <circle cx="60" cy="60" r="20" fill="red"></circle>
+```
+
+```svg
+</svg>
+```
 SVG always begins and ends with an SVG tag
