@@ -4,4 +4,4 @@ If a process is in a lower physical space than another program, it can overwrite
 
 Having a base and bounds for protecting memory is useful to keep programs secure, but easily leads to fragmentation. 
 
-This leads us into se
+This leads us into segmented addressing, where the process specifies the segment and ofss
