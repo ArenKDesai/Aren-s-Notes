@@ -4,3 +4,5 @@ These segments store information on the amount of allocated bytes, which helps t
 We also want to support sharing, so protection bits label the "read, write, execute"-ability of a segment. 
 
 Systems with just a few segments are coarse-grained. However, fine-grained systems have existed for a long time as well. 
+
+When there's to
