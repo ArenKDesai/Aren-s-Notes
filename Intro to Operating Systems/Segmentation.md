@@ -1,0 +1,1 @@
+The easiest form of storing memory is base-and-bounds, where each memory block
