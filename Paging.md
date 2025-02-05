@@ -6,3 +6,5 @@ Old architectures had **hardware-managed TLBs**, like Intel x86, with a fixed mu
 The OS must take care to never end up in a TLB-miss loop. Some solutions include keeping TLB miss handlers in unmapped physical memory, or reserving some memory for the TLB-miss handler address translation permanently. 
 
 The TLB has a valid bit that states whether an entry has a valid translation. Sometimes there's also protection bits, which include information such as "read, write, execute". 
+
+Context switches provide a challenge, since we don't want one process to use another's adre
