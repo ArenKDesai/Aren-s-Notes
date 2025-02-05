@@ -1,1 +1,1 @@
-We want to speed up address translation, so we use 
+We want to speed up address translation, so we use a translation-lookaside buffer. 
