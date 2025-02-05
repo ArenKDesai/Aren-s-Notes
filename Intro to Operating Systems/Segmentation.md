@@ -1,1 +1,1 @@
-The easiest form of storing memory is base-and-bounds, where each memory block is allocated the 
+The easiest form of storing memory is base-and-bounds, where each memory block is allocated the same amount in a set. However, if a process needs more space then we have, the operating system would crash. This means we need to **se
