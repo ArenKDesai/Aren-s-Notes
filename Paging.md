@@ -1,1 +1,1 @@
-We want to speed up address translation, so we use a translation-lookaside buffer. 
+We want to speed up address translation, so we use a **translation-lookaside buffer (TLB)**. 
