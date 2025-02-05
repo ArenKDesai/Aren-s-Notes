@@ -7,4 +7,4 @@ The OS must take care to never end up in a TLB-miss loop. Some solutions include
 
 The TLB has a valid bit that states whether an entry has a valid translation. Sometimes there's also protection bits, which include information such as "read, write, execute". 
 
-Context switches provide a challenge, since we don't want one process to use another's adre
+Context switches provide a challenge, since we don't want one process to use another's addresses. One solution is to flush the TLB and
