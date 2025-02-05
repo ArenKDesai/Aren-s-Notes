@@ -2,3 +2,5 @@ The easiest form of storing memory is base-and-bounds, where each memory block i
 These segments store information on the amount of allocated bytes, which helps the hardware know when to throw a segmentation fault. 
 
 We also want to support sharing, so protection bits label the "read, write, execute"-ability of a segment. 
+
+Systems with just a few segments are coarse-grained. However, fine-grained systems have existed for a long time as well. 
