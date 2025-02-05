@@ -5,4 +5,4 @@ We also want to support sharing, so protection bits label the "read, write, exec
 
 Systems with just a few segments are coarse-grained. However, fine-grained systems have existed for a long time as well. 
 
-When there's too many segmentations leaving small bits of memory that aren't big enough to use, that's **external fragmentation**. 
+When there's too many segmentations leaving small bits of memory that aren't big enough to use, that's **external fragmentation**. The best fix to this o
