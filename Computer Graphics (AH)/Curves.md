@@ -1,1 +1,1 @@
-To begin with, we need to understand what a shape is. We'll define it as 
+To begin with, we need to understand what a shape is. We'll define a shape as a set of p
