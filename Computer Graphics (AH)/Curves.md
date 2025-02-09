@@ -1,0 +1,1 @@
+To begin with, we need to understand what a shape is. We'll define it as 
