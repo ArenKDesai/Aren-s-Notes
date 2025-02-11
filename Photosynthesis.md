@@ -13,7 +13,7 @@ Photosynthesis is a two-part process, including the light-dependent and dark-dep
 2. Water is oxidized, producing oxygen as by-product
 3. Energy molecules (NADPH and ATP) are produced. 
 
+
 ### Dark Reactions
 1. Carbon dioxide is reduced, which fixes it into sugar (using NADPH and ATP)
 2. Glucose is produced. 
-3. 
