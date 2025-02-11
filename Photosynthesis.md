@@ -19,4 +19,5 @@ Chlorophyll molecules reflect green light (around $\lambda \approx 550$) and abs
 2. Glucose is produced. 
 
 Major steps:
-1. Rubisco 
+1. Rubisco binds CO2 to 5-C RuBP to make 2 molecules of PGA
+2. 
