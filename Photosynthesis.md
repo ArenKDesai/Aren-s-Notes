@@ -16,3 +16,4 @@ Photosynthesis is a two-part process, including the light-dependent and dark-dep
 ### Dark Reactions
 1. Carbon dioxide is reduced, which fixes it into sugar (using NADPH and ATP)
 2. Glucose is produced. 
+3. 
