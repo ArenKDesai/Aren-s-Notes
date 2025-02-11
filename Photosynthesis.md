@@ -23,4 +23,4 @@ Major steps:
 2. PGA is reduced using energy in ATP to make PGAL
 3. One 3-C PGAL is used to synthesize glucose
 4. Other 5 PGAL molecules are recycled back to RuBP (uses ATP)
-So it takes 
+So it takes 2 cycles of Calvin cycle to make 1 molecule of glucose. 
