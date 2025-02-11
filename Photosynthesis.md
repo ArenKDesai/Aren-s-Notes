@@ -24,3 +24,7 @@ Major steps:
 3. One 3-C PGAL is used to synthesize glucose
 4. Other 5 PGAL molecules are recycled back to RuBP (uses ATP)
 So it takes 2 cycles of Calvin cycle to make 1 molecule of glucose. 
+
+
+## Variations of Photosynthesis
+C3: the stomata opens during the day, taking in CO2. 
