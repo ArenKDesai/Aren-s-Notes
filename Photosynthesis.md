@@ -28,4 +28,5 @@ So it takes 2 cycles of Calvin cycle to make 1 molecule of glucose.
 
 ## Variations of Photosynthesis
 C3: the stomata opens during the day, taking in CO2. the first product of the Calvin Cycle is 3-C sugar. This is 85% of plants. 
-C4: reduces photorespiration by physically isolating Rubisco. First product of Calb
+C4: reduces photorespiration by physically isolating Rubisco. First product of Calvin Cycle is a 4-C sugar. 
+CAM Photosynthesis:
