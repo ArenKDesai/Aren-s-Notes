@@ -12,7 +12,7 @@ Photosynthesis is a two-part process, including the light-dependent and dark-dep
 1. Light excites elections in chlorophyll
 2. Water is oxidized, producing oxygen as by-product
 3. Energy molecules (NADPH and ATP) are produced. 
-Chlorophyll molecules absorb green light (around $\lambda )
+Chlorophyll molecules absorb green light (around $\lambda ~= 550$)
 
 ### Dark Reactions
 1. Carbon dioxide is reduced, which fixes it into sugar (using NADPH and ATP)
