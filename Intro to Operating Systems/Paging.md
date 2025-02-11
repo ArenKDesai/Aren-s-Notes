@@ -19,3 +19,4 @@ The speed at which the TLB operates can vary wildly per operating system, and so
 ## Page Table
 The typical page size is 4kb, so we'd have 12 bits of the address. The page table would need to be 4MiB to hold all those processes. With 64-bit processors, we'd need 36 exa-bytes. 
 However, most address space is sparse (has holes mapped to nothing). Software-managed page tables were tested, but they were too slow. This was fixed with multilevel page tables. This allows page table to be allocated non-contiguously. 
+To calculate address, take the first 
