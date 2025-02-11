@@ -17,4 +17,4 @@ The TLB has a reach that states how much memory can be accessed before a miss is
 The speed at which the TLB operates can vary wildly per operating system, and sometimes may even consume 40%-80% of total computing time. It's also variable whether the OS or the hardware handles TLB misses. 
 
 ## Page Table
-The page table is 
+The typical page size is 4kb, 
