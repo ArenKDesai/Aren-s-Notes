@@ -20,4 +20,5 @@ Chlorophyll molecules reflect green light (around $\lambda \approx 550$) and abs
 
 Major steps:
 1. Rubisco binds CO2 to 5-C RuBP to make 2 molecules of PGA
-2. 
+2. PGA is reduced using energy in ATP to make PGAL
+3. On
