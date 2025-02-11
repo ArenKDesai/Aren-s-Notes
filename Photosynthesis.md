@@ -22,3 +22,4 @@ Major steps:
 1. Rubisco binds CO2 to 5-C RuBP to make 2 molecules of PGA
 2. PGA is reduced using energy in ATP to make PGAL
 3. One 3-C PGAL is used to synthesize glucose
+4. Other 5 PGAL molecules are recycled back to Ru
