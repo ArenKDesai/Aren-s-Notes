@@ -27,4 +27,4 @@ So it takes 2 cycles of Calvin cycle to make 1 molecule of glucose.
 
 
 ## Variations of Photosynthesis
-C3: the stomata opens during the day, taking in CO2. 
+C3: the stomata opens during the day, taking in CO2. the first product of the Calvin Cycle is 3-C sugar. This is 
