@@ -7,3 +7,7 @@ Many of the chlorophylls are in the mesophyll cells. Chlorophyll is embedded in 
 
 Photosynthesis is a two-part process, including the light-dependent and dark-dependent reactions. The dark reactions are often called the Calvin cycle. 
 
+## Light Reactions
+1. Light excites elections in chlorophyll
+2. Water is oxidized, producing oxygen as by-product
+3. Energy molecu
