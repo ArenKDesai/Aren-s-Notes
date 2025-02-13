@@ -11,4 +11,4 @@ A **page fault** is when a program tries to access a part of the virtual address
 While the I/O is in flight, the currently running process will be in a **blocked** state ([[Processes]]). This includes page faults, so if a page fault is currently being thrown, the OS can use that time to service another process. 
 
 ## Page Replacement Polices
-If memory is full, the OS may nee
+If memory is full, the OS may need to **page out** one or more pages
