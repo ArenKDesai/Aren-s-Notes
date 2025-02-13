@@ -44,4 +44,4 @@ The second (pretty short) step is **Acetyl CoA**, which is created from **3-C py
 
 The third step is the **Krebs Cycle**. Acetyl is oxidized into $2CO_2$ (which uses water). 3 NADH, 1 ATP, 1 $FADH_2$ are all produced twice, since these steps repeat for each pyruvate. 
 
-The fourth step is the **Electron Transport Chain**. In this step, electrons from oxidation of NADH and $FADH_2$ are used to generate an H+ gradient. 
+The fourth step is the **Electron Transport Chain**. In this step, electrons from oxidation of NADH and $FADH_2$ are used to generate an H+ gradient. Oxygen is the final electron acceptor, which i
