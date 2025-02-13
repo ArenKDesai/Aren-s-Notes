@@ -30,4 +30,4 @@ double sum = 0.0;
 double a[1024*1024];
 // randomly access all items of array
 ```
-The above code is 8MB / 2MB = 4 large pages
+The above code is 8MB / 2MB = 4 large pages, so we have 4/1024
