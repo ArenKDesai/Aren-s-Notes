@@ -23,4 +23,4 @@ To calculate address, take the first hex, find the page of PT with it, find the 
 
 ### Hug Pages
 If we have a much larger sized page, we need to allocate more bits to the offset. The 18 bits that are usually allocated to the page directory and page table are used for the offset, so every level of the page table will have a bit that states if the pointer points to the next level or the larger page table entry. 
-One way to request these large pages is to request them with **mmap(MAP_HUGE)**. This will allocate a hug page or fail. The other method
+One way to request these large pages is to request them with **mmap(MAP_HUGE)**. This will allocate a hug page or fail. The other method is by using **transparent huge pages (THP)*
