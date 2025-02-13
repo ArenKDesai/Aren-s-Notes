@@ -29,7 +29,7 @@ So it takes 2 cycles of Calvin cycle to make 1 molecule of glucose.
 ## Variations of Photosynthesis
 C3: the stomata opens during the day, taking in CO2. the first product of the Calvin Cycle is 3-C sugar. This is 85% of plants. 
 C4: reduces photorespiration by physically isolating Rubisco. First product of Calvin Cycle is a 4-C sugar. PEP carboxylase is the first enzyme to fix $CO_2$. Spatial separation of Calvin cycle into bundle sheath cells. Protects plant from photorespiration. 
-CAM Photosynthesis: prevents water loss because stomata open at night. CO2 is fixed at night to a 4-C sugar and stored until daytime. Temporal separation of $CO_2$ fixation to night-
+CAM Photosynthesis: prevents water loss because stomata open at night. CO2 is fixed at night to a 4-C sugar and stored until daytime. Temporal separation of $CO_2$ fixation to night-time when stomata are closed. 
 
 ### Cellular Respiration
 Photorespiration = Rubisco binds with $O_2$ instead of $CO_2$. This happens in higher temperature and dry conditions. This is about 20% of the time in modern conditions. 
