@@ -34,3 +34,5 @@ double a[1024*1024];
 ```
 The above code is 8MB / 2MB = 4 large pages, so we have $4/1024^2$ miss rate (~0%). 
 If we used small pages, we'd have $2*1024$ small pages (8MB / 4kB), all of which are going to miss. 
+
+### Copy-On-Write
