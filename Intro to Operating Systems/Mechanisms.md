@@ -14,7 +14,9 @@ While the I/O is in flight, the currently running process will be in a **blocked
 If memory is full, the OS may need to **page out** one or more pages so it can replace it with a different page. This requires a policy for page replacements. 
 Typically, the OS keeps a **high watermark** and **low watermark**. These act as bounds for the number of free pages that can be used. The thread that manages these bounds is called the **swap daemon** or **page daemon**. 
 
-## Page Caching
+The optimal policy has been shown to be **Furthest in the Future** ([[Greedy]]), although it is dif
+
+### Page Caching
 Our main memory can be viewed as a cache for virtual memory pages in the system. We can calculate a useful metric, the **average memory access time (AMAT)**, for a program as the following:
 $AMAT=T_M+(P_{miss}*T_D)$
 $T_M$ represents the cost of accessing memory, $T_D$ is the cost of accessing disk, and $P_{miss}$ is the probability of a cache miss. The cost of disk access usually makes even a single cache miss very significant. 
