@@ -15,4 +15,4 @@ If memory is full, the OS may need to **page out** one or more pages so it can r
 Typically, the OS keeps a **high watermark** and **low watermark**. These act as bounds for the number of free pages that can be used. The thread that manages these bounds is called the **swap daemon** or **page daemon**. 
 
 ## Page Caching
-Our main memory can be viewed as a cache for virtual memory pages in the system. Our goal can thus v
+Our main memory can be viewed as a cache for virtual memory pages in the system. Our goal can thus be viewed as minimizing the number of cache misses or maximizi
