@@ -33,6 +33,7 @@ CAM Photosynthesis: prevents water loss because stomata open at night. CO2 is fi
 
 ### Cellular Respiration
 Photorespiration = Rubisco binds with $O_2$ instead of $CO_2$. This happens in higher temperature and dry conditions. This is about 20% of the time in modern conditions. 
-This occurs in two steps:
+This occurs in three steps:
 1. Rubisco is physically separated into bundle sheath cells
-2. $CO_2$ is fixed by PEP carboxylase
+2. $CO_2$ is fixed by PEP carboxylase. 
+3. Malate is transported to 
