@@ -38,4 +38,4 @@ This occurs in three steps:
 2. $CO_2$ is fixed by PEP carboxylase. 
 3. Malate is transported to bundle sheath, where it releases $CO_2$ to Rubisco. 
 
-The first step of respiration is **glycolysis**. **Glucose** is broken down to form **two pyruvate** and net **two ATP**, along with two NADH.
+The first step of respiration is **glycolysis**. **Glucose** is broken down to form **two pyruvate** and net **two ATP**, along with two NADH. 
