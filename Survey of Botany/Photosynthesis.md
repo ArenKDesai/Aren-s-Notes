@@ -40,4 +40,4 @@ This occurs in three steps:
 
 The first step of respiration is **glycolysis**. **Glucose** is broken down to form **two pyruvate** and net **two ATP**, along with two NADH. 
 
-The second (prett)
+The second (pretty short) step is **Acetyl C
