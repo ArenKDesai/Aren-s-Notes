@@ -48,4 +48,4 @@ The fourth step is the **Electron Transport Chain**. In this step, electrons fro
 
 The fifth step is **Chemiosmosis and Oxidative phosphorylation**, where the proton gradient across the membrane provides energy for production of ATP. 
 In Chemiosmosis, the movement of ions down an electrochemical gradient. Protons move from high concentration to low concentration. This creates electrochemical potential energy. Ions cannot pass through the hydrophobic membrane. The channels they can pass through generates ATP. 
-In Oxidative phosporylation, chemiosmosis 
+In Oxidative phosphorylation, chemiosmosis powers conversion of ADP to ATP. 
