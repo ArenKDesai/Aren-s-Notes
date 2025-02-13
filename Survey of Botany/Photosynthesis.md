@@ -43,3 +43,5 @@ The first step of respiration is **glycolysis**. **Glucose** is broken down to f
 The second (pretty short) step is **Acetyl CoA**, which is created from **3-C pyruvate**. One $CO_2$ is released, and NAD+ is reduced to NADH. 
 
 The third step is the **Krebs Cycle**. Acetyl is oxidized into $2CO_2$ (which uses water). 3 NADH, 1 ATP, 1 $FADH_2$ are all produced twice, since these steps repeat for each pyruvate. 
+
+The fourth step is the **Electron Transport Chain*
