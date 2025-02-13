@@ -12,4 +12,4 @@ While the I/O is in flight, the currently running process will be in a **blocked
 
 ## Page Replacement Polices
 If memory is full, the OS may need to **page out** one or more pages so it can replace it with a different page. This requires a policy for page replacements. 
-Typically, the OS keeps a **high watermark** and **low watermark**. These 
+Typically, the OS keeps a **high watermark** and **low watermark**. These act as bounds for the 
