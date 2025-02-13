@@ -30,5 +30,5 @@ double sum = 0.0;
 double a[1024*1024];
 // randomly access all items of array
 ```
-The above code is 8MB / 2MB = 4 large pages, so we have $4/1024^2$ miss rate. 
+The above code is 8MB / 2MB = 4 large pages, so we have $4/1024^2$ miss rate (~-). 
 If we used small pages, we'd have $2*1024$ small pages (8MB / 4kB), all of which are going to miss. 
