@@ -36,4 +36,4 @@ Photorespiration = Rubisco binds with $O_2$ instead of $CO_2$. This happens in h
 This occurs in three steps:
 1. Rubisco is physically separated into bundle sheath cells
 2. $CO_2$ is fixed by PEP carboxylase. 
-3. Malate is transported to 
+3. Malate is transported to bundle sheath, where it releases $CO_2$ to Rubisco. 
