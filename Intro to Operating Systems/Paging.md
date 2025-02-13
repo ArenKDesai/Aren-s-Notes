@@ -36,4 +36,4 @@ The above code is 8MB / 2MB = 4 large pages, so we have $4/1024^2$ miss rate (~0
 If we used small pages, we'd have $2*1024$ small pages (8MB / 4kB), all of which are going to miss. 
 
 ### Copy-On-Write
-When calling ```fork```, the OS can use **copy-on-write (COW)** to create a shared mapping of the parent pages in the child address space instead of copying the page table. The child will have reduced permissions, so a child doing a write will cause a protection fault, which will 
+When calling ```fork```, the OS can use **copy-on-write (COW)** to create a shared mapping of the parent pages in the child address space instead of copying the page table. The child will have reduced permissions, so a child doing a write will cause a protection fault, which will copy the page and resume the child process. 
