@@ -47,4 +47,4 @@ The third step is the **Krebs Cycle**. Acetyl is oxidized into $2CO_2$ (which us
 The fourth step is the **Electron Transport Chain**. In this step, electrons from oxidation of NADH and $FADH_2$ are used to generate an H+ gradient. Oxygen is the final electron acceptor, which is reduced to $H_2O$. The resulting $FAD$ and $NAD+$ are recycled back to the Krebs Cycle. 
 
 The fifth step is **Chemiosmosis and Oxidative phosphorylation**, where the proton gradient across the membrane provides energy for production of ATP. 
-In Chemiosmosis, the movement of ions down an electrochemical gradient. Protons move from high concentration to low concentration. This creates electrochemical potential energy.
+In Chemiosmosis, the movement of ions down an electrochemical gradient. Protons move from high concentration to low concentration. This creates electrochemical potential energy. Ions cannot pass through the hydrophobic membrane
