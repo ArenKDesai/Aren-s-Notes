@@ -14,4 +14,4 @@ While the I/O is in flight, the currently running process will be in a **blocked
 If memory is full, the OS may need to **page out** one or more pages so it can replace it with a different page. This requires a policy for page replacements. 
 Typically, the OS keeps a **high watermark** and **low watermark**. These act as bounds for the number of free pages that can be used. The thread that manages these bounds is called the **swap daemon** or **page daemon**. 
 
-## Average Memory Access T
+## Page Caching
