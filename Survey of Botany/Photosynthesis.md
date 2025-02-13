@@ -32,4 +32,4 @@ C4: reduces photorespiration by physically isolating Rubisco. First product of C
 CAM Photosynthesis: prevents water loss because stomata open at night. CO2 is fixed at night to a 4-C sugar and stored until daytime. 
 
 ### Cellular Respiration
-Photorespiration = Rubisco binds with $
+Photorespiration = Rubisco binds with $O_2$ instead of $CO_2$. 
