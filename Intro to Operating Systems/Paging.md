@@ -28,5 +28,6 @@ ex:
 ```C
 double sum = 0.0;
 double a[1024*1024];
-// r
+// randomly access all items of array
 ```
+The above code is 
