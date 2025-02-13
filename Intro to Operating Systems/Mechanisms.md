@@ -17,4 +17,4 @@ Typically, the OS keeps a **high watermark** and **low watermark**. These act as
 ## Page Caching
 Our main memory can be viewed as a cache for virtual memory pages in the system. We can calculate a useful metric, the **average memory access time (AMAT)**, for a program as the following:
 $AMAT=T_M+(P_{miss}*T_D)$
-$T_M$ represents the cost of accessing memory, $T_D$ is the cost of accessing disk, and $P_{miss}$ is the probability of a cache miss. The 
+$T_M$ represents the cost of accessing memory, $T_D$ is the cost of accessing disk, and $P_{miss}$ is the probability of a cache miss. The cost of 
