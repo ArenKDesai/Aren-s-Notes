@@ -33,3 +33,5 @@ CAM Photosynthesis: prevents water loss because stomata open at night. CO2 is fi
 
 ### Cellular Respiration
 Photorespiration = Rubisco binds with $O_2$ instead of $CO_2$. This happens in higher temperature and dry conditions. This is about 20% of the time in modern conditions. 
+This occurs in two steps:
+1. Rubisco is physically se
