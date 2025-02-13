@@ -21,7 +21,7 @@ The typical page size is 4kb, so we'd have 12 bits of the address. The page tabl
 However, most address space is sparse (has holes mapped to nothing). Software-managed page tables were tested, but they were too slow. This was fixed with multilevel page tables. This allows page table to be allocated non-contiguously. 
 To calculate address, take the first hex, find the page of PT with it, find the second hex (inner address), find the address with it, add offset (rest of hex). 
 
-Each process has its own page table and PTE, so we can give different processes different permissions. Page sharing allows for kernel data to be mapped 
+Each process has its own page table and PTE, so we can give different processes different permissions. Page sharing allows for kernel data to be mapped into each process. This allows for processes to share a library. 
 
 ### Huge Pages
 If we have a much larger sized page, we need to allocate more bits to the offset. The 18 bits that are usually allocated to the page directory and page table are used for the offset, so every level of the page table will have a bit that states if the pointer points to the next level or the larger page table entry. 
