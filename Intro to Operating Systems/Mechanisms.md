@@ -9,3 +9,5 @@ If a VPN is requested and not found in the TLB ([[Paging]]), the hardware needs 
 A **page fault** is when a program tries to access a part of the virtual address space that the OS has swapped out to the disk. This invokes the **page-fault handler**. 
 
 While the I/O is in flight, the currently running process will be in a **blocked** state ([[Processes]]). This includes page faults, so if a page fault is currently being thrown, the OS can use that time to service another process. 
+
+## Page Replacement Polices
