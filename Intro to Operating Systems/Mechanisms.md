@@ -1,4 +1,4 @@
-#UWMadison 
+#UWMadison #OperatingSystems #CS537
 
 The OS needs a place to store portions of address spaces that currently aren't in great demand. This is naturally slower than memory, but has more capacity. Typically, this is the **hard disk drive (HDD)**. 
 
