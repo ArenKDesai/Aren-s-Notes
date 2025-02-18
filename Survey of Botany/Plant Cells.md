@@ -48,4 +48,4 @@ The second checkpoint is at the G2/M phase, which checks for DNA replication err
 Finally, mitosis will not proceed if chromosomes are not aligned properly. 
 
 ### Cell Elongation (Growth)
-Growth requires water and light (photosynthesis). Cell elongation occurs in the G1 phase
+Growth requires water and light (photosynthesis). Cell elongation occurs in the G1 phase, where the vacuole expands and the cell walls loose
