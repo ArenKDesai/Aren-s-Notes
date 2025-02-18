@@ -10,4 +10,4 @@ There's also simple tissues, made of only one cell type, or complex tissues, whi
 Other types also exist, such as trichomes or endodermis. 
 
 ### Parenchyma
-The basic plant cell. When cell division occurs, the cell starts as a parenchyma cell. These are thin-walled, actively dividing, and have diverse functions. 
+The basic plant cell. When cell division occurs, the cell starts as a parenchyma cell. These are thin-walled, actively dividing, and have diverse functions. These include leaf mesophyll, pith of stem, and the inside of  
