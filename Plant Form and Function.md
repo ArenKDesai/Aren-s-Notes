@@ -18,3 +18,5 @@ Simple tissues made up of one cell type. These are supportive tissue.
 ### Sclerenchyma
 Hard cells that are even more thickened and hard than collenchyma cells. These are what make wood. These tend to be permanent, while parenchyma and collenchyma cells may transition between each other. 
 There are two main types: sclereids (stone cells) and fibers. These include the coconut shell, the peach pit, etc. 
+
+### Cell differentiation
