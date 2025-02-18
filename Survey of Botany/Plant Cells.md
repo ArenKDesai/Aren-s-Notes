@@ -33,6 +33,6 @@ When DNA replicates, we need to replicate every chromosome. Helicase (all enzyme
 
 ### Mitosis
 This is where the cell divides. 
-The first phase is **prophase**, the step where chromosomes condense
+The first phase is **prophase**, the step where chromosomes condense into chromatids, spindle microtubules form ,ad
 
 Unlike eukaryotes, prokaryotes don't have the cell cycle. Instead, they divide through binary fission. This is because they have no nucleus (circular DNA in nucleoid), their DNA replicates, etc. 
