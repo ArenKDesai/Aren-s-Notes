@@ -25,7 +25,7 @@ This can be pretty useful if you may or may not need a very large set of data. T
 The second policy is **prepaging**: loading the page before it's referenced. The OS has to predict which pages are needed, which can work pretty well for sequential page accesses. 
 The third policy is **hints**: we use both of the above. The user specifies which pages they may need, may not need anymore, of sequential access patterns, etc. The user can do this ```madvise()```, but the user must be confident that this is useful or optimal. 
 
-For the second question, the optimal answer is **OTP**, which replaces pages that are needed the farthest in the future. 
+For the second question, the optimal answer is **OTP**, which replaces pages that are needed the farthest in the future.
 ### Virtual Memory Area
 The table of information on allocated memory with **permissions**, **present bits**, and **valid bits**. The hardware only cares about permissions and the present bit; the OS cares about the valid bit. When the page is on disk, the PPN is the physical location on disk; when the page is in memory, the PPN is the location on the page table. 
 When looking for a page, the hardware checks the TLB first. If there's a hit, the page is in physical memory. If there's a miss, the present bit is checked. If the present bit is not set, a **page fault** is thrown and the OS is called through a trap.** 
