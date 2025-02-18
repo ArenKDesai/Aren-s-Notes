@@ -37,6 +37,6 @@ The first phase is **prophase**, the step where chromosomes condense into chroma
 The second phase is **metaphase**, where chromatids align to the center of the cell and the mitotic spindle attaches to centromeres. 
 The third phase is **anaphase**, where sister chromatids separate to opposite ends. 
 The fourth phase is **telophase**, where a new nuclei forms and the cell plate initiates. 
-The fifth phase is **cytokinesis**
+The fifth phase is **cytokinesis**, where the cell plate continues to form and the cell plate 
 
 Unlike eukaryotes, prokaryotes don't have the cell cycle. Instead, they divide through binary fission. This is because they have no nucleus (circular DNA in nucleoid), their DNA replicates, etc. 
