@@ -24,6 +24,6 @@ Prevents cytolysis alongside physical protection. Provides structural support of
 Plasmodesmata connects adjoining cells through pores in the cell wall. 
 
 ## Cell Cycle
-Unlik
+
 
 Unlike eukaryotes, prokaryotes don't have the cell cycle. Instead, they divide through binary fission. This is because they have no nucleus (circular DNA in nucleoid), their DNA replicates, etc. 
