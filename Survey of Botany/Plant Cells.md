@@ -18,7 +18,12 @@ Multicellular plants. They have membrane-bound organelles, and DNA enclosed in a
 #### Plasmolysis
 When there's too many solutes outside the cell, so water moves out of the cell and the cell membrane separates from the cell wall. 
 
-## Cell Wall
+### Cell Wall
 Prevents cytolysis alongside physical protection. Provides structural support of plant, and positive pressure in plant tissues keeps water moving up the stem to the leaves. Plants store water in a large central vacuole
 
 Plasmodesmata connects adjoining cells through pores in the cell wall. 
+
+## Cell Cycle
+Unlik
+
+Unlike eukaryotes, prokaryotes don't have the cell cycle. Instead, they divide through binary fission. This is because they have no nucleus (circular DNA in nucleoid), their DNA replicates, etc. 
