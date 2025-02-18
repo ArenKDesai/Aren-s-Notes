@@ -8,3 +8,6 @@ Plant cells are primarily separated into three types to manage these organs.
 These are **Parenchyma**, **Collenchyma**, and **Sclerenchyma** cells. 
 There's also simple tissues, made of only one cell type, or complex tissues, which are made of more than one type. 
 Other types also exist, such as trichomes or endodermis. 
+
+### Parenchyma
+The basic plant cell. When cell division occurs, 
