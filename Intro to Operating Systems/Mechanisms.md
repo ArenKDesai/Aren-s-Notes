@@ -13,7 +13,7 @@ While the I/O is in flight, the currently running process will be in a **blocked
 This works due to **locality of reference**, or the idea that **spatial** and **temporal** locality can be manipulated to optimize memory access. 
 
 ### Virtual Memory Area
-The table of information on allocated memory being
+The table of information on allocated memory with **permissions**, **present bits**, and **valid bits**. The 
 
 ## Page Replacement Polices
 If memory is full, the OS may need to **page out** one or more pages so it can replace it with a different page. This requires a policy for page replacements. 
