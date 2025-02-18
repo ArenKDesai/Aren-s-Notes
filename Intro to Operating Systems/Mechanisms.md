@@ -19,8 +19,9 @@ Page faults are slow, sometimes requiring 1,000,000x times the cost of a normal 
 
 The first policy for the first question is **demand paging**: Only load in a page when a page fault occurs. This throws a page fault for every new page, so the cost of this one is huge. This can be done with ```mmap()```:
 ```C
-int *p = mmap(9000*sizeof)
+int *p = mmap(9000*sizeof(int));
 ```
+
 The second policy is **prepaging**: loading the page before it's referenced. The OS has to predict which pages are needed, which can work pretty well for sequential page accesses. 
 The third policy is **hints**: we use both of the above. The user specifies which pages they may need, may not need anymore, of sequential access patterns, etc. The user can do this ```madvise()```, but the user must be confident that this is useful or optimal. 
 
