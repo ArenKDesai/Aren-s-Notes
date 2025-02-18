@@ -13,4 +13,6 @@ Other types also exist, such as trichomes or endodermis.
 The basic plant cell. When cell division occurs, the cell starts as a parenchyma cell. These are thin-walled, actively dividing, and have diverse functions. These include leaf mesophyll, pith of stem, and the inside of a potato. 
 
 ### Collenchyma Cells
-Simple tissues made up of one cell type. 
+Simple tissues made up of one cell type. These are supportive tissue. 
+
+### Scleren
