@@ -39,4 +39,6 @@ The third phase is **anaphase**, where sister chromatids separate to opposite en
 The fourth phase is **telophase**, where a new nuclei forms and the cell plate initiates. 
 The fifth phase is **cytokinesis**, where the cell plate continues to form and the cell plate develops into a a new cell wall, separating the daughter cells. 
 
+
+
 Unlike eukaryotes, prokaryotes don't have the cell cycle. Instead, they divide through binary fission. This is because they have no nucleus (circular DNA in nucleoid), their DNA replicates, etc. 
