@@ -29,6 +29,6 @@ The cell cycle occurs in prokaryotes and chloroplasts. It allows plants to incre
 The cell cycle includes **interphase**, which is 90% of the cycle, and **mitosis**, which is 10%. Interphase is where the cell grows and prepares for division. This starts with the **G1 Phase**, where the cell grows, makes membranes and organelles, and differentiates. Then comes the **S Phase**, where DNA synthesis occurs. each chromosome is replicated. **G2 Phase** is a gap to prepare for mitosis. 
 
 DNA is made of 4 nucleotides --- Adenine and Thymine, and Cytosine and Guanine --- and the strands are complementary. 
-When DNA replicates, we need to replicate every chromosome. Helicase (all enzymes end in "ase") exists to unzip the DNA
+When DNA replicates, we need to replicate every chromosome. Helicase (all enzymes end in "ase") exists to unzip the DNA. Then, DNA polymerase makes 
 
 Unlike eukaryotes, prokaryotes don't have the cell cycle. Instead, they divide through binary fission. This is because they have no nucleus (circular DNA in nucleoid), their DNA replicates, etc. 
