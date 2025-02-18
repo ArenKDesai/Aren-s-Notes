@@ -17,3 +17,4 @@ Simple tissues made up of one cell type. These are supportive tissue.
 
 ### Sclerenchyma
 Hard cells that are even more thickened and hard than collenchyma cells. These are what make wood. 
+There are two main types: sclere
