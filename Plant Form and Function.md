@@ -24,4 +24,4 @@ Cells often differentiate during G1 (see [[Plant Cells]]), where cells are recep
 The G1/S checkpoint checks whether the cell is fit to continue, in if not, they go in the **G0/Stasis** state. 
 
 ### G0
-This is the resting, or statis 
+This is the resting, or statis state. This is a non-divin
