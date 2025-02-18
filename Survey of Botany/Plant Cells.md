@@ -40,4 +40,4 @@ The third phase is **anaphase**, where sister chromatids separate to opposite en
 The fourth phase is **telophase**, where a new nuclei forms and the cell plate initiates. 
 The fifth phase is **cytokinesis**, where the cell plate continues to form and the cell plate develops into a a new cell wall, separating the daughter cells. 
 
-Mitosis is different in plants and animals. For plants, there are no centrioles, instead using microtubule organizing centers instead. The cell plate forms by building a new wall to divide the cytoplams
+Mitosis is different in plants and animals. For plants, there are no centrioles, instead using microtubule organizing centers instead. The cell plate forms by building a new wall to divide the cytoplasm, and there's **Merisem-based
