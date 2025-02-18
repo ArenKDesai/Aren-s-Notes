@@ -32,6 +32,6 @@ DNA is made of 4 nucleotides --- Adenine and Thymine, and Cytosine and Guanine -
 When DNA replicates, we need to replicate every chromosome. Helicase (all enzymes end in "ase") exists to unzip the DNA. Then, primase starts the new strand, and DNA polymerase adds the rest of the bases. Ligase glues the two separate strands back together. This all happens in the S phase. 
 
 ### Mitosis
-This is where the cell divides. 
+This is where the cell divides. This is give phases: 
 
 Unlike eukaryotes, prokaryotes don't have the cell cycle. Instead, they divide through binary fission. This is because they have no nucleus (circular DNA in nucleoid), their DNA replicates, etc. 
