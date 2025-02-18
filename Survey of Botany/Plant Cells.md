@@ -48,4 +48,4 @@ The second checkpoint is at the G2/M phase, which checks for DNA replication err
 Finally, mitosis will not proceed if chromosomes are not aligned properly. 
 
 ### Cell Elongation (Growth)
-Growth 
+Growth requires water and light (photosynthesis). 
