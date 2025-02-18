@@ -26,6 +26,6 @@ Plasmodesmata connects adjoining cells through pores in the cell wall.
 ## Cell Cycle
 Eukaryotes have 1000x the DNA of prokaryotes, and the DNA is more complex. The DNA is tightly wound to fit in the cell. 
 The cell cycle occurs in prokaryotes and chloroplasts. It allows plants to increase in size, repair damaged tissues, and develop specialized cells for different functions. 
-The cell cycle includes **interphase**, which is 90% of the cycle, and **mitosis**, which is 10%. Interphase is where the cell grows and prepares for division. This starts with the **G1 Phase**, where the cell grows, makes membranes and organelles, and differentiates. Then comes the **S Phase**, where DNA synthesis occurs. each chromosome is replicated. **G2 Phase** is a gap to prepare for mitso 
+The cell cycle includes **interphase**, which is 90% of the cycle, and **mitosis**, which is 10%. Interphase is where the cell grows and prepares for division. This starts with the **G1 Phase**, where the cell grows, makes membranes and organelles, and differentiates. Then comes the **S Phase**, where DNA synthesis occurs. each chromosome is replicated. **G2 Phase** is a gap to prepare for mitosis.  
 
 Unlike eukaryotes, prokaryotes don't have the cell cycle. Instead, they divide through binary fission. This is because they have no nucleus (circular DNA in nucleoid), their DNA replicates, etc. 
