@@ -16,4 +16,4 @@ The basic plant cell. When cell division occurs, the cell starts as a parenchyma
 Simple tissues made up of one cell type. These are supportive tissue. 
 
 ### Sclerenchyma
-Hard cells that are even more thicken
+Hard cells that are even more thickened and hard than collenchyma cells. These are what make wood. 
