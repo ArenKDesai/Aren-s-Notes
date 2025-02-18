@@ -20,4 +20,4 @@ Hard cells that are even more thickened and hard than collenchyma cells. These a
 There are two main types: sclereids (stone cells) and fibers. These include the coconut shell, the peach pit, etc. 
 
 ### Cell Differentiation
-Cells often differentiate during G1 (see [[Plant Cells]]), where cells rec
+Cells often differentiate during G1 (see [[Plant Cells]]), where cells are receptive to chemical and environmental cues. 
