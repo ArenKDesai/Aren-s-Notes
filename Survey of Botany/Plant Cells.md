@@ -44,4 +44,4 @@ Mitosis is different in plants and animals. For plants, there are no centrioles,
 
 ### Cell Cycle Checkpoints
 The cell cycle can be halted at each checkpoint. The first is at the G1/S checkpoint, which checks whether the cell is too small, doesn't have enough energy, is on a different path, etc. 
-The second checkpoint is at the G2/M phase, which checks for DNA replication errors. 
+The second checkpoint is at the G2/M phase, which checks for DNA replication errors. Mitosis will not proceed if chromosomes are not alig
