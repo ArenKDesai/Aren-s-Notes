@@ -50,4 +50,5 @@ Finally, mitosis will not proceed if chromosomes are not aligned properly.
 ### Cell Elongation (Growth)
 Growth requires water and light (photosynthesis). Cell elongation occurs in the G1 phase, where the vacuole expands and the cell walls loosen. Additional cell membrane and walls form, and the cell becomes receptive to signals that initiate **specialization**. 
 
-Specialization allows cells to aquire a special function, 
+Specialization allows cells to aquire a special function. 
+
