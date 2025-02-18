@@ -43,4 +43,4 @@ The fifth phase is **cytokinesis**, where the cell plate continues to form and t
 Mitosis is different in plants and animals. For plants, there are no centrioles, instead using microtubule organizing centers instead. The cell plate forms by building a new wall to divide the cytoplasm, and there's **Merisem-based growth**. 
 
 ### Cell Cycle Checkpoints
-The cell cycle can be halted at each checkpoint. The first is at the G1/S checkpoint, which checks whether the cell is too small, doesn't have enough energy, 
+The cell cycle can be halted at each checkpoint. The first is at the G1/S checkpoint, which checks whether the cell is too small, doesn't have enough energy, is on a different path, etc. 
