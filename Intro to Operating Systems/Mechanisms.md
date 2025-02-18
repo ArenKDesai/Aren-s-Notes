@@ -13,7 +13,8 @@ While the I/O is in flight, the currently running process will be in a **blocked
 This works due to **locality of reference**, or the idea that **spatial** and **temporal** locality can be manipulated to optimize memory access. 
 
 ### Swapping Polices
-Page faults are slow, sometimes requiring 1,000,000x times the cost of a normal instruction. This means decisions must be made on how to handle a page fault. These two 
+Page faults are slow, sometimes requiring 1,000,000x times the cost of a normal instruction. This means decisions must be made on how to handle a page fault. These two decisions are:
+1. When should a page on disk be 
 
 ### Virtual Memory Area
 The table of information on allocated memory with **permissions**, **present bits**, and **valid bits**. The hardware only cares about permissions and the present bit; the OS cares about the valid bit. When the page is on disk, the PPN is the physical location on disk; when the page is in memory, the PPN is the location on the page table. 
