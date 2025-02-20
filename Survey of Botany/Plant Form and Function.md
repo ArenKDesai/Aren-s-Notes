@@ -27,3 +27,11 @@ The G1/S checkpoint checks whether the cell is fit to continue, in if not, they 
 **Meristems** produces undifferentiated parenchyma cells that develop into various tissues. 
 Primary meristems are responsible for **primary growth**, which consists of apical meristems (buds) found at shoot and root tips, produce primary tissues that develop into main organs, and produce axillary buds that develop into new branches. 
 Secondary meristems are responsible for **secondary growth**, which consists of the plant increasing in diameter and producing wood and bark in woody plants. 
+
+The meristems are regions of active cell division. The apical (primary) meristems lay down new cells below itself, so the meristems grow upward. 
+The apical meristem, or bud, dominates growth to allow the plant to grow towards the light, which is called **phototropism**. This is called apical dominance. Thus, when the axillary buds are removed, energy is diverted to lateral growth. 
+
+The primary meristems produce three types of cells:
+1. Dermal tissue: The protective outer layer (skin) of the plant
+2. Vascular tissue: the transport system of the plant
+3. Ground tissue: the support, storage, and photosynthesis support of the plant. 
