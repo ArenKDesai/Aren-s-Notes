@@ -24,3 +24,6 @@ Cells often differentiate during G1 (see [[Plant Cells]]), where cells are recep
 The G1/S checkpoint checks whether the cell is fit to continue, in if not, they go in the **G0/Stasis** state. This is the resting, or statis state. This is a non-diving, mature state. 
 
 ## Meristems
+**Meristems** produces undifferentiated parenchyma cells that develop into various tissues. 
+Primary meristems are responsible for **primary growth**, which consists of apical meristems (buds) found at shoot and root tips, produce primary tissues that develop into main organs, and produce axillary buds that develop into new branches. 
+Secondary meristems are responsible for **secondary growth**, which consists of the plant increasing in diameter and producing wood and bark in woody plants. 
