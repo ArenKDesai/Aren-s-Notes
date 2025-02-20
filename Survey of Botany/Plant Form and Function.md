@@ -35,3 +35,21 @@ The primary meristems produce three types of cells:
 1. Dermal tissue: The protective outer layer (skin) of the plant
 2. Vascular tissue: the transport system of the plant
 3. Ground tissue: the support, storage, and photosynthesis support of the plant. 
+#### Dermal tissue
+This is a complex tissue that forms a protective outer layer to protect the plant from water loss, pathogens, and physical damage. 
+There are four components:
+1. Epidermis: cell layer forming "skin" of stems, leaves, and roots. 
+2. Cuticle: Waxy layer that sheds water and reduces water loss. 
+3. Guard cells: regulates gas exchange by opening/closing stomata. 
+4. Trichomes: hair-like structures that deter herbivores, regulate temperature, regulate water loss, etc. 
+
+#### Vascular Tissue
+Complex tissue that creates the internal transport system. It moves water, nutrients, and sugars throughout the plant. There are two main types:
+1. Xylem: transports water and minerals from roots to leaves. 
+2. Phloem: transports sugars from leaves to the rest of the plant. 
+
+#### Ground tissue
+Simple tissues that comprise bulk of plant body. They fill space and provide basic functions like structure and metabolism. 
+1. Parenchyma: Performs photosynthesis, stores nutrients, fill spaces
+2. Collenchyma: provides flexible structure support
+3. Sclerenchyma: offers rigid support. 
