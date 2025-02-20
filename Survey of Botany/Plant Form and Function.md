@@ -53,3 +53,30 @@ Simple tissues that comprise bulk of plant body. They fill space and provide bas
 1. Parenchyma: Performs photosynthesis, stores nutrients, fill spaces
 2. Collenchyma: provides flexible structure support
 3. Sclerenchyma: offers rigid support. 
+
+### Plant Structure and Cues
+Herbaceous plants have no wood, are shorter in stature, live shorter, and don't have secondary growth. Woody plants have stems reinforced with lignin, which includes trees (woody plants with a dominant stem) and shrubs (woody plant with multiple stems). They grow in diameter through secondary growth and have a taller stature and longer lifespan. 
+
+There are two types of **external cues** that could affect growth: **abiotic** and **biotic**. Pathogens, toxins from herbivores, soil microbes, and more are considered biotic. 
+
+There are three types of **internal cues**: **essential nutrients** (N, P, K), **vitamins and minerals** (like Fe, Mg+, etc) which act as $e-$ acceptors and enzyme cofactors, and **hormones**, which are produced in-plant and are transported where needed. 
+
+### Phototropism
+An act mediated by Auxin, this allows plants to grow towards the light. Auxin is delivered to the side of the stem opposite to the light so the cells elongate more there, which bends the stem towards the light. 
+
+Plants respond to these internal and external stimuli with signal transduction pathways. This is where the cell membrane proteins receive signals from hormone or environmental stimulus. The signal is passed through a series of secondary messenger molecules, and the cell response is activated (which allows for changes in transport access membranes, changes in enzymes to be produced, a release or suppression of other hormones, etc). 
+
+### Hormones
+There are hundreds of compounds in the five main classes of hormones. These regulate growth, development, etc. They trigger signal transduction pathways, and can have powerful effects in tiny amounts. 
+The five main hormones are:
+1. **Auxins**: regulates locations of cell growth; mediates phototropism; delays ripening and leaf drop. Similar to a **growth hormone**. 
+2. **Cytokinins**: regulates cell division within G2/M transition. Works with auxin to stimulate the **break of dormancy**. Like an **activating hormone**. 
+3. **Gibberellins (GA)**: promotes cell elongation, speeds up germination and flowering. **Stretching and speeding hormone** (makes plant taller). 
+4. **Abscisic Acid (ABA)**: Inhibits growth. Promotes dormancy in buds and seeds. Also regulates water stress response. **Inhibiting (slowing) hormone**. 
+5. **Ethylene**: A gas that promotes fruit ripening and flower and leaf dropping. **Ripening hormone**. 
+
+### Phenology
+The timing of growth, reproduction, and senescence in plants. Senescence is the aging and death of tissues, organs, or the whole plant. 
+Plant lifespans exist in **annuals** (1 year), **biennials** (2 years), and **perennials** (>2 years). Some plants (trees) are >5,000 years old. 
+Some also have year-round growth in the tropics, where the plants are often **evergreen** (always have leaves). 
+Some have seasonal growth, where annual periods of freezing or drought don't allow permanent growth. These are **deciduous** plants that lose their leaves. 
