@@ -19,4 +19,4 @@ The solution to this problem is **segmentation** on the address space. Each segm
 During address translation, instead of adding the base value to the virtual address, the hardware adds the base value to the offset of the segment. 
 
 ### Stack
-The stack acts a bit strangely in address translations. Since the stack grows down, we can map 
+The stack acts a bit strangely in address translations. 
