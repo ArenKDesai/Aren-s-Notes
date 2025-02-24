@@ -1,7 +1,7 @@
 Allocating memory in the [[Address Space]] is usually done with a heap that can be allocated to processes, but this causes problems, such as external fragmentation. Paging solves this by allocating memory in fixed-size **pages**, similar to an array of finite-sized memory pieces. 
 These pages can be pretty convenient since the OS doesn't have to worry about how the memory structures (stack, heap, etc) grow, along with other useful abstractions. 
+Pages are stored in page frames.
 
-Pages are stored in page frames. Page locations and availability are stored in the **page table**. This stores address translations so the OS can know where the physical memory for each page resides. 
 
 ## Page Table
 The page table is a **per-process** data structure. 
