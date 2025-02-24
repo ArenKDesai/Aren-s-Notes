@@ -46,7 +46,7 @@ The OS must take care to never end up in a TLB-miss loop. Some solutions include
 
 A TLB typically has 32, 64, or 128 entries, and be a **fully-associative** TLB. This means that any given translation could be anywhere in the TLB - no restrictions or special cases. A TLB entry of this nature will typically consist of a VPN, a PFN (physical location address), and some bits used for bookkeeping. For example, the TLB has a valid bit that states whether an entry has a valid translation. Sometimes there's also protection bits, which include information such as "read, write, execute". 
 
-Context switches provide a challenge, since we don't want one process to use another's addresses. One solution is to flush the TLB. Another solution is to provide an address space identifier (ASID) to ensure correct address space usage. 
+Context switches provide a challenge, since we don't want one process to use another's addresses. One solution is to flush the TLB. Another solution is to provide an **address space identifier (ASID)** to ensure correct address space usage. 
 
 The TLB has a reach that states how much memory can be accessed before a miss is registered. For Intel, this is typically separated into L1, L2, etc. L1 has 64 entries and 1 cycle, L2 has 1536 entries and 7 cycles, etc. Since the **TLB reach = num entries x page size**, L1 isi 4kb x 64 = 256kb per core. 
 
