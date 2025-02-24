@@ -15,7 +15,9 @@ The typical page size is 4kb, so we'd have 12 bits of the address. The page tabl
 However, most address space is sparse (has holes mapped to nothing). Software-managed page tables were tested, but they were too slow. This was fixed with multilevel page tables. This allows page table to be allocated non-contiguously. 
 To calculate address, take the first hex, find the page of PT with it, find the second hex (inner address), find the address with it, add offset (rest of hex). 
 
-### Page Table organi
+### Page Table Organization
+
+
 ## Translation-Lookaside Buffer (TLB)
 We want to speed up address translation, so we use a **translation-lookaside buffer (TLB)**. This is a part of the **memory-management unit (MMU)**, and it caches address translations. The TLB acts like a typical cache that keeps high-frequency address translations in on-chip memory. 
 
