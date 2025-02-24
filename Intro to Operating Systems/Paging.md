@@ -4,7 +4,10 @@ Pages are stored in page frames.
 
 
 ## Page Table
-Page locations and availability are stored in the **page table**, a **per-process** data structure that stores address translations so the OS can know where the physical memory for each page resides. 
+Page locations and availability are stored in the **page table**, a **per-process** data structure that stores address translations so the OS can know where the physical memory for each page resides.
+
+Instead of the typical 
+
 The typical page size is 4kb, so we'd have 12 bits of the address. The page table would need to be 4MiB to hold all those processes. With 64-bit processors, we'd need 36 exa-bytes. 
 However, most address space is sparse (has holes mapped to nothing). Software-managed page tables were tested, but they were too slow. This was fixed with multilevel page tables. This allows page table to be allocated non-contiguously. 
 To calculate address, take the first hex, find the page of PT with it, find the second hex (inner address), find the address with it, add offset (rest of hex). 
