@@ -16,4 +16,4 @@ With just our operating system and the process stack/heap/code injected into phy
 ![[basic_mem_hierarchy.png]]
 There's a lot of lost space. Base and bounds on the full physical memory is wasteful, and also doesn't allow the OS to run programs larger than the full address space. 
 The solution to this problem is **segmentation** on the address space. Each segment gets its own base/bounds pair. 
-DInstead of adding the base value to the virtual address, the hardware adds the base value to the offset of the segment. 
+During address translation, instead of adding the base value to the virtual address, the hardware adds the base value to the offset of the segment. 
