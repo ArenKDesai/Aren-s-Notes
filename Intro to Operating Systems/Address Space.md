@@ -22,7 +22,5 @@ Segmentation can either be **fine-grained** (large number of smaller segments) o
 
 To be able to share code (in the form of libraries), the hardware configures a **protection bit**. This is the common Read-Write-Execute permission bit indicator. 
 
-
-
 ### Stack
 The stack acts a bit strangely in address translations into segments. The hardware always uses the top two bits of a virtual address to find the segment, but instead of using the offset directly, the hardware completes this calculation: $negative\ offset = offset - maximum\ segment\ size$. 
