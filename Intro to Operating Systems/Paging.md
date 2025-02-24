@@ -20,7 +20,7 @@ The easiest form of a page table to implement is the **linear page table**. This
 
 In all forms of a page table, a **valid bit** is used to indicate whether a translation is valid. This is the origin of a **page fault**. 
 Sometimes, there's also a **protection bit** that indicates the page permissions (read, write, execute). 
-
+A **present bit** indicates whether the 
 
 ## Translation-Lookaside Buffer (TLB)
 We want to speed up address translation, so we use a **translation-lookaside buffer (TLB)**. This is a part of the **memory-management unit (MMU)**, and it caches address translations. The TLB acts like a typical cache that keeps high-frequency address translations in on-chip memory. 
