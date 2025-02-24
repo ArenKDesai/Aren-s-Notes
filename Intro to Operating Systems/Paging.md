@@ -1,6 +1,6 @@
-Paging transforms traditional memory allocation from a large buffer of memory to something more like an array of finite-sized elements. These are pages. 
+Allocating memory in the [[Address Space]] is usually done with a heap that can be allocated to processes, but this causes problems, such as external fragmentation. Paging solves this by allocating memory in fixed-size **pages**, similar to an array of finite-sized memory pieces. 
 
-Page locations and availability are stored in the **page table**. This stores **address translations** so the OS can know where the physical memory for each page resides. 
+Pages are stored in page frames. Page locations and availability are stored in the **page table**. This stores address translations so the OS can know where the physical memory for each page resides. 
 
 ## Translation-Lookaside Buffer (TLB)
 We want to speed up address translation, so we use a **translation-lookaside buffer (TLB)**. This is a part of the **memory-management unit (MMU)**, and it caches address translations. The TLB acts like a typical cache that keeps high-frequency address translations in on-chip memory. 
