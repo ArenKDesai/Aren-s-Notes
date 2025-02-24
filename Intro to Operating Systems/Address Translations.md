@@ -7,4 +7,4 @@ The first idea is to take the process's memory and place it into physical memory
 CPU needs two hardware registers: the **base register** and the **bounds register** (or limit register). Before runtime of the process, the OS sets the base register to the physical location of the memory of the process. This is a simple calculation:
 $physical\ address = virtual\ address + base$. 
 The bounds register is used to keep virtual address translations within reasonable bounds. This is helpful to avoid querying the hardware for the memory in an address that doesn't exist, which could cause serious problems. 
-The part of the processor that handles address translatiosn
+The part of the processor that handles address translations (and where the base and bounds registers are) is called the 
