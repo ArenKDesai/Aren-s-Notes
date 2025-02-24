@@ -1,4 +1,4 @@
-Memory is the storage space that a program uses to store its functions, variables, etc. It exists both in the virtual space and physical, with the physical space being slower but having far greater quantity of storage. Memory exists in the [[Memory Hierarchy]], which 
+Memory is the storage space that a program uses to store its functions, variables, etc. It exists both in the virtual space and physical, with the physical space being slower but having far greater quantity of storage. Memory exists in the [[Memory Hierarchy]], which organizes memory in a way that keeps frequently accessed memory 
 
 
 
