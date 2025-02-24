@@ -12,5 +12,5 @@ The part of the processor that handles address translations (and where the base 
 When the OS hands off control to a process, it must save the base and bounds registers. It saves these register to the **process control block (PCB)**. 
 
 ## Segmentation
-With just our operating system and the process stack/he current memory design looks like this:
+With just our operating system and the process stack/heap/code injected into physical memory, the current memory design looks like this:
 ![[basic_mem_hierarchy.png]]
