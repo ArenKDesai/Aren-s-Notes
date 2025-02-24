@@ -15,4 +15,4 @@ When the OS hands off control to a process, it must save the base and bounds reg
 With just our operating system and the process stack/heap/code injected into physical memory, the current memory design looks like this:
 ![[basic_mem_hierarchy.png]]
 There's a lot of lost space. Base and bounds on the full physical memory is wasteful, and also doesn't allow the OS to run programs larger than the full address space. 
-The solution to this problem is **segmentation** on the address space. Each segem
+The solution to this problem is **segmentation** on the address space. Each segment gets its own base/bounds pair. 
