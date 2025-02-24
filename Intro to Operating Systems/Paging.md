@@ -16,7 +16,7 @@ However, most address space is sparse (has holes mapped to nothing). Software-ma
 To calculate address, take the first hex, find the page of PT with it, find the second hex (inner address), find the address with it, add offset (rest of hex). 
 
 ### Page Table Organization
-
+The easiest form of a page table to implement is the **linear pag
 
 ## Translation-Lookaside Buffer (TLB)
 We want to speed up address translation, so we use a **translation-lookaside buffer (TLB)**. This is a part of the **memory-management unit (MMU)**, and it caches address translations. The TLB acts like a typical cache that keeps high-frequency address translations in on-chip memory. 
