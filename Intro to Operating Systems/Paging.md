@@ -6,7 +6,6 @@ Pages are stored in page frames.
 
 ## Page Table
 Page locations and availability are stored in the **page table**, a **per-process** data structure that stores address translations so the OS can know where the physical memory for each page resides. The details of the pages are kept in a **page table entry (PTE)**. Since each process has its own page table and PTE, we can give different processes different permissions. 
-Sharing is handled
 The new equation for virtual address translation is a little more complicated. The first (leftmost) bits are used as the **virtual page number (VPN)**, and the rest is the offset. 
 Imagine we have 16 byte pages in a 64 byte address space. We'd have $\frac{64}{16}=4$ pages, of which we could cover the VPNs for with $4=2^x$, $\log(4)=x\log(2)$, $x=2$ bits. 
 
@@ -16,7 +15,7 @@ The typical page size is 4kb, so we'd have 12 bits of the address. The page tabl
 However, most address space is sparse (has holes mapped to nothing). Software-managed page tables were tested, but they were too slow. This was fixed with multilevel page tables. This allows page table to be allocated non-contiguously. 
 To calculate address, take the first hex, find the page of PT with it, find the second hex (inner address), find the address with it, add offset (rest of hex). 
 
-Each process has its own page table and PTE, so we can give different processes different permissions. Page sharing allows for kernel data to be mapped into each process. This allows for processes to share a library. 
+### Page Table organi
 ## Translation-Lookaside Buffer (TLB)
 We want to speed up address translation, so we use a **translation-lookaside buffer (TLB)**. This is a part of the **memory-management unit (MMU)**, and it caches address translations. The TLB acts like a typical cache that keeps high-frequency address translations in on-chip memory. 
 
