@@ -9,6 +9,8 @@ Page locations and availability are stored in the **page table**, a **per-proces
 The new equation for virtual address translation is a little more complicated. The first (leftmost) bits are used as the **virtual page number (VPN)**, and the rest is the offset. 
 Imagine we have 16 byte pages in a 64 byte address space. We'd have $\frac{64}{16}=4$ pages, of which we could cover the VPNs for with $4=2^x$, $\log(4)=x\log(2)$, $x=2$ bits. 
 
+Now imagine we have a 20-but
+
 The typical page size is 4kb, so we'd have 12 bits of the address. The page table would need to be 4MiB to hold all those processes. With 64-bit processors, we'd need 36 exa-bytes. 
 However, most address space is sparse (has holes mapped to nothing). Software-managed page tables were tested, but they were too slow. This was fixed with multilevel page tables. This allows page table to be allocated non-contiguously. 
 To calculate address, take the first hex, find the page of PT with it, find the second hex (inner address), find the address with it, add offset (rest of hex). 
