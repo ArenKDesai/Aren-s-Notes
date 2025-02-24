@@ -10,3 +10,5 @@ The bounds register is used to keep virtual address translations within reasonab
 The part of the processor that handles address translations (and where the base and bounds registers are) is called the **memory management unit (MMU)**. 
 
 When the OS hands off control to a process, it must save the base and bounds registers. It saves these register to the **process control block (PCB)**. 
+
+## Segme
