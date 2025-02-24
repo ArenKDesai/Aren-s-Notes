@@ -12,4 +12,4 @@ The part of the processor that handles address translations (and where the base 
 When the OS hands off control to a process, it must save the base and bounds registers. It saves these register to the **process control block (PCB)**. 
 
 ## Segmentation
-The c
+The current memory design, 
