@@ -6,7 +6,7 @@ Pages are stored in page frames.
 
 ## Page Table
 Page locations and availability are stored in the **page table**, a **per-process** data structure that stores address translations so the OS can know where the physical memory for each page resides.
-Imagine we have 16 byte pages in a 64 byte address space. We'd have 
+Imagine we have 16 byte pages in a 64 byte address space. We'd have $\frac{64}{}
 
 The new equation for virtual address translation is a little more complicated. The first (leftmost) bits are used as the **virtual page number (VPN)**, and the rest is the offset. 
 
