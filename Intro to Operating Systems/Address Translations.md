@@ -20,4 +20,4 @@ During address translation, instead of adding the base value to the virtual addr
 
 ### Stack
 The stack acts a bit strangely in address translations into segments. The hardware always uses the top two bits of a virtual address to find the segment, but instead of using the offset directly, the hardware completes this calculation:
-$negative\ offset = maximum\ segment\ size - offset$. 
+$negative\ offset = offset - maximum\ segment\ size$. 
