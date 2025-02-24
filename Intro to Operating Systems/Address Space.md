@@ -1,6 +1,6 @@
 #CS537 #UWMadison #OperatingSystems 
 
-Developer-made processes need to utilize a computer's memory in order to function. However, the physical locations of memory are hidden by the OS, so memory is virtualized ([[Virtualization]]). So how does the OS efficiently handle allowing processes to allocate virtual memory?
+Developer-made processes need to utilize a computer's memory in order to function. However, the physical locations of memory are hidden by the OS, so memory is virtualized. So how does the OS efficiently handle allowing processes to allocate virtual memory?
 
 ## Base and Bounds
 The first idea is to take the process's memory and place it into physical memory like placing a peg into a hole. This idea allows the hardware to fully handle address translation, a notion known as **base and bounds**, or dynamic relocation. 
@@ -28,4 +28,4 @@ The stack acts a bit strangely in address translations into segments. The hardwa
 ### Fragmentation
 The memory in segments proposes a problem: a multitude of processes allocating memory in the address space can create a multitude of holes in-between processes. These holes aren't large enough to be used by anything, but are large enough to eat up memory. This is **external fragmentation**. 
 The easiest fix for external fragmentation is to re-arrange memory allocation. However, this process is endlessly expensive, and not practical. 
-Another idea is to keep a list of free memory spaces that algorithm can manage. Algorithms like **best-fit** (allocate memory with the space closest to the requested size), **worst-fit**, **first-fit**, etc. have all been prototyped, but external fragmentation will always be a problem. 
+Another idea is to keep a list of free memory spaces that algorithm can manage. Algorithms like **best-fit** (allocate memory with the space closest to the requested size), **worst-fit**, **first-fit**, etc. have all been prototyped, but external fragmentation will always be a problem. That is, unless you use [[Paging]]. 
