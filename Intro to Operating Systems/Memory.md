@@ -1,4 +1,6 @@
-Memory is the storage space that a program uses to store its functions, variables, etc. It exists both in the virtual space and physical, with the physical space being slower but having far 
+Memory is the storage space that a program uses to store its functions, variables, etc. It exists both in the virtual space and physical, with the physical space being slower but having far greater quantity of storage. 
+
+
 
 **Multiprogramming** is when multiple programs are ready to run at the same time. The CPU can only actually run one process, so virtualization ([[OS Basics]]) is used to allow for multiprogramming. An address space is used to virtualize memory for a process. 
 
