@@ -27,7 +27,7 @@ The easiest form of a page table to implement is the **linear page table**. This
 In order to find stored data, the system must:
 1. Fetch the PTE that carries the desired data from the process's page table
 2. Translate the address from the PTE
-3. lo
+3. Load the data from the address into physical memory. 
 
 ## Translation-Lookaside Buffer (TLB)
 We want to speed up address translation, so we use a **translation-lookaside buffer (TLB)**. This is a part of the **memory-management unit (MMU)**, and it caches address translations. The TLB acts like a typical cache that keeps high-frequency address translations in on-chip memory. 
