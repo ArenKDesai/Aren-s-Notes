@@ -4,4 +4,4 @@ Developer-made processes need to utilize a computer's memory in order to functio
 
 ## Base and Bounds
 The first idea is to take the process's memory and place it into physical memory like placing a peg into a hole. This idea allows the hardware to fully handle address translation, a notion known as **base and bounds**, or dynamic relocation. 
-CPU needs two hardware registers: the **base register** and the **bounds register** (or limit register). The OS sets the base register to the 
+CPU needs two hardware registers: the **base register** and the **bounds register** (or limit register). Before runtime of the process, the OS sets the base register to the physical location of the 
