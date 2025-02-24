@@ -24,6 +24,8 @@ A **reference bit** is used to track whether a page has been accessed.
 
 The easiest form of a page table to implement is the **linear page table**. This is just an array of pages. The VPN acts as an index into the page table. 
 
+
+
 ## Translation-Lookaside Buffer (TLB)
 We want to speed up address translation, so we use a **translation-lookaside buffer (TLB)**. This is a part of the **memory-management unit (MMU)**, and it caches address translations. The TLB acts like a typical cache that keeps high-frequency address translations in on-chip memory. 
 
