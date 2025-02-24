@@ -44,9 +44,7 @@ The algorithm works as follows:
 Old architectures had **hardware-managed TLBs**, like Intel x86, with a fixed multi-level page where TLB misses would manually walk through the page for the correct address translation. Modern architectures are either **reduced-instruction set computers (RISC)** (less common) or **complex-instruction set computers (CISC)** (more common) with a software-managed TLB. On a miss, the hardware raises an exception, which pauses the current instruction stream, raises the privilege level to kernel mode, and jumps to a trap handler. 
 The OS must take care to never end up in a TLB-miss loop. Some solutions include keeping TLB miss handlers in unmapped physical memory, or reserving some memory for the TLB-miss handler address translation permanently. 
 
-The TLB has a valid bit that states whether an entry has a valid translation. Sometimes there's also protection bits, which include information such as "read, write, execute". 
-
-A TLB typically has 32, 64, or 128 entries, and be a **fully-associative** TLB. This means that any given translation could be anywhere in the TLB - no restrictions or special cases. A TLB entry of this nature will typically consist of a VPN, a PFN (physical location address), and some bits used for bookeeping. . 
+A TLB typically has 32, 64, or 128 entries, and be a **fully-associative** TLB. This means that any given translation could be anywhere in the TLB - no restrictions or special cases. A TLB entry of this nature will typically consist of a VPN, a PFN (physical location address), and some bits used for bookkeeping. For example
 
 Context switches provide a challenge, since we don't want one process to use another's addresses. One solution is to flush the TLB. Another solution is to provide an address space identifier (ASID) to ensure correct address space usage. 
 
