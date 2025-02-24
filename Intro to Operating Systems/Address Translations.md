@@ -14,3 +14,4 @@ When the OS hands off control to a process, it must save the base and bounds reg
 ## Segmentation
 With just our operating system and the process stack/heap/code injected into physical memory, the current memory design looks like this:
 ![[basic_mem_hierarchy.png]]
+There's a lot of lost space, which 
