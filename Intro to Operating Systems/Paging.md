@@ -31,7 +31,7 @@ In order to find stored data, the system must:
 However, the hardware must first find the page table for the currently running process. Sometimes, the physical address of the starting location is stored in a **page table base register**. Then, these equations are ran:
 $VPN = (Virtual\ Address\ \&\ VPN\ Mask) >> Shift$
 $PTE\ Address = Page\ Table\ Base\ Register+(VPN\cdot sizeof(PTE))$
-We can find the PTE from the PTE Address, and the hardware can proceed 
+We can find the PTE from the PTE Address, and the hardware can proceed to extract the data from memory and put it 
 
 ## Translation-Lookaside Buffer (TLB)
 We want to speed up address translation, so we use a **translation-lookaside buffer (TLB)**. This is a part of the **memory-management unit (MMU)**, and it caches address translations. The TLB acts like a typical cache that keeps high-frequency address translations in on-chip memory. 
