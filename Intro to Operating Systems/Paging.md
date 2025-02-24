@@ -1,3 +1,4 @@
+#UWMadison #CS537 #
 
 Allocating memory in the [[Address Space]] is usually done with a heap that can be allocated to processes, but this causes problems, such as external fragmentation. Paging solves this by allocating memory in fixed-size **pages**, similar to an array of finite-sized memory pieces. 
 These pages can be pretty convenient since the OS doesn't have to worry about how the memory structures (stack, heap, etc) grow, along with other useful abstractions. 
