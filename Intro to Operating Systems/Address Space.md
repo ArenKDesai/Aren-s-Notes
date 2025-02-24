@@ -20,6 +20,8 @@ During address translation, instead of adding the base value to the virtual addr
 
 Segmentation can either be **fine-grained** (large number of smaller segments) or **coarse-grained** (small number of large segments). 
 
+To be able to share code (in the form of librar)
+
 ### Stack
 The stack acts a bit strangely in address translations into segments. The hardware always uses the top two bits of a virtual address to find the segment, but instead of using the offset directly, the hardware completes this calculation: $negative\ offset = offset - maximum\ segment\ size$. 
 
