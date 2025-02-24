@@ -13,3 +13,4 @@ When the OS hands off control to a process, it must save the base and bounds reg
 
 ## Segmentation
 The current memory design looks like this:
+![basic_mem_hierarchy.png]
