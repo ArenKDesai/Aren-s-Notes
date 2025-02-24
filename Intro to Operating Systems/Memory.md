@@ -11,4 +11,4 @@ An address space typically consists of the following (top-down):
 
 Virtual memory wants to be **transparent** --- invisible, not openly available --- as well as efficient and secure. 
 
-Memory is stored 
+Memory is stored on physical hardware, and needs to be referenced via [[]]
