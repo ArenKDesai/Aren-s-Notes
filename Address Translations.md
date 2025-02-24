@@ -1,3 +1,3 @@
 #CS537 #UWMadison #OperatingSystems 
 
-Developer-made processes need to utilize a computer's memory in order to function. 
+Developer-made processes need to utilize a computer's memory in order to function. However, the physical locations of memory are hidden by the OS, so 
