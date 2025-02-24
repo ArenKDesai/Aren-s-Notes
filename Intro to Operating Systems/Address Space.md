@@ -27,4 +27,4 @@ The stack acts a bit strangely in address translations into segments. The hardwa
 
 ### Fragmentation
 The memory in segments proposes a problem: a multitude of processes allocating memory in the address space can create a multitude of holes in-between processes. These holes aren't large enough to be used by anything, but are large enough to eat up memory. This is **external fragmentation**. 
-The easiest fix for external fragmentation is to re-arrange memory allocation
+The easiest fix for external fragmentation is to re-arrange memory allocation. However, this process is endlessly 
