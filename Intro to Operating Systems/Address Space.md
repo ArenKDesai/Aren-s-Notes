@@ -18,6 +18,8 @@ There's a lot of lost space. Base and bounds on the full physical memory is wast
 The solution to this problem is **segmentation** on the address space. Each segment gets its own base/bounds pair. 
 During address translation, instead of adding the base value to the virtual address, the hardware adds the base value to the offset of the segment. The first two bits of the virtual address is typically used to find the segment. 
 
+Segmentation can either be **fine-grained** (large number of smaller segments) or **coarse-grained**
+
 ### Stack
 The stack acts a bit strangely in address translations into segments. The hardware always uses the top two bits of a virtual address to find the segment, but instead of using the offset directly, the hardware completes this calculation: $negative\ offset = offset - maximum\ segment\ size$. 
 
