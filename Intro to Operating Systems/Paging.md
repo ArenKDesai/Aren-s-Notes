@@ -20,7 +20,7 @@ In all forms of a page table, a **valid bit** is used to indicate whether a tran
 Sometimes, there's also a **protection bit** that indicates the page permissions (read, write, execute). 
 A **present bit** indicates whether the page is in physical memory or on disk. 
 It's also common to have a **dirty bit** that indicates whether a page has been modified since it was brought into memory. 
-A **reference bit** is used 
+A **reference bit** is used to track whether a page has been accessed. 
 
 The easiest form of a page table to implement is the **linear page table**. This is just an array of pages. The VPN acts as an index into the page table. 
 
