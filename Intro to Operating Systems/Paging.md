@@ -19,6 +19,7 @@ To calculate address, take the first hex, find the page of PT with it, find the 
 In all forms of a page table, a **valid bit** is used to indicate whether a translation is valid. This is the origin of a **page fault**. 
 Sometimes, there's also a **protection bit** that indicates the page permissions (read, write, execute). 
 A **present bit** indicates whether the page is in physical memory or on disk. 
+It's also common to have a **dirty bit** that indicates whether a page has been modified since it was brought into memory. 
 
 The easiest form of a page table to implement is the **linear page table**. This is just an array of pages. The VPN acts as an index into the page table. 
 
