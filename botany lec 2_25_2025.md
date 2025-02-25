@@ -24,7 +24,7 @@ Each amino acid is coded by a 3-nucleotide codon and there are 4 nucleotides for
 Always floating around the cytoplasm, made in the nucleus. It's a specialized folding of a single strand of RNA that is held together by hydrogen bonds. An **anticodon** attaches to mRNA. 
 
 ### Synthetase
-An enzyme that binds amino acids to tRNA
+An enzyme that binds amino acids to tRNA and recognizes the R-group. There's a u
 
 ## DNA Transcription
 There are two main stages: 
