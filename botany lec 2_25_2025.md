@@ -14,4 +14,4 @@ The non-coding regions are the other parts of the DNA that are non-genes. This c
 
 Each amino acid corresponds to a 3 nucleotide **codon**. There are 20 amino acids total, 9 of which humans can only get from food. 
 
-Each amino acid is coded by a 3-nucleotide codon and there are 4 nucleotides for RNA, 
+Each amino acid is coded by a 3-nucleotide codon and there are 4 nucleotides for RNA, so there are $4^3$ 
