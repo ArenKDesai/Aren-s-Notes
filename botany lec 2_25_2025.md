@@ -6,4 +6,4 @@ DNA and RNA are made of nucleotides (N-base + 5C sugar + phosphate). DNA contain
 RNA includes:
 1. mRNA: transcribes DNA code during transcription and carries to ribosome
 2. tRNA: transfers amino acids to mRNA during translation to build polypeptides. 
-3. rRNA: r
+3. rRNA: ribosomal RNA: building block of ribosome. 
