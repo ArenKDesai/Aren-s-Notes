@@ -9,3 +9,5 @@ RNA includes:
 3. rRNA: ribosomal RNA: building block of ribosome. 
 
 Structural Genes: regions of the DNA that code for a particular protein. Usually 1000 kilobases long. Some traits are controlled via >1 gene. Each amino acid is coded by 3 nucleotides, known as a **triplet codon**. 
+
+The non-coding regions are the other parts of the DNA that are non-genes. This can be up to 95% or mod
