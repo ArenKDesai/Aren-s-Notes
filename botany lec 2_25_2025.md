@@ -40,5 +40,5 @@ The finished mRNA strand exits the nucleus and a ribosome finds it.
 ### Translation
 This occurs in the cytoplasm at the ribosome. mRNA carries the genetic code, tRNA brings amino acids to the ribosome, and the ribosome assembles proteins. Three steps:
 1. Initiation: tRNA carrying methionine attaches to start codon AUG of mRNA
-2. Elongation: tRNAs deliver their corresponding amino acids to ribosome. Each tRNA anticodon attaches to the next codon on mRNA. Amino acids lin
+2. Elongation: tRNAs deliver their corresponding amino acids to ribosome. Each tRNA anticodon attaches to the next codon on mRNA. Amino acids link together by peptide bonds. Empty tR
 3. Termination
