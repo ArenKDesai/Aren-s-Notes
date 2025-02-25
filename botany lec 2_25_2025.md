@@ -35,4 +35,4 @@ The finished mRNA strand exits the nucleus and a ribosome finds it.
 This occurs in the cytoplasm at the ribosome. mRNA carries the genetic code, tRNA brings amino acids to the ribosome, and the ribosome assembles proteins. Three steps:
 1. Initiation
 2. Elongation
-3. T
+3. Termination
