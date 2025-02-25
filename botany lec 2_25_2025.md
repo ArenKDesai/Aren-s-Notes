@@ -4,6 +4,8 @@ Structural proteins rely on enzymes to turn things on/off.
 
 DNA and RNA are made of nucleotides (N-base + 5C sugar + phosphate). DNA contains the AT / CG pairs and is double stranded (unless undergoing polymerase stripping). RNA swaps T(hymine) for U(racil), and is a single strand. 
 
+**exons** are sets of useful DNA and **introns** are useless. 
+
 ## RNA and Amino Acids
 RNA includes:
 1. mRNA: transcribes DNA code during transcription and carries to ribosome
@@ -29,3 +31,4 @@ Occurs in the nucleus. The process:
 2. mRNA synthesis. 
 
 ### Translation
+mRNA 
