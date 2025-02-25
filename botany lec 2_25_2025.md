@@ -44,3 +44,4 @@ This occurs in the cytoplasm at the ribosome. mRNA carries the genetic code, tRN
 2. Elongation: tRNAs deliver their corresponding amino acids to ribosome. Each tRNA anticodon attaches to the next codon on mRNA. Amino acids link together by peptide bonds. Empty tRNAs leave the ribosome. 
 3. Termination: The stop codon is reached. Polypeptide is released. Polypeptide spontaneously folds into 3D protein, and further processing is done into quaternary structures. 
 
+### Gene Expression
