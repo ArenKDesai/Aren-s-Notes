@@ -11,3 +11,5 @@ RNA includes:
 Structural Genes: regions of the DNA that code for a particular protein. Usually 1000 kilobases long. Some traits are controlled via >1 gene. Each amino acid is coded by 3 nucleotides, known as a **triplet codon**. 
 
 The non-coding regions are the other parts of the DNA that are non-genes. This can be up to 95% or more of the DNA. This could code for gene expression regulators, spacers (known as **introns**), centomeres and telomeres, genes to make RNA, etc. 
+
+Each amino acid corresponds to a 3 nucleotide **codon**. 
