@@ -23,4 +23,5 @@ There are two main stages:
 1. Transcription: DNA -> mRNA
 2. Translation: mRNA -> Protein
 
-## Tra
+### Transcription
+Occurs in the nucleus. 
