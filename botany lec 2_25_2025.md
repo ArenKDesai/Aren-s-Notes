@@ -39,6 +39,6 @@ Occurs in the nucleus. The process:
 The finished mRNA strand exits the nucleus and a ribosome finds it. 
 ### Translation
 This occurs in the cytoplasm at the ribosome. mRNA carries the genetic code, tRNA brings amino acids to the ribosome, and the ribosome assembles proteins. Three steps:
-1. Initiation: tRNA carrying methionine attaches to start codon AUG of mRNA
+1. Initiation: tRNA carrying methionine attaches to start codon AUG of mRNA. Ribo
 2. Elongation: tRNAs deliver their corresponding amino acids to ribosome. Each tRNA anticodon attaches to the next codon on mRNA. Amino acids link together by peptide bonds. Empty tRNAs leave the ribosome. 
 3. Termination: The stop codon is reached. Polypeptide is released. Polypeptide spontaneously folds into 3D protein, and further processing is done into quaternary structures. 
