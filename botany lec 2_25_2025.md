@@ -21,3 +21,4 @@ Each amino acid is coded by a 3-nucleotide codon and there are 4 nucleotides for
 ## DNA Transcription
 There are two main stages: 
 1. Transcription: DNA -> mRNA
+2. Translation: mRNA -> Protein
