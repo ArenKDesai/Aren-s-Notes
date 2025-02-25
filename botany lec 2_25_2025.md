@@ -31,4 +31,4 @@ Occurs in the nucleus. The process:
 2. mRNA synthesis. 
 
 ### Translation
-mRNA 
+mRNA processing. Introns are removed, exons are ep
