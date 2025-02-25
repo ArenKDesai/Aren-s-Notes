@@ -21,7 +21,10 @@ Each amino acid corresponds to a 3 nucleotide **codon**. There are 20 amino acid
 Each amino acid is coded by a 3-nucleotide codon and there are 4 nucleotides for RNA, so there are $4^3=64$ possible codons. AUG is the "start" codon. There are three stop codons: UGA, UAA, and UAG. 
 
 ### Transfer RNA (tRNA)
-Always floating around the cytoplasm, made in the nucleus. It's a specialized folding of a single strand of RNA that is held together by hydrogen bonds. An **anticodon** attaches to mRNA, and 
+Always floating around the cytoplasm, made in the nucleus. It's a specialized folding of a single strand of RNA that is held together by hydrogen bonds. An **anticodon** attaches to mRNA. 
+
+### Synthetase
+
 
 ## DNA Transcription
 There are two main stages: 
