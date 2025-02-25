@@ -7,3 +7,5 @@ RNA includes:
 1. mRNA: transcribes DNA code during transcription and carries to ribosome
 2. tRNA: transfers amino acids to mRNA during translation to build polypeptides. 
 3. rRNA: ribosomal RNA: building block of ribosome. 
+
+Structural Genes: regions of the DNA that code for a particular protein. Usually 1000 kilobases long. 
