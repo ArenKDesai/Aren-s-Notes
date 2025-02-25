@@ -3,6 +3,8 @@ Amino acid chains for peptide bonds (polypeptides). 20 amino acids are defined b
 Structural proteins rely on enzymes to turn things on/off. 
 
 DNA and RNA are made of nucleotides (N-base + 5C sugar + phosphate). DNA contains the AT / CG pairs and is double stranded (unless undergoing polymerase stripping). RNA swaps T(hymine) for U(racil), and is a single strand. 
+
+## RNA and Amino Acids
 RNA includes:
 1. mRNA: transcribes DNA code during transcription and carries to ribosome
 2. tRNA: transfers amino acids to mRNA during translation to build polypeptides. 
@@ -14,4 +16,4 @@ The non-coding regions are the other parts of the DNA that are non-genes. This c
 
 Each amino acid corresponds to a 3 nucleotide **codon**. There are 20 amino acids total, 9 of which humans can only get from food. 
 
-Each amino acid is coded by a 3-nucleotide codon and there are 4 nucleotides for RNA, so there are $4^3=64$ possible codons. AUG is the "start" codon. 
+Each amino acid is coded by a 3-nucleotide codon and there are 4 nucleotides for RNA, so there are $4^3=64$ possible codons. AUG is the "start" codon. There are three stop codo
