@@ -8,4 +8,4 @@ RNA includes:
 2. tRNA: transfers amino acids to mRNA during translation to build polypeptides. 
 3. rRNA: ribosomal RNA: building block of ribosome. 
 
-Structural Genes: regions of the DNA that code for a particular protein. Usually 1000 kilobases long. Some traits are controlled via >1 gene. 
+Structural Genes: regions of the DNA that code for a particular protein. Usually 1000 kilobases long. Some traits are controlled via >1 gene. Each amino acid is coded by 3 nucleotides, known as a **triplet codon
