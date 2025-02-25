@@ -31,4 +31,5 @@ Occurs in the nucleus. The process:
 2. mRNA synthesis. 
 
 ### Translation
-mRNA processing. Introns are removed, exons are spliced together, a protective cap and tail are ad
+mRNA processing. Introns are removed, exons are spliced together, a protective cap and tail are added. 
+The finished mRNA strand exits the nucl
