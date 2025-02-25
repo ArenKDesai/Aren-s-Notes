@@ -13,3 +13,5 @@ Structural Genes: regions of the DNA that code for a particular protein. Usually
 The non-coding regions are the other parts of the DNA that are non-genes. This can be up to 95% or more of the DNA. This could code for gene expression regulators, spacers (known as **introns**), centomeres and telomeres, genes to make RNA, etc. 
 
 Each amino acid corresponds to a 3 nucleotide **codon**. There are 20 amino acids total, 9 of which humans can only get from food. 
+
+Each amino acid is coded by a 3-nucleotide co
