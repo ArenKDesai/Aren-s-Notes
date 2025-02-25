@@ -33,6 +33,14 @@ $VPN = (Virtual\ Address\ \&\ VPN\ Mask) >> Shift$
 $PTE\ Address = Page\ Table\ Base\ Register+(VPN\cdot sizeof(PTE))$
 We can find the PTE from the PTE Address, and the hardware can proceed to extract the data from memory and put it in register $eax$. 
 
+### Working Set
+We've set up processes to have virtual memory, but how do we decide how much memory a process needs? 
+We define the working set for a process at time $t$ as $W(D,t)$, where $D$ is a window of time and $W$ ends up being an approximation of the program's locality. We can give a process an amount of memory that is a function of the amount of pages it has used in the last time step (and if it's the first time the program has run, guess). 
+This also works as a function of page faults. More page faults means we need more memory, and vice versa. 
+All information related to the working set is stored in the PCB. 
+
+If you take the curve relating the number of page frames to the page fault rate, you can find a point of inflection that acts as that approximation for the correct working set size. 
+
 ## Translation-Lookaside Buffer (TLB)
 We want to speed up address translation, so we use a **translation-lookaside buffer (TLB)**. This is a part of the **memory-management unit (MMU)**, and it caches address translations. The TLB acts like a typical cache that keeps high-frequency address translations in on-chip memory. 
 
@@ -66,3 +74,6 @@ If we used small pages, we'd have $2*1024$ small pages (8MB / 4kB), all of which
 
 ### Copy-On-Write
 When calling ```fork```, the OS can use **copy-on-write (COW)** to create a shared mapping of the parent pages in the child address space instead of copying the page table. The child will have reduced permissions, so a child doing a write will cause a protection fault, which will copy the page and resume the child process. This protection fault will trap for every page that is written to, so if the child process tries to write to every page, this would actually be slower. 
+
+### Thrashing
+If you run out of memory, you end up trashing pages directly after bringing them into memory. This is called thrashing, where most of your time is spent in page faults. The solution is often to start randomly killing processes using the most memory. 

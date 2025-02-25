@@ -35,6 +35,7 @@ The primary meristems produce three types of cells:
 1. Dermal tissue: The protective outer layer (skin) of the plant
 2. Vascular tissue: the transport system of the plant
 3. Ground tissue: the support, storage, and photosynthesis support of the plant. 
+
 ### Dermal tissue
 This is a complex tissue that forms a protective outer layer to protect the plant from water loss, pathogens, and physical damage. 
 There are four components:
@@ -59,7 +60,7 @@ Herbaceous plants have no wood, are shorter in stature, live shorter, and don't 
 
 There are two types of **external cues** that could affect growth: **abiotic** and **biotic**. Pathogens, toxins from herbivores, soil microbes, and more are considered biotic. 
 
-There are three types of **internal cues**: **essential nutrients** (N, P, K), **vitamins and minerals** (like Fe, Mg+, etc) which act as $e-$ acceptors and enzyme cofactors, and **hormones**, which are produced in-plant and are transported where needed. 
+There are three types of **internal cues**: **essential nutrients** (N, P, K), **vitamins and minerals** (like Fe, Mg+, etc) which act as $e^-$ acceptors and enzyme cofactors, and **hormones**, which are produced in-plant and are transported where needed. 
 
 ### Phototropism
 An act mediated by Auxin, this allows plants to grow towards the light. Auxin is delivered to the side of the stem opposite to the light so the cells elongate more there, which bends the stem towards the light. 
