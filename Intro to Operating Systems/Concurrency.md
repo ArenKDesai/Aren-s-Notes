@@ -1,6 +1,5 @@
 #UWMadison #OperatingSystems #CS537 
 
-## Concurrency
 Moore's law is dead, and now we just pile more cores into the same processor. This means we need a way to allow applications to use multiple cores at the same time. 
 One option is building an app with separated logical processes, and using pipes to transfer the data between the process. However, this includes a lot of overhead with copying memory. Context switches are also more expensive since each process has it's own page table, which is more page faults. 
 
