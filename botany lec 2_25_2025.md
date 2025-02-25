@@ -42,3 +42,4 @@ This occurs in the cytoplasm at the ribosome. mRNA carries the genetic code, tRN
 1. Initiation
 2. Elongation
 3. Termination
+
