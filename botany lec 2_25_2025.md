@@ -29,8 +29,7 @@ There are two main stages:
 Occurs in the nucleus. The process:
 1. DNA unwinds. RNA polymerase binds to promoter region of a gene. 
 2. mRNA synthesis. 
-
-### Translation
-mRNA processing. Introns are removed, exons are spliced together, a protective cap and tail are added. 
+3. mRNA processing. Introns are removed, exons are spliced together, a protective cap and tail are added. 
 The finished mRNA strand exits the nucleus and a ribosome finds it. 
-This occurs in the cytoplasm at the ribosome. 
+### Translation
+This occurs in the cytoplasm at the ribosome. mRNA carries the genetic code, tRNA brings amino acids to the ribosome, and 
