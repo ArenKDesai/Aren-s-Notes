@@ -3,3 +3,5 @@ Amino acid chains for peptide bonds (polypeptides). 20 amino acids are defined b
 Structural proteins rely on enzymes to turn things on/off. 
 
 DNA and RNA are made of nucleotides (N-base + 5C sugar + phosphate). DNA contains the AT / CG pairs and is double stranded (unless undergoing polymerase stripping). RNA swaps T(hymine) for U(racil), and is a single strand. 
+
+RNA includ
