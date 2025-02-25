@@ -20,7 +20,8 @@ Each amino acid corresponds to a 3 nucleotide **codon**. There are 20 amino acid
 
 Each amino acid is coded by a 3-nucleotide codon and there are 4 nucleotides for RNA, so there are $4^3=64$ possible codons. AUG is the "start" codon. There are three stop codons: UGA, UAA, and UAG. 
 
-### Transfer RN
+### Transfer RNA (tRNA)
+Always floating around the cy
 
 ## DNA Transcription
 There are two main stages: 
