@@ -47,4 +47,4 @@ This occurs in the cytoplasm at the ribosome. mRNA carries the genetic code, tRN
 ### Gene Expression
 Gene expression is needed for certain enzymes to germinate, for trees to undergo secondary growth, for leaf cell enzymes to start photosynthesis, for root cells that need enzymes for nutrient uptake, etc. 
 Transcription factors can enhance or suppress transcription, so a lot of gene regulation occurs here. mRNA processing may be modified or halted here. Finally, mRNA transport out of the nucleus may be delayed or prevented. 
-Ribosomes or Polypeptide may be modified in many ways, changing results 
+Ribosomes or Polypeptide may be modified in many ways, changing results of translation. 
