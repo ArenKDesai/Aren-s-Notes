@@ -32,4 +32,7 @@ Occurs in the nucleus. The process:
 3. mRNA processing. Introns are removed, exons are spliced together, a protective cap and tail are added. 
 The finished mRNA strand exits the nucleus and a ribosome finds it. 
 ### Translation
-This occurs in the cytoplasm at the ribosome. mRNA carries the genetic code, tRNA brings amino acids to the ribosome, and the ribosome assembles proteins. 
+This occurs in the cytoplasm at the ribosome. mRNA carries the genetic code, tRNA brings amino acids to the ribosome, and the ribosome assembles proteins. Three steps:
+1. Initiation
+2. Elongation
+3. T
