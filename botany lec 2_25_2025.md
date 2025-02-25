@@ -26,3 +26,4 @@ There are two main stages:
 ### Transcription
 Occurs in the nucleus. The process:
 1. DNA unwinds. RNA polymerase binds to promoter region of a gene. 
+2. mRNA synthesis. 
