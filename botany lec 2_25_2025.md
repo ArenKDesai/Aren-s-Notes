@@ -43,3 +43,5 @@ This occurs in the cytoplasm at the ribosome. mRNA carries the genetic code, tRN
 2. Elongation
 3. Termination
 
+#### Initiation
+tRNA carrying methionine attaches to start codon AUG of mRNA
