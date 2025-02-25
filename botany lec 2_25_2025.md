@@ -33,3 +33,4 @@ Occurs in the nucleus. The process:
 ### Translation
 mRNA processing. Introns are removed, exons are spliced together, a protective cap and tail are added. 
 The finished mRNA strand exits the nucleus and a ribosome finds it. 
+This occurs in the cytoplasm at the ribosome. 
