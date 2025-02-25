@@ -45,4 +45,4 @@ This occurs in the cytoplasm at the ribosome. mRNA carries the genetic code, tRN
 3. Termination: The stop codon is reached. Polypeptide is released. Polypeptide spontaneously folds into 3D protein, and further processing is done into quaternary structures. 
 
 ### Gene Expression
-Gene expression is needed for certain enzymes to germinate, for trees to undergo secondary growth, for leaf cell enzymes 
+Gene expression is needed for certain enzymes to germinate, for trees to undergo secondary growth, for leaf cell enzymes to start photosynthesis, for root cells that need enzymes for nu
