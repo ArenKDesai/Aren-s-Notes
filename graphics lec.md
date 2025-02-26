@@ -36,6 +36,11 @@ In 3D, the tangent to a surface (at a point) is a plane, and the normal to a sur
 
 ### Cameras
 There are three types of projection from 3D into 2D spaces:
-1. **Orthographic**. Good for mechanical drawings. Think of it as throwing away one axis. Keeps the lengths of shapes consistent, useful for measurements. All affine transformations. Flattens the scene into a plane. 
+1. **Orthographic**. 
 2. **Isometric**. 
-3. 
+3. **Perspective**. 
+
+#### Orthographic
+Good for mechanical drawings. Think of it as throwing away one axis. Keeps the lengths of shapes consistent, useful for measurements. All affine transformations. Flattens the scene into a plane. 
+
+#### Isome
