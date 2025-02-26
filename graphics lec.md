@@ -64,4 +64,4 @@ There are three standard lighting effects to track:
 Light details can be metallic (specular is same color) or plastic (specular is white). 
 
 ## Rotations
-Rotations are a rigid transformation that preserve distances and handedness. They're also linear transformations from orthonormal matrices that preserve 
+Rotations are a rigid transformation that preserve distances and handedness. They're also linear transformations from orthonormal matrices with a positive determinant. 
