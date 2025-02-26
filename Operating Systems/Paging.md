@@ -70,7 +70,7 @@ Each process needs a page table with a page every page it needs to access, which
 Having larger pages would allow us to store more memory the process requires without the need for overhead. However, these large pages can easily lead to **internal fragmentation** if we have a lot of processes that don't need much memory. 
 
 *Idea 2: Multiple Page Tables*
-We make a page table per logical segment
+We make a page table per logical segment of the 
 
 ### Huge Pages
 If we have a much larger sized page, we need to allocate more bits to the offset. The 18 bits that are usually allocated to the page directory and page table are used for the offset, so every level of the page table will have a bit that states if the pointer points to the next level or the larger page table entry. 
