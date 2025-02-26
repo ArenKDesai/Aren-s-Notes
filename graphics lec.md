@@ -17,4 +17,4 @@ Three is a **mid-level graphics API** that allows the user to define meshes and 
 
 There are seven steps in drawing a basic object:
 1. Making the **Renderer**. The developer makes a ```WebGLRenderer``` and passes it the ```domElement```. 
-2. 
+2. Making the **Scene**. The developer can just make a ```Scene``` object. Three uses a tree-like data structure t
