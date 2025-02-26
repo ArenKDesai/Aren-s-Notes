@@ -16,4 +16,4 @@ Primitives in 3D are easier since the vast majority of 3D objects are made from 
 Three is a **mid-level graphics API** that allows the user to define meshes and render them, but handles hardware communication, shading, transformation matrices, etc. 
 
 There are seven steps in drawing a basic object:
-1. Making the **Renderer**. The developer makes a ``````
+1. Making the **Renderer**. The developer makes a ```WebGLRenderer``` and passes it the 
