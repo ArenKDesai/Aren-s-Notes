@@ -46,4 +46,4 @@ Good for mechanical drawings. Think of it as throwing away one axis. Keeps the l
 #### Isometric
 
 #### Perspective
-Sight
+Sight is from a focal point and through an image plane. Light travels 
