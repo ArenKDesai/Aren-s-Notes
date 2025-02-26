@@ -33,3 +33,6 @@ In 2D, we just had to worry about points (0D), curves / lines (1D), surfaces (2D
 
 In 2D, a tangent is the slope of a curve on a point, and the normal is perpendicular to that tangent. This means the tangent to a curve is a vector, and the normal to a curve is a plane. 
 In 3D, the tangent to a surface (at a point) is a plane, and the normal to a surface (at a point) is a vector. 
+
+### Cameras
+There are three types of projection from 3D into 2D spaces ()
