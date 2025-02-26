@@ -88,7 +88,7 @@ This tree-like format (called a **level of indirection**) allows us to use any p
 
 However, on a TLB miss, two loads from memory will be required. This is a **time-space trade-off**. 
 
-With a VPN / offset bitarray, the first four (leftmost) bits are used for the page directory
+With a VPN / offset byte, the first four (leftmost) bits are used for the page directory index and hte 
 
 ### Huge Pages
 If we have a much larger sized page, we need to allocate more bits to the offset. The 18 bits that are usually allocated to the page directory and page table are used for the offset, so every level of the page table will have a bit that states if the pointer points to the next level or the larger page table entry. 
