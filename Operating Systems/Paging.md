@@ -67,7 +67,7 @@ The speed at which the TLB operates can vary wildly per operating system, and so
 Each process needs a page table with a page every page it needs to access, which could add up to abominable amount of memory used on page tables. 
 
 ### Larger Pages
-Having larger pages would allow us to store
+Having larger pages would allow us to store more memory the process requires without the need 
 
 ### Huge Pages
 If we have a much larger sized page, we need to allocate more bits to the offset. The 18 bits that are usually allocated to the page directory and page table are used for the offset, so every level of the page table will have a bit that states if the pointer points to the next level or the larger page table entry. 
