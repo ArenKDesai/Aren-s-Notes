@@ -13,4 +13,4 @@ There are more cues that come from one image.
 Primitives in 3D are easier since the vast majority of 3D objects are made from triangles. 
 
 ## Three.js
-Three is a **mid-leve
+Three is a **mid-level graphics API** that allows th
