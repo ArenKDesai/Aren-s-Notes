@@ -69,4 +69,4 @@ Rotations have a **center** and **axis** of rotation.
 
 ### Euler's Theorems
 1. Any rotation can be represented as a single rotation about some axis. 
-2. Any rotation can be represent
+2. Any rotation can be represented as a sequence of three rotations about a fixde 
