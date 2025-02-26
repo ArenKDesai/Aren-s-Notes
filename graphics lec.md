@@ -65,3 +65,4 @@ Light details can be metallic (specular is same color) or plastic (specular is w
 
 ## Rotations
 Rotations are a rigid transformation that preserve distances and handedness. They're also linear transformations from orthonormal matrices with a positive determinant. 
+Rotations have a **center** and **axis** of rotation. 
