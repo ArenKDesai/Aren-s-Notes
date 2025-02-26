@@ -77,7 +77,7 @@ We make a page table per logical segment of the process's memory. The base and b
 In this format, under a TLB miss, we have three new equations. The first is to calculate the **segment number**, which we find from the virtual address, the segment mask, and the segment number shift:
 $SN=(Virtual\ Address\&Segment\ Mask)>>Segment\ Number\ Shift$.
 The virtual page number can be calculate from the virtual address, VPN mask, and VPN shift:
-$VPN=(Virtual\ Address\)$
+$VPN=(Virtual\ Address\&)$
 
 ### Huge Pages
 If we have a much larger sized page, we need to allocate more bits to the offset. The 18 bits that are usually allocated to the page directory and page table are used for the offset, so every level of the page table will have a bit that states if the pointer points to the next level or the larger page table entry. 
