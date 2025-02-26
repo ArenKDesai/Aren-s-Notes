@@ -75,4 +75,4 @@ Rotations have a **center** and **axis** of rotation.
 
 Another idea is **Axis Angles** (which was also Euler). We specify a vector as an axis and the rotation along that vector. This takes more storage space for computers to deal with. However, it's easier to keep track of. 
 
-Finally, the best way to deal with rotations is **Unit Quaternions**. This is an axis angle 
+Finally, the best way to deal with rotations is **Unit Quaternions**. This is an axis angle $\theta$, which you apply 
