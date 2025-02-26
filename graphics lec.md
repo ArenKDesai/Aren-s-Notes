@@ -80,3 +80,4 @@ Finally, the best way to deal with rotations is **Unit Quaternions**. This is an
 These avoid gimbal lock by projecting up to a 4D **complex** space. The equation is:
 Axis angle $(\theta, \hat{v})\to (\cos(\frac{\theta}{2}), \sin(\frac{\theta}{2})\hat{v})$ 
 Euler angles XYZ can make a quaternion for each by applying a state (like \[1, 0, 0]) into $\hat{v}$. 
+Three converts anything into quaternions. 
