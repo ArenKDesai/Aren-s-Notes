@@ -63,7 +63,6 @@ The TLB has a reach that states how much memory can be accessed before a miss is
 The speed at which the TLB operates can vary wildly per operating system, and sometimes may even consume 40%-80% of total computing time. It's also variable whether the OS or the hardware handles TLB misses. 
 
 ## Page Sizes
-
 Each process needs a page table with a page every page it needs to access, which could add up to abominable amount of memory used on page tables. 
 
 *Idea 1: Large Pages*
