@@ -11,3 +11,6 @@ There are more cues that come from one image.
 5. Texture / Pattern
 
 Primitives in 3D are easier since the vast majority of 3D objects are made from triangles. 
+
+## Three.js
+Three is a **mid-leve
