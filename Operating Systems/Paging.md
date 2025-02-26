@@ -72,7 +72,7 @@ Having larger pages would allow us to store more memory the process requires wit
 Extreme amounts of external fragmentation due to invalid spaces. 
 
 *Idea 3: Multiple Page Tables*
-We make a page table per logical segment of the process's memory. The base and bounds registers stay on the MMU, but the base register now points towards the physical address of the page table. The bounds register points to the end of the page table (number of pages)
+We make a page table per logical segment of the process's memory. The base and bounds registers stay on the MMU, but the base register now points towards the physical address of the page table. The bounds register points to the end of the page table (number of pages). 
 
 ### Huge Pages
 If we have a much larger sized page, we need to allocate more bits to the offset. The 18 bits that are usually allocated to the page directory and page table are used for the offset, so every level of the page table will have a bit that states if the pointer points to the next level or the larger page table entry. 
