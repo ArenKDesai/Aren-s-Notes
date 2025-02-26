@@ -27,4 +27,4 @@ There are seven steps in drawing a basic object:
 ## 3D Math
 The line that goes perpendicular to a trangle --- the line pointing outward of the line --- is the triangle's **normal**. 
 
-In 2D, we just had to worry about points (0D), curves / 
+In 2D, we just had to worry about points (0D), curves / lines (1D), surfaces (2D). Now, we also worry about 
