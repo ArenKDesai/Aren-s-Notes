@@ -24,3 +24,5 @@ There are seven steps in drawing a basic object:
 6. Adding the mesh to the scene. Object transformations are relative to its parent. 
 7. **Render**. This draws everything. 
 
+## 3D Math
+The line that goes perpendicular to a trangle 
