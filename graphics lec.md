@@ -49,4 +49,5 @@ Sight is from a focal point and through an image plane. Light travels from the o
 The focal length is the length between the object to the **field of view** (FOV). 
 
 The points $x_s, y_s$ are found through the calculation:
-$x_s=\frac{d}{z}x
+$x_s=\frac{d}{z}x$
+$y_s=\frac{d}{z}y$. 
