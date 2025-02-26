@@ -75,7 +75,7 @@ Extreme amounts of external fragmentation due to invalid spaces.
 We make a page table per logical segment of the process's memory. The base and bounds registers stay on the MMU, but the base register now points towards the physical address of the page table. The bounds register points to the end of the page table (number of pages). 
 
 In this format, under a TLB miss, we have three new equations. The first is to calculate the **segment number**, which we find from the virtual address, the segment mask, and the shift:
-$SN=VirtualD$
+$SN=Virtual\ Address&Segment\ $
 
 ### Huge Pages
 If we have a much larger sized page, we need to allocate more bits to the offset. The 18 bits that are usually allocated to the page directory and page table are used for the offset, so every level of the page table will have a bit that states if the pointer points to the next level or the larger page table entry. 
