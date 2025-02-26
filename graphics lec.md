@@ -7,4 +7,5 @@ There are more cues that come from one image.
 1. **Occlusion**: One object is in front of another. 
 2. Perspective
 3. Familiar size: You know the size of one object and it's next to another. 
-4. 
+4. Lighting
+5. Texture / Pattern
