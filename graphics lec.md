@@ -13,7 +13,7 @@ There are more cues that come from one image.
 Primitives in 3D are easier since the vast majority of 3D objects are made from triangles. 
 
 ## Three.js
-Three is a **mid-level graphics API** that allows the user to define meshes and render them, but handles hardware communication, shading, transformation matrices, etc. 
+Three is a **scene graph (mid level) API** that allows the user to define meshes and render them, but handles hardware communication, shading, transformation matrices, etc. 
 
 There are seven steps in drawing a basic object:
 1. Making the **Renderer**. The developer makes a ```WebGLRenderer``` and passes it the ```domElement```. 
