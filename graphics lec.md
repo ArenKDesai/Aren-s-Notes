@@ -47,4 +47,4 @@ Good for mechanical drawings. Think of it as throwing away one axis. Keeps the l
 
 #### Perspective
 Sight is from a focal point and through an image plane. Light travels from the object point, intersects the image plant, and reaches the focal point. 
-The focal length is the 
+The focal length is the length between the object to the **field of view** (FOV). 
