@@ -82,7 +82,7 @@ Finally, we can calculate the address of the page table entry from indexing the 
 $Address\ of\ Page\ Table\ Entry=Base[Segment\ Number]+(Virtual\ Page\ Number\cdot sizeof(Page\ Table\ Entry))$
 
 ### Multi-Level Page Table
-The Multi-Level Page Table (MLPT) 
+The Multi-Level Page Table (MLPT) utilizes a data structure more similar to a tree than an array. 
 
 ### Huge Pages
 If we have a much larger sized page, we need to allocate more bits to the offset. The 18 bits that are usually allocated to the page directory and page table are used for the offset, so every level of the page table will have a bit that states if the pointer points to the next level or the larger page table entry. 
