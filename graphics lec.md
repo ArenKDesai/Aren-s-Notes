@@ -73,4 +73,4 @@ Rotations have a **center** and **axis** of rotation.
 
 **Euler Angles** allow us to decompose rotations into three rotations along a fixed axis, which makes it easy to keep track of angles, but can make it difficult to specify exactly what you want. 
 
-Another idea is **Axis Angles** (which was )
+Another idea is **Axis Angles** (which was also Euler). 
