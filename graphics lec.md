@@ -57,3 +57,5 @@ This selects $x_p$ as $dx$ and $y_p$ as $dy$, but $z_p$ as 1 and $w_p$ as $z$. T
 The camera has this equation built-in, and takes an **aspect ratio** parameter to adjust the width/height of the canvas. 
 
 ## Light
+There are three standard lighting effects to track:
+1. **Specular**: Light bound
