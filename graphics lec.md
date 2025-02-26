@@ -28,3 +28,5 @@ There are seven steps in drawing a basic object:
 The line that goes perpendicular to a trangle --- the line pointing outward of the line --- is the triangle's **normal**. 
 
 In 2D, we just had to worry about points (0D), curves / lines (1D), surfaces (2D). Now, we also worry about volumes (3D). This is for mechanical design or 3D printing. In graphics for VR, games, etc., we usually omit insides. 
+
+The tangent to a curve is a vector, and the normal to a curve is a plane. 
