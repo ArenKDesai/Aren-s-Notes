@@ -62,3 +62,6 @@ There are three standard lighting effects to track:
 2. **Diffuse**: Light radiates off an object. We control the magnitude and color of diffuse light. 
 3. **Ambient**: Light comes off from all objects. This replicates ambient light in real life, but isn't the same thing. We control the color and amount of ambient light. 
 Light details can be metallic (specular is same color) or plastic (specular is white). 
+
+
+## Rotations
