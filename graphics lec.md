@@ -77,4 +77,4 @@ We typically have difficulty using these to gimbal lock.
 Another idea is **Axis Angles** (which was also Euler). We specify a vector as an axis and the rotation along that vector. This takes more storage space for computers to deal with. However, it's easier to keep track of. 
 
 Finally, the best way to deal with rotations is **Unit Quaternions**. This is an axis angle $\theta$, which you divide by two and take the cosine and sine of. We can do arithmetic on them and multiply them together. 
-These avoid gimbal lock by projecting up to a 4D 
+These avoid gimbal lock by projecting up to a 4D **complex** space. 
