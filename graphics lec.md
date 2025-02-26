@@ -36,4 +36,4 @@ In 3D, the tangent to a surface (at a point) is a plane, and the normal to a sur
 
 ### Cameras
 There are three types of projection from 3D into 2D spaces:
-1. **Orthographic**. Good for mechanical drawings. 
+1. **Orthographic**. Good for mechanical drawings. All sides of the object 
