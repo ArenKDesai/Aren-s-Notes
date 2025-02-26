@@ -90,7 +90,7 @@ However, on a TLB miss, two loads from memory will be required. This is a **time
 
 With a VPN / offset bitarray, the first four (leftmost) bits are used for the page directory index and the next four are used for the page table index. 
 
-So what if there are too many page directory entries (PDEs)? The 
+So what if there are too many page directory entries (PDEs)? The equation to find 
 
 ### Huge Pages
 If we have a much larger sized page, we need to allocate more bits to the offset. The 18 bits that are usually allocated to the page directory and page table are used for the offset, so every level of the page table will have a bit that states if the pointer points to the next level or the larger page table entry. 
