@@ -75,4 +75,4 @@ Rotations have a **center** and **axis** of rotation.
 
 Another idea is **Axis Angles** (which was also Euler). We specify a vector as an axis and the rotation along that vector. This takes more storage space for computers to deal with. However, it's easier to keep track of. 
 
-Finally
+Finally, the best way to deal with rotations is **Unit Quant
