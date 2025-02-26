@@ -12,6 +12,14 @@ Dehydration synthesis forms DNA.
 Amino acids have an R group and a carboxyl group
 nucleic acids have a long hydrocarbon tail
 
+Amino acid chains for peptide bonds (polypeptides). 20 amino acids are defined by R-group. 
+Structural proteins rely on enzymes to turn things on/off. 
+
+DNA and RNA are made of nucleotides (N-base + 5C sugar + phosphate). DNA contains the AT / CG pairs and is double stranded (unless undergoing polymerase stripping). RNA swaps T(hymine) for U(racil), and is a single strand. 
+
+**exons** are sets of useful DNA and **introns** are useless. DNA is wound around histomes. 
+Structural Genes: regions of the DNA that code for a particular protein. Usually 1000 kilobases long. Some traits are controlled via >1 gene. Each amino acid is coded by 3 nucleotides, known as a **triplet codon**. 
+
 ### Eukaryotes
 Multicellular plants. They have membrane-bound organelles, and DNA enclosed in a nucleus. They have a cytoskeleton, and some have cell walls of cellulose or chitin. 
 
@@ -29,7 +37,6 @@ The cell cycle occurs in prokaryotes and chloroplasts. It allows plants to incre
 The cell cycle includes **interphase**, which is 90% of the cycle, and **mitosis**, which is 10%. Interphase is where the cell grows and prepares for division. This starts with the **G1 Phase**, where the cell grows, makes membranes and organelles, and differentiates. Then comes the **S Phase**, where DNA synthesis occurs. each chromosome is replicated. **G2 Phase** is a gap to prepare for mitosis. 
 
 DNA is made of 4 nucleotides --- Adenine and Thymine, and Cytosine and Guanine --- and the strands are complementary. 
-When DNA replicates, we need to replicate every chromosome. Helicase (all enzymes end in "ase") exists to unzip the DNA. Then, primase starts the new strand, and DNA polymerase adds the rest of the bases. Ligase glues the two separate strands back together. This all happens in the S phase. 
 
 Unlike eukaryotes, prokaryotes don't have the cell cycle. Instead, they divide through binary fission. This is because they have no nucleus (circular DNA in nucleoid), their DNA replicates, etc. 
 ### Mitosis
@@ -49,3 +56,43 @@ Finally, mitosis will not proceed if chromosomes are not aligned properly.
 
 ### Cell Elongation (Growth)
 Growth requires water and light (photosynthesis). Cell elongation occurs in the G1 phase, where the vacuole expands and the cell walls loosen. Additional cell membrane and walls form, and the cell becomes receptive to signals that initiate **specialization**. Specialization allows cells to aquire a special function. 
+
+## DNA Replication
+When DNA replicates, we need to replicate every chromosome. Helicase (all enzymes end in "ase") exists to unzip the DNA. Then, primase starts the new strand, and DNA polymerase adds the rest of the bases. Ligase glues the two separate strands back together. This all happens in the S phase. 
+RNA includes:
+1. mRNA: transcribes DNA code during transcription and carries to ribosome
+2. tRNA: transfers amino acids to mRNA during translation to build polypeptides. 
+3. rRNA: ribosomal RNA: building block of ribosome. 
+
+The non-coding regions are the other parts of the DNA that are non-genes. This can be up to 95% or more of the DNA. This could code for gene expression regulators, spacers (known as **introns**), centomeres and telomeres, genes to make RNA, etc. 
+
+Each amino acid corresponds to a 3 nucleotide **codon**. There are 20 amino acids total, 9 of which humans can only get from food. 
+
+Each amino acid is coded by a 3-nucleotide codon and there are 4 nucleotides for RNA, so there are $4^3=64$ possible codons. AUG is the "start" codon. There are three stop codons: UGA, UAA, and UAG. 
+
+Transfer RNA (tRNA) is always floating around the cytoplasm, made in the nucleus. It's a specialized folding of a single strand of RNA that is held together by hydrogen bonds. An **anticodon** attaches to mRNA. 
+
+Synthetase is an enzyme that binds amino acids to tRNA and recognizes the R-group. There's a unique tRNA for each amino acid matched to A.A. by its 3 nucleotide anticodon. Complementary to mRNA codon. 
+
+### The Processes
+There are two main stages: 
+1. Transcription: DNA -> mRNA
+2. Translation: mRNA -> Protein
+
+#### Transcription
+Occurs in the nucleus. The process:
+1. DNA unwinds. RNA polymerase binds to promoter region of a gene. 
+2. mRNA synthesis. 
+3. mRNA processing. Introns are removed, exons are spliced together, a protective cap and tail are added. 
+The finished mRNA strand exits the nucleus and a ribosome finds it. 
+
+#### Translation
+This occurs in the cytoplasm at the ribosome. mRNA carries the genetic code, tRNA brings amino acids to the ribosome, and the ribosome assembles proteins. Three steps:
+1. Initiation: tRNA carrying methionine attaches to start codon AUG of mRNA. Ribosome binds to mRNA at the start codon AUG. 
+2. Elongation: tRNAs deliver their corresponding amino acids to ribosome. Each tRNA anticodon attaches to the next codon on mRNA. Amino acids link together by peptide bonds. Empty tRNAs leave the ribosome. 
+3. Termination: The stop codon is reached. Polypeptide is released. Polypeptide spontaneously folds into 3D protein, and further processing is done into quaternary structures. 
+
+### Gene Expression
+Gene expression is needed for certain enzymes to germinate, for trees to undergo secondary growth, for leaf cell enzymes to start photosynthesis, for root cells that need enzymes for nutrient uptake, etc. 
+Transcription factors can enhance or suppress transcription, so a lot of gene regulation occurs here. mRNA processing may be modified or halted here. Finally, mRNA transport out of the nucleus may be delayed or prevented. 
+Ribosomes or Polypeptide may be modified in many ways, changing results of translation. 
