@@ -43,4 +43,6 @@ There are three types of projection from 3D into 2D spaces:
 #### Orthographic
 Good for mechanical drawings. Think of it as throwing away one axis. Keeps the lengths of shapes consistent, useful for measurements. All affine transformations. Flattens the scene into a plane. 
 
-#### Isome
+#### Isometric
+
+#### Perspective
