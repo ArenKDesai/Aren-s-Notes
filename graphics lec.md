@@ -9,3 +9,5 @@ There are more cues that come from one image.
 3. Familiar size: You know the size of one object and it's next to another. 
 4. Lighting
 5. Texture / Pattern
+
+Primitives in 3D are easier since the vast majority of 3D objects are made from triang
