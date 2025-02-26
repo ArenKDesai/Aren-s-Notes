@@ -34,17 +34,18 @@ In 2D, we just had to worry about points (0D), curves / lines (1D), surfaces (2D
 In 2D, a tangent is the slope of a curve on a point, and the normal is perpendicular to that tangent. This means the tangent to a curve is a vector, and the normal to a curve is a plane. 
 In 3D, the tangent to a surface (at a point) is a plane, and the normal to a surface (at a point) is a vector. 
 
-### Cameras
 There are three types of projection from 3D into 2D spaces:
 1. **Orthographic**. 
 2. **Isometric**. 
 3. **Perspective**. 
 
-#### Orthographic
+### Orthographic
 Good for mechanical drawings. Think of it as throwing away one axis. Keeps the lengths of shapes consistent, useful for measurements. All affine transformations. Flattens the scene into a plane. 
 
-#### Isometric
+### Isometric
 
-#### Perspective
+### Perspective
 Sight is from a focal point and through an image plane. Light travels from the object point, intersects the image plant, and reaches the focal point. 
 The focal length is the length between the object to the **field of view** (FOV). 
+
+The points 
