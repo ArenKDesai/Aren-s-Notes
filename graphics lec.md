@@ -24,7 +24,7 @@ There are seven steps in drawing a basic object:
 6. Adding the mesh to the scene. Object transformations are relative to its parent. 
 7. **Render**. This draws everything. 
 
-Three.js scales last (just bef)
+Three.js scales last (just before drawing) and doesn't affect translations, children, es
 
 ## 3D Math
 The line that goes perpendicular to a trangle --- the line pointing outward of the line --- is the triangle's **normal**. 
