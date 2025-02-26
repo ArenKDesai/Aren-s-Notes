@@ -88,6 +88,8 @@ This tree-like format (called a **level of indirection**) allows us to use any p
 
 However, on a TLB miss, two loads from memory will be required. This is a **time-space trade-off**. 
 
+With a VPN / offset bitarray,
+
 ### Huge Pages
 If we have a much larger sized page, we need to allocate more bits to the offset. The 18 bits that are usually allocated to the page directory and page table are used for the offset, so every level of the page table will have a bit that states if the pointer points to the next level or the larger page table entry. 
 One way to request these large pages is to request them with **mmap(MAP_HUGE)**. This will allocate a huge page or fail. The other method is by using **transparent huge pages (THP)**, which automatically uses huge pages for >2MB allocations. This means creating large pages is slow and it may not be necessary. However, this keeps control in the hands of the OS, which is often more knowledgeable than the programmer. 
