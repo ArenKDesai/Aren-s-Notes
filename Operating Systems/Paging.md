@@ -86,7 +86,7 @@ The Multi-Level Page Table (MLPT) utilizes a data structure more similar to a tr
 We track all pages with a **page directory**. The base register points to the page directory, and the page directory contains **page directory entries (PDEs)**. These PDEs contain a valid bit and a **page frame number**, and point to page tables. The valid bit states whether at least one of the pages in the page table is valid. 
 This tree-like format (called a **level of indirection**) allows us to use any point of physical memory for pages. 
 
-However, on a TLB miss, two loads from memory will be required. 
+However, on a TLB miss, two loads from memory will be required. This is a **time-spac
 
 ### Huge Pages
 If we have a much larger sized page, we need to allocate more bits to the offset. The 18 bits that are usually allocated to the page directory and page table are used for the offset, so every level of the page table will have a bit that states if the pointer points to the next level or the larger page table entry. 
