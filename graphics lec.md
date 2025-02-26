@@ -35,4 +35,5 @@ In 2D, a tangent is the slope of a curve on a point, and the normal is perpendic
 In 3D, the tangent to a surface (at a point) is a plane, and the normal to a surface (at a point) is a vector. 
 
 ### Cameras
-There are three types of projection from 3D into 2D spaces ()
+There are three types of projection from 3D into 2D spaces:
+1. Orthographic
