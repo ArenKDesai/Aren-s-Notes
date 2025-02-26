@@ -68,7 +68,10 @@ Each process needs a page table with a page every page it needs to access, which
 *Idea 1: Large Pages*
 Having larger pages would allow us to store more memory the process requires without the need for overhead. However, these large pages can easily lead to **internal fragmentation** if we have a lot of processes that don't need much memory. 
 
-*Idea 2: Multiple Page Tables*
+*Idea 2: Small Pages*
+Extreme amounts of external fragmentation due to invalid spaces. 
+
+*Idea 3: Multiple Page Tables*
 We make a page table per logical segment of the process's memory. 
 
 ### Huge Pages
