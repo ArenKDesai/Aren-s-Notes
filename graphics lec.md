@@ -21,3 +21,5 @@ There are seven steps in drawing a basic object:
 3. Creating **Geometry**. These are collections of triangles in data structures that are defined to be efficient on a graphics card. 
 4. Creating **Material**. Color, roughness, metalness, etc. Defines how the object's surface reacts with light. 
 5. Forming a **Mesh**. This is the object, a combination of the geometry and the material. This is specific to Three, as normally the geometry (collection of vertices) is what's considered the mesh. 
+6. Adding the mesh to the scene. 
+7. 
