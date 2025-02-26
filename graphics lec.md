@@ -29,4 +29,4 @@ The line that goes perpendicular to a trangle --- the line pointing outward of t
 
 In 2D, we just had to worry about points (0D), curves / lines (1D), surfaces (2D). Now, we also worry about volumes (3D). This is for mechanical design or 3D printing. In graphics for VR, games, etc., we usually omit insides. 
 
-In 2D, a tangent is the slope of a curve on a point, and the tangent isThis means the tangent to a curve is a vector, and the normal to a curve is a plane. This
+In 2D, a tangent is the slope of a curve on a point, and the normal is perpendicular to that tangent. This means the tangent to a curve is a vector, and the normal to a curve is a plane. This
