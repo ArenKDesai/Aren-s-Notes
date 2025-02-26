@@ -71,4 +71,4 @@ Rotations have a **center** and **axis** of rotation.
 1. Any rotation can be represented as a single rotation about some axis. 
 2. Any rotation can be represented as a sequence of three rotations about a fixed axis. 
 
-**Euler Angles** allow us to decompose rotations into three rotations along a fixed axis, which makes it easy to keep
+**Euler Angles** allow us to decompose rotations into three rotations along a fixed axis, which makes it easy to keep track of angles, but can make it difficult to 
