@@ -51,4 +51,5 @@ The focal length is the length between the object to the **field of view** (FOV)
 The points $x_s, y_s$ are found through the calculations:
 $x_s=\frac{d}{z}x$
 $y_s=\frac{d}{z}y$. 
-The
+The linear transformation of this ends up as follows:
+$\ma
