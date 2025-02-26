@@ -68,3 +68,5 @@ Rotations are a rigid transformation that preserve distances and handedness. The
 Rotations have a **center** and **axis** of rotation. 
 
 ### Euler's Theorems
+1. Any rotation can be represented as a single rotation about some axis. 
+2. An
