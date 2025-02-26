@@ -78,4 +78,4 @@ Another idea is **Axis Angles** (which was also Euler). We specify a vector as a
 Finally, the best way to deal with rotations is **Unit Quaternions**. This is an axis angle $\theta$, which you divide by two and take the cosine and sine of. We can do arithmetic on them and multiply them together. 
 
 ### Concatenating Rotations
-We can simply add rotation angles if they're 
+We can simply add rotation angles if they're around the same axis. 
