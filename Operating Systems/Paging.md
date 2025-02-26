@@ -82,7 +82,7 @@ Finally, we can calculate the address of the page table entry from indexing the 
 $Address\ of\ Page\ Table\ Entry=Base[Segment\ Number]+(Virtual\ Page\ Number\cdot sizeof(Page\ Table\ Entry))$
 
 ### Multi-Level Page Table
-The Multi-Level Page Table (MLPT) utilizes a data structure more similar to a tree than an array. This is configured 
+The Multi-Level Page Table (MLPT) utilizes a data structure more similar to a tree than an array. The goal of the MLPT is make each piece of a page table fit within 
 We track all pages with a **page directory**. The base register points to the page directory, and the page directory contains **page directory entries (PDEs)**. These PDEs contain a valid bit and a **page frame number**, and point to page tables. The valid bit states whether at least one of the pages in the page table is valid. 
 This tree-like format (called a **level of indirection**) allows us to use any point of physical memory for pages. 
 
