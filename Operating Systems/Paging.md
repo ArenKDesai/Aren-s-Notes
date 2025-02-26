@@ -83,7 +83,7 @@ $Address\ of\ Page\ Table\ Entry=Base[Segment\ Number]+(Virtual\ Page\ Number\cd
 
 ### Multi-Level Page Table
 The Multi-Level Page Table (MLPT) utilizes a data structure more similar to a tree than an array. 
-We track all pages with a **page directory**. The base register points to the page directory, and the page directory contains **page directory entries (PDEs)**. These PDEs  contain a 
+We track all pages with a **page directory**. The base register points to the page directory, and the page directory contains **page directory entries (PDEs)**. These PDEs contain a valid bit and a page f
 
 ### Huge Pages
 If we have a much larger sized page, we need to allocate more bits to the offset. The 18 bits that are usually allocated to the page directory and page table are used for the offset, so every level of the page table will have a bit that states if the pointer points to the next level or the larger page table entry. 
