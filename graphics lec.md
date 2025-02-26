@@ -5,4 +5,5 @@ The human eyes see in 2D, but use context clues to transform that 2D environment
 	1. These two combined are **stereo**. 
 There are more cues that come from one image. 
 1. **Occlusion**: One object is in front of another. 
-2. Perspective: 
+2. Perspective
+3. Famil
