@@ -59,5 +59,5 @@ The camera has this equation built-in, and takes an **aspect ratio** parameter t
 ## Light
 There are three standard lighting effects to track:
 1. **Specular**: Light bounces off an object in a directed, perpendicular line. Similar to a mirror. We control the focus, magnitude, and color of the specular light. 
-2. **Diffuse**: Light radiates off an object. We control th
-3. **Ambient**: Light comes off from all objects. This replicates ambient light in real life, but isn't the same thing. 
+2. **Diffuse**: Light radiates off an object. We control the magnitude and color of diffuse light. 
+3. **Ambient**: Light comes off from all objects. This replicates ambient light in real life, but isn't the same thing. We control the color and 
