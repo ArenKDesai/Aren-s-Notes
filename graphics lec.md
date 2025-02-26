@@ -58,5 +58,5 @@ The camera has this equation built-in, and takes an **aspect ratio** parameter t
 
 ## Light
 There are three standard lighting effects to track:
-1. **Specular**: Light bounces off an object in a directed. 
+1. **Specular**: Light bounces off an object in a directed, perpendicular line. Simila
 2. **Diffuse**: light 
