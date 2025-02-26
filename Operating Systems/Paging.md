@@ -80,7 +80,9 @@ The virtual page number can be calculate from the virtual address, VPN mask, and
 $VPN=(Virtual\ Address\&Virtual\ Page\ Number\ Mask)>>Virtual\ Page\ Number\ Shift$.
 Finally, we can calculate the address of the page table entry from indexing the base register with the segment number and adding the VPN multiplied by the size of the page table entry:
 $Address\ of\ Page\ Table\ Entry=Base[Segment\ Number]+(Virtual\ Page\ Number\cdot sizeof(Page\ Table\ Entry))$
+
 ### Multi-Level Page Table
+
 
 ### Huge Pages
 If we have a much larger sized page, we need to allocate more bits to the offset. The 18 bits that are usually allocated to the page directory and page table are used for the offset, so every level of the page table will have a bit that states if the pointer points to the next level or the larger page table entry. 
