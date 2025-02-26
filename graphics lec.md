@@ -72,7 +72,7 @@ Rotations have a **center** and **axis** of rotation.
 2. Any rotation can be represented as a sequence of three rotations about a fixed axis. 
 
 **Euler Angles** allow us to decompose rotations into three rotations along a fixed axis, which makes it easy to keep track of angles, but can make it difficult to specify exactly what you want. 
-We typicall
+We typically have difficulty using these to gimbal lock. 
 
 Another idea is **Axis Angles** (which was also Euler). We specify a vector as an axis and the rotation along that vector. This takes more storage space for computers to deal with. However, it's easier to keep track of. 
 
