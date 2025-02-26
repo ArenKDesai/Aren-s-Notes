@@ -79,4 +79,4 @@ Another idea is **Axis Angles** (which was also Euler). We specify a vector as a
 Finally, the best way to deal with rotations is **Unit Quaternions**. This is an axis angle $\theta$, which you divide by two and take the cosine and sine of. We can do arithmetic on them and multiply them together. 
 These avoid gimbal lock by projecting up to a 4D **complex** space. The equation is:
 Axis angle $(\theta, \hat{v})\to (\cos(\frac{\theta}{2}), \sin(\frac{\theta}{2})\hat{v})$ 
-Euler angles XYZ can make a quaternion for each by 
+Euler angles XYZ can make a quaternion for each by applying a state (like [1, 0, 0\])
