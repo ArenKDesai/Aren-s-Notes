@@ -13,8 +13,5 @@ There are two big groups of flowering plants:
 3. **Monocots**: 23% of plants. Includes grasses, lilies, and orchids. Undergo C4 photosynthesis. 
 Monocot / Dicot / Eudicots are all named after the number of **cotyledons** that hold the nutrition in the seed. 
 
+For example, grass has a monocot leaf with parallel veins. It has a simple leaf blade and a sheath clasping stem. 
 ### Leaf Anatomy
-
-
-
-Grass has a monocot leaf with parallel veins. It has a simple leaf blade and a sheath clasping stem. 
