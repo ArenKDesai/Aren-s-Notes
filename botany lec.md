@@ -51,4 +51,5 @@ Storage leaves are modified to hold starch or water.
 Some leaves are carnivorous. These are often in low-nitrogen areas, and the leaves often have a mechanism to trap prey. 
 
 ### Senescence
-Frost or drought will kill plants, so plants often recycle nutrients from the leaves and purposefully kills leaves for their nutrients. This is why leaves fall in the winter. The nutrients that are recovered are mainly 
+Frost or drought will kill plants, so plants often recycle nutrients from the leaves and purposefully kills leaves for their nutrients. This is why leaves fall in the winter. The nutrients that are recovered are mainly nitrogen. 
+Evergreen plants typically have h
