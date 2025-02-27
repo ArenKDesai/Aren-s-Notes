@@ -10,4 +10,4 @@ The **leaf margin** refers to the outer edge of the leaf or leaflet. The **leaf 
 There are two big groups of flowering plants:
 1. **Angiosperm**: produces seeds and flowers 
 2. **Eudicots**: 75% of plants
-3. **Monocots**: 23% of plants. Includes grasses, lilies, 
+3. **Monocots**: 23% of plants. Includes grasses, lilies, and orchids. Undergo C4 photosynthesis. 
