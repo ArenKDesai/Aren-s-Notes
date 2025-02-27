@@ -51,4 +51,4 @@ Storage leaves are modified to hold starch or water.
 Some leaves are carnivorous. These are often in low-nitrogen areas, and the leaves often have a mechanism to trap prey. 
 
 ### Senescence
-The average lifespan for leaves is 3-15 months in everg
+Frost or drought will kill plants
