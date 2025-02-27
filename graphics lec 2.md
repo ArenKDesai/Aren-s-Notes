@@ -1,0 +1,1 @@
+While three.js is mostly retained mode, you do have to explicitly re
