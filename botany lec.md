@@ -27,4 +27,4 @@ There are three types of plants that cover habitats:
 3. Xerophytes: plants that live in arid environments
 
 ### Mesophytes
-There are typically more adaptions for light rather than water. There can be a lot of shade 
+There are typically more adaptions for light rather than water. There can be a lot of shade that disallows lower leaves to produce energy. 
