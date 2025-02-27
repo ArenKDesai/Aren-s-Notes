@@ -1,3 +1,1 @@
-Leaves intercept light, harvest a range of light on the energy spectrum, and store the captured energy. 
-## Water Cycle
-Transpiration returns water to the atmosphere from the soil. 
+Leaves intercept light, harvest a range of light on the energy spectrum, and store the captured energy. Water gets pulled up through the stem via the Cohesion-Tension theo
