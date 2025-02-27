@@ -52,4 +52,6 @@ Some leaves are carnivorous. These are often in low-nitrogen areas, and the leav
 
 ### Senescence
 Frost or drought will kill plants, so plants often recycle nutrients from the leaves and purposefully kills leaves for their nutrients. This is why leaves fall in the winter. The nutrients that are recovered are mainly nitrogen. 
-Evergreen plants typically have h
+Evergreen plants typically have leaves with a lifespan of 3-15 months. 
+
+Leaves fall in the 
