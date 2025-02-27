@@ -25,6 +25,8 @@ There are seven steps in drawing a basic object:
 7. **Render**. This draws everything. 
 
 Three.js scales last (just before drawing) and doesn't affect translations, children, etc. 
+While three.js is mostly retained mode, you do have to explicitly render objects. 
+There are a few ways to save 3D objects in files. Some include just geometry, some include materials, relationships, etc. One standard is **gltf**, but some old formats are **obj** and **fbx**. 
 
 ## 3D Visual Generation
 In 2D, we just had to worry about points (0D), curves / lines (1D), surfaces (2D). Now, we also worry about volumes (3D). This is for mechanical design or 3D printing. In graphics for VR, games, etc., we usually omit insides. 
