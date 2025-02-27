@@ -21,4 +21,5 @@ The primary vein is covered by the xylem and phloem, and strengthened with colle
 The **stomata** (the openings) are usually on the lower surface of the epidermis in the millions per inch. A single **stoma** is characterized by the **guard cells** that surround the opening that can open and close to protect the leaf through turgor variation. 
 $K^+$ ions are brought in by an uptake using carrier proteins to regulate stomatal opening. 
 
-There are three types of plants that cove
+There are three types of plants that cover habitats:
+1. Mesophytes: 
