@@ -48,4 +48,4 @@ Tendrils are small, stem-like structures that allow plants to climb structures. 
 
 Storage leaves are modified to hold starch or water. 
 
-Some leaves are carnivorous, 
+Some leaves are carnivorous. These are often in low-nitrogen areas 
