@@ -5,13 +5,6 @@
 
 
 
-## Light
-There are three standard lighting effects to track:
-1. **Specular**: Light bounces off an object in a directed, perpendicular line. Similar to a mirror. We control the focus, magnitude, and color of the specular light. 
-2. **Diffuse**: Light radiates off an object. We control the magnitude and color of diffuse light. 
-3. **Ambient**: Light comes off from all objects. This replicates ambient light in real life, but isn't the same thing. We control the color and amount of ambient light. 
-Light details can be metallic (specular is same color) or plastic (specular is white). 
-
 ## Rotations
 Rotations are a rigid transformation that preserve distances and handedness. They're also linear transformations from orthonormal matrices with a positive determinant. 
 Rotations have a **center** and **axis** of rotation. 

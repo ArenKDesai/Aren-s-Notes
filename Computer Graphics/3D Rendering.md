@@ -53,3 +53,11 @@ The linear transformation occurs as follows:
 $\begin{bmatrix}d&&0&&0&&0\\0&&d&&0&&0\\0&&0&&0&&1\\0&&0&&1&&0 \end{bmatrix}\begin{bmatrix}x\\ y\\ z\\1\end{bmatrix}$
 This selects $x_p$ as $dx$ and $y_p$ as $dy$, but $z_p$ as 1 and $w_p$ as $z$. This allows us to project an (x, y, z) point into a set of linear, homogeneous coordinates based on the distance. 
 The camera has this equation built-in, and takes an **aspect ratio** parameter to adjust the width/height of the canvas. 
+
+
+## Light
+There are three standard lighting effects to track:
+1. **Specular**: Light bounces off an object in a directed, perpendicular line. Similar to a mirror. We control the focus, magnitude, and color of the specular light. 
+2. **Diffuse**: Light radiates off an object. We control the magnitude and color of diffuse light. 
+3. **Ambient**: Light comes off from all objects. This replicates ambient light in real life, but isn't the same thing. We control the color and amount of ambient light. 
+Light details can be metallic (specular is same color) or plastic (specular is white). 
