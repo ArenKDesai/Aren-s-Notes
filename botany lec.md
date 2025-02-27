@@ -14,4 +14,4 @@ There are two big groups of flowering plants:
 Monocot / Dicot / Eudicots are all named after the number of **cotyledons** that hold the nutrition in the seed. 
 
 ### Grass Leaf
-Grass has a monocot leaf with parallel veins. It has a simple leaf blade and a sheath clasping 
+Grass has a monocot leaf with parallel veins. It has a simple leaf blade and a sheath clasping stem. 
