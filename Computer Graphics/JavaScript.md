@@ -1,6 +1,5 @@
 #UWMadison #ComputerGraphics #Graphics #JavaScript
 
-## JavaScript Basics
 - variables declared with ```var``` are old with scoping issues. ```var``` should simply not be used. Instead, use ```let```, or ```const``` for constants. 
 - Arrays in javascript can hold multiple different types. 
 - A "real test" is ```===```, not ```==```. 
@@ -14,7 +13,7 @@
 - Functional programming is very helpful for event-driven programming. 
 - Its usually best to check if an element exists before running a script. 
 
-## Web Basics
+## Web Animation
 Webpages are made of elements, where scripts can be ran on objects indexed by IDs. 
 Javascript code can be written either in-page or in a separate file, with the ```defer``` tag to execute the script after the elements have been rendered. 
 Browsers are historically non-parallel. Commonly, we add events to a queue to be processed later. 
