@@ -35,4 +35,4 @@ Think of lily pad. The stomata are typically on the upper surface on the floatin
 ### Xerophytes
 These have adaptations to minimize water loss. This is usually a thick epidermis and cuticle, stomata sunken into cryptes, and energy being allocated to the roots. 
 
-One interesting xerophyte is **cacti** and other **succulents**. These have water-storing tissues to keep as much water as possible. Cacti have leaves modified into spines that reduce water loss and defend the p
+One interesting xerophyte is **cacti** and other **succulents**. These have water-storing tissues to keep as much water as possible. Cacti have leaves modified into spines that reduce water loss and defend the plant, while the stem conducts photosynthesis and store water. 
