@@ -23,7 +23,7 @@ $K^+$ ions are brought in by an uptake using carrier proteins to regulate stomat
 
 Trichomes (hairs) on the leaves are modified epidermal cells that extend from the surface. They have a lot of functions: retaining temperature, reducing water loss, absorbing water, defense, etc. 
 
-Movement cells regulate the movement of leaves that get engorged in water. 
+Movement cells regulate the movement of leaves that get engorged in water. The leaf opens when the movement cells are full of water, and closes wi
 
 There are three types of plants that cover habitats:
 1. Mesophytes: Live in moderately moist environments
