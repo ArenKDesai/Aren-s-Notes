@@ -18,4 +18,4 @@ For example, grass has a monocot leaf with parallel veins. It has a simple leaf 
 The leaf is enclosed in the **epidermis**, which includes the occasional **stomata** to let in light for photosynthesis on the lower epidermis. Spongy parenchyma helps $CO_2$ get to the palisade layers. There are hairs and glands that help hold the water right under the upper epidermis. **Xylem** carries water through the leaf. There are also** fibers** that surround the vascular system for reinforcement. 
 The primary vein is covered by the xylem and phloem, and strengthened with collenchyma tissue. 
 
-The stomata (the openings) are usually on the lower surface of the epidermis in the millions per inch. 
+The **stomata** (the openings) are usually on the lower surface of the epidermis in the millions per inch. A single **stoma** is characterized by the **guard cells** that 
