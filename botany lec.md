@@ -8,6 +8,6 @@ Leaves are arranged in either **alternate** (one leaf per node), **opposite** (t
 The **leaf margin** refers to the outer edge of the leaf or leaflet. The **leaf venation** refers to the pattern of the vascular tissue in the leaf. 
 
 There are two big groups of flowering plants:
-1. **Angiosperm**: produces seeds  
-2. **Eudicots**
+1. **Angiosperm**: produces seeds and flowers 
+2. **Eudicots**: 75% of plants
 3. **Monocots**
