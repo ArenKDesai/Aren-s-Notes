@@ -5,4 +5,4 @@ The point on the stem where leaves attach is the **node**, which connects to the
 Leaves are arranged in either **alternate** (one leaf per node), **opposite** (two leaves per node), or **whorled leaves** ($\ge 3$ leaves per node). 
 **Simple** leaves have just one blade. **Compound leaves** have multiple blades, called **leaflets**. These can often look like a stem, but you can tell it's a compound leaf when there's a node on the stem. 
 
-The **leaf margin** refers to the outer edge of the leaf or leaflet. 
+The **leaf margin** refers to the outer edge of the leaf or leaflet. The **leaf venation** 
