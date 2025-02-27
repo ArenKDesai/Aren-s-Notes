@@ -21,7 +21,7 @@ The primary vein is covered by the xylem and phloem, and strengthened with colle
 The **stomata** (the openings) are usually on the lower surface of the epidermis in the millions per inch. A single **stoma** is characterized by the **guard cells** that surround the opening that can open and close to protect the leaf through turgor variation. 
 $K^+$ ions are brought in by an uptake using carrier proteins to regulate stomatal opening. 
 
-Trichomes (hairs) on the leaves are modified epidermal cells that extend from the surface. They have a lot of functions: retaining temperature, reducing water loss, absorbing wa
+Trichomes (hairs) on the leaves are modified epidermal cells that extend from the surface. They have a lot of functions: retaining temperature, reducing water loss, absorbing water, defense, etc. 
 
 There are three types of plants that cover habitats:
 1. Mesophytes: Live in moderately moist environments
