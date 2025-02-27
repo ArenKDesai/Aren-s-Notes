@@ -1,7 +1,7 @@
 
 
 ## 3D Math
-The line that goes perpendicular to a trangle --- the line pointing outward of the line --- is the triangle's **normal**. 
+
 
 
 
