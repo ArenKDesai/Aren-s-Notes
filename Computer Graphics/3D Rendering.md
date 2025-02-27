@@ -25,3 +25,5 @@ There are seven steps in drawing a basic object:
 7. **Render**. This draws everything. 
 
 Three.js scales last (just before drawing) and doesn't affect translations, children, etc. 
+
+## 
