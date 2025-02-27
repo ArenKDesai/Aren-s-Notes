@@ -25,8 +25,6 @@ Trichomes (hairs) on the leaves are modified epidermal cells that extend from th
 
 Movement cells regulate the movement of leaves that get engorged in water. The leaf opens when the movement cells are full of water, and closes when its empty. 
 
-
-
 There are three types of plants that cover habitats:
 1. Mesophytes: Live in moderately moist environments
 2. Hydrophytes: plants that live in or partly in water
@@ -42,3 +40,6 @@ Think of lily pad. The stomata are typically on the upper surface on the floatin
 These have adaptations to minimize water loss. This is usually a thick epidermis and cuticle, stomata sunken into cryptes, and energy being allocated to the roots. 
 
 One interesting xerophyte is **cacti** and other **succulents**. These have water-storing tissues to keep as much water as possible. Cacti have leaves modified into spines that reduce water loss and defend the plant, while the stem conducts photosynthesis and store water. Other succulents have thick water-storing leaves as well, and may be moderately spiny. Most succulents have CAM ([[Plant Cells]]) photosynthesis. 
+
+#### Bracts
+Bracts are a special case of leaves that 
