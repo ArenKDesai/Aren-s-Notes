@@ -6,3 +6,7 @@ Leaves are arranged in either **alternate** (one leaf per node), **opposite** (t
 **Simple** leaves have just one blade. **Compound leaves** have multiple blades, called **leaflets**. These can often look like a stem, but you can tell it's a compound leaf when there's a node on the stem. 
 
 The **leaf margin** refers to the outer edge of the leaf or leaflet. The **leaf venation** refers to the pattern of the vascular tissue in the leaf. 
+
+There are two big groups of flowering plants:
+1. **Angiosperm**: 
+2. **
