@@ -22,4 +22,4 @@ The **stomata** (the openings) are usually on the lower surface of the epidermis
 $K^+$ ions are brought in by an uptake using carrier proteins to regulate stomatal opening. 
 
 There are three types of plants that cover habitats:
-1. Mesophytes: 
+1. Mesophytes: Live in moder
