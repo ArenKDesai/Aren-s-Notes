@@ -1,4 +1,4 @@
-#UWMadison #CS559
+#UWMadison #CS559 #Graphics #ComputerGraphics 
 ## Rotations
 Rotations are a rigid transformation that preserve distances and handedness. They're also linear transformations from orthonormal matrices with a positive determinant. 
 Rotations have a **center** and **axis** of rotation. 
