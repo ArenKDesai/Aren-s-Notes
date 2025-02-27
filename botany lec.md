@@ -42,4 +42,4 @@ These have adaptations to minimize water loss. This is usually a thick epidermis
 One interesting xerophyte is **cacti** and other **succulents**. These have water-storing tissues to keep as much water as possible. Cacti have leaves modified into spines that reduce water loss and defend the plant, while the stem conducts photosynthesis and store water. Other succulents have thick water-storing leaves as well, and may be moderately spiny. Most succulents have CAM ([[Plant Cells]]) photosynthesis. 
 
 #### Bracts
-Bracts are a special case of leaves that 
+Bracts are a special case of leaves that exist beneath flowers. they attract pollinators and of
