@@ -33,4 +33,4 @@ There are typically more adaptions for light rather than water. There can be a l
 Think of lily pad. The stomata are typically on the upper surface on the floating part of the plant, or the leaves just don't have stomata if they're submerged. The aerenchyma are used to facilitate gas exchange and floatation, and there's no (or a thin) cuticle, with less xylem than phloem. 
 
 ### Xerophytes
-These have adaptations to minimize water loss. This is usually a thick epidermis and cuticle, stomata sunken into cryyptes, and energy being allocated 
+These have adaptations to minimize water loss. This is usually a thick epidermis and cuticle, stomata sunken into cryptes, and energy being allocated to the roots. 
