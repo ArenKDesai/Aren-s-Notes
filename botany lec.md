@@ -15,4 +15,4 @@ Monocot / Dicot / Eudicots are all named after the number of **cotyledons** that
 
 For example, grass has a monocot leaf with parallel veins. It has a simple leaf blade and a sheath clasping stem. 
 ### Leaf Anatomy
-The leaf is enclosed in the **epidermis**, which includes the occasional **stomata** to let in light for photosynthesis on the lower epidermis. Spongy parenchyma helps There are hairs and glands that help hold the water right under the upper epidermis. 
+The leaf is enclosed in the **epidermis**, which includes the occasional **stomata** to let in light for photosynthesis on the lower epidermis. Spongy parenchyma helps CO2 get to the palisafe layers. There are hairs and glands that help hold the water right under the upper epidermis. 
