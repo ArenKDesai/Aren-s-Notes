@@ -13,3 +13,5 @@ We're primarily concerned about affine transformations, which are in the form $f
 While affine (and other) matrices can be combined due to associativity, a transform and a scale cannot swap places without adjusting one. 
 **Rotation matrices** preserve distances, angles, handedness, each row/column is unit length and are orthogonal, and the determinant is positive. 
 You cannot multiply rotation matrices by a scalar or add a matrix. 
+
+The line that goes perpendicular to a trangle --- the line pointing outward of the line --- is the triangle's **normal**. 
