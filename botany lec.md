@@ -30,4 +30,4 @@ There are three types of plants that cover habitats:
 There are typically more adaptions for light rather than water. There can be a lot of shade that disallows lower leaves to produce energy. This separates leaves into **sun leaves** and **shade leaves**. 
 
 ### Hydrophytes
-Think of lily pad. The stomata are typically on the upper surv
+Think of lily pad. The stomata are typically on the upper surface on the floating part of the plant, or 
