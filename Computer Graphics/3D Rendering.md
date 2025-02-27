@@ -54,7 +54,6 @@ $\begin{bmatrix}d&&0&&0&&0\\0&&d&&0&&0\\0&&0&&0&&1\\0&&0&&1&&0 \end{bmatrix}\beg
 This selects $x_p$ as $dx$ and $y_p$ as $dy$, but $z_p$ as 1 and $w_p$ as $z$. This allows us to project an (x, y, z) point into a set of linear, homogeneous coordinates based on the distance. 
 The camera has this equation built-in, and takes an **aspect ratio** parameter to adjust the width/height of the canvas. 
 
-
 ## Light
 There are three standard lighting effects to track:
 1. **Specular**: Light bounces off an object in a directed, perpendicular line. Similar to a mirror. We control the focus, magnitude, and color of the specular light. 
