@@ -25,3 +25,6 @@ There are three types of plants that cover habitats:
 1. Mesophytes: Live in moderately moist environments
 2. Hydrophytes: plants that live in or partly in water
 3. Xerophytes: plants that live in arid environments
+
+### Mesophytes
+There are typically more adaptions for lig
