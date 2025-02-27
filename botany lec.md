@@ -45,3 +45,7 @@ One interesting xerophyte is **cacti** and other **succulents**. These have wate
 Bracts are a special case of leaves that exist beneath flowers. they attract pollinators and often support or protect the flowers. They also have veins like leaves that flowers don't. 
 
 Tendrils are small, stem-like structures that allow plants to climb structures. Plants that climb structures are called **vines**. 
+
+Storage leaves are modified to hold starch or water. 
+
+Some leaves are carnivorous, 
