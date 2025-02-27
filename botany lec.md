@@ -28,3 +28,6 @@ There are three types of plants that cover habitats:
 
 ### Mesophytes
 There are typically more adaptions for light rather than water. There can be a lot of shade that disallows lower leaves to produce energy. This separates leaves into **sun leaves** and **shade leaves**. 
+
+### Hydrophytes
+Hydrophytes a
