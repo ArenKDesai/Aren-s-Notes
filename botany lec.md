@@ -10,7 +10,7 @@ The **leaf margin** refers to the outer edge of the leaf or leaflet. The **leaf 
 There are two big groups of flowering plants:
 1. **Angiosperm**: produces seeds and flowers 
 2. **Eudicots**: 75% of plants
-3. **Monocots**: 23% of plants. Includes grasses, lilies, and orchids. Undergo C4 photosynthesis. 
+3. **Monocots**: 23% of plants. Includes grasses, lilies, and orchids. Undergo C4 ([[Plant Cells]]) photosynthesis. 
 Monocot / Dicot / Eudicots are all named after the number of **cotyledons** that hold the nutrition in the seed. 
 
 For example, grass has a monocot leaf with parallel veins. It has a simple leaf blade and a sheath clasping stem. 
@@ -35,4 +35,4 @@ Think of lily pad. The stomata are typically on the upper surface on the floatin
 ### Xerophytes
 These have adaptations to minimize water loss. This is usually a thick epidermis and cuticle, stomata sunken into cryptes, and energy being allocated to the roots. 
 
-One interesting xerophyte is **cacti** and other **succulents**. These have water-storing tissues to keep as much water as possible. Cacti have leaves modified into spines that reduce water loss and defend the plant, while the stem conducts photosynthesis and store water. Other succulents have thick water-storing leaves as well, and may be moderately spiny. Most succulents have CAM  photosynthesis. 
+One interesting xerophyte is **cacti** and other **succulents**. These have water-storing tissues to keep as much water as possible. Cacti have leaves modified into spines that reduce water loss and defend the plant, while the stem conducts photosynthesis and store water. Other succulents have thick water-storing leaves as well, and may be moderately spiny. Most succulents have CAM ([[Plant Cells]]) photosynthesis. 
