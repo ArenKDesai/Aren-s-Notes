@@ -2,3 +2,4 @@ Leaves intercept light, harvest a range of light on the energy spectrum, and sto
 
 The point on the stem where leaves attach is the **node**, which connects to the **petiole** that works as a connection between the node and the **blade** of the leaf. When the leaf falls off, an axillary bud gets left behind. 
 Leaves are arranged in either **alternate** (one leaf per node), **opposite** (two leaves per node), or **whorled leaves** ($\ge 3$ leaves per node). 
+**Simple** leaves have just one blade. **Compound leaves** have multiple blades, called **leaflets**. 
