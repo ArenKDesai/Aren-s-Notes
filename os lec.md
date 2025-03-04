@@ -1,1 +1,1 @@
-We want to avoid "Heisenbugs"
+We want to avoid "Heisenbugs" (bugs from non-deterministic concurrency)
