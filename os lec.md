@@ -10,5 +10,7 @@ The lock can be **acquired** or **locked** by a thread, in which case other thre
 Pthread_mutex_lock(&mylock);
 Pthread_mutex_unlock(&mylock);
 ```
-While waiting, the thread spins the CPU. 
+While waiting, the thread either blocks or spins the CPU. 
 
+While locking, we target three goals:
+1. Mutual exclusion. Only one thread can be in a critical se
