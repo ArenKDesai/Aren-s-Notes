@@ -19,4 +19,4 @@ While locking, we target three goals:
 
 There are a few methods to implement locking. One is to disable interrupts during critical sections. This is very fast, but only works on uniprocessors. The OS also cannot perform other necessary work. 
 Another method is using load and store commands. The acquire function has a variable labeled False, sets it to true in a permanent loop, and waits until another process sets this to false. This doesn't really work since having >2 threads can cause serious issues. This is not atomic. 
-Since none of these methods really work, we'll have the hardware work the load/store operation (since the hardware cannot be interrupted). 
+Since none of these methods really work, we'll have the hardware work the load/store operation (since the hardware cannot be interrupted). This is done with ```xchg```, which 
