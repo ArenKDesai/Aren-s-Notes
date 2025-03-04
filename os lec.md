@@ -18,4 +18,4 @@ While locking, we target three goals:
 3. **Bounded** (starvation-free). Similar to above, allow all threads to enter. 
 
 There are a few methods to implement locking. One is to disable interrupts during critical sections. This is very fast, but only works on uniprocessors. The OS also cannot perform other necessary work. 
-Another method is using load and store commands. The acquire function has a variable labeled "False", 
+Another method is using load and store commands. The acquire function has a variable labeled False, and waits until another process sets this to true. 
