@@ -1,1 +1,1 @@
-We want to avoid "Heisenbugs" (bugs from non-deterministic concurrency), so we turn to atomic code in unin
+We want to avoid "Heisenbugs" (bugs from non-deterministic concurrency), so we turn to atomic code in uninterruptable groups. 
