@@ -15,4 +15,4 @@ While waiting, the thread either blocks or spins the CPU.
 While locking, we target three goals:
 1. Mutual exclusion. Only one thread can be in a critical section at a time. 
 2. Progress (deadlock-free). We want to make sure that at least one thread is making progress. We don't want threads stuck on a locked section forever. 
-3. Bounded (starvation-free)
+3. Bounded (starvation-free). Similar to above, allow all threads
