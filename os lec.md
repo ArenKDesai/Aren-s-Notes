@@ -10,4 +10,5 @@ The lock can be **acquired** or **locked** by a thread, in which case other thre
 Pthread_mutex_lock(&mylock);
 Pthread_mutex_unlock(&mylock);
 ```
-While 
+While waiting, the thread spins the CPU. 
+
