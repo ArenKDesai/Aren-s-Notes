@@ -21,4 +21,4 @@ There are a few methods to implement locking. One is to disable interrupts durin
 Another method is using load and store commands. The acquire function has a variable labeled False, sets it to true in a permanent loop, and waits until another process sets this to false. This doesn't really work since having >2 threads can cause serious issues. This is not atomic. 
 Since none of these methods really work, we'll have the hardware work the load/store operation (since the hardware cannot be interrupted). This is done with ```xchg```, which replaces a variable's value with a value, but returns the old value. Set it to 1 in a loop, and if it returns 0 instead of 1, the lock was released. 
 
-Schedulers are unaware of locks and unlocks, so processes can take advantage of basic spinlocks to permanently lock o
+Schedulers are unaware of locks and unlocks, so processes can take advantage of basic spinlocks to permanently lock other processes. However, 
