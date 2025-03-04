@@ -5,4 +5,4 @@ We want to provide **mutual exclusion**, so only one thread can be in a region a
 ```C
 Pthread_mutex_t mylock = PTHREAD_MUTEX_INITIALIZER;
 ```
-The lock can be acquired by a thread, in which case other threads will need to wait for the lock to be 
+The lock can be acquired by a thread, in which case other threads will need to wait for the lock to be unlocked or released. 
