@@ -39,6 +39,7 @@ The cell cycle includes **interphase**, which is 90% of the cycle, and **mitosis
 DNA is made of 4 nucleotides --- Adenine and Thymine, and Cytosine and Guanine --- and the strands are complementary. 
 
 Unlike eukaryotes, prokaryotes don't have the cell cycle. Instead, they divide through binary fission. This is because they have no nucleus (circular DNA in nucleoid), their DNA replicates, etc. 
+
 ### Mitosis
 This is where the cell divides. 
 The first phase is **prophase**, the step where chromosomes condense into chromatids, spindle microtubules form, and the nuclear envelope disintegrates. 
