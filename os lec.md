@@ -1,4 +1,4 @@
 We want to avoid "Heisenbugs" (bugs from non-deterministic concurrency), so we turn to atomic code in uninterruptable groups. This can be done by sectioning code into critical sections. 
 
 ## Locks
-We want to provide 
+We want to provide **mutual exclusion**, so only one thread can be in a region 
