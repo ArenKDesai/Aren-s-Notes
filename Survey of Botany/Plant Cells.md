@@ -63,7 +63,7 @@ When DNA replicates, we need to replicate every chromosome. Helicase (all enzyme
 RNA includes:
 1. mRNA: transcribes DNA code during transcription and carries to ribosome
 2. tRNA: transfers amino acids to mRNA during translation to build polypeptides. 
-3. rRNA: ribosomal RNA: building block of ribosome. 
+3. rRNA (ribosomal RNA): building block of ribosome. 
 
 The non-coding regions are the other parts of the DNA that are non-genes. This can be up to 95% or more of the DNA. This could code for gene expression regulators, spacers (known as **introns**), centomeres and telomeres, genes to make RNA, etc. 
 
