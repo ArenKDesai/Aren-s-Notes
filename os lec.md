@@ -8,5 +8,5 @@ Pthread_mutex_t mylock = PTHREAD_MUTEX_INITIALIZER;
 The lock can be **acquired** or **locked** by a thread, in which case other threads will need to wait for the lock to be **unlocked** or **released**. This can be done with:
 ```C
 Pthread_mutex_lock(&mylock);
-Pthread_mute
+Pthread_mutex_unlock(&mylock);
 ```
