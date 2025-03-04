@@ -14,4 +14,4 @@ While waiting, the thread either blocks or spins the CPU.
 
 While locking, we target three goals:
 1. Mutual exclusion. Only one thread can be in a critical section at a time. 
-2. Progress. We want to make sur
+2. Progress. We want to make sure that at least one thread is making progress. We don't want threads stu
