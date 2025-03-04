@@ -73,7 +73,7 @@ Each amino acid is coded by a 3-nucleotide codon and there are 4 nucleotides for
 
 Transfer RNA (tRNA) is always floating around the cytoplasm, made in the nucleus. It's a specialized folding of a single strand of RNA that is held together by hydrogen bonds. An **anticodon** attaches to mRNA. 
 
-Synthetase is an enzyme that binds amino acids to tRNA and recognizes the R-group. There's a unique tRNA for each amino acid matched to A.A. by its 3 nucleotide anticodon. Complementary to mRNA codon. 
+**Synthetase** is an enzyme that binds amino acids to tRNA and recognizes the R-group. There's a unique tRNA for each amino acid matched to A.A. by its 3 nucleotide anticodon. Complementary to mRNA codon. 
 
 ### The Processes
 There are two main stages: 
