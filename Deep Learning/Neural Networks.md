@@ -12,4 +12,5 @@ Examples of basic modelling tasks include:
 - Sentiment Classification ($N$-1): Modelling multiple inputs to a classification output. For example, reading tweets and classifying the sentiment as positive or negative. 
 - Image Captioning (1-$N$): Modelling one input to a few outputs. For example, writing the description for an image. 
 - Machine Translation ($N$-$M$): Mapping many inputs to many outputs. For example, translating one language to another. 
-However, we can't take adf
+However, we can't take advantage of sequential time steps this way.  
+
