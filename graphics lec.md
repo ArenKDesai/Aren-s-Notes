@@ -66,5 +66,5 @@ let face1V = [vertexUVs[0],
 			  vertexUVs[2]
 			  ];
 let faceVs = [face1V, face2V, ...];
-geom
+geom.faceVertexUvs = [faceVs];
 ```
