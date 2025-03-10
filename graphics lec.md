@@ -60,4 +60,7 @@ const vertexUVs = [
 	...
 	new T.Vecto2(282/512, 311/512)
 ]
+
+let face1V = [vertexUVs[0],
+				
 ```
