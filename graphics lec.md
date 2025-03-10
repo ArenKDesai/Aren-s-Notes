@@ -36,7 +36,7 @@ Translating a triangle doesn't change its normal. If you change the vertex posit
 When light hits a mesh, it diffuses down the mesh on dull objects. This is a **Lambertian** Material, which scatters light in all directions (regardless of where you are looking from). 
 The diffuse reflection is $r_{\text{diffuse}}=\hat{n}\cdot \hat{l}$, which are the **amount of diffuse reflection**, the unit surface normal, and the unit vector to the light source respectively. We can expand this with $\text{color}=r_{\text{diffuse}}\cdot c_{\text{light}}\cdot c_d$, which are the color, amount of diffuse reflection, color/intensity of the light (constant), and the color of the material (constant) respectively. 
 
-For shiny objects, the angle of light is equal to the angle of reflection. 
+For shiny objects, the angle of light is equal to the angle of reflection. We categorize $\
 
 ### Phong Model
 You can make a good-looking hack of a mirror with:
