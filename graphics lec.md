@@ -41,4 +41,5 @@ For shiny objects, the angle of light is equal to the angle of reflection. We ca
 ### Phong Model
 You can make a good-looking hack of a mirror with:
 $r_\text{specular}=(\hat{e}\cdot \hat{r})^p$
-which are the amount of specular reflection, eye vector, reflection vector, and shininess property respectively. 
+which are the amount of specular reflection, eye vector, reflection vector, and shininess property respectively. Another version is: 
+$r_\text{specular}=(\hat{e}\cdot \hat{h})^p$
