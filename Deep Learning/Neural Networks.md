@@ -11,4 +11,4 @@ NNs are also subject to **overfitting**, which is where the networks fit themsel
 Modelling inputs to a binary output. For example, asking a neural network to question if an event will occur or not occur. 
 
 ### Sentiment Classification ($N$-1)
-Modelling multiple inputs to a classification output. For example, reading weet
+Modelling multiple inputs to a classification output. For example, reading tweets and classifying the sentiment as positive o
