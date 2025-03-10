@@ -21,4 +21,4 @@ where $\hat{y}_t$ is the output, $x_t$ is the input, and $h_{t-1}$ is the past m
 ![[rnn.png]]
 The recurrence relations are defined by the cell states:
 $h_t=f_W(x_t,h_{t-1})$
-where $h_t$ is the cell state, $f_W$ is the function with weights $W$, 
+where $h_t$ is the cell state, $f_W$ is the function with weights $W$, $x_t$ is the input, and $h_{t-1}
