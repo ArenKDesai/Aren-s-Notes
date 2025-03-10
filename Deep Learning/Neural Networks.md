@@ -22,4 +22,4 @@ where $\hat{y}_t$ is the output, $x_t$ is the input, and $h_{t-1}$ is the past m
 The recurrence relations are defined by the cell states:
 $h_t=f_W(x_t,h_{t-1})$
 where $h_t$ is the cell state, $f_W$ is the function with weights $W$, $x_t$ is the input, and $h_{t-1}$ is the old state. 
-Each of these $h$ states has its own loss value $L_t$, correspon
+Each of these $h$ states has its own loss value $L_t$, corresponding with a total loss for the RNN 
