@@ -14,4 +14,6 @@ Modelling inputs to a binary output. For example, asking a neural network to que
 Modelling multiple inputs to a classification output. For example, reading tweets and classifying the sentiment as positive or negative. 
 
 ### Image Captioning (1-$N$)
-Modelling one input to a few outputs. For example, 
+Modelling one input to a few outputs. For example, writing the description for an image. 
+
+### Machine Translation ($N$-$M$)
