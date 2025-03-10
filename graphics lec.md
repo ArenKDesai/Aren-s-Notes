@@ -46,4 +46,5 @@ $r_\text{specular}=(\hat{n}\cdot \hat{h})^p$
 where $\hat{n}$ and $\hat{h}$ are the normal vector and half-way vector (between $\hat{l}$ and $\hat{e}$. This helps approximate the normal without actually having it. 
 
 ## Textures
-Here's how you make
+Here's how you use textures in Three.js:
+1. Make a geometry
