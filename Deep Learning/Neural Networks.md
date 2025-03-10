@@ -13,4 +13,5 @@ Modelling inputs to a binary output. For example, asking a neural network to que
 ### Sentiment Classification ($N$-1)
 Modelling multiple inputs to a classification output. For example, reading tweets and classifying the sentiment as positive or negative. 
 
-### Image Captioning ()
+### Image Captioning (1-$N$)
+Modelling one in
