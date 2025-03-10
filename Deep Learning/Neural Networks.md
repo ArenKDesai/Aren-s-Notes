@@ -17,3 +17,4 @@ Modelling multiple inputs to a classification output. For example, reading tweet
 Modelling one input to a few outputs. For example, writing the description for an image. 
 
 ### Machine Translation ($N$-$M$)
+Mapping many inputs to many outputs. For example, translating one 
