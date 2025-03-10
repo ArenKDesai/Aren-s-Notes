@@ -43,4 +43,4 @@ You can make a good-looking hack of a mirror with:
 $r_\text{specular}=(\hat{e}\cdot \hat{r})^p$
 which are the amount of specular reflection, eye vector, reflection vector, and shininess property respectively. Another version is: 
 $r_\text{specular}=(\hat{n}\cdot \hat{h})^p$
-where $\hat{e}$ and 
+where $\hat{e}$ and $\hat{h}$ are 
