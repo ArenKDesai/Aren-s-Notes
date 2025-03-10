@@ -50,4 +50,9 @@ Here's how you use textures in Three.js:
 1. Make a geometry. This is the base mesh that will be given a texture. 
 2. Get a picture. Or, more realistically, download a picture from the internet. 
 3. Format the picture. Typically needs to be a square. 
-4. Assign UVs to vertices. This maps the corners of the image to the corners of the mesh. 
+4. Assign UVs to vertices. This maps the corners of the image to the corners of the mesh. For example:
+```JavaScript
+const vertexUVs = [
+	new T.Vector2(232/)
+]
+```
