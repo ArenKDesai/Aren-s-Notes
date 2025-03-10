@@ -59,11 +59,12 @@ const vertexUVs = [
 	new T.Vector2(232/512, 311/512),
 	...
 	new T.Vecto2(282/512, 311/512)
-]
+];
 
 let face1V = [vertexUVs[0],
 			  vertexUVs[1],
 			  vertexUVs[2]
 			  ];
-let faceVs = [face]
+let faceVs = [face1V, face2V, ...];
+geom
 ```
