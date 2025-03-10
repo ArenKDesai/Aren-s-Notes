@@ -40,4 +40,4 @@ For shiny objects, the angle of light is equal to the angle of reflection.
 
 ### Phong Model
 You can make a good-looking hack of a mirror with:
-$r_\
+$r_\text{specular}=(\hat{e}\cdot )
