@@ -63,5 +63,7 @@ const vertexUVs = [
 
 let face1V = [vertexUVs[0],
 			  vertexUVs[1],
-			  vertexUV
+			  vertexUVs[2]
+			  ];
+let faceVs = [face]
 ```
