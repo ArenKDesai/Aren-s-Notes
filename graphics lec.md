@@ -68,4 +68,4 @@ let face1V = [vertexUVs[0],
 let faceVs = [face1V, face2V, ...];
 geom.faceVertexUvs = [faceVs];
 ```
-5. Enable texturing. Three.js alows us to use a ```TextureLoader```
+5. Enable texturing. Three.js alows us to use a ```TextureLoader```. 
