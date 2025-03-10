@@ -8,4 +8,4 @@ NNs are also subject to **overfitting**, which is where the networks fit themsel
 
 ## Modelling Schemas
 ### Binary Classification
-M
+Modelling inputs to a binary output. For example, asking th
