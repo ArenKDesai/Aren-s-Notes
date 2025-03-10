@@ -5,3 +5,7 @@ NNs use a **loss function** to determine how well the NN is doing at prediction.
 NNs use a **stochastic gradient descent** (SGD) algorithm to optimize the perceptron functions. This uses calculus to determine the direction to move the parameters that would minimize the loss function. The SGD algorithm moves backwards through the perceptrons in a process known as **backwards propagation**. 
 NNs also rely on a **learning rate**, which dictates the rate at which the perceptron functions update. This is variable. 
 NNs are also subject to **overfitting**, which is where the networks fit themselves too well to the data. This is typically fixed with **regularization**, which forces the NN to drop perceptrons at random to avoid relying on one too much. 
+
+## Modelling Schemes
+### Binary Classification
+This is 
