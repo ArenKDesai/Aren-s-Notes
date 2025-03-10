@@ -14,4 +14,4 @@ Examples of basic modelling tasks include:
 - Machine Translation ($N$-$M$): Mapping many inputs to many outputs. For example, translating one language to another. 
 However, we can't take advantage of sequential time steps this way.  
 
-We can keep the hidden layer the same, but isolate each input $x_t$ to run sequentially instead of parallel. Next, while we still compute the outputs $\hat{y}$ of the 
+We can keep the hidden layer the same, but isolate each input $x_t$ to run sequentially instead of parallel. Next, while we still compute the outputs $\hat{y}$ of the neurons (perceptrons), we also send the output of the h
