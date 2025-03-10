@@ -8,4 +8,4 @@ NNs are also subject to **overfitting**, which is where the networks fit themsel
 
 ## Modelling Schemas
 ### Binary Classification
-Modelling inputs to a binary output. For example, asking a neural network to question if an event will oc
+Modelling inputs to a binary output. For example, asking a neural network to question if an event will occur or not occur. 
