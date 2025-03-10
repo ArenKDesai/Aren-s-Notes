@@ -14,4 +14,4 @@ Examples of basic modelling tasks include:
 - Machine Translation ($N$-$M$): Mapping many inputs to many outputs. For example, translating one language to another. 
 However, we can't take advantage of sequential time steps this way.  
 
-We can keep the hidden layer the same, but isolate eac
+We can keep the hidden layer the same, but isolate each input $x_t$ to run seu
