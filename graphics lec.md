@@ -39,3 +39,4 @@ The diffuse reflection is $r_{\text{diffuse}}=\hat{n}\cdot \hat{l}$, which are t
 For shiny objects, the angle of light is equal to the angle of reflection. 
 
 ### Phong Model
+You can 
