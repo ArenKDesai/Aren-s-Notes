@@ -49,4 +49,4 @@ where $\hat{n}$ and $\hat{h}$ are the normal vector and half-way vector (between
 Here's how you use textures in Three.js:
 1. Make a geometry. This is the base mesh that will be given a texture. 
 2. Get a picture. Or, more realistically, download a picture from the internet. 
-3. Square the 
+3. Format the picture. Typically needs to be a square. 
