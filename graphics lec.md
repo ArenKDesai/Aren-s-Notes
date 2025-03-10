@@ -55,6 +55,7 @@ Here's how you use textures in Three.js:
 const vertexUVs = [
 	new T.Vector2(232/512, 0),
 	new T.Vector2(0, 0),
-	new T
+	new T.Vector2(0, 0),
+	new T.Vector2(2)
 ]
 ```
