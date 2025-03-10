@@ -53,6 +53,8 @@ Here's how you use textures in Three.js:
 4. Assign UVs to vertices. This maps the corners of the image to the corners of the mesh. For example:
 ```JavaScript
 const vertexUVs = [
-	new T.Vector2(232/)
+	new T.Vector2(232/512, 0),
+	new T.Vector2(0, 0),
+	new T.Vec
 ]
 ```
