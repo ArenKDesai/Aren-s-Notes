@@ -46,4 +46,4 @@ $r_\text{specular}=(\hat{n}\cdot \hat{h})^p$
 where $\hat{n}$ and $\hat{h}$ are the normal vector and half-way vector (between $\hat{l}$ and $\hat{e}$. This helps approximate the normal without actually having it. 
 
 ## Textures
-Here's 
+Here's how you make
