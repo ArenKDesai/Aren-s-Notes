@@ -20,4 +20,4 @@ $\hat{y}_t=f(x_t,h_{t-1})$
 where $\hat{y}_t$ is the output, $x_t$ is the input, and $h_{t-1}$ is the past memory. The function above is called the **recurrence relation**. The network built from recurrences is a **recurrent neural network**. 
 ![[rnn.png]]
 The recurrence relations are defined by the cell states:
-$h_t=f_W()
+$h_t=f_W(x_t,h_{t-1})$. 
