@@ -6,7 +6,7 @@ NNs use a **stochastic gradient descent** (SGD) algorithm to optimize the percep
 NNs also rely on a **learning rate**, which dictates the rate at which the perceptron functions update. This is variable. 
 NNs are also subject to **overfitting**, which is where the networks fit themselves too well to the data. This is typically fixed with **regularization**, which forces the NN to drop perceptrons at random to avoid relying on one too much. 
 
-## Modelling Schemas
+## Modelling Examples
 ### Binary Classification (1-1)
 Modelling inputs to a binary output. For example, asking a neural network to question if an event will occur or not occur. 
 
@@ -17,4 +17,4 @@ Modelling multiple inputs to a classification output. For example, reading tweet
 Modelling one input to a few outputs. For example, writing the description for an image. 
 
 ### Machine Translation ($N$-$M$)
-Mapping many inputs to many outputs. For example, translating one 
+Mapping many inputs to many outputs. For example, translating one language to another. 
