@@ -82,49 +82,6 @@ Plant lifespans exist in **annuals** (1 year), **biennials** (2 years), and **pe
 Some also have year-round growth in the tropics, where the plants are often **evergreen** (always have leaves). 
 Some have seasonal growth, where annual periods of freezing or drought don't allow permanent growth. These are **deciduous** plants that lose their leaves. 
 
-## Leaves
-Leaves intercept light, harvest a range of light on the energy spectrum, and store the captured energy. Water gets pulled up through the stem via the Cohesion-Tension theorem. 
-
-The point on the stem where leaves attach is the **node**, which connects to the **petiole** that works as a connection between the node and the **blade** of the leaf. When the leaf falls off, an axillary bud gets left behind. 
-Leaves are arranged in either **alternate** (one leaf per node), **opposite** (two leaves per node), or **whorled leaves** ($\ge 3$ leaves per node). 
-**Simple** leaves have just one blade. **Compound leaves** have multiple blades, called **leaflets**. These can often look like a stem, but you can tell it's a compound leaf when there's a node on the stem. 
-
-The **leaf margin** refers to the outer edge of the leaf or leaflet. The **leaf venation** refers to the pattern of the vascular tissue in the leaf. 
-
-There are two big groups of flowering plants:
-1. **Angiosperm**: produces seeds and flowers 
-2. **Eudicots**: 75% of plants
-3. **Monocots**: 23% of plants. Includes grasses, lilies, and orchids. Undergo C4 ([[Plant Cells]]) photosynthesis. 
-Monocot / Dicot / Eudicots are all named after the number of **cotyledons** that hold the nutrition in the seed. 
-
-For example, grass has a monocot leaf with parallel veins. It has a simple leaf blade and a sheath clasping stem. 
-
-### Leaf Anatomy
-The leaf is enclosed in the **epidermis**, which includes the occasional **stomata** to let in light for photosynthesis on the lower epidermis. Spongy parenchyma helps $CO_2$ get to the palisade layers. There are hairs and glands that help hold the water right under the upper epidermis. **Xylem** carries water through the leaf. There are also** fibers** that surround the vascular system for reinforcement. 
-The primary vein is covered by the xylem and phloem, and strengthened with collenchyma tissue. 
-
-The **stomata** (the openings) are usually on the lower surface of the epidermis in the millions per inch. A single **stoma** is characterized by the **guard cells** that surround the opening that can open and close to protect the leaf through turgor variation. 
-$K^+$ ions are brought in by an uptake using carrier proteins to regulate stomatal opening. 
-
-Trichomes (hairs) on the leaves are modified epidermal cells that extend from the surface. They have a lot of functions: retaining temperature, reducing water loss, absorbing water, defense, etc. 
-
-Movement cells regulate the movement of leaves that get engorged in water. The leaf opens when the movement cells are full of water, and closes when its empty. 
-
-### Specialized Leaves
-Bracts are a special case of leaves that exist beneath flowers. they attract pollinators and often support or protect the flowers. They also have veins like leaves that flowers don't. 
-
-Tendrils are small, stem-like structures that allow plants to climb structures. Plants that climb structures are called **vines**. 
-
-Storage leaves are modified to hold starch or water. 
-
-Some leaves are carnivorous. These are often in low-nitrogen areas, and the leaves often have a mechanism to trap prey. 
-
-### Senescence
-Frost or drought will kill plants, so plants often recycle nutrients from the leaves and purposefully kills leaves for their nutrients. This is why leaves fall in the winter. The nutrients that are recovered are mainly nitrogen. 
-Evergreen plants typically have leaves with a lifespan of 3-15 months. 
-
-Leaves fall in the **abscission zone** that severs the connect
-
 ## Plant Habitats
 There are three types of plants that cover habitats:
 1. Mesophytes: Live in moderately moist environments
