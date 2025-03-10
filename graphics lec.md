@@ -47,4 +47,4 @@ where $\hat{n}$ and $\hat{h}$ are the normal vector and half-way vector (between
 
 ## Textures
 Here's how you use textures in Three.js:
-1. Make a geometry
+1. Make a geometry. This is the base mesh that will g
