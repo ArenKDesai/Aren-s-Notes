@@ -20,4 +20,4 @@ This can cause problems if 1. there are multiple readers, and 2. a reader acquir
 A more concrete way to fix this problem is keep the conditional statements checking two condition variables instead of one: full and empty. 
 
 ## Deadlock
-Occurs when multiple threads are waiting on each other. Similar to a four-way intersection whe
+Occurs when multiple threads are waiting on each other. Similar to a four-way intersection where cars from all four sides are blocking each other. 
