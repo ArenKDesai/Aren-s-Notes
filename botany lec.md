@@ -34,4 +34,4 @@ So, to summarize:
 - Allels are different versions of the same gene
 
 #### Meiosis
-Cell division that halves homolo
+Cell division that halves homologous chromosomes. 
