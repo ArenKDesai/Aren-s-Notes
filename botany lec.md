@@ -20,4 +20,5 @@ Not all plants have flowers, and not all reproduction is sexual. For example, fe
 All prokaryotes are asexual. They do not have reproductive organs, and instead just kinda divide. Prokaryotes, like green algae, under mitosis, send out **zoospores** and undergo mitosis again. 
 
 ### Asexual Reproduction
-Produces genetically identical offspring (clones) via mitosis ([[Plant Cells]]). 
+Produces genetically identical offspring (clones) via mitosis ([[Plant Cells]]). There are a few common methods:
+1. Vegetative propa
