@@ -17,4 +17,4 @@ While running, the producer locks and waits if the buffer is full. If not full, 
 ### Reader (AKA Consumer)
 While running, the reader locks, waits if the buffer is empty. If not, it grabs the new data, signals (in case producer is waiting), unlocks, *then* pushes data. 
 This can cause problems if 1. there are multiple readers, and 2. a reader acquired the lock first. This would cause the reader to receive the signal instead of the producer, and the producer would never be woken up. This is fixed by always using a ```while``` loop rather than an ```if``` statement. 
-A more concrete way to fix this problem is keep t
+A more concrete way to fix this problem is keep the conditional statements checking two condition variables instead of one: 
