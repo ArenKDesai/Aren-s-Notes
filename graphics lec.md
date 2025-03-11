@@ -103,4 +103,4 @@ We can extend this idea to project interesting textures to flat meshes by creati
 Bump maps are easy to use to specify surface details, doesn't change simple shapes, and works with lighting well. However, it doesn't change the side view, doesn't work for big effects, and doesn't cause shadows. These are typically good for small, recurring details. 
 
 ### Faking Lighting
-We can make **light maps
+We can make **light maps** that mimic the effects of shadowing 
