@@ -39,4 +39,4 @@ Sexual reproduction allows for much greater genetic variation, which is very ben
 Asexual reproduction can take advantage of environmental factors, while sexual reproduction allows for the purging of disadvantageous traits. 
 
 ### Plant Life Cycle
-Plants alternate generations. They alternate between **s
+Plants alternate generations. They alternate between **sporophytes** and **gametophytes**. 
