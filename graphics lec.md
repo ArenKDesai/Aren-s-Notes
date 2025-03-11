@@ -99,4 +99,4 @@ However, a better solution is to use a **mip-map**. This continuously halves the
 We need the normals of smooth surfaces, but we make objects with a discrete number of sides. We can instead interpolate the normals of a smooth surface so the lighting gives the appearance of a smooth object. 
 
 We can extend this idea to project interesting textures to flat meshes by creating a **normal map**. This normal map can map normals by colors to certain directions, or can encode heights to different normals. This is a **bump map**. 
-Bump maps are easy to use to specify surface details, doesn't change simple shapes, and works with lighting well. However, it doesn't change the side 
+Bump maps are easy to use to specify surface details, doesn't change simple shapes, and works with lighting well. However, it doesn't change the side view, doesn't work for big effects, and doesn't cause shadows. 
