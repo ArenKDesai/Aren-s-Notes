@@ -15,4 +15,4 @@ For reproduction in flowers:
 - Pollination transfers pollen to ovules
 - Fertilization fuses egg & sperm
 - Embryo in is in seed, which is in fruit
-Not all plants have flowers, and not all reproduction is sexual. 
+Not all plants have flowers, and not all reproduction is sexual. For example, ferns use spores
