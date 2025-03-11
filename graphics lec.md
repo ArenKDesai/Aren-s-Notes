@@ -29,7 +29,7 @@ A barycentric interpolation is $p=\alpha A+\beta B+\gamma C$ where $\alpha + \be
 
 So how do discrete pixels model colors? We plot each corner (intersection of 4 pixels) as a color, and for a continuous point:
 1. Nearest-Neighbor: nearest corner to the point determines the color of the pixel
-2. Bi-Linear Interpolation: Lerp 
+2. Bi-Linear Interpolation: Lerp the colors of the corners for a pixel. 
 
 ### On triangles
 Triangles should always have an *outward* facing normal. This can be verified with a cross product. By default, Three.js only draws triangles from the front. This can either be fixed on singular triangles by making another triangle facing the other direction, or by enabling dual-drawing on Three.js. 
