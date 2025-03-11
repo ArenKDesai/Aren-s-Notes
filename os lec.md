@@ -12,4 +12,6 @@ Pipes can have multiple writers and readers. The pipe has an internal finite-siz
 The buffer has a start and end pointer. When a write occurs, the end pointer moves. When a read occurs, the start pointer moves. When the end pointer is at the end, it wraps around unless the buffer is full. This looks similar to a loading bar. 
 
 ### Producer
-While running, the producer locks and waits if the buffer is full. If not full, it fills the buffer, signals (in case the )
+While running, the producer locks and waits if the buffer is full. If not full, it fills the buffer, signals (in case the reader is waiting), and unlocks. 
+
+### Reader
