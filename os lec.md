@@ -25,8 +25,8 @@ For example, imagine one thread locks A, then B. Another thread locks B, then A.
 This is often a problem in **encapsulating**, where you abstract data structures, and reversed orderings is possible. A fix for this is to manually ensure there is some order, such as ordering from high->low addresses. 
 
 There are four conditions for deadlocks:
-1. Mutual exclusion
-2. Hold-and-wait
+1. Mutual exclusion (don't even use locks; use comparisons instead)
+2. Hold-and-wait ()
 3. No preemption (can't take lock away)
 4. Circular wait
 which also means that, if we eliminate one of these, we don't have to worry about deadlock anymore. 
