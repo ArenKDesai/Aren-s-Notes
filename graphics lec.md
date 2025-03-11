@@ -96,4 +96,4 @@ One solution: we can estimate the shape as a rectangle, pre-compute the summed a
 However, a better solution is to use a **mip-map**. This continuously halves the image and maps the image to the halved size. The program can now use bi-linear interpolation to grab the color of the smallest image, the image of one pixel size. The program can also interpolate between sizes. 
 
 ## Faking normals
-We need the normals of smooth surfaces, but 
+We need the normals of smooth surfaces, but we make objects with a discrete number of sides. We can instead interpolate the normals of a smooth surface so t
