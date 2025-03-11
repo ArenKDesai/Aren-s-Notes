@@ -86,4 +86,4 @@ There are three ways to create objects with UVs:
 When calling a ```TextureLoader``` image, the mesh starts with a blank image, and fills its texture after loading. This is good since it deals with asynchronous problems for us. 
 
 ### Filtering
-Mapping small textures to large objects is difficult. We typically 
+Mapping small textures to large objects is difficult. We typically average together all the texture pixels (texels)
