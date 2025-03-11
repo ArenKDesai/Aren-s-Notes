@@ -27,5 +27,5 @@ This is often a problem in **encapsulating**, where you abstract data structures
 There are four conditions for deadlocks:
 1. Mutual exclusion
 2. Hold-and-wait
-3. No preemption
+3. No preemption (can't take lock away)
 4. Circular wait
