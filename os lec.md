@@ -15,4 +15,4 @@ The buffer has a start and end pointer. When a write occurs, the end pointer mov
 While running, the producer locks and waits if the buffer is full. If not full, it fills the buffer, signals (in case the reader is waiting), and unlocks. 
 
 ### Reader
-While running, the reader locks, waits if the buffer is empty. If not, it grabs the new data, signals (in case producer is waiting), a
+While running, the reader locks, waits if the buffer is empty. If not, it grabs the new data, signals (in case producer is waiting), unlocks, *then* pushes data. 
