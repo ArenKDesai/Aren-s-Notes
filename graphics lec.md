@@ -104,3 +104,5 @@ Bump maps are easy to use to specify surface details, doesn't change simple shap
 
 ### Faking Lighting
 We can make **light maps** that mimic the effects of shadowing, and the actual object pretends that light is coming from all directions. We can also make **material property maps** that allow us to customize what parts of an object have certain details. 
+
+An important notion when faking lighting (and reflections) is **sky box
