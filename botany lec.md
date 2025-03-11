@@ -44,4 +44,4 @@ Sporophytes are $2n$ multi-cellular bodies that can generate $2n$ reproductive c
 
 In plants, meiosis takes place in the **sporangia** of the sporophyte, and produces spores. Flowering plants have male sorangia in anthers, female sporangia in ovary. 
 
-Meiosis also has 
+Meiosis has meitos
