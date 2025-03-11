@@ -21,4 +21,3 @@ A more concrete way to fix this problem is keep the conditional statements check
 
 ## Deadlock
 Occurs when multiple threads are waiting on each other. Similar to a four-way intersection where cars from all four sides are blocking each other. Also similar to circular dependencies. 
-For exa
