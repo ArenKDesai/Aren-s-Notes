@@ -42,4 +42,4 @@ Asexual reproduction can take advantage of environmental factors, while sexual r
 Plants alternate generations. They alternate between **sporophytes** and **gametophytes**. 
 Sporophytes are $2n$ multi-cellular bodies that can generate $2n$ reproductive cells, which undergo meiosis to generate a bunch of $1n$ spores. These grow via mitosis and form a $1n$ multi-cellular body, which generates gametes. 
 
-In plants, meiosis takes place in the **sporangia** of the sporophyte, and produces spores. Flowering plants have male sorangia in anthers
+In plants, meiosis takes place in the **sporangia** of the sporophyte, and produces spores. Flowering plants have male sorangia in anthers, female sporangia in ovary. 
