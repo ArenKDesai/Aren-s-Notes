@@ -25,4 +25,5 @@ Produces genetically identical offspring (clones) via mitosis ([[Plant Cells]]).
 2. **Fragmentation**. A part breaks off and can regrow somewhere else. For example, willows, bryophytes, duckweed, etc. 
 3. **Apomixis**. Seeds, or embryos, produced w/o fertilization. 
 
-### Sec
+### Sexual Reproduction
+Producing offf
