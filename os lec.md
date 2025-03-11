@@ -21,4 +21,4 @@ A more concrete way to fix this problem is keep the conditional statements check
 
 ## Deadlock
 Occurs when multiple threads are waiting on each other. Similar to a four-way intersection where cars from all four sides are blocking each other. Also similar to circular dependencies. 
-For example, imagine one thread locks A, then B. Another thread locks B, then A. This can cause deadlocking
+For example, imagine one thread locks A, then B. Another thread locks B, then A. This can cause **deadlocking**, where the fix would be to reorder the locks. 
