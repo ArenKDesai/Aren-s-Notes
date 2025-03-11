@@ -27,6 +27,6 @@ This is often a problem in **encapsulating**, where you abstract data structures
 There are four conditions for deadlocks:
 1. Mutual exclusion (don't even use locks; use comparisons instead)
 2. Hold-and-wait (acquire all atomic locks under one **meta lock**)
-3. No preemption (can't take lock away)
+3. No preemption (can't take lock away; causes **livelock** where no processes can make progress, like deadlock but the)
 4. Circular wait
 which also means that, if we eliminate one of these, we don't have to worry about deadlock anymore. 
