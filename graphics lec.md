@@ -51,7 +51,7 @@ $r_\text{specular}=(\hat{n}\cdot \hat{h})^p$
 where $\hat{n}$ and $\hat{h}$ are the normal vector and half-way vector (between $\hat{l}$ and $\hat{e}$. This helps approximate the normal without actually having it. 
 
 ### Shadow Mapping
-How do we compute where to place shado
+How do we compute where to place shadows? We take a picture from the light source's POV 
 
 ## Textures
 Here's how you use textures in Three.js:
