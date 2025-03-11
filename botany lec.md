@@ -13,4 +13,5 @@ For reproduction in flowers:
 - Sperm is in pollen from anthers
 - Ovules (w/ eggs) are in ovary
 - Pollination transfers pollen to ovules
-- 
+- Fertilization fuses egg & sperm
+- Embryo in s
