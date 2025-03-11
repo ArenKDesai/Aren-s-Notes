@@ -36,3 +36,4 @@ So, to summarize:
 Sexual reproduction starts with **meiosis**, cell division that halves homologous chromosomes. Then, **fertilization** occurs, where a fusion of haploid **gametes** produce a diploid cell called a **zygote**. The gametes come from the split homologous chromosomes in the form of sperm or eggs. 
 
 Sexual reproduction allows for much greater genetic variation, which is very beneficial for natural selection. However, it requires a lot of energy, and depends on factors like water, temperature, pollinators, etc. 
+Asexual reproduction can take advantage of natural selection 
