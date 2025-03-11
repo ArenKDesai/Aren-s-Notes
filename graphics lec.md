@@ -93,4 +93,4 @@ Mapping small textures to large objects is difficult. We typically average toget
 
 One solution: we can estimate the shape as a rectangle, pre-compute the summed area table, and use it for fast lookups. 
 
-However, a better solution is to use a **mip
+However, a better solution is to use a **mip-map**. This 
