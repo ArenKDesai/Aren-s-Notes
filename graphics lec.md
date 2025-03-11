@@ -71,3 +71,7 @@ geom.faceVertexUvs = [faceVs];
 1. Enable texturing. Three.js allows us to use a ```TextureLoader```. 
 
 This is considered **UV Mapping**, where we place UV coordinates on a plane of colors to interpolate colors for the corresponding actual coordinates. 
+
+### UVs
+There are three ways to create objects with UVs:
+1. Use primit
