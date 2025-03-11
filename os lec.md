@@ -7,4 +7,4 @@ One attempt at fixing this is keeping state variables that can be checked contin
 This breaks when the child doesn't acquire the lock. Notifying a thread that it's done without taking a lock is called a **naked lock**. 
 
 ### Pipes
-Pipes can have multiple writers and readers. The pipe has an internal finite-sized buffer
+Pipes can have multiple writers and readers. The pipe has an internal finite-sized buffer, and the writers are blocked if the pipe is full / reader
