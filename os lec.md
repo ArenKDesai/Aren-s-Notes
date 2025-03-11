@@ -24,4 +24,7 @@ Occurs when multiple threads are waiting on each other. Similar to a four-way in
 For example, imagine one thread locks A, then B. Another thread locks B, then A. This can cause **deadlocking**, where the fix would be to reorder the locks. 
 This is often a problem in **encapsulating**, where you abstract data structures, and reversed orderings is possible. A fix for this is to manually ensure there is some order, such as ordering from high->low addresses. 
 
-There are four conditions for dea
+There are four conditions for deadlocks:
+1. Mutual exclusion
+2. Hold-and-wait
+3. no 
