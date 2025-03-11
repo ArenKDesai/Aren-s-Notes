@@ -77,3 +77,5 @@ There are three ways to create objects with UVs:
 1. Primitives with predefined UVs
 2. Geometries (unused)
 3. Buffer attributes with "uv" specified. 
+
+When calling a ```TextureLoader``` image, the mesh starts with a blank image, and fills its texture after load
