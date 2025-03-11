@@ -10,4 +10,4 @@ As mentioned previously, there are two main types of reproduction for plants:
 2. Gymnosperms: make seeds w/ no flowers. Instead, cones
 Seedless plants (ferns and mosses) disperse offspring w/ **spores**. 
 For reproduction in flowers:
-3. 
+- Sperm i
