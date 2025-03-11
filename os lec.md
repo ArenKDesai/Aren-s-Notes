@@ -7,7 +7,7 @@ One attempt at fixing this is keeping state variables that can be checked contin
 This breaks when the child doesn't acquire the lock. Notifying a thread that it's done without taking a lock is called a **naked lock**. 
 
 ## Pipes
-Pipes can have multiple writers and readers (like [[Kafka]]. The pipe has an internal finite-sized buffer, and the writers are blocked if the pipe is full / readers are blocked if the pipe is empty. 
+Pipes can have multiple writers and readers (like [[Kafka]]). The pipe has an internal finite-sized buffer, and the writers are blocked if the pipe is full / readers are blocked if the pipe is empty. 
 
 The buffer has a start and end pointer. When a write occurs, the end pointer moves. When a read occurs, the start pointer moves. When the end pointer is at the end, it wraps around unless the buffer is full. This looks similar to a loading bar. 
 
