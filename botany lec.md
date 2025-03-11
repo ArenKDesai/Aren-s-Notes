@@ -10,7 +10,7 @@ As mentioned previously, there are two main types of reproduction for plants:
 2. Gymnosperms: make seeds w/ no flowers. Instead, cones
 Seedless plants (ferns and mosses) disperse offspring w/ **spores**. 
 For reproduction in flowers:
-- Sperm is in pollen from **anthers** (end bits of flower tendrils)
+- Sperm is in pollen from **anthers** (end bits of flower tendrils, which are the **stamen**)
 - **Ovules** (w/ eggs) are in ovary
 - Pollination transfers pollen to ovules
 - Fertilization fuses egg & sperm
