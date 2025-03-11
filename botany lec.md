@@ -26,4 +26,4 @@ Produces genetically identical offspring (clones) via mitosis ([[Plant Cells]]).
 3. **Apomixis**. Seeds, or embryos, produced w/o fertilization. 
 
 ### Sexual Reproduction
-Producing offspring through **meiosis** and fertilization. Th
+Producing offspring through **meiosis** and fertilization. These are done with **diploid**
