@@ -11,4 +11,5 @@ As mentioned previously, there are two main types of reproduction for plants:
 Seedless plants (ferns and mosses) disperse offspring w/ **spores**. 
 For reproduction in flowers:
 - Sperm is in pollen from anthers
-- Ovules 
+- Ovules (w/ eggs) are in ovary
+- Pollination transfer 
