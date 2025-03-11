@@ -88,4 +88,5 @@ When calling a ```TextureLoader``` image, the mesh starts with a blank image, an
 ### Filtering
 Mapping small textures to large objects is difficult. We typically average together all the texture pixels (texels). This is pretty slow, so we either:
 1. Precompute
-2. Amor
+2. Amortize
+3. Approximate
