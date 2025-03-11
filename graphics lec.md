@@ -27,8 +27,8 @@ The colors on the mesh get linearly interpolated between the vertices. Lerping b
 A barycentric interpolation is $p=\alpha A+\beta B+\gamma C$ where $\alpha + \beta + \gamma=1$, which provides a coordinate system for the triangle $(\alpha, \beta, \gamma \in 0-1)$. 
 
 
-So how do discrete pixels model colors? There's a few methods:
-1. Nearest-Neighbor: 
+So how do discrete pixels model colors? We plot each corner (intersec):
+1. Nearest-Neighbor: p
 
 ### On triangles
 Triangles should always have an *outward* facing normal. This can be verified with a cross product. By default, Three.js only draws triangles from the front. This can either be fixed on singular triangles by making another triangle facing the other direction, or by enabling dual-drawing on Three.js. 
