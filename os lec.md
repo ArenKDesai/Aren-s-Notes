@@ -23,3 +23,5 @@ A more concrete way to fix this problem is keep the conditional statements check
 Occurs when multiple threads are waiting on each other. Similar to a four-way intersection where cars from all four sides are blocking each other. Also similar to circular dependencies. 
 For example, imagine one thread locks A, then B. Another thread locks B, then A. This can cause **deadlocking**, where the fix would be to reorder the locks. 
 This is often a problem in **encapsulating**, where you abstract data structures, and reversed orderings is possible. A fix for this is to manually ensure there is some order, such as ordering from high->low addresses. 
+
+There are four conditions for dea
