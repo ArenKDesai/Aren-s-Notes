@@ -40,4 +40,4 @@ Asexual reproduction can take advantage of environmental factors, while sexual r
 
 ### Plant Life Cycle
 Plants alternate generations. They alternate between **sporophytes** and **gametophytes**. 
-Sporophytes are $2n$ multi-cellular bodies that can generate $2n$ reproductive cells, which undergo meiosis to generate a bunch of $1n$ 
+Sporophytes are $2n$ multi-cellular bodies that can generate $2n$ reproductive cells, which undergo meiosis to generate a bunch of $1n$ spores. 
