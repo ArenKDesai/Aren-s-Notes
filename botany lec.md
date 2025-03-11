@@ -35,4 +35,4 @@ So, to summarize:
 
 Sexual reproduction starts with **meiosis**, cell division that halves homologous chromosomes. Then, **fertilization** occurs, where a fusion of haploid **gametes** produce a diploid cell called a **zygote**. The gametes come from the split homologous chromosomes in the form of sperm or eggs. 
 
-Sexual reproduction allows for 
+Sexual reproduction allows for much greater genetic variation, which is 
