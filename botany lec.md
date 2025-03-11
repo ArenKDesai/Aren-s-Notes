@@ -34,3 +34,5 @@ So, to summarize:
 - Allels are different versions of the same gene
 
 Sexual reproduction starts with **meiosis**, cell division that halves homologous chromosomes. Then, **fertilization** occurs, where a fusion of haploid **gametes** produce a diploid cell called a **zygote**. The gametes come from the split homologous chromosomes in the form of sperm or eggs. 
+
+Sexual reproduction allows for 
