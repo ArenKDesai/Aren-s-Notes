@@ -94,4 +94,4 @@ Mapping small textures to large objects is difficult. We typically average toget
 Here's some solutions:
 
 ### Summed Area Table
-We can estimate the shape as a rectangle, precompute the summed area table, and us
+We can estimate the shape as a rectangle, pre-compute the summed area table, and use it for fast lookups. 
