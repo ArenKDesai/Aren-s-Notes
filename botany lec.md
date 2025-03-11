@@ -21,4 +21,4 @@ All prokaryotes are asexual. They do not have reproductive organs, and instead j
 
 ### Asexual Reproduction
 Produces genetically identical offspring (clones) via mitosis ([[Plant Cells]]). There are a few common methods:
-1. Vegetative propagation. Plants form as a random number of offshoots, kinda like a tr
+1. Vegetative propagation. Plants form as a random number of offshoots, kinda like vertical tree of clones. 
