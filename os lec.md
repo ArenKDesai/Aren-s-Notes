@@ -16,4 +16,4 @@ While running, the producer locks and waits if the buffer is full. If not full, 
 
 ### Reader
 While running, the reader locks, waits if the buffer is empty. If not, it grabs the new data, signals (in case producer is waiting), unlocks, *then* pushes data. 
-This can cause problems if 1. there are multiple readers, and 2. 
+This can cause problems if 1. there are multiple readers, and 2. a reader acquired the lock first. This would 
