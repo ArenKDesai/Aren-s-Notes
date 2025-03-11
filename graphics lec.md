@@ -98,4 +98,4 @@ However, a better solution is to use a **mip-map**. This continuously halves the
 ## Faking normals
 We need the normals of smooth surfaces, but we make objects with a discrete number of sides. We can instead interpolate the normals of a smooth surface so the lighting gives the appearance of a smooth object. 
 
-We can extend this idea to project interesting textures to flat meshes by creating a **normal map**. 
+We can extend this idea to project interesting textures to flat meshes by creating a **normal map**. This normal map can map normals by colors to certain di
