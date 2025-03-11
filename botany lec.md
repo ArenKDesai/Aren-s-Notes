@@ -32,3 +32,5 @@ So, to summarize:
 - One chromosome is one stick
 - Genes are regions of DNA code for a trait
 - Allels are different versions of the same gene
+
+####
