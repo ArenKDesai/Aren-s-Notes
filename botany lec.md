@@ -6,4 +6,5 @@ Monocot stems have scattered vessels of xylem and phloem that aggregates near th
 
 ## Plant Reproduction and Life Cycles
 As mentioned previously, there are two main types of reproduction for plants:
-1. Angiosperms: 
+1. Angiosperms: use flowers to produce seeds
+2. Gymnosperms: make see
