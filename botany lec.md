@@ -26,4 +26,4 @@ Produces genetically identical offspring (clones) via mitosis ([[Plant Cells]]).
 3. **Apomixis**. Seeds, or embryos, produced w/o fertilization. 
 
 ### Sexual Reproduction
-Producing offspring through **meiosis** and fertilization. These are done with **diploids** cells, cells that process two complete sets of chromosomes (one from mom/dad). These chromosomes are **homologous** to each-other, known as **homologs**. **Haploid** cells only have one set of chromosomes (no pairs)
+Producing offspring through **meiosis** and fertilization. These are done with **diploids** cells, cells that process two complete sets of chromosomes (one from mom/dad). These chromosomes are **homologous** to each-other, known as **homologs**. **Haploid** cells only have one set of chromosomes (no pairs) because they arise from asexual reproduction. 
