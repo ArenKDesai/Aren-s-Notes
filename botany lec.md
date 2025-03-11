@@ -12,5 +12,5 @@ Seedless plants (ferns and mosses) disperse offspring w/ **spores**.
 For reproduction in flowers:
 - Sperm is in pollen from anthers
 - Ovules (w/ eggs) are in ovary
-- Pollination transfers pollen to ovule
+- Pollination transfers pollen to ovules
 - 
