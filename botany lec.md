@@ -5,4 +5,5 @@ Wood is produced by the vascular cambium and is made of secondary xylem. The par
 Monocot stems have scattered vessels of xylem and phloem that aggregates near the sides. They can't grow laterally because they don't have the organelles for it. 
 
 ## Plant Reproduction and Life Cycles
-As mentioned previously, there are two main types of re
+As mentioned previously, there are two main types of reproduction for plants:
+1. Angiosperms: 
