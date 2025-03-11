@@ -9,3 +9,4 @@ This breaks when the child doesn't acquire the lock. Notifying a thread that it'
 ### Pipes
 Pipes can have multiple writers and readers. The pipe has an internal finite-sized buffer, and the writers are blocked if the pipe is full / readers are blocked if the pipe is empty. 
 
+The buffer has a start and end pointer. 
