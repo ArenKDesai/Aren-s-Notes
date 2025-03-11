@@ -26,7 +26,6 @@ Normally, creating a mesh in Three.js assumes that the whole material wants one 
 The colors on the mesh get linearly interpolated between the vertices. Lerping between three points instead of two is **Barycentric interpolation**. 
 A barycentric interpolation is $p=\alpha A+\beta B+\gamma C$ where $\alpha + \beta + \gamma=1$, which provides a coordinate system for the triangle $(\alpha, \beta, \gamma \in 0-1)$. 
 
-
 So how do discrete pixels model colors? We plot each corner (intersection of 4 pixels) as a color, and for a continuous point:
 1. Nearest-Neighbor: nearest corner to the point determines the color of the pixel
 2. Bi-Linear Interpolation: Lerp the colors of the corners for a pixel. 
