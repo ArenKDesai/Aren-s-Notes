@@ -16,3 +16,5 @@ For reproduction in flowers:
 - Fertilization fuses egg & sperm
 - Embryo in is in seed, which is in fruit
 Not all plants have flowers, and not all reproduction is sexual. For example, ferns use spores. Some plants can reproduce sexually and non-sexually. 
+
+All prokaryotes a
