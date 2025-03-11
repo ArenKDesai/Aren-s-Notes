@@ -24,4 +24,5 @@ Produces genetically identical offspring (clones) via mitosis ([[Plant Cells]]).
 1. **Vegetative propagation**. Plants form as a random number of offshoots, kinda like vertical tree of clones. Ex: runners in strawberries, the "eyes" of potatoes, aspen clones, etc. 
 2. **Fragmentation**. A part breaks off and can regrow somewhere else. For example, willows, bryophytes, duckweed, etc. 
 3. **Apomixis**. Seeds, or embryos, produced w/o fertilization. 
-4. 
+
+### Sec
