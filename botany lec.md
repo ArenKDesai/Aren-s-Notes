@@ -17,4 +17,4 @@ For reproduction in flowers:
 - Embryo in is in seed, which is in fruit
 Not all plants have flowers, and not all reproduction is sexual. For example, ferns use spores. Some plants can reproduce sexually and non-sexually. 
 
-All prokaryotes are asexual. They do not have reproductive organs, and instead just kinda divide. 
+All prokaryotes are asexual. They do not have reproductive organs, and instead just kinda divide. Prokaryotes, like green algae, under mitosis, send out 
