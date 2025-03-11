@@ -30,4 +30,5 @@ Producing offspring through **meiosis** and fertilization. These are done with *
 So, to summarize:
 - A pair of chromosomes is two chromosomes, one paternal and one maternal
 - One chromosome is one stick
-- Genes are regionso f DNA
+- Genes are regions of DNA code for a trait
+- Allels are different versions of the same gene
