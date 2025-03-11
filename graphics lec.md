@@ -26,14 +26,15 @@ Normally, creating a mesh in Three.js assumes that the whole material wants one 
 The colors on the mesh get linearly interpolated between the vertices. Lerping between three points instead of two is **Barycentric interpolation**. 
 A barycentric interpolation is $p=\alpha A+\beta B+\gamma C$ where $\alpha + \beta + \gamma=1$, which provides a coordinate system for the triangle $(\alpha, \beta, \gamma \in 0-1)$. 
 
+
+So how do discrete pixels model colors? There's a few methods:
+1. Nearest-Neighbor: 
+
 ### On triangles
 Triangles should always have an *outward* facing normal. This can be verified with a cross product. By default, Three.js only draws triangles from the front. This can either be fixed on singular triangles by making another triangle facing the other direction, or by enabling dual-drawing on Three.js. 
 However, triangles are not required to have normals. Instead, Three.js draws triangles using the **triangle winding direction**. If the triangle winds clockwise, it's facing the camera. If the triangle is counterclockwise, don't draw. 
 
 Translating a triangle doesn't change its normal. If you change the vertex positions, the normal does change. The inverse transpose of the linear transformation matrix is the **adjoint**. 
-
-So how do discrete pixels model colors? There's a few methods:
-1. Nearest-Neighbor: 
 
 ## Lighting
 When light hits a mesh, it diffuses down the mesh on dull objects. This is a **Lambertian** Material, which scatters light in all directions (regardless of where you are looking from). 
