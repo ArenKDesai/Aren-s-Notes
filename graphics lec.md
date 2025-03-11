@@ -74,4 +74,6 @@ This is considered **UV Mapping**, where we place UV coordinates on a plane of c
 
 ### UVs
 There are three ways to create objects with UVs:
-1. Use primit
+1. Use primitives with predefined UVs
+2. Geometries (unused)
+3. Bu
