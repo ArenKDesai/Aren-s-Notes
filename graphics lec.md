@@ -33,7 +33,7 @@ However, triangles are not required to have normals. Instead, Three.js draws tri
 Translating a triangle doesn't change its normal. If you change the vertex positions, the normal does change. The inverse transpose of the linear transformation matrix is the **adjoint**. 
 
 So how do discrete pixels model colors? There's a few methods:
-1. 
+1. Nearest-Neighbor: 
 
 ## Lighting
 When light hits a mesh, it diffuses down the mesh on dull objects. This is a **Lambertian** Material, which scatters light in all directions (regardless of where you are looking from). 
