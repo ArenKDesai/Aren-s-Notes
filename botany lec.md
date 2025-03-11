@@ -33,4 +33,4 @@ So, to summarize:
 - Genes are regions of DNA code for a trait
 - Allels are different versions of the same gene
 
-Sexual reproduction starts with **meiosis**, cell division that halves homologous chromosomes. Then, **fertilization** occurs, where a fusion of haploid gametes produce a diploid cell called a **zygote**. 
+Sexual reproduction starts with **meiosis**, cell division that halves homologous chromosomes. Then, **fertilization** occurs, where a fusion of haploid **gametes** produce a diploid cell called a **zygote**. The gametes come from the split homologous chromosomes in the form of sperm or eggs. 
