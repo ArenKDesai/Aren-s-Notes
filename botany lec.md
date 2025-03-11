@@ -40,3 +40,4 @@ Asexual reproduction can take advantage of environmental factors, while sexual r
 
 ### Plant Life Cycle
 Plants alternate generations. They alternate between **sporophytes** and **gametophytes**. 
+Sporophytes are $2n$ multi-cellular bodies tha
