@@ -29,3 +29,4 @@ There are four conditions for deadlocks:
 2. Hold-and-wait
 3. No preemption (can't take lock away)
 4. Circular wait
+which also means that, if we eliminate one of these, we don't have to worry about deadlock anymore. 
