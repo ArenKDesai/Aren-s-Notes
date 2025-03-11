@@ -27,3 +27,6 @@ Produces genetically identical offspring (clones) via mitosis ([[Plant Cells]]).
 
 ### Sexual Reproduction
 Producing offspring through **meiosis** and fertilization. These are done with **diploids** cells, cells that process two complete sets of chromosomes (one from mom/dad). These chromosomes are **homologous** to each-other, known as **homologs**. **Haploid** cells only have one set of chromosomes (no pairs) because they arise from asexual reproduction. 
+So, to summarize:
+- A pair of chromosomes is two chromosomes, one paternal and one maternal
+- One 
