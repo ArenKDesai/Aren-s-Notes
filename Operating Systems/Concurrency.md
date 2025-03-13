@@ -54,3 +54,23 @@ This breaks when the child doesn't acquire the lock. Notifying a thread that it'
 Pipes can have multiple writers and readers (like [[Kafka]]). The pipe has an internal finite-sized buffer, and the writers are blocked if the pipe is full / readers are blocked if the pipe is empty. 
 
 The buffer has a start and end pointer. When a write occurs, the end pointer moves. When a read occurs, the start pointer moves. When the end pointer is at the end, it wraps around unless the buffer is full. This looks similar to a loading bar. 
+
+### Producer
+While running, the producer locks and waits if the buffer is full. If not full, it fills the buffer, signals (in case the reader is waiting), and unlocks. 
+
+### Reader (AKA Consumer)
+While running, the reader locks, waits if the buffer is empty. If not, it grabs the new data, signals (in case producer is waiting), unlocks, *then* pushes data. 
+This can cause problems if 1. there are multiple readers, and 2. a reader acquired the lock first. This would cause the reader to receive the signal instead of the producer, and the producer would never be woken up. This is fixed by always using a ```while``` loop rather than an ```if``` statement. 
+A more concrete way to fix this problem is keep the conditional statements checking two condition variables instead of one: full and empty. 
+
+## Deadlock
+Occurs when multiple threads are waiting on each other. Similar to a four-way intersection where cars from all four sides are blocking each other. Also similar to circular dependencies. 
+For example, imagine one thread locks A, then B. Another thread locks B, then A. This can cause **deadlocking**, where the fix would be to reorder the locks. 
+This is often a problem in **encapsulating**, where you abstract data structures, and reversed orderings is possible. A fix for this is to manually ensure there is some order, such as ordering from high->low addresses. 
+
+There are four conditions for deadlocks:
+1. Mutual exclusion (don't even use locks; use comparisons instead)
+2. Hold-and-wait (acquire all atomic locks under one **meta lock**)
+3. No preemption (can't take lock away; causes **livelock** where no processes can make progress, like deadlock but the processes are not waiting)
+4. Circular wait
+which also means that, if we eliminate one of these, we don't have to worry about deadlock anymore. 
