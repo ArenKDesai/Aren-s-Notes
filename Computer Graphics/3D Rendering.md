@@ -28,6 +28,26 @@ Three.js scales last (just before drawing) and doesn't affect translations, chil
 While three.js is mostly retained mode, you do have to explicitly render objects. 
 There are a few ways to save 3D objects in files. Some include just geometry, some include materials, relationships, etc. One standard is **gltf**, but some old formats are **obj** and **fbx**. 
 
+In Three.js, a "mesh" is a class that represents a geometric object. It includes:
+- a ```BufferGeometry``` (collection of triangles)
+- a ```Material```
+
+A ```BufferGeometry``` is a list of vertices that represents triangles. Each vertex has attributes, such as position, normals, colors, **connectivity** / **topology**, etc. The data is stored in blocks of memory with a "name" for referencing. 
+These buffer geometries aren't very intuitive, but they work efficiently with GPUs, so Three.js doesn't bother with abstraction. 
+```JavaScript
+const geom = new T.BufferGeometry();
+
+const mem = new Float32Array([...]);
+const buf = new T.BufferAttribute(mem, 3);
+geom.setAttribute("position", buf);
+
+const cmem = new Float32Array([...]);
+const geom.setAttribute("color", new T.BufferAttribute(cmem, 3));
+
+const nmem = ...
+geom.setAttribute("normal", new T.BufferAttribute(nmem, 3));
+```
+
 ## 3D Visual Generation
 In 2D, we just had to worry about points (0D), curves / lines (1D), surfaces (2D). Now, we also worry about volumes (3D). This is for mechanical design or 3D printing. In graphics for VR, games, etc., we usually omit insides. 
 
