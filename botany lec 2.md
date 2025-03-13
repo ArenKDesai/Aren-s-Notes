@@ -9,4 +9,4 @@ He defined the **Law of Dominance** as the law defining that the expressive alle
 
 In summary, a **trait** is coded for by a **gene**, which is located in the **locus** on the **chromosome**. The **alleles** code for different traits, and the makeup of allels is called a **genotype**. This is **homozygous** when the allels are the same and **heterozygous** when the two allels are different. The physical expression of the gene is the **phenotype**, which is different than the genotype because an organism could have the gene $RR$ or the gene $Rr$, which would be the same phenotype but different genotypes. 
 
-There is also **incomplete dominance**, which acts like blending, and **codominance**, where an organism acts as both 
+There is also **incomplete dominance**, which acts like blending, and **codominance**, where an organism acts as both traits. 
