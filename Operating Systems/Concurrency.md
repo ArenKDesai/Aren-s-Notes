@@ -12,6 +12,7 @@ There are multiple ways to program with threads:
 To create threads, processes have options depending on their OS. One of those is POSIX Pthreads. 
 Common thread operations include create, exit, and join, but there is no fork. 
 
+
 ### Thread Operations
 One model of thread control is keeping thread capabilities to the user, who can add and control threads via a library. The OS is not aware of these user-level threads, and these threads can be very fast. However, since one user typically doesn't spin up multiple processes, there cannot be multiple threads on different cores. Also, when one thread blocks, the entire process blocks. 
 
@@ -41,3 +42,10 @@ Another method is using load and store commands. The acquire function has a vari
 Since none of these methods really work, we'll have the hardware work the load/store operation (since the hardware cannot be interrupted). This is done with ```xchg```, which replaces a variable's value with a value, but returns the old value. Set it to 1 in a loop, and if it returns 0 instead of 1, the lock was released. 
 
 Schedulers are unaware of locks and unlocks, so processes can take advantage of basic spinlocks to permanently lock other processes. However, we can give locks a **ticket**, like a bakery. This is a new command called ```FetchAndAdd```. This is a **hardware primitive** that finds an old value, adds one to it, and returns the new value. 
+
+**Condition variables**: queue of a waiting threads. A process waits by adding itself to the queue with the ```wait``` function. Another function calls ```signal``` for the first process to run. 
+
+This can cause problems if a process sets the ```done```variable to 1 before a process actually calls ```wait```. 
+
+One attempt at fixing this is keeping state variables that can be checked continuously. This is locking with ```Mutex_lock``` and waiting, while the child sends both the signal to unlock *and* the signal to wake up. 
+This breaks when the child doesn't acquire the lock. Notifying a thread that it's done without taking a lock is called a **naked lock**. 
