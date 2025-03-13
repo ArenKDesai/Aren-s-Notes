@@ -5,4 +5,8 @@ Semaphores are primitives designed to handle concurrency. They can be thought of
 3. `sem_post`: Similar to releasing a lock. Increases the value of the semaphore by one and wakes a thread if one is waiting. 
 Semaphores need to be initialized with an in-place `sem_t` (the integer-holding variable), the number 0, and the integer to initialize the semaphore to. 
 
-When the value of the semaphore is negative, it's equal to the number of 
+When the value of the semaphore is negative, it's equal to the number of waiting threads. 
+Example:
+```C
+
+```
