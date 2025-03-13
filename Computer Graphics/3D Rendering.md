@@ -151,6 +151,7 @@ There are three ways to create objects with UVs:
 
 When calling a ```TextureLoader``` image, the mesh starts with a blank image, and fills its texture after loading. This is good since it deals with asynchronous problems for us. 
 
+## Optimizations
 ### Mip-Maps
 Mapping small textures to large objects is difficult. We typically average together all the texture pixels (texels). This is pretty slow, so we either:
 1. Precompute
@@ -161,7 +162,6 @@ One solution: we can estimate the shape as a rectangle, pre-compute the summed a
 
 However, a better solution is to use a **mip-map**. This continuously halves the image and maps the image to the halved size. The program can now use bi-linear interpolation to grab the color of the smallest image, the image of one pixel size. The program can also interpolate between sizes. 
 
-## Optimizations
 ### Faking Normals
 We need the normals of smooth surfaces, but we make objects with a discrete number of sides. We can instead interpolate the normals of a smooth surface so the lighting gives the appearance of a smooth object. 
 
