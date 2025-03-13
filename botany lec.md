@@ -38,6 +38,8 @@ Sexual reproduction starts with **meiosis**, cell division that halves homologou
 Sexual reproduction allows for much greater genetic variation, which is very beneficial for natural selection. However, it requires a lot of energy, and depends on factors like water, temperature, pollinators, etc. 
 Asexual reproduction can take advantage of environmental factors, while sexual reproduction allows for the purging of disadvantageous traits. 
 
+Crossing over, or **recombination**, occurs during prophase. 
+
 ### Plant Life Cycle
 Plants alternate generations. They alternate between **sporophytes** and **gametophytes**. 
 Sporophytes are $2n$ multi-cellular bodies that can generate $2n$ reproductive cells, which undergo meiosis to generate a bunch of $1n$ spores. These grow via mitosis and form a $1n$ multi-cellular body, which generates gametes. 
