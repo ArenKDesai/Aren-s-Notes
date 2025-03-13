@@ -8,5 +8,6 @@ Semaphores need to be initialized with an in-place `sem_t` (the integer-holding 
 When the value of the semaphore is negative, it's equal to the number of waiting threads. 
 Example:
 ```C
-
+sem_t m;
+sem_init(&m, 0, X);
 ```
