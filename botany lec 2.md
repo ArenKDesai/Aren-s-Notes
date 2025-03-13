@@ -3,3 +3,4 @@ No two siblings are identical (besides identical twins), but how do traits get i
 He also discovered the existence of dominant traits. 
 
 Mendel used **cross-pollination** to study inheritance. Normally, pea flowers self-pollinate, creating pure-bred lines. Mendel took the pollen from one plant and transferred it to another, which allowed him to target for traits. 
+He examined seven traits and discovered 
