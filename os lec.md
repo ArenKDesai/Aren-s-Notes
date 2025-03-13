@@ -13,5 +13,5 @@ sem_init(&m, 0, X); // X is integer, like 1
 
 sem_wait(&m);
 // critial section
-sem_post()
+sem_post(&m);
 ```
