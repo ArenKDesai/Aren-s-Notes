@@ -11,12 +11,9 @@ When the value of the semaphore is negative, it's equal to the number of waiting
 Example:
 ```C
 sem_t m;
-sem_init(&m, 0, X); // X is integer, like 1
+sem_init(&m, 0, X); // X is integer, like 
 
 sem_wait(&m);
 // critial section
 sem_post(&m);
 ```
-
-### Producer/Consumer (Bounded Buffer) Problem
-Having a producer / consumer situation can be tricky with semaphores. 
