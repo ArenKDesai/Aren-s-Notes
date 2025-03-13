@@ -1,0 +1,2 @@
+## Genetics
+No two siblings are identical (besides identical twins), but how do traits get 
