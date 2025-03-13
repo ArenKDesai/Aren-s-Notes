@@ -1,2 +1,2 @@
 ## Genetics
-No two siblings are identical (besides identical twins), but how do traits get 
+No two siblings are identical (besides identical twins), but how do traits get inherited? Gregor Mendel
