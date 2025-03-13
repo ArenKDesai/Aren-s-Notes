@@ -4,4 +4,4 @@ He also discovered the existence of dominant traits.
 
 Mendel used **cross-pollination** to study inheritance. Normally, pea flowers self-pollinate, creating pure-bred lines. Mendel took the pollen from one plant and transferred it to another, which allowed him to target for traits. 
 He examined seven traits and discovered which traits were **dominant** (expressed) or **recessive** (masked). This was the F1 generation. 
-He then **selfed** the F1 generation to create the F2 generation and discovered that the recessive traits would show up 25% fo the t
+He then **selfed** the F1 generation to create the F2 generation and discovered that the recessive traits would show up 25% of the time. 
