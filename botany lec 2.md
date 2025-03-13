@@ -7,4 +7,4 @@ He examined seven traits and discovered which traits were **dominant** (expresse
 He then **selfed** the F1 generation to create the F2 generation and discovered that the recessive traits would show up 25% of the time. 
 He defined the **Law of Dominance** as the law defining that the expressive allels are dominant and the masked trait is recessive. The law that some allels are separated into gametes was defined the **Law of Segregation**. 
 
-In summary, a **trait** is coded for by a **gene**, which is located in the **locus** 
+In summary, a **trait** is coded for by a **gene**, which is located in the **locus** on the **chromosome**. The **alleles** code for different tra
