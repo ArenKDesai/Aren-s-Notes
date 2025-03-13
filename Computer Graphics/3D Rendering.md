@@ -83,6 +83,11 @@ There are three standard lighting effects to track:
 3. **Ambient**: Light comes off from all objects. This replicates ambient light in real life, but isn't the same thing. We control the color and amount of ambient light. 
 Light details can be metallic (specular is same color) or plastic (specular is white). 
 
+When light hits a mesh, it diffuses down the mesh on dull objects. This is a **Lambertian** Material, which scatters light in all directions (regardless of where you are looking from). 
+The diffuse reflection is $r_{\text{diffuse}}=\hat{n}\cdot \hat{l}$, which are the **amount of diffuse reflection**, the unit surface normal, and the unit vector to the light source respectively. We can expand this with $\text{color}=r_{\text{diffuse}}\cdot c_{\text{light}}\cdot c_d$, which are the color, amount of diffuse reflection, color/intensity of the light (constant), and the color of the material (constant) respectively. 
+
+For shiny objects, the angle of light is equal to the angle of reflection. We categorize $\hat{e}$ as the eyesight vector. 
+
 ### Colors
 The color of an object is the color the object *reflects*. This means we can define the **albedo** as the color of the object's surface, which is modified by the color of the light to produce the reflected color. This is a simple multiplication, $C_S\cdot C_L$. 
 Colors in Three.js are a ```Color``` class that converts to RGB. 

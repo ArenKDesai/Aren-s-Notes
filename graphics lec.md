@@ -5,15 +5,7 @@
 ## Lighting
 
 
-### Phong Model
-You can make a good-looking hack of a mirror with:
-$r_\text{specular}=(\hat{e}\cdot \hat{r})^p$
-which are the amount of specular reflection, eye vector, reflection vector, and shininess property respectively. Another version is: 
-$r_\text{specular}=(\hat{n}\cdot \hat{h})^p$
-where $\hat{n}$ and $\hat{h}$ are the normal vector and half-way vector (between $\hat{l}$ and $\hat{e}$. This helps approximate the normal without actually having it. 
 
-### Shadow Mapping
-How do we compute where to place shadows? We take a picture from the light source's POV and check what objects are visible to the light source. For each pixel on an object, we need to see if the pixel is visible in the shadow map by referencing it with the camera's image. 
 
 ## Textures
 Here's how you use textures in Three.js:
