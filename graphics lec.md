@@ -1,22 +1,4 @@
-In Three.js, a "mesh" is a class that represents a geometric object. It includes:
-- a ```BufferGeometry``` (collection of triangles)
-- a ```Material```
 
-A ```BufferGeometry``` is a list of vertices that represents triangles. Each vertex has attributes, such as position, normals, colors, **connectivity** / **topology**, etc. The data is stored in blocks of memory with a "name" for referencing. 
-These buffer geometries aren't very intuitive, but they work efficiently with GPUs, so Three.js doesn't bother with abstraction. 
-```JavaScript
-const geom = new T.BufferGeometry();
-
-const mem = new Float32Array([...]);
-const buf = new T.BufferAttribute(mem, 3);
-geom.setAttribute("position", buf);
-
-const cmem = new Float32Array([...]);
-const geom.setAttribute("color", new T.BufferAttribute(cmem, 3));
-
-const nmem = ...
-geom.setAttribute("normal", new T.BufferAttribute(nmem, 3));
-```
 
 ### Colors
 The color of an object is the color the object *reflects*. This means we can define the **albedo** as the color of the object's surface, which is modified by the color of the light to produce the reflected color. This is a simple multiplication, $C_S\cdot C_L$. 
