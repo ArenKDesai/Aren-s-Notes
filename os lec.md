@@ -9,5 +9,7 @@ When the value of the semaphore is negative, it's equal to the number of waiting
 Example:
 ```C
 sem_t m;
-sem_init(&m, 0, X);
+sem_init(&m, 0, X); // X is integer, like 1
+
+sem_wait()
 ```
