@@ -26,7 +26,7 @@ Plants are eukaryotic (advanced), multicellular, sessile (arose from unicellular
 Trees are woody plants with a single dominant stem. Shrubs have multiple stems, and herbs don't have wood. 
 Animals, on the other hand, don't have structure, and rely on bones. 
 
-Plants also conduct photosynthesis using chlorophyll (photoautotrophic, as opposed to heterotrophic or regularly autotrophic). They have an "alternation of generations" where their life cycle includes haploid gametophyte & diploid sporophyte
+Plants also conduct photosynthesis using chlorophyll (photoautotrophic, as opposed to heterotrophic or regularly autotrophic). They have an "alternation of generations" where their life cycle includes haploid gametophyte & diploid sporophyte. 
 
 However, epiphytes are plants not rooted in soil for all or part of their life. Typically, this is other plants or man-made structures. 
 Cacti are photosynthetic with a water-storing stem that has spines for leaves. 
