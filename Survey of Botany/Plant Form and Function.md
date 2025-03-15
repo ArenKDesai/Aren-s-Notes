@@ -98,3 +98,18 @@ Think of lily pad. The stomata are typically on the upper surface on the floatin
 These have adaptations to minimize water loss. This is usually a thick epidermis and cuticle, stomata sunken into cryptes, and energy being allocated to the roots. 
 
 One interesting xerophyte is **cacti** and other **succulents**. These have water-storing tissues to keep as much water as possible. Cacti have leaves modified into spines that reduce water loss and defend the plant, while the stem conducts photosynthesis and store water. Other succulents have thick water-storing leaves as well, and may be moderately spiny. Most succulents have CAM ([[Plant Cells]]) photosynthesis. 
+
+## Plant Reproduction and Life Cycles
+As mentioned previously, there are two main types of reproduction for plants:
+1. Angiosperms: use flowers to produce seeds
+2. Gymnosperms: make seeds w/ no flowers. Instead, cones
+Seedless plants (ferns and mosses) disperse offspring w/ **spores**. 
+For reproduction in flowers:
+- Sperm is in pollen from **anthers** (end bits of flower tendrils, which are the **stamen**)
+- **Ovules** (w/ eggs) are in ovary
+- Pollination transfers pollen to ovules
+- Fertilization fuses egg & sperm
+- Embryo in is in seed, which is in fruit
+Not all plants have flowers, and not all reproduction is sexual. For example, ferns use spores. Some plants can reproduce sexually and non-sexually. 
+
+All prokaryotes are asexual. They do not have reproductive organs, and instead just kinda divide. Prokaryotes, like green algae, under mitosis, send out **zoospores** and undergo mitosis again. 
