@@ -84,9 +84,9 @@ Some have seasonal growth, where annual periods of freezing or drought don't all
 
 ## Plant Habitats
 There are three types of plants that cover habitats:
-1. Mesophytes: Live in moderately moist environments
-2. Hydrophytes: plants that live in or partly in water
-3. Xerophytes: plants that live in arid environments
+1. **Mesophytes**: Live in moderately moist environments
+2. **Hydrophytes**: plants that live in or partly in water
+3. **Xerophytes**: plants that live in arid environments
 
 ### Mesophytes
 There are typically more adaptions for light rather than water. There can be a lot of shade that disallows lower leaves to produce energy. This separates leaves into **sun leaves** and **shade leaves**. 
