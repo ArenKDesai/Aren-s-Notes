@@ -1,6 +1,5 @@
 #botany #UWMadison #botany100 
 ## Botany Basics
-
 Botany studies plants, algae, and fungi. It includes plant ecology, anatomy, physiology, economic botany, ethnobotany, mycology, phycology, etc. Applied botany includes agronomy, horticulture, forestry, etc. 
 
 Photosynthesis can be summarized into the formula: $6CO_2+12H_2O->C_6H_{12}O_6+6O_2+6H_2O$
@@ -23,7 +22,6 @@ Protists are organisms that are not bacteria, archea, fungi, animals, or plants.
 7. Species
 
 ## Onto Plants
-
 Plants are eukaryotic (advanced), multicellular, sessile (arose from unicellular ancestors) organisms. They have rigid cell walls of cellulose that animal cells don't have. 
 Trees are woody plants with a single dominant stem. Shrubs have multiple stems, and herbs don't have wood. 
 Animals, on the other hand, don't have structure, and rely on bones. 
