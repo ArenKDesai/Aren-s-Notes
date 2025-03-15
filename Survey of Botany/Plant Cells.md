@@ -1,7 +1,8 @@
+#botany #botany100 #UWMadison 
 
 All cells have a cell membrane, cytoplasm, ribosomes, and DNA. However, only prokaryotes are smaller and less complex, have no nucleus (DNA floats around), no organelles, and are always unicellular. Only Eukaryotes have are larger and more complex, have DNA in a nucleus, diverse organelles, and mostly are multicellular. 
 
-Endosynmiont theory states that organelles inside eukaryotes originated from bacteria. Cyanobacteria were engulfed but not digested, as they could undergo photosynthesis. 
+Endosymbiont theory states that organelles inside eukaryotes originated from bacteria. Cyanobacteria were engulfed but not digested, as they could undergo photosynthesis. 
 
 ### Nucleotides
 Nucleotides = N-base + 5C sugar + phosphate
