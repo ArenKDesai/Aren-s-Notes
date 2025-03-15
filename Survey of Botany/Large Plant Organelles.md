@@ -62,3 +62,9 @@ The **apical meristem** gives rise to ground, vascular, and epidermal tissues. I
 
 ### Gravitropism
 The root can sense gravity through starch grains sinking to the bottom of the cell. This occurs in root cap **amyloplasts**. It triggers the release of growth hormones. 
+
+## Stems
+The stem often takes a pattern in the middle of a large pool of stuff. 
+Xylem is the stuff that conducts water in a root. Phloem conducts nutrients.
+Wood is produced by the vascular cambium and is made of secondary xylem. The paricycle produces produces lateral roots. 
+Monocot stems have scattered vessels of xylem and phloem that aggregates near the sides. They can't grow laterally because they don't have the organelles for it. 

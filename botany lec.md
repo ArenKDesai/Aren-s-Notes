@@ -1,20 +1,7 @@
 ## Review
 
 
-## Plant Reproduction and Life Cycles
-As mentioned previously, there are two main types of reproduction for plants:
-1. Angiosperms: use flowers to produce seeds
-2. Gymnosperms: make seeds w/ no flowers. Instead, cones
-Seedless plants (ferns and mosses) disperse offspring w/ **spores**. 
-For reproduction in flowers:
-- Sperm is in pollen from **anthers** (end bits of flower tendrils, which are the **stamen**)
-- **Ovules** (w/ eggs) are in ovary
-- Pollination transfers pollen to ovules
-- Fertilization fuses egg & sperm
-- Embryo in is in seed, which is in fruit
-Not all plants have flowers, and not all reproduction is sexual. For example, ferns use spores. Some plants can reproduce sexually and non-sexually. 
 
-All prokaryotes are asexual. They do not have reproductive organs, and instead just kinda divide. Prokaryotes, like green algae, under mitosis, send out **zoospores** and undergo mitosis again. 
 
 ### Asexual Reproduction
 Produces genetically identical offspring (clones) via mitosis ([[Plant Cells]]). There are a few common methods:
