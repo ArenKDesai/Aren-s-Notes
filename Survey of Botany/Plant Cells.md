@@ -11,7 +11,7 @@ Deoxyribonucleic acid = DNA (the genetic code) contains 4 bases: Adenine, Guanin
 RNA (Ribonucleic acid) replaces Thymine with Uracil. RNA is usually in a single chain. 
 Dehydration synthesis forms DNA. 
 Amino acids have an R group and a carboxyl group
-nucleic acids have a long hydrocarbon tail
+Nucleic acids have a long hydrocarbon tail
 
 Amino acid chains for peptide bonds (polypeptides). 20 amino acids are defined by R-group. 
 Structural proteins rely on enzymes to turn things on/off. 
