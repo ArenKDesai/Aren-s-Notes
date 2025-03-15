@@ -18,7 +18,7 @@ Structural proteins rely on enzymes to turn things on/off.
 
 DNA and RNA are made of nucleotides (N-base + 5C sugar + phosphate). DNA contains the AT / CG pairs and is double stranded (unless undergoing polymerase stripping). RNA swaps T(hymine) for U(racil), and is a single strand. 
 
-**exons** are sets of useful DNA and **introns** are useless. DNA is wound around histomes. 
+**Exons** are sets of useful DNA and **introns** are useless. DNA is wound around histomes. 
 Structural Genes: regions of the DNA that code for a particular protein. Usually 1000 kilobases long. Some traits are controlled via >1 gene. Each amino acid is coded by 3 nucleotides, known as a **triplet codon**. 
 
 ### Eukaryotes
