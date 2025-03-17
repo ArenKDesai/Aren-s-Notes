@@ -65,6 +65,6 @@ The root can sense gravity through starch grains sinking to the bottom of the ce
 
 ## Stems
 The stem often takes a pattern in the middle of a large pool of stuff. 
-Xylem is the stuff that conducts water and minerals in a root and moves it to the leaves. Phloem transports sugars made via photosynthesis from the leaves and transports it to the rest of the plant.
+**Xylem** is the stuff that conducts water and minerals in a root and moves it to the leaves. **Phloem** transports sugars made via photosynthesis from the leaves and transports it to the rest of the plant.
 Wood is produced by the vascular cambium and is made of secondary xylem. The paricycle produces produces lateral roots. 
 Monocot stems have scattered vessels of xylem and phloem that aggregates near the sides. They can't grow laterally because they don't have the organelles for it. 
