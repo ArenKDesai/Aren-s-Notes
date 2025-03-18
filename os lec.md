@@ -16,8 +16,8 @@ Example:
 ```
 while (STATUS == BUSY)
 	wait for interrupt;
-Write data to DATA register
-write command to COMMAND register
+write data to DATA register;
+write command to COMMAND register;
 while (STATUS == BUSY)
 	wait for interrupt;
 ```
