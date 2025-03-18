@@ -3,3 +3,5 @@ The CPU and RAM are connected to the memory bus, which rests on the general I/O 
 **PCIe** is the (common) bus that can interact with the CPU through the **I/O chip**. It's typically the connection between the CPU and the network. 
 **eSATA** is the same thing but with disks instead of network. 
 Devices like the keyboard and mouse can interact directly with I/O chip. 
+
+### The C
