@@ -34,4 +34,4 @@ Each device has it's own I/O specifications. These are described in device drive
 
 ### Hard Drives
 Hard drives include the disk (which holds the data) and the arm (which writes the data). The time it takes for the arm to write the data includes the seek, rotation, and transfer time. In other words, the arm must position itself and slow down, the disk must rotate, and the arm must write. 
-Seek time is ~4 milliseconds. Rotation is 4-8 milliseconds. Tran
+Seek time is ~4 milliseconds. Rotation is 4-8 milliseconds. Transfer is ~5 milliseconds per k
