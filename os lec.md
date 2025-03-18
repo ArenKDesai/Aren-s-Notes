@@ -14,4 +14,4 @@ If the device is fast, the overhead from an interrupt can be more time than the 
 
 ### Data Protocol
 There are two paradigms: Programmed I/O or Direct Memory Access. 
-Programmed I/O (PIO) 
+Programmed I/O (PIO) is where the CPU directly tells the device what the 
