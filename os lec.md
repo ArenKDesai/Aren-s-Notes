@@ -40,4 +40,5 @@ When the disk head (or arm head) is in the wrong place, it is 3,400x slower to r
 ### Solid State Drives
 Solid state drives (SSDs) include a NAND flash block, which is a grid of cells. There are three levels:
 1. Single Level Cell (SLC): 1 bit per cell (fast, reliable)
-2. Multi Le
+2. Multi Level Cell (MLC): 2 bits (slower, less reliable)
+3. Triple l
