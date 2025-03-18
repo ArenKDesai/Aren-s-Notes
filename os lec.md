@@ -10,4 +10,4 @@ The device also has hidden internals, including a CPU and RAM. Depending on the 
 
 A write protocol looks similar to an exchange lock ([[Concurrency]]). Wait for status to not be busy, write data, write command, and wait again. These wait instructions often wait for an interrupt so someone else can use the CPU. 
 This introduces a tradeoff. Are interrupts better than polling? 
-If the device is fast, the overhead from an interrupt can be more time than the polling. If the device is slow or the time is unknown, than either interrupts or a hybrid approach 
+If the device is fast, the overhead from an interrupt can be more time than the polling. If the device is slow or the time is unknown, than either interrupts or a hybrid approach works. 
