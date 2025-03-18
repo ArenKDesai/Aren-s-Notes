@@ -9,4 +9,5 @@ A device has registers: **status**, **command**, and **data**. The OS can use lo
 The device also has hidden internals, including a CPU and RAM. Depending on the device, this is often a microcontroller. 
 
 A write protocol looks similar to an exchange lock ([[Concurrency]]). Wait for status to not be busy, write data, write command, and wait again. These wait instructions often wait for an interrupt so someone else can use the CPU. 
-This introduces a tradeoff. Are interrupts better than 
+This introduces a tradeoff. Are interrupts better than polling? 
+If the device is fast, the i
