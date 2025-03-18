@@ -15,10 +15,11 @@ If the device is fast, the overhead from an interrupt can be more time than the 
 Example:
 ```
 while (STATUS == BUSY)
-	wait for interrupt
+	wait for interrupt;
 Write data to DATA register
 write command to COMMAND register
-while (STATUS == BU)
+while (STATUS == BUSY)
+	wait for interrupt;
 ```
 
 ### Data Protocol
