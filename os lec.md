@@ -6,4 +6,4 @@ Devices like the keyboard and mouse can interact directly with I/O chip.
 
 ### The Canonical Device Diagram
 A device has registers: **status**, **command**, and **data**. The OS can use load/store instructions on the physical address space of the devices through these registers. These registers are available to the OS. 
-The device also has hidden internals, 
+The device also has hidden internals, including a CPU and RAM. 
