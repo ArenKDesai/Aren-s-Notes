@@ -30,4 +30,4 @@ Direct Memory Access (DMA) is where the CPU leaves the data in memory, and the d
 Another option is having an I/O queue. In the queue, you enter the description of your command (read, write, etc). The OS can aggregate the commands in the queue. 
 
 ### Device Drivers
-Each device has it's own I/O specifications. These are described in device drivers. The OS uses these device drivers to talk with the dev
+Each device has it's own I/O specifications. These are described in device drivers. The OS uses these device drivers to talk with the device. 
