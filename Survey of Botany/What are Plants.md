@@ -47,11 +47,11 @@ To be considered a plant, typically:
 Plants are known as embryophytes since they possess embryos. 
 
 ### Flowering Plants
-Angiosperms are flowering plants. Think stems, leaves, roots, flowers, fruits, buds, etc. Flowering plants gradually produce something that falls or gets picked off. Buds are the growing points, where branches, fruits, flowers, etc. grow from. 
-Non-angiosperms are gymnosperms, which produce seeds but no flowers. 
-Pteridophytes (ferns) don't have seeds or flowers. They have spores. 
-Lycophytes (club mosses) have spores, but no flowers, seeds, and no leaves. 
-Finally, bryophytes (mosses) have no vascular tissue, flowers, seeds, etc. 
+**Angiosperms** are flowering plants. Think stems, leaves, roots, flowers, fruits, buds, etc. Flowering plants gradually produce something that falls or gets picked off. Buds are the growing points, where branches, fruits, flowers, etc. grow from. 
+Non-angiosperms are **gymnosperms**, which produce seeds but no flowers. 
+**Pteridophytes** (ferns) don't have seeds or flowers. They have spores. 
+**Lycophytes** (club mosses) have spores, but no flowers, seeds, and no leaves. 
+Finally, **bryophytes** (mosses) have no vascular tissue, flowers, seeds, etc. 
 
 ## Origin of Plants
 541,000,000 years ago, the Phanerozoic era started. The land was barren of any plants or animals. Ocean was mostly single-celled organisms. There was no ozone. 
