@@ -12,7 +12,9 @@ A write protocol looks similar to an exchange lock ([[Concurrency]]). Wait for s
 This introduces a tradeoff. Are interrupts better than polling? 
 If the device is fast, the overhead from an interrupt can be more time than the polling. If the device is slow or the time is unknown, than either interrupts or a hybrid approach works. Sometimes, if network cards are too fast and there are too many interrupts, the CPU can spend all its time on interrupt handling. In this case, we can ignore the interrupt handler for a bit. Another option is **interrupt coalescing**, or bundling interrupts together and writing to the data / command registers for multiple interrupts at a time. 
 
+Exa
+
 ### Data Protocol
 There are two paradigms: Programmed I/O or Direct Memory Access. 
 Programmed I/O (PIO) is where the CPU directly tells the device what the data is. 
-Direct Memory Access (DMA) is where the CPU leaves the data in memory, and the device reads that data from memory. This transfer the reading cost from the CPU to the device. DMA removes the "write data to the DATA register" step on the device's main loo
+Direct Memory Access (DMA) is where the CPU leaves the data in memory, and the device reads that data from memory. This transfer the reading cost from the CPU to the device. DMA removes the "write data to the DATA register" step on the device's main loop. 
