@@ -28,3 +28,5 @@ Programmed I/O (PIO) is where the CPU directly tells the device what the data is
 Direct Memory Access (DMA) is where the CPU leaves the data in memory, and the device reads that data from memory. This transfer the reading cost from the CPU to the device. DMA removes the "write data to the DATA register" step on the device's main loop. 
 
 Another option is having an I/O queue. In the queue, you enter the description of your command (read, write, etc). The OS can aggregate the commands in the queue. 
+
+### 
