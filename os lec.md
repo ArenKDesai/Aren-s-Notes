@@ -31,3 +31,6 @@ Another option is having an I/O queue. In the queue, you enter the description o
 
 ### Device Drivers
 Each device has it's own I/O specifications. These are described in device drivers. The OS uses these device drivers to talk with the device. 
+
+### Hard Drives
+Hard drives include the disk (which holds the data) and the spindle 
