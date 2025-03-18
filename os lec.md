@@ -4,4 +4,5 @@ The CPU and RAM are connected to the memory bus, which rests on the general I/O 
 **eSATA** is the same thing but with disks instead of network. 
 Devices like the keyboard and mouse can interact directly with I/O chip. 
 
-### The C
+### The Canonical Device Diagram
+A device has regis
