@@ -43,3 +43,4 @@ Solid state drives (SSDs) include a NAND flash block, which is a grid of cells. 
 2. Multi Level Cell (MLC): 2 bits (slower, less reliable)
 3. Triple Level Cell (TLC): 4 bite (even more so)
 Writing to the SSD consists of erasing (setting all bits to 1) and programming (clearing some bits). Re-writing a block, even in partial, requires the device to clear the entire block. This works in one page at a time. 
+Reading an SSD is a NAND operation with a page selection. This is 100x faster than a write operation. 
