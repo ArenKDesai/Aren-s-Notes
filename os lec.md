@@ -8,4 +8,4 @@ Devices like the keyboard and mouse can interact directly with I/O chip.
 A device has registers: **status**, **command**, and **data**. The OS can use load/store instructions on the physical address space of the devices through these registers. These registers are available to the OS. 
 The device also has hidden internals, including a CPU and RAM. Depending on the device, this is often a microcontroller. 
 
-A write protocol looks similar to an exchange lock ([[Concurrency]]). Wait for status to not be busy, write data, write command, and wait again. This can cause
+A write protocol looks similar to an exchange lock ([[Concurrency]]). Wait for status to not be busy, write data, write command, and wait again. 
