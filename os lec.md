@@ -38,4 +38,5 @@ Seek time is ~4 milliseconds. Rotation is 4-8 milliseconds. Transfer is ~5 milli
 When the disk head (or arm head) is in the wrong place, it is 3,400x slower to reach the correct location. 
 
 ### Solid State Drives
-Solid state drives (SSDs) include a NAND flash block, which is a grid of cells. Each cell 
+Solid state drives (SSDs) include a NAND flash block, which is a grid of cells. There are three levels:
+1. Single Level Cell (SLC)
