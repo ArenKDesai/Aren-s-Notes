@@ -16,7 +16,9 @@ Example:
 ```
 while (STATUS == BUSY)
 	wait for interrupt
-Write DAT
+Write data to DATA register
+write command to COMMAND register
+while (STATUS == BU)
 ```
 
 ### Data Protocol
