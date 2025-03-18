@@ -5,4 +5,4 @@ The CPU and RAM are connected to the memory bus, which rests on the general I/O 
 Devices like the keyboard and mouse can interact directly with I/O chip. 
 
 ### The Canonical Device Diagram
-A device has registers: status, command, and data. The OS can use load/store instructions on the physical address space of the devic
+A device has registers: status, command, and data. The OS can use load/store instructions on the physical address space of the devices through these registers. 
