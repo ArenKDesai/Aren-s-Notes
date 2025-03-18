@@ -15,4 +15,4 @@ If the device is fast, the overhead from an interrupt can be more time than the 
 ### Data Protocol
 There are two paradigms: Programmed I/O or Direct Memory Access. 
 Programmed I/O (PIO) is where the CPU directly tells the device what the data is. 
-Direct Memory Access (DMA) is where the CPU leaves the data in memory, and the device reads that data f
+Direct Memory Access (DMA) is where the CPU leaves the data in memory, and the device reads that data from memory. This can be useful for saving time on the CPU at the cost of the device 
