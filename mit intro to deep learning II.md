@@ -6,4 +6,4 @@ This is an example for a sequencing problem. Imagine we have this sentence:
 "This morning I took my cat for a \_\_\_\_."
 The next word is *walk*, but the model doesn't know that. How do we get it to guess?
 
-First, we need to represent words as numbers. This is so the neural network can understand and predict words. This is also kno
+First, we need to represent words as numbers. This is so the neural network can understand and predict words. This is also known as **encoding**. 
