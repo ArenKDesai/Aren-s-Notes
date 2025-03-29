@@ -1,2 +1,2 @@
 ## Sequences
-In order to model sequences, they need to 
+In order to model sequences, we need to be able to handle variable-length (non-fixed lengt)
