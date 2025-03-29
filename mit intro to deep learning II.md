@@ -3,4 +3,4 @@ In order to model sequences, we need to be able to handle variable-length (non-f
 
 ### Predict the Next Word
 This is an example for a sequencing problem. Imagine we have this sentence:
-"This morning I took my cat for a ."
+"This morning I took my cat for a \_\_\_\_."
