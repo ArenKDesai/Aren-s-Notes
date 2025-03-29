@@ -8,3 +8,4 @@ The next word is *walk*, but the model doesn't know that. How do we get it to gu
 
 First, we need to represent words as numbers. This is so the neural network can understand and predict words. This is also known as **encoding**. 
 One idea for doing this is by creating a **vocabulary** of all words that the model will understand, index all words into a vector (so *a* might be 0, *cat* might 1, etc.). Finally, we can embed the indices of those words into a one-hot encoded vector. 
+Alternately, we can use a neural network to 
