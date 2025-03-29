@@ -4,3 +4,6 @@ In order to model sequences, we need to be able to handle variable-length (non-f
 ### Predict the Next Word
 This is an example for a sequencing problem. Imagine we have this sentence:
 "This morning I took my cat for a \_\_\_\_."
+The next word is *walk*, but the model doesn't know that. How do we get it to guess?
+
+First, we need to represent words as numbers. This is so the neur
