@@ -11,3 +11,4 @@ One idea for doing this is by creating a **vocabulary** of all words that the mo
 Alternately, we can use a neural network to map words to an embedded state. 
 
 ### Backpropagation through time
+The backpropagation takes the deri
