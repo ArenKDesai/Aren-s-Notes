@@ -11,4 +11,4 @@ One idea for doing this is by creating a **vocabulary** of all words that the mo
 Alternately, we can use a neural network to map words to an embedded state. 
 
 ### Backpropagation through Time
-The backpropagation takes the derivative of the loss with respect to each parameter and shifts those parameters in order to minimize loss. 
+The backpropagation takes the derivative of the loss with respect to each parameter and shifts those parameters in order to minimize loss. Both the forward and backward pass are included for Recurrent Neural Networks (RNNs), but there's another step of 
