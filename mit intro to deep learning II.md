@@ -25,4 +25,4 @@ A better way to make RNNs is to utilize **attention**, which consists of:
 2. Extracting those features with high attention
 We can compute the search as such:
 3. Compute the attention mask. How similar is each "key" to the desired "query"?
-Next, we want to identify and attend 
+Next, we want to identify and attend to the most important features in teh 
