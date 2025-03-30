@@ -20,4 +20,5 @@ There's a problem, though. This is **exploding and vanishing gradients**, which 
 RNNs are slow and, since they rely on iterative time-steps, cannot be parallelized. Long-term memory is a struggle, too. 
 
 ## Attention
-A better way to make RNNs is to utilize **attention**, whi
+A better way to make RNNs is to utilize **attention**, which consists of:
+1. 
