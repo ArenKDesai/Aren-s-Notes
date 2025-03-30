@@ -32,3 +32,4 @@ Next, we want to identify and attend to the most important features in the input
 $\text{softmax}(\frac{Q\cdot K^T}{\text{scaling}})$
 7. Extract features with high attention. 
 ![[Screenshot 2025-03-30 160056.png]]
+All of these operations form the **self-attention head** that can be input into a larger network, where each head attends to different parts of an input. 
