@@ -14,4 +14,4 @@ Alternately, we can use a neural network to map words to an embedded state.
 The backpropagation takes the derivative of the loss with respect to each parameter and shifts those parameters in order to minimize loss. Both the forward and backward pass are included for Recurrent Neural Networks (RNNs), but there's another step of backpropagating through time steps as well. 
 
 ## Long-Short Term Memory (LSTM) Networks
-There's a problem, though. This is **exploding and vanishing gradients**, which occur when large models with long-term dependencies fall into extremely large or small numbers in the gradient that lose value. These
+There's a problem, though. This is **exploding and vanishing gradients**, which occur when large models with long-term dependencies fall into extremely large or small numbers in the gradient that lose value. This can be fixed with LSTMs that rely on a 
