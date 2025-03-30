@@ -10,5 +10,5 @@ First, we need to represent words as numbers. This is so the neural network can 
 One idea for doing this is by creating a **vocabulary** of all words that the model will understand, index all words into a vector (so *a* might be 0, *cat* might 1, etc.). Finally, we can embed the indices of those words into a one-hot encoded vector. For example, *a* might be $[1, 0, 0, ..., 0]$, *cat* might be $[0, 1, 0, ..., 0]$, etc. 
 Alternately, we can use a neural network to map words to an embedded state. 
 
-### Backpropagation through time
+### Backpropagation through Time
 The backpropagation takes the derivative of the loss with respect to each parameter and shifts those parameters in order to minimize loss. 
