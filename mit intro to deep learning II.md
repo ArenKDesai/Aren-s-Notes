@@ -31,3 +31,4 @@ Next, we want to identify and attend to the most important features in the input
 6. Compute **attention weighting**. The weight indicates where we should attend to. Here's a sample equation:
 $\text{softmax}(\frac{Q\cdot K^T}{\text{scaling}})$
 7. Extract features with high attention. This allows us to 
+![[Screenshot 2025-03-30 160056.png]]
