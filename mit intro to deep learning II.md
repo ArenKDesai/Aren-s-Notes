@@ -15,3 +15,6 @@ The backpropagation takes the derivative of the loss with respect to each parame
 
 ## Long-Short Term Memory (LSTM) Networks
 There's a problem, though. This is **exploding and vanishing gradients**, which occur when large models with long-term dependencies fall into extremely large or small numbers in the gradient that lose value. This can be fixed with LSTMs that rely on a gated cell to track information through time steps. 
+
+### RNN problems
+RNNs are slow and, since they rely on iterative time-steps, cannot be paral
