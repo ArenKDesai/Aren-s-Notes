@@ -30,4 +30,4 @@ Next, we want to identify and attend to the most important features in the input
 5. Extract **query**, **key**, and the **value** for search. 
 6. Compute **attention weighting**. The weight indicates where we should attend to. Here's a sample equation:
 $\text{softmax}(\frac{Q\cdot K^T}{\text{scaling}})$
-7. Extract features with high attention. 
+7. Extract features with high attention. This allows us to 
