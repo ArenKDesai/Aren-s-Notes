@@ -23,3 +23,5 @@ RNNs are slow and, since they rely on iterative time-steps, cannot be paralleliz
 A better way to make RNNs is to utilize **attention**, which consists of:
 1. Identifying which parts of a dataset (image, for example) to attend to. This is similar to a search problem
 2. Extracting those features with high attention
+We can compute the search as such:
+3. Compute the attention mask. How similar is each "key" to the desired "query"?
