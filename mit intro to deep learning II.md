@@ -28,4 +28,5 @@ We can compute the search as such:
 Next, we want to identify and attend to the most important features in the input. To do this:
 4. Encode **position** information (such as location of words in a phrase)
 5. Extract **query**, **key**, and the **value** for search. 
-6. Compute **attention weighting**. The weight indicates where we should attend to. For example, 
+6. Compute **attention weighting**. The weight indicates where we should attend to. Here's the equation:
+$softmax$
