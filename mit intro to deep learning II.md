@@ -21,4 +21,5 @@ RNNs are slow and, since they rely on iterative time-steps, cannot be paralleliz
 
 ## Attention
 A better way to make RNNs is to utilize **attention**, which consists of:
-1. Identifying which parts of a dataset (image, for exa)
+1. Identifying which parts of a dataset (image, for example) to attend to
+2. Extracting those features with high attention
