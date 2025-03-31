@@ -15,5 +15,5 @@ y = ...
 skf = StratifiedKFold(n_splits=int, shuffle=True, random_state=int)
 
 for train_index, test_index in skf.split(x, y):
-	x_train_fold, x
+	x_train_fold, x_test_fold = x[train_index]
 ```
