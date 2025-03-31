@@ -1,3 +1,4 @@
+#MIT #DeepLearning #ML
 
 Extended from [[Neural Networks]]. 
 We can keep the hidden layer the same, but isolate each input $x_t$ to run sequentially instead of parallel. Next, while we still compute the outputs $\hat{y}$ of the neurons (perceptrons), we also send the output of the hidden layer $h$ to the next sequential neuron. This idea is **recurrence** in neural networks, modelled by the function:
