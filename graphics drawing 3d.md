@@ -3,3 +3,4 @@ We don't program directly with the hardware. We work in abstracted environments,
 
 An appearance is defined by the surface color and light color, which are controlled by both local and global lighting. The shadowing on an object is global, and the albedo of an object is local. 
 
+Each light point contributes either simple (light is 1 direction and color0 )
