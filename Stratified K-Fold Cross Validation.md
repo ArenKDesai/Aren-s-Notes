@@ -12,5 +12,5 @@ from sklearn.model_selection import StratifiedKFold
 
 x = ...
 y = ...
-
+skf = St
 ```
