@@ -1,3 +1,3 @@
 #CrossValidation #Statistics 
 
-Referencing the 
+Referencing the [GeeksForGeeks article](https://www.geeksforgeeks.org/stratified-k-fold-cross-validation/#). 
