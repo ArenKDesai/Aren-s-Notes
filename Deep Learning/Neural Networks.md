@@ -13,6 +13,7 @@ Examples of basic modelling tasks include:
 - Image Captioning (1-$N$): Modelling one input to a few outputs. For example, writing the description for an image. 
 - Machine Translation ($N$-$M$): Mapping many inputs to many outputs. For example, translating one language to another. 
 However, we can't take advantage of sequential time steps this way.  
+In order to model sequences, we need to be able to handle variable-length (non-fixed length) sequences. They also need to track long-term dependencies, where a variable at a smaller time step may influence an outcome near the end of the time steps. Order needs to be maintained, and parameters need to be shared across the sequence. 
 
 ### Recurrent Neural Networks
 We can keep the hidden layer the same, but isolate each input $x_t$ to run sequentially instead of parallel. Next, while we still compute the outputs $\hat{y}$ of the neurons (perceptrons), we also send the output of the hidden layer $h$ to the next sequential neuron. This idea is **recurrence** in neural networks, modelled by the function:
