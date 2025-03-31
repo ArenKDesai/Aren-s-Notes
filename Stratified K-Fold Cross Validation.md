@@ -8,5 +8,5 @@ However, this fails if the classes we're modelling for are unbalanced. For examp
 
 Thus, we use **stratified k-fold cross validation**, which splits the dataset into $K$ folds that hold the correct ratio of categories. In Python, this looks like:
 ```Python
-
+from sklearn.model_selection import StratifiedKFold
 ```
