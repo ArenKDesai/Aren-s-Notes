@@ -24,6 +24,7 @@ Con: Takes a lot of time and resources.
 
 ## K-fold Cross Validation
 Randomly divide the data into K folds. For each fold, train the model on the rest of the data, then validate on the fold. This is a good medium with comparatively less variance. 
+Better version of this covered in 
 
 ## Best Subset Selection
 Fit literally every possible combination of variables, and keep the best. This is highly computationally expensive, but will result in the overall best model (measured by RSS). 
