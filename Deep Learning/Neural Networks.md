@@ -15,6 +15,8 @@ Examples of basic modelling tasks include:
 However, we can't take advantage of sequential time steps this way.  
 In order to model sequences, we need to be able to handle variable-length (non-fixed length) sequences. They also need to track long-term dependencies, where a variable at a smaller time step may influence an outcome near the end of the time steps. Order needs to be maintained, and parameters need to be shared across the sequence. 
 
+We can do all this with [[Recurrent Neural Networks]]
+
 ### Recurrent Neural Networks
 We can keep the hidden layer the same, but isolate each input $x_t$ to run sequentially instead of parallel. Next, while we still compute the outputs $\hat{y}$ of the neurons (perceptrons), we also send the output of the hidden layer $h$ to the next sequential neuron. This idea is **recurrence** in neural networks, modelled by the function:
 $\hat{y}_t=f(x_t,h_{t-1})$
