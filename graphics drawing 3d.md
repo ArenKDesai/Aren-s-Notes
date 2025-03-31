@@ -5,4 +5,4 @@ An appearance is defined by the surface color and light color, which are control
 
 Each light point contributes either simple (light is 1 direction and color) or complex (light over a range of directions). 
 The **Bi-directional Reflectance Distribution Function** (BRDF) calculate the light shining out of an object based on the light shining on an object. 
-This means that, for any triangle, you just need the light at a point and the color. Thus, we do not need the nearby tr
+This means that, for any triangle, you just need the light at a point and the color. Thus, we do not need any other triangles to determine the look of a
