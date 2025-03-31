@@ -9,3 +9,6 @@ The recurrence relations are defined by the cell states:
 $h_t=f_W(x_t,h_{t-1})$
 where $h_t$ is the cell state, $f_W$ is the function with weights $W$, $x_t$ is the input, and $h_{t-1}$ is the old state. 
 Each of these $h$ states has its own loss value $L_t$, corresponding with a total loss for the RNN $L$. 
+
+### Backpropagation through Time
+The backpropagation takes the derivative of the loss with respect to each parameter and shifts those parameters in order to minimize loss. Both the forward and backward pass are included for Recurrent Neural Networks (RNNs), but there's another step of backpropagating through time steps as well. 
