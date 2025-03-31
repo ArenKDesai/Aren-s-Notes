@@ -6,7 +6,7 @@ NNs use a **stochastic gradient descent** (SGD) algorithm to optimize the percep
 NNs also rely on a **learning rate**, which dictates the rate at which the perceptron functions update. This is variable. 
 NNs are also subject to **overfitting**, which is where the networks fit themselves too well to the data. This is typically fixed with **regularization**, which forces the NN to drop perceptrons at random to avoid relying on one too much. 
 
-**Attention**, a very import concept introduced in the 2017 paper *Attention Is All You Need* by 
+**Attention**, a very import concept introduced in the 2017 paper *Attention Is All You Need* by Vaswani et al., is covered in [[Attentio]]
 
 ## Sequence Modelling
 Examples of basic modelling tasks include:
