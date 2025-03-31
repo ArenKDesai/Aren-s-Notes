@@ -14,7 +14,6 @@ Examples of basic modelling tasks include:
 - Machine Translation ($N$-$M$): Mapping many inputs to many outputs. For example, translating one language to another. 
 However, we can't take advantage of sequential time steps this way.  
 In order to model sequences, we need to be able to handle variable-length (non-fixed length) sequences. They also need to track long-term dependencies, where a variable at a smaller time step may influence an outcome near the end of the time steps. Order needs to be maintained, and parameters need to be shared across the sequence. 
-
 We can do all this with [[Recurrent Neural Networks]]. 
 
 ### Predict the Next Word
