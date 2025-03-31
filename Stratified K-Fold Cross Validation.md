@@ -12,5 +12,6 @@ from sklearn.model_selection import StratifiedKFold
 
 x = ...
 y = ...
-skf = StratifiedKFold(n_splits=int, shuffle=True, ra)
+skf = StratifiedKFold(n_splits=int, shuffle=True, random_state=int)
+
 ```
