@@ -15,10 +15,11 @@ y = ...
 model = ...
 
 skf = StratifiedKFold(n_splits=int, shuffle=True, random_state=int)
+scores = []
 
 for train_index, test_index in skf.split(x, y):
 	x_train_fold, x_test_fold = x[train_index], x[test_index]
 	y_train_fold, y_test_fold = y[train_index], y[test_index]
 	model.fit(x_train_fold, y_train_fold)
-	
+	scores.append(model.score(x_test_fold, y_test_fold))
 ```
