@@ -38,4 +38,5 @@ This includes three steps:
 1. Collect all triangles in a data structure
 2. Sort from back to front ($O(n\log n)$)
 3. Draw objects in order
-This is very inefficient. We need to draw every single object at every timestep. Drawing the same pixel multiple times (since it gets covered) is called **overdrawin
+This is very inefficient. We need to draw every single object at every timestep. Drawing the same pixel multiple times (since it gets covered) is called **overdrawing**. 
+This algorithm also runs into problems with ties. 
