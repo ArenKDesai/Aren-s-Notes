@@ -34,4 +34,6 @@ There are three situations where we don't rasterize a triangle:
 
 ### Visibility
 There are two main algorithms for visibility. The first is the **Painter's algorithm**.  This algorithm draws each object iteratively, starting with the object in the farthest back. The nearer objects cover the farther ones. 
-This includes
+This includes three steps:
+1. Collect all triangles in a data structure
+2. Stor
