@@ -47,6 +47,6 @@ The communication between programs is done through variables with strong typing.
 An example fragment shader:
 ```GLSL
 void main() {
-	gl_FragColor vec4
+	gl_FragColor vec4(0.8, 0.8, 0.4, 1.0);
 }
 ```
