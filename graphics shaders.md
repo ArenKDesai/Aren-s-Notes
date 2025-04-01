@@ -67,4 +67,4 @@ void main() {
 }
 ```
 Now, the host has to pass a `color` attribute as well. 
-`varying` variables are created in a shader and passed to a shader. In this case, we're sending `vcolor`
+`varying` variables are created in a shader and passed to a shader. In this case, we're sending `vcolor` to the rasterizer, which sends it to this fragment shader:
