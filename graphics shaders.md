@@ -28,4 +28,4 @@ This process object and fragment information and outputs fragment information.
 ![[Screenshot 2025-03-31 213127.png]]
 
 ## GLSL
-A shading language built for **OpenGL**
+A shading language built for **OpenGL**. 
