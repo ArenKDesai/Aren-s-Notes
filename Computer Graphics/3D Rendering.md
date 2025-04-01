@@ -105,7 +105,7 @@ Colors in Three.js are a ```Color``` class that converts to RGB.
 Normally, creating a mesh in Three.js assumes that the whole material wants one color. You need to specify that the object you're creating has unique colors (a buffer attribute on the vertices). 
 The colors on the mesh get linearly interpolated between the vertices. Lerping between three points instead of two is **Barycentric interpolation**. 
 A barycentric interpolation is $p=\alpha A+\beta B+\gamma C$ where $\alpha + \beta + \gamma=1$, which provides a coordinate system for the triangle $(\alpha, \beta, \gamma \in 0-1)$. 
-This barycentric interpolation takes the color data 
+This barycentric interpolation takes the color data stored at each of the three nearest vertices of a triangle and 
 
 So how do discrete pixels model colors? We plot each corner (intersection of 4 pixels) as a color, and for a continuous point:
 1. Nearest-Neighbor: nearest corner to the point determines the color of the pixel
