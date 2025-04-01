@@ -14,7 +14,9 @@ The projection of a triangle is a triangle with transformed vertices. A triangle
 ### Texture mapping review
 We need coordinates per *fragment*, which is usually pixels. UV mapping is specified at vertices and interpolated. Other coordinates are computed through the environment or solid. 
 
-### Drawing
+## Drawing
 Most commonly implemented by hardware designers of GPUs. Most commonly, we use **per-primitive methods** to iterate over triangles to draw. There are others, like image-space and world-space methods, but they're not used as much. 
 Once we know where a triangle is (or **viewing** triangles, we figure out what pixels are covered by which triangles, also known as **rasterization**. Finally, we figure out the color of each pixel, or the **shading**. The last two steps are to figure out which triangles are off the screen (**clipping**) and which behind other triangles (**visibility**). 
+
+### Viewing
 Since we only actually see in 2D, we have to convert triangles to 2D coordinates in the viewing step. 
