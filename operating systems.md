@@ -4,5 +4,5 @@ For the Operating System, the disk is abstracting to a linear array. This means 
 A RAID system includes its own RAID controller, a physically separate device, typically connected via SATA or PCIe. 
 
 So, we have an array of disks. How do we map blocks in the linear array to disks in the RAID? There are a few options:
-1. RAID 0: "striping". We distribute the blocks evenly. Disk 1 gets the first block, disk 2 gets the second, disk 3 gets the third, etc. This loops around when we run out of disks. If there's three disks, the fourth block goes to disk 1. 
+1. **RAID 0**: "striping". We distribute the blocks evenly. Disk 1 gets the first block, disk 2 gets the second, disk 3 gets the third, etc. This loops around when we run out of disks. If there's three disks, the fourth block goes to disk 1. This capacity is 
 2. 
