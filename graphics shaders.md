@@ -32,7 +32,7 @@ A shading language built for **OpenGL**. The syntax is similar to C and has stri
 Each shader acts as its own little program, and the shader connects to other parts with special variables that look like global variables with special declarations and a few built-ins. 
 To write in GLSL, you need both a vertex shader and a fragment shader. 
 
-For example:
+For example, the simple vertex shader:
 ```GLSL
 uniform mat4 modelViewMatrix;
 attribute vec4 position;
@@ -43,3 +43,4 @@ void main() {
 ```
 `pos` and `modelViewMatrix` are declared, but will be initialized by `THREE.js`. The output is `gl_Position`. 
 The communication between programs is done through variables with strong typing. 
+
