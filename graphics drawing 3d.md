@@ -44,4 +44,4 @@ There's also some interesting data structures to solve this problem like **binar
 
 The second algorithm is the **Z-Buffer Algorithm**. This triangle is order independent and immediate (so 1 triangle at a time). We store the depth data in each pixel, and we build a buffer to check each pixel for depth. Each pixel now has four values: *R, G, B, Z*. 
 The algorithm starts by setting all pixels to the maximum depth. 
-At this point in a traditional drawing algorithm, the pixels are drawn to the frame buffer at point $(x, y)$ with color $c$ In the Z-Buffer algorithm, the depth $z$ is introduced. 
+At this point in a traditional drawing algorithm, the pixels are drawn to the frame buffer at point $(x, y)$ with color $c$ In the Z-Buffer algorithm, the depth $z$ is introduced. If $z$ 
