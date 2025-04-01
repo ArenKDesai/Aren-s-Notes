@@ -95,3 +95,6 @@ where:
 - $\hat{h}$ is the eye direction with light direction for a half-vector
 - $l_a$ and $c_\text{light}$ is the light intensity and color
 - $c_e,c_a,c_d,c_s,p$ are all surface properties. 
+
+### Lighting and Shaders
+The problem is that getting these light properties from 
