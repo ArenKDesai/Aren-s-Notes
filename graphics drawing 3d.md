@@ -25,3 +25,5 @@ When we form a triangle via viewing, we use an algorithm to create a list of the
 One rasterization algorithm creates a bounding rectangle covering the triangle like so:
 ![[Screenshot 2025-03-31 191314.png]]
 and, for each pixel, computes the barycentric coordinates. 
+
+##
