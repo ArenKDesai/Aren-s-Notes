@@ -87,3 +87,4 @@ Diffuse lighting is made from the equation:
 $r_{\text{diffuse}}=\hat{n}\cdot \hat{l}$
 which is the amount of diffuse reflection calculated from a dot product between the unit surface normal and the unit vector to light source. This can be easily converted to the Phong Specular model:
 $r_{\text{diffuse}}=(\hat{n}\cdot \hat{l})^p$
+where $p$ is the shininess property of the object. 
