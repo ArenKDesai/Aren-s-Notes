@@ -107,3 +107,4 @@ The fragment color with a texture can be computed with:
 ```GLSL
 gl_FragColor = texture2D(texture, v_uv, bias);
 ```
+where `bias` is an offset if the developer wants the objec
