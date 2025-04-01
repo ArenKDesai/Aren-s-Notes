@@ -102,4 +102,4 @@ Typically, we're going to convert everything to the camera's coordinate system. 
 This causes problems with creating light vectors. They need to be in the same coordinate system as the camera, which will see the light drawn correctly. 
 
 ## Textures and Shaders
-There are tw 
+Image-based textures are textures 
