@@ -26,3 +26,6 @@ This information is interpolated for a triangle and sent to the rasterizer.
 This process object and fragment information and outputs fragment information. 
 
 ![[Screenshot 2025-03-31 213127.png]]
+
+## GLSL
+A shading
