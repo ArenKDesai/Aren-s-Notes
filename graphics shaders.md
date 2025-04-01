@@ -42,3 +42,4 @@ void main() {
 }
 ```
 `pos` and `modelViewMatrix` are declared, but will be initialized by `THREE.js`. The output is `gl_Position`. 
+The communication 
