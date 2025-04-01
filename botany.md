@@ -8,3 +8,6 @@ Algal groups are distinguished by cell wall chemistry, storage molecules, and ac
 Algae are primary producers in aquatic environments. Algae is food for many organisms, and produce 50% of the world's oxygen. They're essential in the forming of coral reefs. 
 
 One group is the **Streptophyte Green Algae**. This is order Charales, they're multicellular, they form simple tissues, they have cellulose cell walls with plasmodesmata, and they produce zygotes. 
+
+#### CLAW Hypothesis
+There's a hypothesis that phytoplankton exerts a negative feedback loop on the 
