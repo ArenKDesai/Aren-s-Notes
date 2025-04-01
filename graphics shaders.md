@@ -77,4 +77,4 @@ void main() {
 ```
 
 ### Lighting
-Lighting is typically introduced in the 
+Lighting is typically introduced in the vertex shaders AND fragment shaders. Lighting 
