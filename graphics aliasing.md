@@ -12,4 +12,4 @@ The worst problem is **Moray Patterns** that arise when many of these issues com
 
 ## Anti-Aliasing
 To avoid Moray patterns, we can filter out problems before we sample a continuous object to a discrete representation. We can do this by removing sharp edges in the sampling and thicken / smooth them out to cover more deterministic pixels. 
-These sharp edges, or fast changes, are high frequencies. 
+These sharp edges, or fast changes, are high frequencies. The math to convert 
