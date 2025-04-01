@@ -76,5 +76,7 @@ void main() {
 }
 ```
 
-### Lighting
+## Lighting
 Lighting is typically introduced in the vertex shaders AND fragment shaders. Lighting is calculated at every vertex after interpolating colors across a triangle in the vertex shader. Then, the fragment shader can use that lighting information to calculate the light at each pixel instead of vertex. 
+
+### Local Lighting
