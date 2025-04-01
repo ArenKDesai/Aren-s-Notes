@@ -11,4 +11,4 @@ One group is the **Streptophyte Green Algae**. This is order Charales, they're m
 
 #### CLAW Hypothesis
 There's a hypothesis that phytoplankton exerts a negative feedback loop on the Earth's cloud cover, stabilizing the Earth's temperature. 
-The idea is that sunny, warm conditions increase ph
+The idea is that sunny, warm conditions increase phytoplankton growth. Phytoplankton produce **dimethyl 
