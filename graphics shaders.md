@@ -105,5 +105,5 @@ This causes problems with creating light vectors. They need to be in the same co
 Textures are a object with properties like the texture map, mip-map, and parameters. In GLSL, this is a `sampler2D` for 2D images. A `sampler2D` must be `uniform` since it cannot change during a computation (although UV values can be varying). 
 The fragment color with a texture can be computed with:
 ```GLSL
-gl
+gl_FragColor = texture2D(texture, v_uv, bias);
 ```
