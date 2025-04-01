@@ -22,4 +22,4 @@ Once we know where a triangle is (or **viewing** triangles, we figure out what p
 Since we only actually see in 2D, we have to convert triangles to 2D coordinates in the viewing step. 
 ### Rasterization
 When we form a triangle via viewing, we use an algorithm to create a list of the pixels covered by the triangle. 
-One
+One rasterization algorithm creates a bounding rectangle c
