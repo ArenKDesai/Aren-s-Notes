@@ -89,3 +89,6 @@ which is the amount of diffuse reflection calculated from a dot product between 
 $r_{\text{diffuse}}=(\hat{n}\cdot \hat{l})^p$
 where $p$ is the shininess property of the object. The full Phong Lighting Model is as follows:
 $\text{color}=c_e+c_al_a+\sum_{l\in \text{lights}}((\hat{n}\cdot \hat{l})c_\text{light}c_d+(\hat{n}\cdot \hat{l})^pc_\text{light}c_s)$.
+where:
+- $\hat{n}$ is the surface geometry
+- $\hat{}
