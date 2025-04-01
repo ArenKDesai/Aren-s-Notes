@@ -26,4 +26,4 @@ One rasterization algorithm creates a bounding rectangle covering the triangle l
 ![[Screenshot 2025-03-31 191314.png]]
 and, for each pixel, computes the barycentric coordinates. 
 
-##
+### 
