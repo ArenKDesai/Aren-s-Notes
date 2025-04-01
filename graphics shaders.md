@@ -29,3 +29,4 @@ This process object and fragment information and outputs fragment information.
 
 ## GLSL
 A shading language built for **OpenGL**. The syntax is similar to C and has strict typing. 
+Each shader acts as its own little program, and the shader connects to other parts 
