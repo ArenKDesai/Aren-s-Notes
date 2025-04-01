@@ -41,3 +41,5 @@ This includes three steps:
 This is very inefficient. We need to draw every single object at every timestep. Drawing the same pixel multiple times (since it gets covered) is called **overdrawing**. 
 This algorithm also runs into problems with ties. 
 There's also some interesting data structures to solve this problem like **binary space partitioning trees (BSP-Trees)**. 
+
+The second algorithm is the **Z-Buffer Alg
