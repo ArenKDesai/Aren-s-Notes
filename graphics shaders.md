@@ -56,7 +56,7 @@ Now for a more complex example.
 Vertex shader:
 ```GLSL
 uniform mat4 modelViewMatrix;
-attribute vec4 position;
+attribute vec3 position;
 
 void main() {
 	gl_Position = modelViewMatrix*position;
