@@ -77,4 +77,4 @@ void main() {
 ```
 
 ### Lighting
-Lighting is typically introduced in th
+Lighting is typically introduced in the 
