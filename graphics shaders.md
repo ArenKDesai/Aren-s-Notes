@@ -112,7 +112,7 @@ where `bias` is an offset if the developer wants the object to be blurry.
 ## GLSL built-ins
 These are efficient and should be preferred over `if` statements:
 - `clamp`: bound the input between a min and max. 
-- `step`: 
+- `step`: r
 - `sign`: input either goes to -1 or 1
 - `min`
 - `max`
