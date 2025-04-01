@@ -93,4 +93,4 @@ where:
 - $\hat{n}$ is the surface geometry
 - $\hat{l}$ is the light direction
 - $\hat{h}$ is the eye direction with light direction for a half-vector
-- $l_a$ and $c_\ta
+- $l_a$ and $c_\text{light}$ is the light color
