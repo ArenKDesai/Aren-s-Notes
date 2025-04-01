@@ -57,8 +57,11 @@ Vertex shader:
 ```GLSL
 uniform mat4 modelViewMatrix;
 attribute vec3 position;
+attribute vec3 color;
+
+varying vec3 vcolor;
 
 void main() {
-	gl_Position = modelViewMatrix*position;
+	gl_Position = modelViewMatrix*vec4(pos)
 }
 ```
