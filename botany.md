@@ -11,7 +11,7 @@ One group is the **Streptophyte Green Algae**. This is order Charales, they're m
 
 **Red Algae** are multicellular algae that's mostly marine. They're red due to **phycobilin** pigments that help absorb blue and violet light that also contain chlorophyll. They store non-starch polysaccharides, and their cell walls contain carrageenan and agar. 
 
-**Brown Algae** are marine seaweeds, especially in cold waters. They are between small and very large, and they're m
+**Brown Algae** are marine seaweeds, especially in cold waters. They are between small and very large, and they're multicellular. The 
 
 #### CLAW Hypothesis
 There's a hypothesis that phytoplankton exerts a negative feedback loop on the Earth's cloud cover, stabilizing the Earth's temperature. 
