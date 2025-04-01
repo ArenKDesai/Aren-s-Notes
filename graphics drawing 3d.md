@@ -43,4 +43,4 @@ This algorithm also runs into problems with ties.
 There's also some interesting data structures to solve this problem like **binary space partitioning trees (BSP-Trees)**. 
 
 The second algorithm is the **Z-Buffer Algorithm**. This triangle is order independent and immediate (so 1 triangle at a time). We store the depth data in each pixel, and we build a buffer to check each pixel for depth. Each pixel now has four values: *R, G, B, Z*. 
-Th
+The algorithm starts by setting all pixels to the maximum depth. 
