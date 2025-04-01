@@ -15,4 +15,4 @@ To avoid Moray patterns, we can filter out problems before we sample a continuou
 These sharp edges, or fast changes, are high frequencies. The math to convert these frequencies to lower frequencies is the **Fourier transform**. 
 Aliasing cannot be fixed after sampling, so filtering must always be done first. 
 
-Another method to avoid aliasing is to blur triangles together. For example, if a triangle covers a pixel, but the bounding square around a rectang
+Another method to avoid aliasing is to blur triangles together. For example, if a triangle covers a pixel, but the bounding square around a rectangle has two triangles, we blur the two together. 
