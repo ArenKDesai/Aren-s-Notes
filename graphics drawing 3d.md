@@ -33,4 +33,4 @@ There are three situations where we don't rasterize a triangle:
 3. Culling: skipping primitives based on fast decisions. 
 
 ### Visibility
-There are two main algorithms for visibility. The first is the **Painter's algorithm**.  This algorithm draws each object iterively, 
+There are two main algorithms for visibility. The first is the **Painter's algorithm**.  This algorithm draws each object iteratively, starting with the object in the farthest back
