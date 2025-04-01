@@ -97,4 +97,4 @@ where:
 - $c_e,c_a,c_d,c_s,p$ are all surface properties. 
 
 ### Lighting and Shaders
-The problem is that getting these light properties from 
+The problem is that getting these light properties from the host and to the shader language is difficult. 
