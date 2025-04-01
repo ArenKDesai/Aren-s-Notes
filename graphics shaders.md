@@ -37,6 +37,6 @@ uniform mat4 modelViewMatrix;
 attribute vec4 position;
 
 void main() {
-
+	gl_Position = 
 }
 ```
