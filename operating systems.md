@@ -1,2 +1,3 @@
 ## RAID
+We have one disk, but as with many things in computer science, more might be better. Can we use multiple disks to improve the capacity, performance, and  of the system
 Or a redundant array of inexpensive disks. 
