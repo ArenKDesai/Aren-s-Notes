@@ -76,3 +76,5 @@ void main() {
 }
 ```
 
+### Lighting
+Lighting is typically introduced in th
