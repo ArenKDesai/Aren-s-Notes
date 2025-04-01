@@ -6,4 +6,4 @@ The **Sample Point** model works better since each sample is a specific location
 
 Since we've decided our pixels are singular points, there's a problem. Smaller pictures that cover a finite amount of pixels can be abstracted too much. For example, a circle and a triangle that both cover one pixel --- the same pixel --- will appear to be the same thing. 
 This is the cause of **jaggies**, or jagged edges from a continuous object. For example, a line may turn into a staircase-looking set of squares. 
-This is also the cause of **crawlies**, or the movement of those jaggies
+This is also the cause of **crawlies**, or the movement of those jaggies when the object or camera moves. 
