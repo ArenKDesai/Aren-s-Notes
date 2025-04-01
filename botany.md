@@ -1,1 +1,1 @@
-Monophyletic group: a branch or clade that includes one common ancestor 
+Monophyletic group: a branch or clade that includes one common ancestor and all of its de
