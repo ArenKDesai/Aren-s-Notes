@@ -12,4 +12,6 @@ The projection of a triangle is a triangle with transformed vertices. A triangle
 **Barycentric coordinates** (see [[3D Rendering]]) are convenient for calculating texture mapping as well. Using barycentric interpolation on triangles allows for fine-tuned colors based on the color data of the three vertices of a triangle. 
 
 ### Texture mapping review
-We need coordinates per *fragment*, which is usually pixels. 
+We need coordinates per *fragment*, which is usually pixels. UV mapping is specified at vertices and interpolated. Other coordinates are computed through the environment or solid. 
+
+### Drawing
