@@ -31,3 +31,6 @@ There are three situations where we don't rasterize a triangle:
 1. Clipping: skipping triangles off-screen. 
 2. Visibility: having near things block farther ones.
 3. Culling: skipping primitives based on fast decisions. 
+
+### Visibility
+There are two main algorithms for visibility.
