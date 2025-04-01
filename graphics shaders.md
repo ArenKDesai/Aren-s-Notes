@@ -99,4 +99,4 @@ where:
 ### Lighting and Shaders
 The problem is that getting these light properties from the host and to the shader language is difficult. 
 Typically, we're going to convert everything to the camera's coordinate system. Then, we use matrix multiplication to project this system to the object. 
-This causes problems with creating light vectors. 
+This causes problems with creating light vectors. They need to be in the same coordinate system as the camera, which will see the light drawn correctly. 
