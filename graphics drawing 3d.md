@@ -16,3 +16,4 @@ We need coordinates per *fragment*, which is usually pixels. UV mapping is speci
 
 ### Drawing
 Most commonly implemented by hardware designers of GPUs. Most commonly, we use **per-primitive methods** to iterate over triangles to draw. There are others, like image-space and world-space methods, but they're not used as much. 
+Once we know where a triang
