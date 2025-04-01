@@ -8,7 +8,7 @@ Since we've decided our pixels are singular points, there's a problem. Smaller p
 This is the cause of **jaggies**, or jagged edges from a continuous object. For example, a line may turn into a staircase-looking set of squares. 
 This is also the cause of **crawlies**, or the movement of those jaggies when the object or camera moves. 
 Triangles could also get lost between pixels. 
-The worst problem is **Moray Patterns
+The worst problem is **Moray Patterns** that arise when many of these issues compound to mess 
 
 ## Anti-Aliasing
 T o
