@@ -1,3 +1,3 @@
 **Monophyletic group**: a branch or clade that includes one common ancestor and all of its descendants. All members of the group are evolutionarily related. 
 Animals and fungi come from one monophyletic group, while plants come from another. 
-Unicellular organisms that don't belong to the three above are **protists**. Protists are 75% of all life on Earth, and a notable example is algae, or phytoplankton. Protists are **motile eukaryotes**. Some can form colonies but no complex tissues. Some protists are similar to animals and are called **protozoa**. Protists can be 
+Unicellular organisms that don't belong to the three above are **protists**. Protists are 75% of all life on Earth, and a notable example is algae, or phytoplankton. Protists are **motile eukaryotes**. Some can form colonies but no complex tissues. Some protists are similar to animals and are called **protozoa**. Protists can be heterotrophic, autotrophic, or 
