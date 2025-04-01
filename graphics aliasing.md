@@ -11,4 +11,4 @@ Triangles could also get lost between pixels.
 The worst problem is **Moray Patterns** that arise when many of these issues compound to mess with an object's texture. 
 
 ## Anti-Aliasing
-To avoid Moray patterns, we can filter out problems before t
+To avoid Moray patterns, we can filter out problems before we sample a continous object to a discrete representa
