@@ -108,3 +108,7 @@ The fragment color with a texture can be computed with:
 gl_FragColor = texture2D(texture, v_uv, bias);
 ```
 where `bias` is an offset if the developer wants the object to be blurry. 
+
+## GLSL built-ins
+These are efficient and should be preferred over `if` statements:
+- clamp: 
