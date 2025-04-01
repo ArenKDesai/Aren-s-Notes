@@ -48,4 +48,4 @@ At this point in a traditional drawing algorithm, the pixels are drawn to the fr
 This algorithm is order independent. It also requires extra memory (that reads/writes fast). However, it doesn't matter as much anymore with caching. 
 In a tie, we can decide whether the old or new object stays. This is called **Z-Fighting**, where two objects have the same $z$. This is what causes flickering. 
 Another problem is if a triangle partially fills a pixel. This is **Aliasing**. 
-Finally, we compute the color first, then do the check. This causes overdraw efficiency. 
+Finally, we compute the color first, then do the check. This causes overdraw. 
