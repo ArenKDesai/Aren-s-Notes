@@ -98,3 +98,4 @@ where:
 
 ### Lighting and Shaders
 The problem is that getting these light properties from the host and to the shader language is difficult. 
+Typically, we're going to convert everything to the camera
