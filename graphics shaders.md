@@ -19,3 +19,5 @@ In terms of the graphics steps:
 ### Vertex Processing Unit
 This processes each vertex independently. It operates like a simple function. The input is a vertex with info, including attributes from the host program, and the output is the vertex with more info and attributes. 
 Typically, this information is **screen-space position**, vertex-lit color, and the screen-space normal. 
+
+This information is interpolated for a triangle and sent to the rasterizer. 
