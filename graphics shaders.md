@@ -41,4 +41,4 @@ void main() {
 	gl_Position = modelViewMatrix*position;
 }
 ```
-`pos` and `mod`
+`pos` and `modelViewMatrix` are declared, but will be ini
