@@ -2,3 +2,4 @@ The world is continuous, but a computer is discrete. So how do we convert a cont
 
 ### Pixels
 There are various models of pixels. The first is that pixels are sets of squares --- the **Little Square Model**.. This model doesn't work too well. 
+The **Sample Point
