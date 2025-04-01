@@ -24,3 +24,4 @@ Since we only actually see in 2D, we have to convert triangles to 2D coordinates
 When we form a triangle via viewing, we use an algorithm to create a list of the pixels covered by the triangle. 
 One rasterization algorithm creates a bounding rectangle covering the triangle like so:
 ![[Screenshot 2025-03-31 191314.png]]
+and computes the barycentric coordinates 
