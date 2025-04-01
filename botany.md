@@ -13,9 +13,8 @@ One group is the **Streptophyte Green Algae**. This is order Charales, they're m
 
 **Brown Algae** are marine seaweeds, especially in cold waters. They are between small and very large, and they're multicellular. The **holdfast** anchors algae to the bottom of the body of water, the **stipe** is a stem-like structure, the **blade** is a leaf-like structure that assists photosynthesis, and the **air-bladders** are air-filled sacs for flotation. 
 
+**Diatoms**, or **golden
+
 #### CLAW Hypothesis
 There's a hypothesis that phytoplankton exerts a negative feedback loop on the Earth's cloud cover, stabilizing the Earth's temperature. 
 The idea is that sunny, warm conditions increase phytoplankton growth. Phytoplankton produce **dimethyl sulfide (DMS)** as a byproduct. This DMS reacts with $SO_2$ in the clouds to create more cloud condensation nuclei. Then, more clouds form on these nuclei, and the sunlight reaching the phytoplankton decreases. 
-
-## Diatoms
-Unicellular, known as 
