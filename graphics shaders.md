@@ -116,3 +116,4 @@ These are efficient and should be preferred over `if` statements:
 - `sign`: input either goes to -1 or 1
 - `min`
 - `max`
+- `mix`: mix two colors 
