@@ -84,4 +84,4 @@ We typically assumed that light only came from sources, not other objects. We al
 This lighting includes emission, ambient, specular, and diffuse lighting. 
 
 Diffuse lighting is made from the equation:
-$r_{\text{}}
+$r_{\text{diffuse}}$
