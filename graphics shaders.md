@@ -66,3 +66,5 @@ void main() {
 	vcolor = color;
 }
 ```
+Now, the host has to pass a `color` attribute as well. 
+`varying` variables are created in a shader and pas
