@@ -102,4 +102,4 @@ Typically, we're going to convert everything to the camera's coordinate system. 
 This causes problems with creating light vectors. They need to be in the same coordinate system as the camera, which will see the light drawn correctly. 
 
 ## Textures and Shaders
-Textures are a object with properties like the texture map, mip-map, and parameters. In GLSL, this is a `sampler2D` for 2D images. A `sampler2D`
+Textures are a object with properties like the texture map, mip-map, and parameters. In GLSL, this is a `sampler2D` for 2D images. A `sampler2D` must be `uniform` since it cannot change during a computt
