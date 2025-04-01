@@ -11,7 +11,7 @@ One group is the **Streptophyte Green Algae**. This is order Charales, they're m
 
 **Red Algae** are multicellular algae that's mostly marine. They're red due to **phycobilin** pigments that help absorb blue and violet light that also contain chlorophyll. They store non-starch polysaccharides, and their cell walls contain carrageenan and agar. 
 
-**Brown Algae** are marine seaweeds, especially in cold waters. They are between small and very large, and they're multicellular. The holdfast anchors algae to the bottom of the body of water, the stipe is a stem-like structure, the blade is a leaf-like structure that 
+**Brown Algae** are marine seaweeds, especially in cold waters. They are between small and very large, and they're multicellular. The holdfast anchors algae to the bottom of the body of water, the stipe is a stem-like structure, the blade is a leaf-like structure that assists photosynthesis, and the air-bladders are air-fi
 
 #### CLAW Hypothesis
 There's a hypothesis that phytoplankton exerts a negative feedback loop on the Earth's cloud cover, stabilizing the Earth's temperature. 
