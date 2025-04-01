@@ -21,3 +21,6 @@ This processes each vertex independently. It operates like a simple function. Th
 Typically, this information is **screen-space position**, vertex-lit color, and the screen-space normal. 
 
 This information is interpolated for a triangle and sent to the rasterizer. 
+
+### Fragment Processing Unit
+This process objecet information and fragment infromation and outputs fragment information. 
