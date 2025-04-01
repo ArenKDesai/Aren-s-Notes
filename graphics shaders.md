@@ -82,3 +82,5 @@ Lighting is typically introduced in the vertex shaders AND fragment shaders. Lig
 ### Local Lighting
 We typically assumed that light only came from sources, not other objects. We also only consider how material reflects light. This means no shadows, reflections, etc. 
 This lighting includes emission, ambient, specular, and diffuse lighting. 
+
+Diffuse lighting is made from 
