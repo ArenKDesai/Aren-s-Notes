@@ -33,5 +33,10 @@ Each shader acts as its own little program, and the shader connects to other par
 To write in GLSL, you need both a vertex shader and a fragment shader. 
 For example:
 ```GLSL
-uniform mat4 modelViewMatr
+uniform mat4 modelViewMatrix;
+attribute vec4 position;
+
+void main() {
+
+}
 ```
