@@ -13,7 +13,7 @@ One group is the **Streptophyte Green Algae**. This is order Charales, they're m
 
 **Brown Algae** are marine seaweeds, especially in cold waters. They are between small and very large, and they're multicellular. The **holdfast** anchors algae to the bottom of the body of water, the **stipe** is a stem-like structure, the **blade** is a leaf-like structure that assists photosynthesis, and the **air-bladders** are air-filled sacs for flotation. 
 
-**Diatoms**, or **golden algae** are unicellular phytoplankton in freshwater and marine environments. They produce oxygen and use lipid droplets to float. They have symmetrical disks of two interlocking "tests", which consist ofs
+**Diatoms**, or **golden algae** are unicellular phytoplankton in freshwater and marine environments. They produce oxygen and use lipid droplets to float. They have symmetrical disks of two interlocking "tests", which consist of silica cell walls with pores. The silica te
 
 #### CLAW Hypothesis
 There's a hypothesis that phytoplankton exerts a negative feedback loop on the Earth's cloud cover, stabilizing the Earth's temperature. 
