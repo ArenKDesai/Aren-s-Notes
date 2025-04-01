@@ -9,4 +9,4 @@ This means that, for any triangle, you just need the light at a point and the co
 
 ## Hardware
 The projection of a triangle is a triangle with transformed vertices. A triangle will never stop being a triangle. This is nice since it cannot mess up texture mapping. 
-**Barycentric coordinates** (see [[3D Rendering]]) are convenient for calculating texture mapping as well. 
+**Barycentric coordinates** (see [[3D Rendering]]) are convenient for calculating texture mapping as well. Using barycentric interpolation on triangles allows
