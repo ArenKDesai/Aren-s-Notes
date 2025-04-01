@@ -8,4 +8,4 @@ The **Bi-directional Reflectance Distribution Function** (BRDF) calculate the li
 This means that, for any triangle, you just need the light at a point and the color. Thus, we do not need any other triangles to determine the look of a triangle. 
 
 ## Hardware
-The projection of a triangle is a triangle with transformed vertices. A trian
+The projection of a triangle is a triangle with transformed vertices. A triangle will never stop being a triangle. This is convienc
