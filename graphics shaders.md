@@ -62,6 +62,7 @@ attribute vec3 color;
 varying vec3 vcolor;
 
 void main() {
-	gl_Position = modelViewMatrix*vec4(pos)
+	gl_Position = modelViewMatrix*vec4(position,1.0);
+	vcolor = color;
 }
 ```
