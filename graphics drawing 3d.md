@@ -40,3 +40,4 @@ This includes three steps:
 3. Draw objects in order
 This is very inefficient. We need to draw every single object at every timestep. Drawing the same pixel multiple times (since it gets covered) is called **overdrawing**. 
 This algorithm also runs into problems with ties. 
+There's also some interesting data structures to solve this problem like **binary space parti
