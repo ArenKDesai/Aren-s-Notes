@@ -43,6 +43,7 @@ void main() {
 ```
 `pos` and `modelViewMatrix` are declared, but will be initialized by `THREE.js`. The output is `gl_Position`. 
 The communication between programs is done through variables with strong typing. 
+Variables are declared with a qualifier and 
 
 An example fragment shader:
 ```GLSL
