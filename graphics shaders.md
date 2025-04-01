@@ -23,6 +23,6 @@ Typically, this information is **screen-space position**, vertex-lit color, and 
 This information is interpolated for a triangle and sent to the rasterizer. 
 
 ### Fragment Processing Unit
-This process object and fragment infromation and outputs fragment information. 
+This process object and fragment information and outputs fragment information. 
 
 ![[Screenshot 2025-03-31 213127.png]]
