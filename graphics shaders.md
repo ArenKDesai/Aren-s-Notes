@@ -80,4 +80,5 @@ void main() {
 Lighting is typically introduced in the vertex shaders AND fragment shaders. Lighting is calculated at every vertex after interpolating colors across a triangle in the vertex shader. Then, the fragment shader can use that lighting information to calculate the light at each pixel instead of vertex. 
 
 ### Local Lighting
-We typically assumed that light only came from sources, not other objects. We also only consider how material reflects light. Thi
+We typically assumed that light only came from sources, not other objects. We also only consider how material reflects light. This means no shadows, reflections, etc. 
+This lighting includes emission,
