@@ -85,4 +85,4 @@ This lighting includes emission, ambient, specular, and diffuse lighting.
 
 Diffuse lighting is made from the equation:
 $r_{\text{diffuse}}=\hat{n}\cdot \hat{l}$
-which is the amount of diffuse reflection calculated from the unit surface normal mu
+which is the amount of diffuse reflection calculated from the unit surface normal m
