@@ -46,4 +46,4 @@ The second algorithm is the **Z-Buffer Algorithm**. This triangle is order indep
 The algorithm starts by setting all pixels to the maximum depth. 
 At this point in a traditional drawing algorithm, the pixels are drawn to the frame buffer at point $(x, y)$ with color $c$ In the Z-Buffer algorithm, the depth $z$ is introduced. If the new $z$ is less than the previous $z$, known as $pz$, then the $c$ and $z$ values are updated. If not, nothing happens. 
 This algorithm is order independent. It also requires extra memory (that reads/writes fast). However, it doesn't matter as much anymore with caching. 
-In a tie, we can decide whether the old or new object stays. This is called **Z-Fighting**, where two objects have the same $z$. 
+In a tie, we can decide whether the old or new object stays. This is called **Z-Fighting**, where two objects have the same $z$. This is what causes flickeri
