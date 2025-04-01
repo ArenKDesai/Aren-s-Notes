@@ -11,6 +11,8 @@ One group is the **Streptophyte Green Algae**. This is order Charales, they're m
 
 **Red Algae** are multicellular algae that's mostly marine. They're red due to **phycobilin** pigments that help absorb blue and violet light that also contain chlorophyll. They store non-starch polysaccharides, and their cell walls contain carrageenan and agar. 
 
+**Brown Algae** ia
+
 #### CLAW Hypothesis
 There's a hypothesis that phytoplankton exerts a negative feedback loop on the Earth's cloud cover, stabilizing the Earth's temperature. 
 The idea is that sunny, warm conditions increase phytoplankton growth. Phytoplankton produce **dimethyl sulfide (DMS)** as a byproduct. This DMS reacts with $SO_2$ in the clouds to create more cloud condensation nuclei. Then, more clouds form on these nuclei, and the sunlight reaching the phytoplankton decreases. 
