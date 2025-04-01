@@ -52,3 +52,13 @@ void main() {
 }
 ```
 
+Now for a more complex example. 
+Vertex shader:
+```GLSL
+uniform mat4 modelViewMatrix;
+attribute vec4 position;
+
+void main() {
+	gl_Position = modelViewMatrix*position;
+}
+```
