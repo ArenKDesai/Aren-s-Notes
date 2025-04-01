@@ -15,4 +15,4 @@ The projection of a triangle is a triangle with transformed vertices. A triangle
 We need coordinates per *fragment*, which is usually pixels. UV mapping is specified at vertices and interpolated. Other coordinates are computed through the environment or solid. 
 
 ### Drawing
-Most commonly implemented by hardware designers of GPUs. Most commonly, we use **per-primitive methods** to iterate over triangles to draw. There are others, like image-space and 
+Most commonly implemented by hardware designers of GPUs. Most commonly, we use **per-primitive methods** to iterate over triangles to draw. There are others, like image-space and world-space methods, but they're not used as much. 
