@@ -92,4 +92,4 @@ $\text{color}=c_e+c_al_a+\sum_{l\in \text{lights}}((\hat{n}\cdot \hat{l})c_\text
 where:
 - $\hat{n}$ is the surface geometry
 - $\hat{l}$ is the light direction
-- 
+- $\hat{h}$ is the eye direction with light direction for a 
