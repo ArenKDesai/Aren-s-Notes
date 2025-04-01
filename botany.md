@@ -4,3 +4,4 @@ Unicellular organisms that don't belong to the three above are **protists**. Pro
 
 ### Algae
 Photosynthetic protists that contain plastids. They're often unicellular, but form colonies or larger multicellular bodies. They have filamentous, membranous, blade-like forms. Major groups are distinguished by pigments. They are *not* plants. 
+Algal groups are distinguished by cell wall chemistry, storage molecules, and accessory pigments. 
