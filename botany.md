@@ -1,2 +1,2 @@
 **Monophyletic group**: a branch or clade that includes one common ancestor and all of its descendants. All members of the group are evolutionarily related. 
-Animals and fungi come from one monophyletic group, while plants come from another. Multicellular organisms that
+Animals and fungi come from one monophyletic group, while plants come from another. Multicellular organisms that don't belong to the three above are **protists
