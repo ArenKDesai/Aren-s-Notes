@@ -91,4 +91,5 @@ where $p$ is the shininess property of the object. The full Phong Lighting Model
 $\text{color}=c_e+c_al_a+\sum_{l\in \text{lights}}((\hat{n}\cdot \hat{l})c_\text{light}c_d+(\hat{n}\cdot \hat{l})^pc_\text{light}c_s)$.
 where:
 - $\hat{n}$ is the surface geometry
-- $\hat{}
+- $\hat{l}$ is the light direction
+- 
