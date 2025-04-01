@@ -10,4 +10,4 @@ Algae are primary producers in aquatic environments. Algae is food for many orga
 One group is the **Streptophyte Green Algae**. This is order Charales, they're multicellular, they form simple tissues, they have cellulose cell walls with plasmodesmata, and they produce zygotes. 
 
 #### CLAW Hypothesis
-There's a hypothesis that phytoplankton exerts a negative feedback loop on the 
+There's a hypothesis that phytoplankton exerts a negative feedback loop on the Earth's cloud cover, stabilizing the Earth's temperature. 
