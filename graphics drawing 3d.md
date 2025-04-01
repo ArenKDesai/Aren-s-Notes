@@ -29,3 +29,4 @@ and, for each pixel, computes the barycentric coordinates.
 ### Non-Rasterizing Triangles
 There are three situations where we don't rasterize a triangle:
 1. Clipping: skipping triangles off-screen
+2. Visibility: 
