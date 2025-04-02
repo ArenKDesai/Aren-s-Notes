@@ -6,4 +6,4 @@ $Y=GH+e$
 where
 - Y is $T\times C$ matrix of pollutant concentrations over time
 - G is TxK concentartion levels from K sources
-- H i
+- H is KxC matrix of contributions of each 
