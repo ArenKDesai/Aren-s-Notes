@@ -1,2 +1,2 @@
 ## Air soil
-$PM_{2.5}$ (particulate matter), formed from wildfire, traffic, etc., is bad for us. 
+$PM_{2.5}$ (particulate matter), formed from wildfire, traffic, etc., is bad for us. Notice there's a lot of potential sources of particulate matter. So how do we figure out the fraction of 
