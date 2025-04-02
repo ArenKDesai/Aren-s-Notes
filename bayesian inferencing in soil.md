@@ -5,8 +5,8 @@ The basic source apportionment model is:
 $Y=GH+e$
 where
 - Y is $T\times C$ matrix of pollutant concentrations over time
-- G is TxK concentration levels from K sources over time
-- H is KxC matrix of contributions of each K sources to C pollutants
+- G is $T\times K$ concentration levels from K sources over time
+- H is $K\times C$ matrix of contributions of each K sources to C pollutants
 G and H are unkown in the model above. The problem is unidentifiable. 
 We thus assume that air pollution is never lost. All elements of G and H become positive. This is also bounded by 1, or 100%. 
 We can examine contributions $h_{kc}$ to find sources. 
