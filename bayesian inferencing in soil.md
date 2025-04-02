@@ -5,4 +5,5 @@ The basic source apportionment model is:
 $Y=GH+e$
 where
 - Y is $T\times C$ matrix of pollutant concentrations over time
-- G is 
+- G is TxK concentartion levels from K sources
+- H i
