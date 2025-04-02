@@ -4,4 +4,4 @@ Unfortunately, our monitors is static; the air pollution could be from one minut
 The basic source apportionment model is:
 $Y=GH+e$
 where
-- 
+- Y is $T\times C$ matrix of 
