@@ -16,4 +16,4 @@ Some other ideas:
 Most solutions either drop the temporal or spatial structure. We think we can do better: Find source apportionment for both space and time with an unknown number of sources. 
 
 C is pollutants, K is sources, and N is locations. 
-We'll work on a logarithmic scale because it's easier to use the normal assumption. Thus, $y_c(s_i,t)$ denotes the concentration of pollutant $c$ at location $s_i$ and time $t$. 
+We'll work on a logarithmic scale because it's easier to use the normal assumption. Thus, $y_c(s_i,t)$ denotes the concentration of pollutant $c$ at location $s_i$ and time $t$. This is calculated by the sum of all functional profiles of sources with some error from a normal di
