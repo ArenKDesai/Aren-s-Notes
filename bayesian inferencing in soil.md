@@ -1,4 +1,4 @@
-## Air soil
+## Air Pollution
 $PM_{2.5}$ (particulate matter), formed from wildfire, traffic, etc., is bad for us. Notice there's a lot of potential sources of particulate matter. So how do we figure out the fraction of $PM_{2.5}$ that comes from what sources? This is **source apportionment**. 
 Unfortunately, our monitors is static; the air pollution could be from one minute, hour, day ago, etc. 
 The basic source apportionment model is:
@@ -21,3 +21,5 @@ We want to capture temporal data in local source profiles. We can find site-spec
 The global source profile comes from cubic B-splines. 
 
 A model is fit to predict local source profiles after finding a spatiotemporal global source profile. The model revealed that a lot of the air pollution could be attributed to wildfires, road dust, and fossil fuels. The model allows for esimation of the number of sources and utilizes spatiotemporal data, but lacks flexibility. For example, if amplitude of local source profiles look similar, identification may be difficult. 
+
+## Soil
