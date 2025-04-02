@@ -7,4 +7,5 @@ where
 - Y is $T\times C$ matrix of pollutant concentrations over time
 - G is TxK concentration levels from K sources over time
 - H is KxC matrix of contributions of each K sources to C pollutants
-G and H are unkown in the model 
+G and H are unkown in the model above. The problem is unidentifiable. 
+W
