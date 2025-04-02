@@ -8,4 +8,4 @@ where
 - G is TxK concentration levels from K sources over time
 - H is KxC matrix of contributions of each K sources to C pollutants
 G and H are unkown in the model above. The problem is unidentifiable. 
-W
+We thus assume that air pollution is never lost. 
