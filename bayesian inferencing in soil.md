@@ -9,4 +9,4 @@ where
 - H is KxC matrix of contributions of each K sources to C pollutants
 G and H are unkown in the model above. The problem is unidentifiable. 
 We thus assume that air pollution is never lost. All elements of G and H become positive. This is also bounded by 1, or 100%. 
-We can examine contributions $h_{}
+We can examine contributions $h_{kc}$ to find sources. 
