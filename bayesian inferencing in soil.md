@@ -1,2 +1,2 @@
 ## Air soil
-$PM_{2.5}$ (parti)
+$PM_{2.5}$ (particulate matter), formed 
