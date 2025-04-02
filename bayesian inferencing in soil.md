@@ -18,4 +18,4 @@ Most solutions either drop the temporal or spatial structure. We think we can do
 C is pollutants, K is sources, and N is locations. 
 We'll work on a logarithmic scale because it's easier to use the normal assumption. Thus, $y_c(s_i,t)$ denotes the concentration of pollutant $c$ at location $s_i$ and time $t$. This is calculated by the sum of all functional profiles of sources with some error from a normal distribution. 
 We want to capture temporal data in local source profiles. We can find site-specific coefficients, defined positively so the local and global source profiles have the same sign, and multiply them by the global profile for the local source profiles. 
-The global source profile comes from cubic B-
+The global source profile comes from cubic B-splines. 
