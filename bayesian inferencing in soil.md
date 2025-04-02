@@ -13,4 +13,5 @@ We can examine contributions $h_{kc}$ to find sources.
 Some other ideas:
 - Assume H is known w/ Ordinary or Weighted Least Squares. 
 - Assume H is unkown w/ PCA, Absolute PCA, Factor Analysis, Positive Matrix Factorization
-Most solutions either drop the temporal or spatial structure. We think we can do better: Find source apportionment for both space and tim
+Most solutions either drop the temporal or spatial structure. We think we can do better: Find source apportionment for both space and time with an unknown number of sources. 
+
