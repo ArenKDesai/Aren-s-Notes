@@ -13,3 +13,4 @@ We can examine contributions $h_{kc}$ to find sources.
 Some other ideas:
 - Assume H is known w/ Ordinary or Weighted Least Squares. 
 - Assume H is unkown w/ PCA, Absolute PCA, Factor Analysis, Positive Matrix Factorization
+Most solutions either drop the tem
