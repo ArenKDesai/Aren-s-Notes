@@ -16,4 +16,4 @@ Some other ideas:
 Most solutions either drop the temporal or spatial structure. We think we can do better: Find source apportionment for both space and time with an unknown number of sources. 
 
 C is pollutants, K is sources, and N is locations. 
-
+We'll work on a logarithmic scale because 
