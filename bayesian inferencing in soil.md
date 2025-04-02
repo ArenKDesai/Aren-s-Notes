@@ -20,4 +20,4 @@ We'll work on a logarithmic scale because it's easier to use the normal assumpti
 We want to capture temporal data in local source profiles. We can find site-specific coefficients, defined positively so the local and global source profiles have the same sign, and multiply them by the global profile for the local source profiles. 
 The global source profile comes from cubic B-splines. 
 
-A model is fit to predict local source profiles after finding a spatiotemporal global source profile. The model revealed that a lot of the air pollution could be attributed to wildfires, road dust, and fossil fuels. The model allows for esimation of the number of sources and utilizes spatiotemporal 
+A model is fit to predict local source profiles after finding a spatiotemporal global source profile. The model revealed that a lot of the air pollution could be attributed to wildfires, road dust, and fossil fuels. The model allows for esimation of the number of sources and utilizes spatiotemporal data, but lacks flexibility. 
