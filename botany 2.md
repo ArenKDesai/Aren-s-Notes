@@ -9,4 +9,4 @@ Some fungi are parasites, and some are pathogens. Parasites don't typically caus
 Fungi formed more than a billion years ago an contributed to the development of plants and animals we know today. 
 
 One fungal **phyla** is **Chytridiomycota**, or **Chytrids**. They're unicellular, their spores have flagella that allow them to move through water. They're found in aquatic environments and soil, and parasitize protists. 
-Another phyla is **Zoopagomycota**. These are related to animals, most often inse
+Another phyla is **Zoopagomycota**. These are related to animals, most often insects. They include insect pathogens such as entomoph
