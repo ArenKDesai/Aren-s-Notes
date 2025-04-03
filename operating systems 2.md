@@ -8,4 +8,4 @@ This proposes a problem. To find a nested file, we need to read the inode number
 
 We have a few abstractions; let's figure out how they change our OS methods. 
 `fork` is now going to increase the reference count of each open file's file descriptor. `close` decrements the reference count, and we flush the file's data to the disk. 
-Unfortunately, writers have high latency. This means it's imp
+Unfortunately, writers have high latency. This means it's more effective to cache data in memory and write 
