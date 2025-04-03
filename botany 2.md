@@ -11,4 +11,4 @@ Fungi formed more than a billion years ago an contributed to the development of 
 One fungal **phyla** is **Chytridiomycota**, or **Chytrids**. They're unicellular, their spores have flagella that allow them to move through water. They're found in aquatic environments and soil, and parasitize protists. 
 Another phyla is **Zoopagomycota**. These are related to animals, most often insects. They include insect pathogens such as **Entomophthora** that fills the body of a fly with hyphae, controls its behavior, and spreads its spores to other flies. 
 Another phyla is **Mucoromycota**. This is terrestrial, mostly saprobic fungi. They're made of hyphae without cross-walls, and produce asexual spores in sporangia. They also produce sexual spores called zygospores. 
-Another phyla is **Glomeromc
+Another phyla is **Glomeromycota**. These are terrestrial, mutualistic fungi
