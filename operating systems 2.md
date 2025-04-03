@@ -10,4 +10,4 @@ We have a few abstractions; let's figure out how they change our OS methods.
 `fork` is now going to increase the reference count of each open file's file descriptor. `close` decrements the reference count, and we flush the file's data to the disk. 
 Unfortunately, writers have high latency. This means it's more effective to cache data in memory and write it larger, less frequent chunks. This also means that applications may need to instruct the OS to write certain data immediately (avoiding data loss after a crash). This is the point of the `fsync` command. 
 
-You may assume that renaming a file is simple. However, now that multiple processes have fild
+You may assume that renaming a file is simple. However, now that multiple processes have file descriptor tables with the names stored, 
