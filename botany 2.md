@@ -12,4 +12,4 @@ One fungal **phyla** is **Chytridiomycota**, or **Chytrids**. They're unicellula
 Another phyla is **Zoopagomycota**. These are related to animals, most often insects. They include insect pathogens such as **Entomophthora** that fills the body of a fly with hyphae, controls its behavior, and spreads its spores to other flies. 
 Another phyla is **Mucoromycota**. This is terrestrial, mostly saprobic fungi. They're made of hyphae without cross-walls, and produce asexual spores in sporangia. They also produce sexual spores called zygospores. 
 Another phyla is **Glomeromycota**. These are terrestrial, mutualistic fungi that are **obligate symbionts** that live with cyanobacteria or plants. When in plants, they are **Arbuscular Mycorrhizal Fungi (AM Fungi)**. Their hyphae lack cross-walls and produce large, multi-nucleate spores. 
-Finally, we have Basidiomtcota, 
+Finally, we have **Basidiomycota**, which are mostly t
