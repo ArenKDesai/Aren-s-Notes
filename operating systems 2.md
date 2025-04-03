@@ -7,4 +7,4 @@ These directories can be thought of as a tree. For example, the root in Unix is 
 This proposes a problem. To find a nested file, we need to read the inode number of each directory parent. This could be expensive. Thus, we introduce another abstraction: **file descriptors**. Every process will have a file descriptor hash table that includes all open files. The first few entries are typically `stdin/stdout` and other common standard files. The others are hashes to files, which include the offset, inode, and reference. We'll modify `open` so it returns the file descriptor, and `read` and `write` so they use the file descriptor. Also, `seek` is back! It now updates the per-process offset of the file. 
 
 We have a few abstractions; let's figure out how they change our OS methods. 
-`fork` is now going to increase the reference count of each open file in the file descripti
+`fork` is now going to increase the reference count of each open file in the file descriptor
