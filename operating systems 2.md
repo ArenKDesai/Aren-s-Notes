@@ -5,6 +5,7 @@ First, the basics. A **file** is a persistent linear array of bytes on disk. Eve
 We'll introduce an item for the organization of files: **directories**. These are mappings between names and inode numbers. Each file in the directory can be considered a name/inode number pair (name is an abstraction for humans to remember files). 
 These directories can be thought of as a tree. For example, the root in Unix is **/**, and it includes directories such as **bin**, **usr**, etc.. We can **mount** a file system by setting it as a child to a leaf on the tree. 
 This proposes a problem. To find a nested file, we need to read the inode number of each directory parent. This could be expensive. Thus, we introduce another abstraction: **file descriptors**. Every process will have a file descriptor hash table that includes all open files. The first few entries are typically `stdin/stdout` and other common standard files. The others are hashes to files, which include the offset, inode, and reference. We'll modify `open` so it returns the file descriptor, and `read` and `write` so they use the file descriptor. Also, `seek` is back! It now updates the per-process offset of the file. 
+Ther
 
 We have a few abstractions; let's figure out how they change our OS methods. 
 `fork` is now going to increase the reference count of each open file's file descriptor. `close` decrements the reference count, and we flush the file's data to the disk. 
