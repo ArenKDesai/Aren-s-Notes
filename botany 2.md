@@ -6,4 +6,4 @@ Fungao structures are comprised of **hyphae**, including fungal fruiting bodies 
 Some fungi are parasites, and some are pathogens. Parasites don't typically cause death or disease (although they can be harmful), but pathogens typically are. 
 **Mutualists** obtain organic food from living organisms and provide some benefit in return. 
 
-Fungi formed more than a billion years ago an contributed to the develo
+Fungi formed more than a billion years ago an contributed to the development of plants and animals we know today. 
