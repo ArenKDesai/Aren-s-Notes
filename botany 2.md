@@ -7,4 +7,4 @@ Some fungi are parasites, and some are pathogens. Parasites don't typically caus
 **Mutualists** obtain organic food from living organisms and provide some benefit in return. 
 
 Fungi formed more than a billion years ago an contributed to the development of plants and animals we know today. 
-One fungal phyla is Chytridiomycota, or Chytrids. They're unicellular, their spores have flagella that allow them to move through water. They're found in aquatic environments and soil, and parasitize protists. 
+One fungal phyla is **Chytridiomycota**, or **Chytrids**. They're unicellular, their spores have flagella that allow them to move through water. They're found in aquatic environments and soil, and parasitize protists. 
