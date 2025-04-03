@@ -12,4 +12,4 @@ Unfortunately, writers have high latency. This means it's more effective to cach
 
 Luckily for us, renaming a file is simple. We can update the directory data with a new mapping, but the inode doesn't change, so processes don't need their file descriptor tables updated. 
 
-Finally, we need to consider what happens when we delete a file. When we use a function like `rm`, we typically **unlink** a file, not fully removing it. This also means we can create more links to a file with `ln`. This creates what looks like a different file with a different name, but checking the name with `stat` will reveal a differ
+Finally, we need to consider what happens when we delete a file. When we use a function like `rm`, we typically **unlink** a file, not fully removing it. This also means we can create more links to a file with `ln`. This creates what looks like a different file with a different name, but checking the name with `stat` will reveal a different inode number. 
