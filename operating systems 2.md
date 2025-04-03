@@ -1,1 +1,1 @@
-So we have persistent data, but as we've covered, it's unwise to operate with it directly through hardware. How can we abstract that data and what interface does 
+So we have persistent data, but as we've covered, it's unwise to operate with it directly through hardware. How can we abstract that data and what interface do operating systems provide 
