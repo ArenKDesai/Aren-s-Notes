@@ -1,1 +1,1 @@
-So we have persistent data, but as we've covered, it's 
+So we have persistent data, but as we've covered, it's unwise to operate with it directly through hardware. 
