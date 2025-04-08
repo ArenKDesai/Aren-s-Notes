@@ -9,9 +9,8 @@ Bu how does the program know where those bit maps are? We create one more block:
 
 Ok, we have files in an array. However, the array is really long, and files themselves are virtual arrays of bytes. How do we optimally organize file data on a disk? Moreover, how can we map the virtual array of bytes to the physical resource (disk or SSD)?
 There are a few problems to think about. What are they?
-What about **fragmentation**? Internal and external?
+What about **fragmentation**? Internal and external? Which one is worse? (it's external.
 What about the seek cost of the files?
 What about metadata storage?
-
 
 ### Contiguous Allocation
