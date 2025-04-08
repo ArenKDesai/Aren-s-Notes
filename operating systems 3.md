@@ -14,3 +14,4 @@ What about the seek cost of the files?
 What about metadata storage?
 
 ### Contiguous Allocation
+Like the array idea. Seek cost is low --- it's just 
