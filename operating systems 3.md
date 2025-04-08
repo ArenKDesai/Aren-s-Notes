@@ -11,6 +11,7 @@ Ok, we have files in an array. However, the array is really long, and files them
 There are a few problems to think about. What are they?
 What about **fragmentation**? Internal and external?
 What about the seek cost of the files?
+What about metadata storage?
 
 
 ### Contiguous Allocation
