@@ -49,3 +49,5 @@ This algorithm is order independent. It also requires extra memory (that reads/w
 In a tie, we can decide whether the old or new object stays. This is called **Z-Fighting**, where two objects have the same $z$. This is what causes flickering. 
 Another problem is if a triangle partially fills a pixel. This is **Aliasing**. 
 Finally, we compute the color first, then do the check. This causes overdraw. 
+
+The programming 
