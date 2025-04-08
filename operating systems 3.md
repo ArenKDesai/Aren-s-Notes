@@ -30,4 +30,4 @@ Keep the linked list in a separate table. The table includes block indices and t
 
 #### Direct Reference
 Introduce the **index block**, a pointer to data blocks. Random access is good and sequential access is fine, although it requires an extra read. 
-The index block itself is a bit of a bottleneck, but we can allieviate some of those inefficiencies through hierarchical indexing. The inode 
+The index block itself is a bit of a bottleneck, but we can allieviate some of those inefficiencies through hierarchical indexing. The inodes in the hierarchy now has a pointer to the 
