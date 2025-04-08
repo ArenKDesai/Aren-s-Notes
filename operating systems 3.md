@@ -44,4 +44,4 @@ You *create* `/foo/bar`. Assuming the superblock is cached, you access the root 
 Question: How many steps are left, and what do they happen to?
 Answer: 3, and they happen to the *inode bitmap*, then *foo data block*. 
 Steps 5 and 6 are to read the inode bit map for the next available data block and to write to the inode bit map to make space for bar. 
-Step 7 i
+Step 7 is to write to the 
