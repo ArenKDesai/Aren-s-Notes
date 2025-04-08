@@ -43,4 +43,4 @@ Here's another example.
 You *create* `/foo/bar`. Assuming the superblock is cached, you access the root inode, root data, foo inode, and foo data. 
 Question: How many steps are left, and what do they happen to?
 Answer: 3, and they happen to the *inode bitmap*, then *foo data block*. 
-Steps 5 and 6 are to read the inode bit map for the next available dat
+Steps 5 and 6 are to read the inode bit map for the next available data block and to write to the inode bit map to make space for th
