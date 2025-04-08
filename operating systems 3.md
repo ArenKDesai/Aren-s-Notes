@@ -9,4 +9,4 @@ Bu how does the program know where those bit maps are? We create one more block:
 
 Ok, we have files in an array. However, the array is really long, and files themselves are virtual arrays of bytes. How do we optimally organize file data on a disk? Moreover, how can we map the virtual array of bytes to the physical resource (disk or SSD)?
 
-##
+### Contiguous Allocation
