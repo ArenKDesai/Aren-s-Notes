@@ -45,4 +45,4 @@ Question: What do the next two steps happen to?
 Answer: The *inode bitmap*.
 Steps 5 and 6 are to read the inode bit map for the next available data block and to write to the inode bit map to make space for bar. 
 Step 7 is to write to the foo data block. Remember, bar is in the foo directory. 
-Steps 8 and 9 are to read and write to the bar inode. 
+Steps 8 and 9 are to read and write to the bar inode. Finally, step 10 is to write to the foo inode. This is done last for error protection; if ther
