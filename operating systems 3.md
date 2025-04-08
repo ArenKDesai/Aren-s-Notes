@@ -17,4 +17,4 @@ What about metadata storage?
 Like the array idea. Seek cost is low --- it's just indexes in an array. The metadata is pretty small as well. However, external fragmentation is horrible. Finally, if we want to grow a file, then what? Do we have to iterate over the entire array? This idea is a little naive. 
 
 ### Extent Allocation
-We make a new list. Keep in this list the *addresses* and *lengths* of files. External gr
+We make a new list. Keep in this list the *addresses* and *lengths* of files. External fragmentation is better 
