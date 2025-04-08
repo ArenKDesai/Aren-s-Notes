@@ -29,4 +29,4 @@ We make a linked list of of inodes and data. This has extremely poor seek time b
 Keep the linked list in a separate table. The table includes block indices and the next block indices to that block. We can read this whole table and cache it for quick random access. 
 
 #### Direct Reference
-Introduce the **index block**, a pointer to data blocks. 
+Introduce the **index block**, a pointer to data blocks. Random access is good and sequential access is fine, although it requires an extra read. 
