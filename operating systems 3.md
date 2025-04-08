@@ -42,4 +42,5 @@ Answer: No. You are just opening the file, not reading just yet.
 Here's another example. 
 You *create* `/foo/bar`. Assuming the superblock is cached, you access the root inode, root data, foo inode, and foo data. 
 Question: How many steps are left, and what do they happen to?
-Answer: 2, and they happen to the *inode bitmap*. 
+Answer: 3, and they happen to the *inode bitmap*, then *foo data block*. 
+Steps 5 and 6 are to read the inode bit map for the next available dat
