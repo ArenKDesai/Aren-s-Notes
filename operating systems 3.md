@@ -14,4 +14,4 @@ What about the seek cost of the files?
 What about metadata storage?
 
 ### Contiguous Allocation
-Like the array idea. Seek cost is low --- it's just indexes in an array. However, external fragmentation is horrible. 
+Like the array idea. Seek cost is low --- it's just indexes in an array. The metadata is pretty small as well. However, external fragmentation is horrible. Finally, if we want to grow a file, then what? Do we have to iterate ov
