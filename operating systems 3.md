@@ -21,3 +21,4 @@ We make a new list. Keep in this list the *addresses* and *lengths* of files. Ex
 
 ### Fixed-Size Data Blocks
 If the previous idea was similar to the naive heap approach to memory, this is akin to the page table approach. 
+We make a linked list of of inodes and data. This has extremely poor seek time but no external fragmentation. It does have internal fragme
