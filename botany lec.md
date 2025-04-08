@@ -2,4 +2,4 @@
 541 mya: **Phanerozoic** Era begins. Dawn of the **Cambrian explosion** of life on land. This is the newest era. 
 No plants or animals on land. Life only existed in ocean. Only 10% of today's oxygen. 
 
-Plants back then had to deal with gravity, drying and UV damage, water and nutrients delivery, fertilization, etc. 
+Plants back then had to deal with gravity, drying and UV damage, water and nutrients delivery, fertilization, etc. These evolutionary advances took 
