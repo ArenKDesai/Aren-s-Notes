@@ -1,2 +1,2 @@
 ## Earth Before Life
-541 mya: Phaneroz
+541 mya: **Phanerozoic** Era begins. 
