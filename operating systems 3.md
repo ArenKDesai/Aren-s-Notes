@@ -37,4 +37,4 @@ The index block itself is a bit of a bottleneck, but we can alleviate some of th
 Here's an example.
 You open `/foo/bar`. Assuming the superblock is cached, you have to access the root inode, root data, foo inode, foo data, and bar inode. 
 Question: Do you have to access the bar data?
-Answer: No. 
+Answer: No. You are just opening the file, not reading just yet. 
