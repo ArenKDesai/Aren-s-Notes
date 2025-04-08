@@ -35,4 +35,4 @@ Introduce the **index block**, a pointer to data blocks. Random access is good a
 The index block itself is a bit of a bottleneck, but we can alleviate some of those inefficiencies through hierarchical indexing. The inode is now a tree-like structure with references to data blocks (small number, maybe 10), then indirect blocks off of those blocks (larger, maybe 1024), and onwards as the tree grows. 
 
 Here's an example.
-You open `/foo/bar`. Assuming
+You open `/foo/bar`. Assuming the superblock is cached, you have to access the root inode, 
