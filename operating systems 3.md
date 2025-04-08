@@ -26,4 +26,4 @@ If the previous idea was similar to the naive heap approach to memory, this is a
 We make a linked list of of inodes and data. This has extremely poor seek time but no external fragmentation. It does have internal fragmentation. Let's throw it out. 
 
 #### File Allocation Table (FAT)
-Keep the linked list in a separate table. 
+Keep the linked list in a separate table. The table includes block indice
