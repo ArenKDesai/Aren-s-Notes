@@ -40,4 +40,4 @@ Question: Do you have to access the bar data?
 Answer: No. You are just opening the file, not reading just yet. 
 
 Here's another example. 
-You *create* `/foo/bar`. Assuming the superblock is cached, you access the root inode, root data, fo
+You *create* `/foo/bar`. Assuming the superblock is cached, you access the root inode, root data, foo inode, and foo data. 
