@@ -1,4 +1,4 @@
-# UW 
+#UWMadison #Graphics #ComputerGraphics 
 The world is continuous, but a computer is discrete. So how do we convert a continuous world of colors to a finite set of pixels?
 
 ### Pixels
