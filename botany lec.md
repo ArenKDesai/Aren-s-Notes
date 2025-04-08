@@ -7,4 +7,5 @@ Plants back then had to deal with gravity, drying and UV damage, water and nutri
 Land plants descended from Streptophyte green algae. The algae had no apical meristems and no true tissues. The unprotected spores were just released into the water. There was no embryos and sporophyte stage. 
 
 ### Bryophytes
-Mosses, liverworts, hornworts, etc. These non-vascular plants had no true roots, stems, or leaves. They had rhizoids to aid in anchorage. They had water-
+Mosses, liverworts, hornworts, etc. These non-vascular plants had no true roots, stems, or leaves. They had rhizoids to aid in anchorage. They had water-dependent sexual reproduction. 
+The life cycel
