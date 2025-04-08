@@ -9,4 +9,4 @@ Land plants descended from Streptophyte green algae. The algae had no apical mer
 ### Bryophytes
 Mosses, liverworts, hornworts, etc. These non-vascular plants had no true roots, stems, or leaves. They had rhizoids to aid in anchorage. They had water-dependent sexual reproduction. 
 The eggs are produced in the **archegonia** and the sperm are produced in the **antheridia**. The flagellated sperm must swim to the egg. 
-The diploid zygote grows out of the 
+The diploid zygote grows out of the archegonium into a sporophyte. T
