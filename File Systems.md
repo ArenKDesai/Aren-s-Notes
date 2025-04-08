@@ -15,4 +15,5 @@ Luckily for us, renaming a file is simple. We can update the directory data with
 Finally, we need to consider what happens when we delete a file. When we use a function like `rm`, we typically **unlink** a file, not fully removing it. This also means we can create more links to a file with `ln`. This creates what looks like a different file with a different name, but checking the name with `stat` will reveal the same inode number. This increases the reference count. Also, having two links to the same file doesn't change permissions; the page directory stores permissions. 
 Another type of link is the **softlink**, with `ln -s`. Soft links do not increase reference count because they refer to the other file link, not the file itself. 
 
-After this, we have the basics to start the gre
+After this, we have the basics to start the greatest abstraction of all: the **file system (FS)**. 
+
