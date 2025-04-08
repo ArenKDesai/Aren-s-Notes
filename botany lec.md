@@ -8,4 +8,4 @@ Land plants descended from Streptophyte green algae. The algae had no apical mer
 
 ### Bryophytes
 Mosses, liverworts, hornworts, etc. These non-vascular plants had no true roots, stems, or leaves. They had rhizoids to aid in anchorage. They had water-dependent sexual reproduction. 
-The life cycle 
+The eggs are produced in the **archegonia** 
