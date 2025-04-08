@@ -50,4 +50,4 @@ In a tie, we can decide whether the old or new object stays. This is called **Z-
 Another problem is if a triangle partially fills a pixel. This is **Aliasing**. 
 Finally, we compute the color first, then do the check. This causes overdraw. 
 
-The programming 
+The programming of a GPU is done in [[shaders]]. 
