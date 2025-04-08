@@ -20,4 +20,4 @@ Like the array idea. Seek cost is low --- it's just indexes in an array. The met
 We make a new list. Keep in this list the *addresses* and *lengths* of files. External fragmentation is better, but it relies on a static number of extents. 
 
 ### Fixed-Size Data Blocks
-If the previous idea was similar to the naive heap approach to memory, this is akin to the pagee
+If the previous idea was similar to the naive heap approach to memory, this is akin to the page table approach. 
