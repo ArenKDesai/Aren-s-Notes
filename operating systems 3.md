@@ -40,4 +40,4 @@ Question: Do you have to access the bar data?
 Answer: No. You are just opening the file, not reading just yet. 
 
 Here's another example. 
-Y
+You *create* `/foo/bar`. Assum
