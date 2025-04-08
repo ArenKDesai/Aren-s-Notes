@@ -27,3 +27,6 @@ We make a linked list of of inodes and data. This has extremely poor seek time b
 
 #### File Allocation Table (FAT)
 Keep the linked list in a separate table. The table includes block indices and the next block indices to that block. We can read this whole table and cache it for quick random access. 
+
+#### Direct Reference
+This includes **index block
