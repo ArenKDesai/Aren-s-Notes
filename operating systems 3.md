@@ -4,8 +4,8 @@
 Your files are stored in a very large array. Part of the array is reserved for data and part is reserved for inodes (the metadata). The elements of the array are typically 4KB blocks to match page sizes for convenience. 
 There's one inode per file and it stores the size, timestamps, permissions, links, and type (file or directory). 
 Then, there's **data blocks**. These are the files with file data or directories with hashes that map names to inode numbers. One file can use multiple data blocks. 
-NOTE: if a file is empty, it doesnt' 
 But how does a program know which regions are which before iterating through them? The elements before both the inode and data regions are the **ibit and dbit masks**. The ibits track the allocated inode blocks and the dbits track the allocated data blocks. 
+NOTE: if a file is empty, it doesn't set a dbit for the file; 
 Bu how does the program know where those bit maps are? We create one more block: the **superblock**. It contains the ibit location, dbit location, inode region, data region, and "magic number" (which may or may not be used depending on the FS). 
 
 Ok, we have files in an array. However, the array is really long, and files themselves are virtual arrays of bytes. How do we optimally organize file data on a disk? Moreover, how can we map the virtual array of bytes to the physical resource (disk or SSD)?
