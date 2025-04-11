@@ -6,4 +6,4 @@ There are three main categories of NER:
 1. **Rule-based Approaches**: Experts use domain knowledge to generate a vocabulary. 
 2. **Supervised Learning Approaches**: Humans explicitly label instances of designated entity types and train machine learning (ML) models on them.  
 3. **Unsupervised Approaches**: Provide a few "seed" instances, like a mini-vocabulary, and have an ML model learn rules from sentences containing these entity instances.
-The modern approaches use neural networks (NNs) like convolutional neural networks (CNNs), long-short term memory net
+The modern approaches use neural networks (NNs) like convolutional neural networks (CNNs), long-short term memory networks (LSTMs), and transformers like BERT. 
