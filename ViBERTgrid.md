@@ -1,4 +1,4 @@
 From [ViBERTgrid: A Jointly Trained Multi-Modal 2D Document Representation for Key Information Extraction from Documents](https://arxiv.org/abs/2105.11672) by Lin et al. 
 
 ## Overview
-ViBERTgrid is an 
+BERT models can be given an extra layer 
