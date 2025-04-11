@@ -10,4 +10,4 @@ The modern approaches use neural networks (NNs) like convolutional neural networ
 
 ### BERT as NER
 BERT, the Bidirectional Encoder Representation from Transformers, can be fine-tuned with one more output layer for NER (3.1):
-![]
+![[Screenshot 2025-04-11 152225.png]]
