@@ -9,4 +9,4 @@ There are three main categories of NER:
 The modern approaches use neural networks (NNs) like convolutional neural networks (CNNs), long-short term memory networks (LSTMs), and transformers like **BERT**. 
 
 ### BERT as NER
-BERT, the Bidirectional Encoder Representation from Transformers, can be fine-tuned with o
+BERT, the Bidirectional Encoder Representation from Transformers, can be fine-tuned with one more output layer 
