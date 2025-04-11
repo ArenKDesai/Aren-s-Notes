@@ -12,7 +12,7 @@ The modern approaches use neural networks (NNs) like convolutional neural networ
 ### BERT as NER
 Pre-trained BERT, the Bidirectional Encoder Representation from Transformers, can be fine-tuned with one more output layer for NER (3.1):
 ![[Screenshot 2025-04-11 152225.png]]
-Grid-based document representations can allow BERT to encode the textual 
+Grid-based document representations can allow BERT to encode the textual *and* layout information t
 
 ## ViBERTgrid
 From [ViBERTgrid: A Jointly Trained Multi-Modal 2D Document Representation for Key Information Extraction from Documents](https://arxiv.org/abs/2105.11672) by Lin et al. 
