@@ -16,4 +16,4 @@ Grid-based document representations can allow BERT to encode the textual *and* l
 
 ## ViBERTgrid
 From [ViBERTgrid: A Jointly Trained Multi-Modal 2D Document Representation for Key Information Extraction from Documents](https://arxiv.org/abs/2105.11672) by Lin et al. 
-An example implementation of 
+An example implementation of ViBERTgrid with PyTorch can be found 
