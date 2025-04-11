@@ -11,4 +11,4 @@ The modern approaches use neural networks (NNs) like convolutional neural networ
 ### BERT as NER
 Pre-trained BERT, the Bidirectional Encoder Representation from Transformers, can be fine-tuned with one more output layer for NER (3.1):
 ![[Screenshot 2025-04-11 152225.png]]
-A few models have been created with this extra output layer and fine-tuned for po
+A few models have been created with this extra output layer and fine-tuned for performance in certain fields, such as the **Vi
