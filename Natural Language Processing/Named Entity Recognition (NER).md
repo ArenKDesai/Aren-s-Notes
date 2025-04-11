@@ -1,4 +1,3 @@
-From [Comprehensive Overview of Named Entity Recognition: Models, Domain-Specific Applications and Challenges](https://arxiv.org/abs/2309.14084) by Kalyani Pakhale (2023).
 
 ## Overview
 **Named Entity Recognition (NER)** is a text processing task that identifies named things and their types (2.1). To extend this notion, **Nested Named Entity Recognition** identifies the hierarchies these entities exist in. 
@@ -13,4 +12,5 @@ Pre-trained BERT, the Bidirectional Encoder Representation from Transformers, ca
 ![[Screenshot 2025-04-11 152225.png]]
 A few models have been created with this extra output layer and fine-tuned for performance in certain fields, such as the [[ViBERTgrid]] model. 
 
-## ViB
+## ViBERTgrid
+From [ViBERTgrid: A Jointly Trained Multi-Modal 2D Document Representation for Key Information Extraction from Documents](https://arxiv.org/abs/2105.11672) by Lin et al. 
