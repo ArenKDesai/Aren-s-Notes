@@ -1,5 +1,7 @@
 
 ## Overview
+From [Comprehensive Overview of Named Entity Recognition: Models, Domain-Specific Applications and Challenges](https://arxiv.org/abs/2309.14084) by Kalyani Pakhale (2023).
+
 **Named Entity Recognition (NER)** is a text processing task that identifies named things and their types (2.1). To extend this notion, **Nested Named Entity Recognition** identifies the hierarchies these entities exist in. 
 There are three main categories of NER:
 1. **Rule-based Approaches**: Experts use domain knowledge to generate a vocabulary. 
