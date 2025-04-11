@@ -18,4 +18,4 @@ Grid-based document representations can allow BERT to encode the textual *and* l
 From [ViBERTgrid: A Jointly Trained Multi-Modal 2D Document Representation for Key Information Extraction from Documents](https://arxiv.org/abs/2105.11672) by Lin et al. 
 An example implementation of ViBERTgrid with PyTorch by ZeningLin on GitHub can be found [here](https://github.com/ZeningLin/ViBERTgrid-PyTorch#).
 
-**Key Information Extraction (KIE)** is a pivotal task to extract values of pre-defined key fields from documents (1). Most models treat KIE as a token classification problem and solve it with deep learning models with either a **sequence-based**, **graph-based**, or **grid-based** approach. As mentioned above, BERTgrid is one of these models, where 
+**Key Information Extraction (KIE)** is a pivotal task to extract values of pre-defined key fields from documents (1). Most models treat KIE as a token classification problem and solve it with deep learning models with either a **sequence-based**, **graph-based**, or **grid-based** approach. As mentioned above, BERTgrid is one of these models, where each document is represented as a 2D grid of token embeddings, 
