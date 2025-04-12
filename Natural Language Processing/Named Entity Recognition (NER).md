@@ -19,4 +19,4 @@ From [ViBERTgrid: A Jointly Trained Multi-Modal 2D Document Representation for K
 An example implementation of ViBERTgrid with PyTorch by ZeningLin on GitHub can be found [here](https://github.com/ZeningLin/ViBERTgrid-PyTorch#).
 
 **Key Information Extraction (KIE)** is a pivotal task to extract values of pre-defined key fields from documents (1). Most models treat KIE as a token classification problem and solve it with deep learning models with either a **sequence-based**, **graph-based**, or **grid-based** approach. As mentioned above, BERTgrid is one of these models, where each document is represented as a 2D grid of token embeddings, and standard instance segmentation models are used to extract field values from the 2D grid (1). However, previous implementations of BERTgrid didn't perform up to par with newer models like **LayoutLM** and **PICK**. 
-ViBERTgrid aims to solve this by constructing 
+ViBERTgrid aims to solve this by constructing the BERTgrid and concatenating it with a CNN to construct a new multi-modal backbone network (3.1.2). 
