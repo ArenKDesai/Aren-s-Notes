@@ -7,4 +7,4 @@ If A and B are two pieces of data and knowing A eliminates some values of B, the
 RAID with mirrored disks has complete redundancy, and parity blocks have partial redundancy. 
 This also includes the superblock with the total blocks and inodes with the pointer to data blocks. 
 
-Redundancy can cause a problem if one of the two pieces of data is written to, and the system crashes before writing to the other one. 
+Redundancy can cause a problem if one of the two pieces of data is written to, and the system crashes before writing to the other one. We want consistency in our file system
