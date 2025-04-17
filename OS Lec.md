@@ -11,3 +11,4 @@ Redundancy can cause a problem if one of the two pieces of data is written to, a
 
 ## File System ChecKer (FSCK)
 After a crash, we can scan the whole disk for contradictions and fix them. We can also keep the system offline until FSCK completes. 
+For example, if there's an inode with a link but no directory entry to match, F
