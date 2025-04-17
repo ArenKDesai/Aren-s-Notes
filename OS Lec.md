@@ -10,4 +10,4 @@ This also includes the superblock with the total blocks and inodes with the poin
 Redundancy can cause a problem if one of the two pieces of data is written to, and the system crashes before writing to the other one. We want consistency in our file system. 
 
 ## File System ChecKer (FSCK)
-After a crash, we can scan the whole disk for contradictions and fix them. 
+After a crash, we can scan the whole disk for contradictions and fix them. We can also keep the system offline until FSCK completes. 
