@@ -1,4 +1,5 @@
 ### Notes
 In an inode is the owner, create time, permissions, and length. Extension is just for users.
-All `ls` does is read the datablocks of an inode, so placement policies don't affect a single inode `ls`.
+All `ls` does is read the datablocks of an inode, so placement policies don't affect a single inode `ls`. 
+
 ## Persistence
