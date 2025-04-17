@@ -3,4 +3,4 @@ In an inode is the owner, create time, permissions, and length. Extension is jus
 All `ls` does is read the datablocks of an inode, so placement policies don't affect a single inode `ls`. 
 
 ### Redundancy
-If A and B are two pieces of data and knowing A elminates some values of B, th
+If A and B are two pieces of data and knowing A eliminates some values of B, there is redundancy between A and B. 
