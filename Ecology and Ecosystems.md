@@ -1,1 +1,1 @@
-A **biome** is a large geographic region defined by climate and vegetation type. These are regional or global, and ofte
+A **biome** is a large geographic region defined by climate and vegetation type. These are regional or global, and may contain multiple ecosystems. 
