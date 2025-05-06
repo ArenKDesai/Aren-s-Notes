@@ -1,1 +1,1 @@
-A **biome** is a large geographic region defined by climate and vegetation type. These are regional or global, and may contain multiple ecosystems. **Ecosystems** are communities of plants and animals interacting with their environments --- 
+A **biome** is a large geographic region defined by climate and vegetation type. These are regional or global, and may contain multiple ecosystems. **Ecosystems** are communities of plants and animals interacting with their environments --- local or regional in scale, living and non-living, defined by interactions. 
