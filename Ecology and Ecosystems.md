@@ -2,4 +2,4 @@ A **biome** is a large geographic region defined by climate and vegetation type.
 The structure of an ecosystem is comprised of the different species that live there, including relative abundance of each species (proportion of all individuals) and spatial distribution of individuals. 
 The population growth rate in a habitat / ecosystem is the birth rate minus the death rate, and the carrying capacity (K) is the maximum number of individuals the ecosystem can support at r=0. 
 
-A tropic level is an organism's position on the food chain. Tropic levels usually have multiple species, which is called **redundancy**. The tropic guild 
+A tropic level is an organism's position on the food chain. Tropic levels usually have multiple species, which is called **redundancy**. The tropic guild is the specific tropic lev
