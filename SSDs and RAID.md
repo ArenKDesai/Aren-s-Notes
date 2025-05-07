@@ -7,6 +7,7 @@
 - Higher cost per bit than hard drives, but better performance
 - contains blocks made of pages
 - Writing a single page requires erasing the entire block of pages
+- a block is likely to fail after a certain number of erases
 - 
 
 ### NAND
