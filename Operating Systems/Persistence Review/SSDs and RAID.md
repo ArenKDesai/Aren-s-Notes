@@ -17,7 +17,7 @@
 #### Operations
 - Reading a page involves retrieving the contents of an entire page which can be 25-75 microseconds
 - erasing a block resets each page in the block to all 1s. cost is 1.5-4.5 miliseconds. This is much more expensive than reading. 
-- writing a page is changing bits from 1 to 0, and the cost is 200-1400 microseconds. 
+- writing a page is changing bits from 1 to 0, and the cost is 200-1400 microseconds. Slower than read, faster than erase. 
 
 ### NAND
 A NAND flash block is a grid of cells, of the following:
