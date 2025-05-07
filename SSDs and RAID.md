@@ -7,8 +7,7 @@
 - Higher cost per bit than hard drives, but better performance
 - contains blocks made of pages
 - Writing a single page requires erasing the entire block of pages
-- a block is likely to fail after a certain number of erases
-- 
+- a block is likely to fail after a certain number of erases (1000 for slow, )
 
 ### NAND
 A NAND flash block is a grid of cells, of the following:
