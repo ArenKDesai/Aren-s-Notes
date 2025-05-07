@@ -30,4 +30,4 @@ A NAND flash block is a grid of cells, of the following:
 
 ### Flash Translation Layer
 We want to translate reads/writes to logical blocks into reads/erases/programs on physical pages+blocks
-We also want to reduce write a
+We also want to reduce write amplification 
