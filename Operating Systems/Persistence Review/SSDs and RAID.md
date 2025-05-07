@@ -16,6 +16,7 @@
 
 #### Operations
 - Reading a page involves retrieving the contents of an entire page which can be 25-75 miliseconds
+- erasing a block 
 
 ### NAND
 A NAND flash block is a grid of cells, of the following:
