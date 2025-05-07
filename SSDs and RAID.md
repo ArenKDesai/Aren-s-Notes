@@ -12,6 +12,7 @@
 #### Striping
 - block addresses striped across flash packages
 - a single request can span multiple chips
+- has natural load balancing
 - 
 
 ### NAND
