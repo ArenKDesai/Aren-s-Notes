@@ -10,7 +10,9 @@
 - a block is likely to fail after a certain number of erases (1000 for slow/high density, 100,000 for fast/low density)
 
 #### Striping
-
+- block addresses striped across flash packages
+- a single request can span multiple chips
+- 
 
 ### NAND
 A NAND flash block is a grid of cells, of the following:
