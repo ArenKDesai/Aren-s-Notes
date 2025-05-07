@@ -13,4 +13,4 @@ A NAND flash block is a grid of cells, of the following:
 - Triple Level Cell: 4 bits per cell (even more so)
 - Erase: set all bits to 1
 - Program: clear some bits
-- read: NA
+- read: NAND operation with a page selected
