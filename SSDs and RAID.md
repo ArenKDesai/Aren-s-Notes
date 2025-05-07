@@ -5,6 +5,8 @@
 - No mechanical parts, use transistors
 - NAND-based technology
 - Higher cost per bit than hard drives, but better performance
+- contains blocks made of pages
+- 
 
 ### NAND
 A NAND flash block is a grid of cells, of the following:
