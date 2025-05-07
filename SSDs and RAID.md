@@ -8,4 +8,5 @@
 
 ### NAND
 A NAND flash block is a grid of cells, of the following:
-- Single Level Cell: 1 bit per cell ()
+- Single Level Cell: 1 bit per cell (fast, more reliable)
+- Multi Level Cell: 2 bits per ce
