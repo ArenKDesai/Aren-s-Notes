@@ -43,3 +43,4 @@ Throughput: $N*S, N*R$
 Capacity: $N/2*C$
 Safely lose disks: min: 1, max: $N/2$
 Latency: $D$
+Throughput: 
