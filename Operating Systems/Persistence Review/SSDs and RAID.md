@@ -36,4 +36,6 @@ We also want to implement wear leveling, or distributing writes equally to all b
 ## RAID
 ### 0
 Capacity: $N*C$
-Safely lose 
+Safely lose disks: 0
+Random Latency: $D$
+Th
