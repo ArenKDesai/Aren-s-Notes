@@ -6,7 +6,7 @@
 - NAND-based technology
 - Higher cost per bit than hard drives, but better performance
 - contains blocks made of pages
-- 
+- Writing a single page requires erasing the entire block of 
 
 ### NAND
 A NAND flash block is a grid of cells, of the following:
