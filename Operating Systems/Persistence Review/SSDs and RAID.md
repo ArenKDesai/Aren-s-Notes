@@ -34,4 +34,5 @@ We also want to reduce write amplification, or the amount of extra copying neede
 We also want to implement wear leveling, or distributing writes equally to all blocks to avoid fast failures of a "hot" blocks
 
 ## RAID
-0: $N*C$ capacity, 
+### 0
+Capac
