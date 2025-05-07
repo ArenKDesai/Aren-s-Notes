@@ -1,0 +1,1 @@
+We often want more than one disk for capacity, reliability, and performance. 
