@@ -15,7 +15,7 @@
 - has natural load balancing
 
 #### Operations
-- Reading a page 
+- Reading a page involves retrieving the contents of an entire
 
 ### NAND
 A NAND flash block is a grid of cells, of the following:
