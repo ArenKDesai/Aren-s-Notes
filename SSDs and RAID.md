@@ -13,7 +13,9 @@
 - block addresses striped across flash packages
 - a single request can span multiple chips
 - has natural load balancing
-- 
+
+#### Operations
+- Reading a page 
 
 ### NAND
 A NAND flash block is a grid of cells, of the following:
