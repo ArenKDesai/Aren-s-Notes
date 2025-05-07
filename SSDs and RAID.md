@@ -4,4 +4,5 @@
 - speeds closer to CPUs
 - No mechanical parts, use transistors
 - NAND-based technology
-- Higher cost per bit than 
+- Higher cost per bit than hard drives, but better performance
+- 
