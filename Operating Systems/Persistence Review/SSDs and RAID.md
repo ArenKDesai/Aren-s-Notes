@@ -46,3 +46,5 @@ Latency: $D$
 Throughput
 random reads: $N*R$
 random writes: $N/2*R$
+sequential writes: $N/2*S$
+sequential reads: 
