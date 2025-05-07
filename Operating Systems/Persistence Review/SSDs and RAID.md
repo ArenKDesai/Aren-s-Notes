@@ -16,7 +16,7 @@
 
 #### Operations
 - Reading a page involves retrieving the contents of an entire page which can be 25-75 miliseconds
-- erasing a block resets each page in the block to all 1s. cost is 1.5-4.5 miliseconds. 
+- erasing a block resets each page in the block to all 1s. cost is 1.5-4.5 miliseconds. This is much more expensive than reading. 
 
 ### NAND
 A NAND flash block is a grid of cells, of the following:
