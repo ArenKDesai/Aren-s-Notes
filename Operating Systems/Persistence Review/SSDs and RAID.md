@@ -45,4 +45,4 @@ Safely lose disks: min: 1, max: $N/2$
 Latency: $D$
 Throughput
 random reads: $N*R$
-rand
+random writes: $N/2*R$
