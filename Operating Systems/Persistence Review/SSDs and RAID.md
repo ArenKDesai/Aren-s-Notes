@@ -41,4 +41,5 @@ Random Latency: $D$
 Throughput: $N*S, N*R$
 ### 1
 Capacity: $N/2*C$
-Safely lose disks: min: 1, max: 
+Safely lose disks: min: 1, max: $N/2$
+Latency: $D$
