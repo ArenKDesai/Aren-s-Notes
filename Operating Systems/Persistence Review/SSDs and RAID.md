@@ -38,4 +38,5 @@ We also want to implement wear leveling, or distributing writes equally to all b
 Capacity: $N*C$
 Safely lose disks: 0
 Random Latency: $D$
-Throughput: $N*S, N*R
+Throughput: $N*S, N*R$
+### 
