@@ -28,4 +28,5 @@ A NAND flash block is a grid of cells, of the following:
 - Program: clear some bits
 - read: NAND operation with a page selected
 
-### Flash Tranasl
+### Flash Translation Layer
+
