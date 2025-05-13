@@ -8,4 +8,4 @@ Multi-horizon forecasting models usually have temporal information that's very d
 
 The temporal fusion transformer is an attention-based DNN architecture for multi-horizon forecasting with interpretability without sacrificing performance. It does so with static covariate encoders, gating mechanisms and sample-dependent variable selection, a sequence-to-sequence layer, and a temporal self-attention decoder. 
 
-## Oth
+As of the writing of the paper, the 
