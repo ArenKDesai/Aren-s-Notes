@@ -4,4 +4,4 @@ Whitepaper proposing Temporal Fusion Transformers: [Temporal Fusion Transformers
 
 ## Purpose
 For forecasting or prediction tasks that are highly temporal and multi-horizon (non-singular prediction outcome), we might want a powerful model that's also highly explainable. The temporal fusion transformer (TFT) is an explainable architecture with those qualities. It allows for predictions multiple time-steps into the future. 
-
+Multi-horizon forecasting models usually have e
