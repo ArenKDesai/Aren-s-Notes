@@ -16,4 +16,4 @@ As of the writing of the paper, deep learning methods could be categorized into 
 Previous time-series work doesn't consider static covariates, but the TFT architecture uses a separate encoder-decoder attention for static features at each time step, which determines the contribution of time-varying inputs. 
 
 ## Multi-Horizon Forecasting
-Let there be $I$ unique MISO nodes in our time-series dataset. Each MISO node is associated with a set of static covariates $s_i\in \mathbb{R}$ and inputs $\chi_{i,t}\in \mathbb{R}^{m_\chi}$ and scalar targets ${y_{i,t}\in \mathbb{R}}$ at each time-step $t\in [0,T_i]$.
+Let there be $I$ unique MISO nodes in our time-series dataset. Each MISO node is associated with a set of static covariates $s_i\in \mathbb{R}$, inputs $\chi_{i,t}\in \mathbb{R}^{m_\chi}$ and scalar targets ${y_{i,t}\in \mathbb{R}}$ at each time-step $t\in [0,T_i]$.
