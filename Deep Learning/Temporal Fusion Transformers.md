@@ -10,4 +10,4 @@ The temporal fusion transformer is an attention-based DNN architecture for multi
 
 As of the writing of the paper, deep learning methods could be categorized into iterative autoregressions or direct sequence-to-sequence models. The iterative models typically assume that the values of all variables excluding the target are known at forecast time (which typically isn't true), and deep learning methods typically aren't explainable. Direct methods aren't very good at multi-horizon forecasts with multiple time steps. 
 
-The temporal fusion transformer is an **attention-based**, 
+The temporal fusion transformer is an **attention-based DNN architecture for multi-horizon foreca
