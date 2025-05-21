@@ -24,7 +24,7 @@ Set Membership
 $\in$
 
 Sets
-$\real$ 
+$\mathbb{R}$ 
 
 | Symbol    | Script  |
 | --------- | ------- |
