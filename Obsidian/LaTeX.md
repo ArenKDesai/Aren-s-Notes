@@ -25,6 +25,7 @@ $\in$
 
 Sets
 $\mathbb{R}$ 
+$\chi$
 
 | Symbol    | Script  |
 | --------- | ------- |
