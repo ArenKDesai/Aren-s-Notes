@@ -1,7 +1,7 @@
 #DeepLearning #ML #MachineLearning #Statistics 
 
 Whitepaper proposing Temporal Fusion Transformers (2019): [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://arxiv.org/abs/1912.09363)
-This summary will focus on loca
+This summary will focus on locational market price (LMP) energy forecasting. 
 
 ## Purpose
 For forecasting or prediction tasks that are highly temporal and multi-horizon (non-singular prediction outcome), we might want a powerful model that's also highly explainable. The temporal fusion transformer (TFT) is an explainable architecture with those qualities. It allows for predictions multiple time-steps into the future. 
