@@ -26,4 +26,5 @@ gcloud dataflow jobs run iotflow \
     --parameters inputTopic=projects/pubsub-public-data/topics/taxirides-realtime,outputTableSpec=qwiklabs-gcp-03-15ae07c6740c:taxirides.realtime
 ```
 
-## 
+## CMD Tools
+You can use the 
