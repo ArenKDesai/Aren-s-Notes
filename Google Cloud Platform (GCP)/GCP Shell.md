@@ -11,3 +11,13 @@ passenger_count:integer -t taxirides.realtime
 ```
 More details can be found on the [official BQ CMD docs](https://cloud.google.com/bigquery/docs/reference/bq-cli-reference).
 The bucket can be created with `export BUCKET_NAME={bucket_name}` and `gsutil mb gs://$BUCKET_NAME/`.
+
+An example for running a dataflow template:
+```shell
+gcloud dataflow jobs run iotflow \
+    --gcs-location gs://dataflow-templates-us-east1/latest/PubSub_to_BigQuery \
+    --region us-east1 \
+    --worker-machine-type e2-medium \
+    --staging-location gs://qwiklabs-gcp-03-15ae07c6740c/temp \
+    --parameters inputTopic=projects/pubsub-public-data/topics/taxirides-realtime,outputTableSpec=qwiklabs-gcp-03-15ae07c6740c:taxirides.realtime
+```
