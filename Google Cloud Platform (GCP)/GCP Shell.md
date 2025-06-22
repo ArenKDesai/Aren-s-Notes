@@ -1,4 +1,4 @@
-
+You can use the shell with the below tools, rio 
 ### Service Identities
 Services identities can be created with `gcloud beta services identity create`, with the tag `--service={service}.googleapis.com` to specify the service. 
 
@@ -25,6 +25,3 @@ gcloud dataflow jobs run iotflow \
     --staging-location gs://qwiklabs-gcp-03-15ae07c6740c/temp \
     --parameters inputTopic=projects/pubsub-public-data/topics/taxirides-realtime,outputTableSpec=qwiklabs-gcp-03-15ae07c6740c:taxirides.realtime
 ```
-
-## CMD Tools
-You can use the 
