@@ -9,3 +9,4 @@ bq mk \
 timestamp:timestamp,meter_reading:float,meter_increment:float,ride_status:string,\
 passenger_count:integer -t taxirides.realtime
 ```
+More details can be found on the [official BQ ]
