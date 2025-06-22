@@ -1,4 +1,4 @@
-You can use the shell with the below tools, rio 
+You can use the shell with the below tools, or just as a CMD. It comes pre-packaged with Docker. 
 ### Service Identities
 Services identities can be created with `gcloud beta services identity create`, with the tag `--service={service}.googleapis.com` to specify the service. 
 
