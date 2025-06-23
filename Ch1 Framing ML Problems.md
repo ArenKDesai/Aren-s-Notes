@@ -5,4 +5,4 @@ There are multiple metrics used to fit ML models. One for binary classification 
 $\text{Recall}=\frac{\text{True Positive}}{\text{True Positive + False Negative}}$
 Recall is good for having a low false negative rate. Another, good for reducing false positives, is precision:
 $\text{Precision}=\frac{\text{True Positive}}{\text{True Positive + False Positive}}$
-And a metric that combines 
+And a metric that combines both is the F1 score:
