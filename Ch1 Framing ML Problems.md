@@ -8,4 +8,4 @@ $\text{Precision}=\frac{\text{True Positive}}{\text{True Positive + False Positi
 And a metric that combines both is the F1 score:
 $\text{F1}=2\times\frac{\text{Precision * Recall}}{\text{Precision + Recall}}$
 
-The Area Under the Curve Receiver Operating Characteristic (AUC ROC) plots the performance of a binary classification model. The false positive versus true positi
+The Area Under the Curve Receiver Operating Characteristic (AUC ROC) plots the performance of a binary classification model. The false positive versus true positive rate is plotted. 
