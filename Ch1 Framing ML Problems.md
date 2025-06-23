@@ -1,1 +1,1 @@
-You can break ML problems into supervised and unsupervised problems. Unsupervised problems include
+You can break ML problems into supervised and unsupervised problems. Unsupervised problems are solved via clustering algorithms or autoencoders. 
