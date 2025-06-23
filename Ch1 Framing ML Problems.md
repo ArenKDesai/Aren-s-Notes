@@ -4,4 +4,4 @@ Supervised problems sometimes use classification algorithms. The Cloud Vision AP
 There are multiple metrics used to fit ML models. One for binary classification is recall:
 $\text{Recall}=\frac{\text{True Positive}}{\text{True Positive + False Negative}}$
 Recall is good for having a low false negative rate. Another is precision:
-$\text{Precision}=\frac{\text{True Positive}}{}$
+$\text{Precision}=\frac{\text{True Positive}}{\text{True Positive + False Positive}}$
