@@ -7,3 +7,5 @@ Recall is good for having a low false negative rate. Another, good for reducing 
 $\text{Precision}=\frac{\text{True Positive}}{\text{True Positive + False Positive}}$
 And a metric that combines both is the F1 score:
 $\text{F1}=2\times\frac{\text{Precision * Recall}}{\text{Precision + Recall}}$
+
+The R
