@@ -2,4 +2,4 @@ You can break ML problems into supervised and unsupervised problems. Unsupervise
 Supervised problems sometimes use classification algorithms. The Cloud Vision API can classify millions of different objects in a picture for example. Other supervised techniques are regression and forecasting. 
 
 There are multiple metrics used to fit ML models. One is recall:
-$\text{Recall}=\frac{\text{True Positive}}{}
+$\text{Recall}=\frac{\text{True Positive}}{text{True Positive + False Negative}}
