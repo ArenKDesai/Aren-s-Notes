@@ -17,4 +17,4 @@ There's a number of target metrics. Here's a few:
 - RMSE: penalizes the model for incorrectly predicting very large values. 
 - RMSLE: penalizes under-prediction. 
 - MAPE: cares about proportional difference between actual and predicted. 
-- 
+- R^2: generally shows a b
