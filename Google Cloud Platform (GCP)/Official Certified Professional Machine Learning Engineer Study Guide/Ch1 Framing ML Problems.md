@@ -18,3 +18,4 @@ There's a number of target metrics. Here's a few:
 - RMSLE: penalizes under-prediction. 
 - MAPE: cares about proportional difference between actual and predicted. 
 - R^2: generally shows a better fitting model. 
+
