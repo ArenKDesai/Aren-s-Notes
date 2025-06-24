@@ -5,4 +5,4 @@ There's two ways to visualize data:
 2. Bivariate analysis. Compare data between two features. Helps find correlation between features. Line plots, bar plots, and scatterplots. 
 In box plots, data is represented at the 25th, 50th, and 75th quartiles. Maximum observations are present in the interquartile range. 
 
-The most important statistics for data science are mean, median, mode, standard devi
+The most important statistics for data science are mean, median, mode, standard deviation, and Pearson correlation. 
