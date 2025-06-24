@@ -2,4 +2,4 @@ Most projects begin with data collection and exploratory data analysis (EDA), bo
 
 There's two ways to visualize data:
 1. Univariate analysis. Analyze each feature independently, including range of the feature and whether outliers exist. Typically box plots and distribution plots. 
-2. Bivariate analysis. Compare data between two features. Helps find
+2. Bivariate analysis. Compare data between two features. Helps find correlation between features. Line plots, 
