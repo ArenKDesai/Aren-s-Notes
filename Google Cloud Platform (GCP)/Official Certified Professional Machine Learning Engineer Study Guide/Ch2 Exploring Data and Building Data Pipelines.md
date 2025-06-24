@@ -4,3 +4,5 @@ There's two ways to visualize data:
 1. Univariate analysis. Analyze each feature independently, including range of the feature and whether outliers exist. Typically box plots and distribution plots. 
 2. Bivariate analysis. Compare data between two features. Helps find correlation between features. Line plots, bar plots, and scatterplots. 
 In box plots, data is represented at the 25th, 50th, and 75th quartiles. Maximum observations are present in the interquartile range. 
+
+The most important statistics for data science are mean, median, mode, standard devi
