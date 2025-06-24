@@ -10,4 +10,4 @@ $\text{F1}=2\times\frac{\text{Precision * Recall}}{\text{Precision + Recall}}$
 
 The Area Under the Curve Receiver Operating Characteristic (AUC ROC) plots the performance of a binary classification model. The false positive versus true positive rate is plotted. The top left corner is the (unobtainable) ideal. This method is scale-invariant and is classification-threshold invariant (helps measure the model regardless of threshold). 
 ![[aucroc_curve.png]]
-However, AUC ROC being classifica
+However, AUC ROC being classification threshold-invariant can be a downside if you want to b
