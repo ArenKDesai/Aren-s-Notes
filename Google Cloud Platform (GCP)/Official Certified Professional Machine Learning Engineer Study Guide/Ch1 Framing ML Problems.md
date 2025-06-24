@@ -15,4 +15,4 @@ However, AUC ROC being classification threshold-invariant can be a downside if y
 There's a number of target metrics. Here's a few:
 - MAE: generic, but good.
 - RMSE: penalizes the model for incorrectly predicting very large values. 
-- 
+- RMSLE: penalizes 
