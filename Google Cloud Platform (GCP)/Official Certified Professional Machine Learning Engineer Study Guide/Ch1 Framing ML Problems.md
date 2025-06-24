@@ -19,4 +19,4 @@ There's a number of target metrics. Here's a few:
 - MAPE: cares about proportional difference between actual and predicted. 
 - R^2: generally shows a better fitting model. 
 
-Responsibilities that come with machine learning include
+Responsibilities that come with machine learning include keeping the end user in
