@@ -16,4 +16,5 @@ There's a number of target metrics. Here's a few:
 - MAE: generic, but good.
 - RMSE: penalizes the model for incorrectly predicting very large values. 
 - RMSLE: penalizes under-prediction. 
-- MAPE: cares about pro
+- MAPE: cares about proportional difference between actual and predicted. 
+- 
