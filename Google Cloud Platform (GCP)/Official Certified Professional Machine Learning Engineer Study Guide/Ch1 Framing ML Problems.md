@@ -13,5 +13,6 @@ The Area Under the Curve Receiver Operating Characteristic (AUC ROC) plots the p
 However, AUC ROC being classification threshold-invariant can be a downside if you want to factor in the classification threshold, in which case the Area Under the Precision-Recall (AUC PR) Curve is plotted. This is beneficial to heavily skewed datasets. 
 
 There's a number of target metrics. Here's a few:
-- MAE: generic, but good
-- RMSE: penalizes the model for 
+- MAE: generic, but good.
+- RMSE: penalizes the model for incorrectly predicting very large values. 
+- 
