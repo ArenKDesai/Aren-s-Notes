@@ -12,3 +12,4 @@ The Area Under the Curve Receiver Operating Characteristic (AUC ROC) plots the p
 ![[aucroc_curve.png]]
 However, AUC ROC being classification threshold-invariant can be a downside if you want to factor in the classification threshold, in which case the Area Under the Precision-Recall (AUC PR) Curve is plotted. This is beneficial to heavily skewed datasets. 
 
+
