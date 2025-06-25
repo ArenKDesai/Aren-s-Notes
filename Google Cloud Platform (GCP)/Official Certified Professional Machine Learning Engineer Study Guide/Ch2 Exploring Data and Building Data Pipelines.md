@@ -27,3 +27,6 @@ There's a number of options to dealing with missing data. These include:
 3. Forward-fill
 4. Linear interpolation
 5. K-nearest neighbors
+
+Data leakage of target features into the training set can be from the following problems:
+1. 
