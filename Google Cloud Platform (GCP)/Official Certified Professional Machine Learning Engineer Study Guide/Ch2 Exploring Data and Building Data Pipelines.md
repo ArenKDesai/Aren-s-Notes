@@ -12,4 +12,5 @@ Data can be unbalanced, unreliable, or skewed. Skew is when the distribution of 
 Outliers are easier to detect with plots and techniques such as:
 - box plots
 - z-score (Scaled value = (value − mean) / stddev)
-- 
+- clipping
+- interquartile range (IQR)
