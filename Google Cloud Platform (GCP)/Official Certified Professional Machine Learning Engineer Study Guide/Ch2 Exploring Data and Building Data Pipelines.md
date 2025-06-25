@@ -18,3 +18,5 @@ Outliers are easier to detect with plots and techniques such as:
 It's usually beneficial and recommended to have a schema for your data, including numerical vs categorical, allowed range, format, and distribution. 
 
 TensorFlow Data Validation (TFDV) can be used to detect anomalies and schema anomalies in the data. It's a part of the TensorFlow Extended platform. TFDV is helpful to identify skew in your dataset as it grows after production. 
+
+For online data, it's recommended to split the data by time, so train
