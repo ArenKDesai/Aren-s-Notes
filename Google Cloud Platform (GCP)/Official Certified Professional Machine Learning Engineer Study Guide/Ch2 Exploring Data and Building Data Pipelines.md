@@ -14,3 +14,5 @@ Outliers are easier to detect with plots and techniques such as:
 - z-score (Scaled value = (value − mean) / stddev)
 - clipping
 - interquartile range (IQR)
+
+It's usually beneficial and recommended to 
