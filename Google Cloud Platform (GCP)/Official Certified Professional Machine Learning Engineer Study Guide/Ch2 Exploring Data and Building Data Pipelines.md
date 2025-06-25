@@ -25,3 +25,4 @@ There's a number of options to dealing with missing data. These include:
 1. Deleting rows or columns with missing data. 
 2. Replacing missing values with the mean, median, or mode
 3. Forward-fill
+4. Linear interpolation
