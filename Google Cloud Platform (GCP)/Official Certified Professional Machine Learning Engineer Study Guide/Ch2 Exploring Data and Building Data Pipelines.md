@@ -6,3 +6,5 @@ There's two ways to visualize data:
 In box plots, data is represented at the 25th, 50th, and 75th quartiles. Maximum observations are present in the interquartile range. 
 
 The most important statistics for data science are mean, median, mode, standard deviation, and Pearson correlation. Pearson correlation shows the change of one variable based on another, and can be positive, negative, or zero. Correlation is helpful in detecting label leakage. 
+
+Data can be unbalanced, unreliable, or skewed. 
