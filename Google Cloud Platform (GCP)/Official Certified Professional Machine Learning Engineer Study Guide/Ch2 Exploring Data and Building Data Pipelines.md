@@ -9,7 +9,7 @@ The most important statistics for data science are mean, median, mode, standard 
 
 Data can be unbalanced, unreliable, or skewed. Skew is when the distribution of a feature has a mean that isn't equal to or near the median, and if the skewness is in the target variable, you can use the Synthetic Minority Oversampling Technique (SMOTE), undersampling, or oversampling. 
 
-Outliers are easier to detect with plots such as:
+Outliers are easier to detect with plots and techniques such as:
 - box plots
-- z-score (- Scaled value = (value − mean) / stddev)
+- z-score (Scaled value = (value − mean) / stddev)
 - 
