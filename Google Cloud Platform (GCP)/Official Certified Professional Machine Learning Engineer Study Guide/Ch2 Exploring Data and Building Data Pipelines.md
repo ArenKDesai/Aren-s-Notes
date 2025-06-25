@@ -17,4 +17,4 @@ Outliers are easier to detect with plots and techniques such as:
 
 It's usually beneficial and recommended to have a schema for your data, including numerical vs categorical, allowed range, format, and distribution. 
 
-TensorFlow Data Validation 
+TensorFlow Data Validation (TFDV) can be used to detect 
