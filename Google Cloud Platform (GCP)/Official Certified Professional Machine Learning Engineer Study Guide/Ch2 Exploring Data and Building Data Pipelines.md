@@ -15,4 +15,4 @@ Outliers are easier to detect with plots and techniques such as:
 - clipping
 - interquartile range (IQR)
 
-It's usually beneficial and recommended to 
+It's usually beneficial and recommended to have a schema for your data, including numerical vs catego
