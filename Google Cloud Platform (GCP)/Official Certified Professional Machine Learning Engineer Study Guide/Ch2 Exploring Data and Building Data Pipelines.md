@@ -8,3 +8,5 @@ In box plots, data is represented at the 25th, 50th, and 75th quartiles. Maximum
 The most important statistics for data science are mean, median, mode, standard deviation, and Pearson correlation. Pearson correlation shows the change of one variable based on another, and can be positive, negative, or zero. Correlation is helpful in detecting label leakage. 
 
 Data can be unbalanced, unreliable, or skewed. Skew is when the distribution of a feature has a mean that isn't equal to or near the median, and if the skewness is in the target variable, you can use the Synthetic Minority Oversampling Technique (SMOTE), undersampling, or oversampling. 
+
+Outliers a
