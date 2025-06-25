@@ -20,3 +20,7 @@ It's usually beneficial and recommended to have a schema for your data, includin
 TensorFlow Data Validation (TFDV) can be used to detect anomalies and schema anomalies in the data. It's a part of the TensorFlow Extended platform. TFDV is helpful to identify skew in your dataset as it grows after production. 
 
 For online data, it's recommended to split the data by time, so train for 1-29 days and test on the 30th. 
+
+There's a number of options to dealing with missing data. These include:
+1. Deleting rows or columns with missing data. 
+2. Replacing missing
