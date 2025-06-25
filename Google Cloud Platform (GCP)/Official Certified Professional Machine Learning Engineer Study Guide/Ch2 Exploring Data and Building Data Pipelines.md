@@ -30,4 +30,4 @@ There's a number of options to dealing with missing data. These include:
 
 Data leakage of testing data into the training set can be from the following problems:
 1. target variable is in training set
-2. 
+2. target 
