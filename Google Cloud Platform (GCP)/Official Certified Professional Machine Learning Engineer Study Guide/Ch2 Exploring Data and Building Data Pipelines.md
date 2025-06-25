@@ -28,5 +28,6 @@ There's a number of options to dealing with missing data. These include:
 4. Linear interpolation
 5. K-nearest neighbors
 
-Data leakage of target features into the training set can be from the following problems:
-1. 
+Data leakage of testing data into the training set can be from the following problems:
+1. target variable is in training set
+2. 
