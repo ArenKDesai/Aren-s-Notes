@@ -4,4 +4,4 @@ One feature engineering technique that can transform numeric data into categoric
 
 A special feature category called Out of Vocab can be created to trash outliers. 
 
-AUC ROC is used for a balanced dataset in classification problems that have an equal number of examples for both classes, while AUC PC is used when a dataset is imb
+AUC ROC is used for a balanced dataset in classification problems that have an equal number of examples for both classes, while AUC PC is used when a dataset is imbalanced. 
