@@ -6,4 +6,4 @@ A special feature category called Out of Vocab can be created to trash outliers.
 
 AUC ROC is used for a balanced dataset in classification problems that have an equal number of examples for both classes, while AUC PR is used when a dataset is imbalanced. 
 
-It can often be beneficial to cross features that provide the ML algorithm a hint on usefulness. For example, 
+It can often be beneficial to cross features that provide the ML algorithm a hint on usefulness. For example, location crossed with time. 
