@@ -32,3 +32,4 @@ Data leakage of testing data into the training set can be from the following pro
 1. target variable is in training set
 2. features reveal target feature
 3. preprocessing techniques, such as normalizing features, messes with the training set
+This can be difficult when dealing with time-series data, which could accidentally reveal information from the future. 
