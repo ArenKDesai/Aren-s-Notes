@@ -24,5 +24,8 @@ AutoML jobs in the console can be set with the maximum number of hours that the 
 For forecasting specifically, developers can use AutoML, Seq2seq+ (good for datasets of less than 1GB), or temporal fusion transformers. 
 
 AI for images and video includes:
-1. Image classification
+1. Image classification (single)
 2. multiclass classification
+3. object detection
+4. image segmentation
+5. classification
