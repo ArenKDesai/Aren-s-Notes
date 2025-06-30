@@ -9,4 +9,5 @@ Google pretrained models are:
 2. Video AI
 3. Natural Language AI
 4. Translation AI
-5. Speech-to-
+5. Speech-to-Text and Text-to-Speech AI
+and 
