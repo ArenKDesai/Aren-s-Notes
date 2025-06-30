@@ -36,4 +36,4 @@ AutoML also includes AutoML Edge, which can be deployed to edge devices (pixel, 
 
 AutoML for text includes text classification, multilabel classification, entity extraction, and translation. 
 
-GCP also has an AutoML solution specifically for the retail domain. Retail Search
+GCP also has an AutoML solution specifically for the retail domain: Retail Search. 
