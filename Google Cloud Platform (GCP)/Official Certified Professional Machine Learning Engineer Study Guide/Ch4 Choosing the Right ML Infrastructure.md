@@ -19,4 +19,4 @@ Classification problems with a table typically use the metrics AUC ROC, AUC PR, 
 Regression problems with a table typically use RMSE, RMSLE, MAE. 
 Forecasting problems with time-series data typically use RMSE, RMSLE, MAPE, and Quantile loss. 
 
-AutoML jobs in the console can be set with the maximum number of hours that the job can run fo
+AutoML jobs in the console can be set with the maximum number of hours that the job can run for, or the minimum v
