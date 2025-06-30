@@ -21,4 +21,5 @@ Forecasting problems with time-series data typically use RMSE, RMSLE, MAPE, and 
 
 AutoML jobs in the console can be set with the maximum number of hours that the job can run for, or the minimum. 
 
-For forecasting specifically, developers can use AutoML, Seq2seq+ (good for datasets of less than 1GB), or 
+For forecasting specifically, developers can use AutoML, Seq2seq+ (good for datasets of less than 1GB), or temporal fusion transformers. 
+
