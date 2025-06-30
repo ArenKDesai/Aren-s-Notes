@@ -14,4 +14,4 @@ and solutions that include pretrained models include:
 6. Document AI
 7. Contact Center AI
 
-Structured data with well-defined schemas typically take advantage of BigQuery ML. 
+Structured data with well-defined schemas typically take advantage of BigQuery ML or Vertex AI Tables. 
