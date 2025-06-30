@@ -39,3 +39,5 @@ AutoML for text includes text classification, multilabel classification, entity 
 GCP also has an AutoML solution specifically for the retail domain: Retail Search. It essentially allows retailers to use search algorithm similar in quality to Google's. 
 A similar product exists called the Vision API Product Search, which allows products to be searched via an image. 
 There's also Recommendations AI, which allows nuances behind customer behavior, context, and SKUs in order to drive engagement. 
+
+Document AI has two important concepts: processors and 
