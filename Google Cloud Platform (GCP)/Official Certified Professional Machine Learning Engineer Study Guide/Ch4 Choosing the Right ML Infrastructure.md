@@ -34,4 +34,4 @@ AI for images and video includes:
 
 AutoML also includes AutoML Edge, which can be deployed to edge devices (pixel, samsung, etc) and edge TPUs. 
 
-AutoML for text 
+AutoML for text includes text classification, multilabel
