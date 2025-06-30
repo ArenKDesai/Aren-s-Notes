@@ -18,3 +18,4 @@ Structured data with well-defined schemas typically take advantage of BigQuery M
 Classification problems with a table typically use the metrics AUC ROC, AUC PR, Logloss, Precision at Recall, and Recall at Precision. 
 Regression problems with a table typically use RMSE, RMSLE, MAE. 
 Forecasting problems with time-series data typically use RMSE, RMSLE, MAPE, and Quantile loss. 
+
