@@ -14,3 +14,4 @@ and solutions that include pretrained models include:
 6. Document AI
 7. Contact Center AI
 
+Structured data 
