@@ -23,3 +23,5 @@ AutoML jobs in the console can be set with the maximum number of hours that the 
 
 For forecasting specifically, developers can use AutoML, Seq2seq+ (good for datasets of less than 1GB), or temporal fusion transformers. 
 
+AI for images and video includes:
+1. 
