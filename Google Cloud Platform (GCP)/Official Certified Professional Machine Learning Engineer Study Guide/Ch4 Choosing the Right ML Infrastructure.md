@@ -30,4 +30,4 @@ AI for images and video includes:
 4. image segmentation
 5. video classification
 6. action recognition
-7. 
+7. object tracking
