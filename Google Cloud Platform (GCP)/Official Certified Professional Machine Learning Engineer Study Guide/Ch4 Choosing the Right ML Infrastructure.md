@@ -31,3 +31,5 @@ AI for images and video includes:
 5. video classification
 6. action recognition
 7. object tracking
+
+AutoML also includes 
