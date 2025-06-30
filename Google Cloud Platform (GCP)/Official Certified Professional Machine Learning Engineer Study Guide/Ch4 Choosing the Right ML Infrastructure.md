@@ -28,4 +28,6 @@ AI for images and video includes:
 2. multiclass classification
 3. object detection
 4. image segmentation
-5. classification
+5. video classification
+6. action recognition
+7. 
