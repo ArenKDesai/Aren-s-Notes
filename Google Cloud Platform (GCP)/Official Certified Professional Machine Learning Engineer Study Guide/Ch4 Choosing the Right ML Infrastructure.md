@@ -32,4 +32,4 @@ AI for images and video includes:
 6. action recognition
 7. object tracking
 
-AutoML also includes 
+AutoML also includes AutoML Edge, which can be deployed to edge devices ()
