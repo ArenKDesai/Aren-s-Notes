@@ -40,4 +40,4 @@ GCP also has an AutoML solution specifically for the retail domain: Retail Searc
 A similar product exists called the Vision API Product Search, which allows products to be searched via an image. 
 There's also Recommendations AI, which allows nuances behind customer behavior, context, and SKUs in order to drive engagement. 
 
-Document AI has two important concepts: processors and Document AI Warehouse. A processor is an interface between the document and a machine learning models. There are a few different types of processors, including procurement, lending, contract, custom, etc. 
+Document AI has two important concepts: processors and Document AI Warehouse. A processor is an interface between the document and a machine learning models. There are a few different types of processors, including procurement, lending, contract, custom, etc. A warehouse can hold documents. 
