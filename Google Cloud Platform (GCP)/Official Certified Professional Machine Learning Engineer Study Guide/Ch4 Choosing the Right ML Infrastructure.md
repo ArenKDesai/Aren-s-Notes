@@ -15,3 +15,4 @@ and solutions that include pretrained models include:
 7. Contact Center AI
 
 Structured data with well-defined schemas typically take advantage of BigQuery ML or Vertex AI Tables. 
+Classification problems with a table 
