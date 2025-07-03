@@ -6,3 +6,4 @@ ML pipelines have the following steps:
 5. Model deployment
 6. Model monitoring
 
+Google Vertex AI training works well for custom model training since 
