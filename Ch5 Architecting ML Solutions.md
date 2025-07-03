@@ -6,4 +6,4 @@ ML pipelines have the following steps:
 5. Model deployment
 6. Model monitoring
 
-Google Vertex AI training works well for custom model training since the spinning up of infrastructure for training or managing said infrastructure. Vertex AI AutoML and APIs work well for pretrained or auto models as well. Vertex AI hyperparameter tuning can automate running multiple training 
+Google Vertex AI training works well for custom model training since the spinning up of infrastructure for training or managing said infrastructure. Vertex AI AutoML and APIs work well for pretrained or auto models as well. Vertex AI hyperparameter tuning can automate running multiple training jobs in a scalable manner, and Vertex AI Experiments 
