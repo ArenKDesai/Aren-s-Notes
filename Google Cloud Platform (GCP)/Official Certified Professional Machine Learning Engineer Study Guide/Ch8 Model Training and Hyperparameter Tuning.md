@@ -4,4 +4,4 @@ Steps to training ML models with structured/semi-structured/unstructured data:
 	2. Datastream, good for moving existing databases to GCP. 
 	3. BigQuery Data Transfer Service, which transfers data from warehouses like Teradata and Amazon Redshift, external cloud providers such as Amazon S3, and Google SaaS apps like Cloud Storage, Google Ads, etc. 
 2. Process
-	1. Cloud Dataf
+	1. Cloud Dataflow is a serverless, fully managed E
