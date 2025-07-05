@@ -5,4 +5,5 @@ Steps to training ML models with structured/semi-structured/unstructured data:
 	3. BigQuery Data Transfer Service, which transfers data from warehouses like Teradata and Amazon Redshift, external cloud providers such as Amazon S3, and Google SaaS apps like Cloud Storage, Google Ads, etc. 
 2. Process
 	1. Cloud Dataflow is a serverless, fully managed ETL service that offers exactly-once streaming semantics that reduces MapReduce performance problems. 
-	2. Cloud Data Fusion is covered in [[]]
+	2. Cloud Data Fusion is covered in [[Ch3 Feature Engineering]].
+	3. 
