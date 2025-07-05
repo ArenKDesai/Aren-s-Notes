@@ -1,2 +1,2 @@
 Steps to training ML models with structured/semi-structured/unstructured data:
-1. Collect
+1. Collect. GCP services include Pub/Sub and Pub.
