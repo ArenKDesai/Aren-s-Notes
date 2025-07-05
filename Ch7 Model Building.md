@@ -3,4 +3,4 @@ Data Parallelism trains a model in parallel, but Model Parallelism trains a mode
 2. CentralStorageStrategy: same as above but with no mirroring
 3. MultiWorkerMirroredStrategy: training is distributed across abstracted workers which could have multiple GPUs or machines
 4. TPUStrategy: training over multiple TPU cores
-5. ParameterServerStrategy: Some machines are designated as
+5. ParameterServerStrategy: Some machines are designated as workers and some as parameter servers
