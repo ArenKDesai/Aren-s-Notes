@@ -1,1 +1,2 @@
-Steps to training ML models with structured/se
+Steps to training ML models with structured/semi-structured/unstructured data:
+1. Collect
