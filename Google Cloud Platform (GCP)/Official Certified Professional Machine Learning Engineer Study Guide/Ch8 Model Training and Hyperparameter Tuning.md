@@ -12,3 +12,4 @@ Steps to training ML models with structured/semi-structured/unstructured data:
 		3. BigQuery Spark Connector: Supports reading Google BigQuery tables into Spark DataFrames, then writing DataFrames back to BigQuery. 
 		4. Cloud Bigtable with Dataproc: Excellent for Spark or Hadoop uses that require Apache HBase
 		5. Pub/Sub Lite Spark Connector: self-explanatory
+	4. Cloud Composer
