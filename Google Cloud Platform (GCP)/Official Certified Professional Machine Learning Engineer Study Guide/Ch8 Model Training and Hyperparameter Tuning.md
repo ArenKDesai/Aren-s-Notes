@@ -7,4 +7,4 @@ Steps to training ML models with structured/semi-structured/unstructured data:
 	1. Cloud Dataflow is a serverless, fully managed ETL service that offers exactly-once streaming semantics that reduces MapReduce performance problems. 
 	2. Cloud Data Fusion is covered in [[Ch3 Feature Engineering]].
 	3. Cloud Dataproc: fully managed and highly scalable service for apache spark/flink/presto and more. It has integration with other services like Storage/BigQuery/Bigtable/Logging/Monitoring. Connectors that connect to Dataproc include:
-		1. Cloud Storage Connector, which is a
+		1. Cloud Storage Connector, which is available by default. Helps run Hadoop or Spark jobs 
