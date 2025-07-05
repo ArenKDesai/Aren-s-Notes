@@ -5,4 +5,4 @@ Data Parallelism trains a model in parallel, but Model Parallelism trains a mode
 4. TPUStrategy: training over multiple TPU cores
 5. ParameterServerStrategy: Some machines are designated as workers and some as parameter servers
 
-Keeping the learning rate small and batch size large will cause the model to train slow
+Keeping the learning rate small and batch size large will cause the model to train slowly, but might allow for more precise model results. 
