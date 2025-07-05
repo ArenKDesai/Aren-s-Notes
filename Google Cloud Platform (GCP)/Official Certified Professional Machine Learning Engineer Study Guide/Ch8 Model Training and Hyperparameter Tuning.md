@@ -9,4 +9,5 @@ Steps to training ML models with structured/semi-structured/unstructured data:
 	3. Cloud Dataproc: fully managed and highly scalable service for apache spark/flink/presto and more. It has integration with other services like Storage/BigQuery/Bigtable/Logging/Monitoring. Connectors that connect to Dataproc include:
 		1. Cloud Storage Connector, which is available by default. Helps run Hadoop or Spark jobs directly on data in Cloud Storage
 		2. BigQuery Connector: Enables Spark/Hadoop applications to process data from BigQuery and write to BigQuery. 
-		3. BigQuery Spark Connector: Supports reading Google BigQuery tables into Spark DataFrames
+		3. BigQuery Spark Connector: Supports reading Google BigQuery tables into Spark DataFrames, then writing DataFrames back to BigQuery. 
+		4. Cloud 
