@@ -2,4 +2,4 @@ There are two types of explainability:
 1. Global: overall ML model is transparent and comprehensive
 2. Local: explaining the model's individual predictions
 
-Sampled 
+Shapely allows you to try to attribute the importance of features in a black-box model. 
