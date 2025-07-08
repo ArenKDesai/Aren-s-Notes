@@ -4,4 +4,4 @@ There are two types of explainability:
 
 Shapely allows you to try to attribute the importance of features in a black-box model. 
 Integrated gradients efficiently computes feature attributions for local feature importance, but not global. 
-XRAI assess overlapping regions of the image to create a saliency map, highlighting relevant regions of an image rather 
+XRAI assess overlapping regions of the image to create a saliency map, highlighting relevant regions of an image rather than pixels. 
